@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main # default branch for webiste source
+      # -release # Eventually setup a proper release process.
 
   pull_request:
 
