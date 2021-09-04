@@ -38,8 +38,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Build public site
+      - name: Install npm
         run: npm ci
+
+      - name: Build public site
         run: hugo --minify
 
       - name: Publish site
