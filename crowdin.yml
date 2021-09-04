@@ -1,0 +1,17 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+project_id: projectId
+api_token: personal-access-token
+base_path: .
+base_url: 'https://api.crowdin.com'
+preserve_hierarchy: true
+files:
+  - source: /**/*.md
+    translation: /**/%file_name%.%two_letters_code%.%file_extension%
+    ignore:
+      - LICENSE
+      - CHANGELOG.md
+      - .gitignore
+      - .all-contributorsrc
+      - /**/%file_name%.%two_letters_code%.%file_extension%
+      - /**/insights.md

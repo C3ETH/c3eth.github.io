@@ -1,0 +1,24 @@
+{
+  "name": "c3eth-website",
+  "version": "0.0.1",
+  "description": "c3eth documentation site.",
+  "main": "none.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3eth/c3eth.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c3eth/c3eth.github.io/issues"
+  },
+  "homepage": "https://github.com/c3eth/c3eth.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.2"
+  }
+}
