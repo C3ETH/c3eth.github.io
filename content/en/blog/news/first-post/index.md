@@ -17,7 +17,7 @@ The front matter specifies the date of the blog post, its title, a short descrip
 
 ## Including images
 
-Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
+Here's an image (`featured-sunset-get.jpg`) that includes a byline and a caption.
 
 {{< imgproc sunset Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
