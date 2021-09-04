@@ -85,7 +85,7 @@ See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
 
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-Please read [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 See also the list of [contributors](https://github.com/c3eth/c3eth.github.io/graphs/contributors) who participated in this project.
 
@@ -98,7 +98,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## License ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
 
-The published source code in the repository `c3eth/c3eth.github.io` is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/google/docsy/blob/master/LICENSE) file for details.
+The published source code in the repository `c3eth/c3eth.github.io` is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
 
 The published content in the repository `c3eth/c3eth.github.io` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
