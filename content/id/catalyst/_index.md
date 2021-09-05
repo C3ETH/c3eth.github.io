@@ -1,25 +1,20 @@
 ---
-title: "Catalyst"
-linkTitle: "Catalyst"
+title: Catalyst
+linkTitle: Catalyst
 type: docs
-hide_feedback: true
-weight: 20
+hide_feedback: 'true'
+weight: '20'
 menu:
   main:
-    weight: 20
+    weight: '20'
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+{{% pageinfo %}} Ini adalah halaman placeholder yang menunjukkan cara menggunakan situs template ini. {{% /Info halaman %}}
 
+Bagian ini adalah tempat tinggal dokumentasi pengguna untuk proyek Anda - semua informasi yang dibutuhkan pengguna untuk memahami dan berhasil menggunakan proyek Anda.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+Untuk kumpulan dokumentasi besar, kami sarankan untuk menambahkan konten di bawah judul di bagian ini, meskipun jika beberapa atau semuanya tidak berlaku untuk proyek Anda, silakan hapus atau tambahkan milik Anda sendiri. Anda dapat melihat contoh situs dokumentasi Docsy yang lebih kecil di [Panduan Pengguna Docsy](https://docsy.dev/docs/) , yang ada di [repo tema Docsy](https://github.com/google/docsy/tree/master/userguide) jika Anda ingin menyalin bagian dokumennya.
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+Konten lain seperti materi pemasaran, studi kasus, dan pembaruan komunitas harus ada di halaman [Tentang](/about/) dan [Komunitas](/community/) .
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
-
-
+Cari tahu cara menggunakan tema Docsy di [Panduan Pengguna Docsy](https://docsy.dev/docs/) . Anda dapat mempelajari lebih lanjut tentang cara mengatur dokumentasi Anda (dan bagaimana kami mengatur situs ini) di [Mengatur Konten Anda](https://docsy.dev/docs/best-practices/organizing-content/) .
