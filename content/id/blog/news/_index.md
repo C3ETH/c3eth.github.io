@@ -1,3 +1,7 @@
 ---
 
-## title: "Berita Tentang Docsy" linkTitle: "Berita" weight: 20
+title: "Berita Tentang Docsy"
+linkTitle: "Berita"
+weight: 20
+
+---
