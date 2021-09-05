@@ -54,7 +54,7 @@ id = "UA-00000000-0"
 [languages]
 
 [languages.en]
-title = "Cardano Catalyst Community Eastern Town Hall"
+title = "Catalyst Eastern Town Hall"
 description = "The Cardano Catalyst Community Eastern Townhall, is helping communities across countries and languages in the eastern timezones."
 languageName ="English"
 time_format_default = "02.01.2006"
@@ -63,7 +63,7 @@ time_format_blog = "02.01.2006"
 weight = 1
 
 [languages.vi]
-title = "Tòa thị chính phía Đông cộng đồng Cardano Catalyst"
+title = "Tòa thị chính Catalyst Eastern"
 description = "Cộng đồng Cardano Catalyst Eastern Townhall đang giúp đỡ các cộng đồng trên khắp các quốc gia và ngôn ngữ ở múi giờ phía đông."
 languageName ="Tiếng Việt"
 contentDir = "content/vi"
@@ -71,7 +71,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.id]
-title = "Cardano Catalyst Community Balai Kota Timur"
+title = "Balai Kota Catalyst Timur"
 description = "Cardano Catalyst Community Eastern Townhall membantu masyarakat lintas negara dan bahasa di zona waktu timur."
 languageName ="Indonesian"
 contentDir = "content/id"
@@ -79,7 +79,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.ja]
-title = "カルダノ 触媒 コミュニティ イースタン タウン ホール"
+title = "触媒東部市庁舎"
 description = "カルダノ触媒コミュニティ東部タウンホールは、東部のタイムゾーンで国や言語を越えたコミュニティを支援しています。"
 languageName ="日本語"
 contentDir = "content/ja"
@@ -87,7 +87,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.ko]
-title = "카르다노 촉매 커뮤니티 동부 시청"
+title = "촉매 이스턴 타운 홀"
 description="카르다노 촉매 커뮤니티 동부 타운홀은 동부 시간대의 국가와 언어를 아우르는 지역사회를 돕고 있습니다."
 languageName ="한국어"
 contentDir = "content/ko"
@@ -191,29 +191,33 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
+	name = "Zoom"
+	url = "https://tinyurl.com/Eastern-Townhall-Zoom"
+	icon = "fas fa-video"
+  desc = "Register for our weekly townhalls."
+
+[[params.links.user]]
 	name = "Discord"
-	url = "https://example.org/slack"
+	url = "https://discord.gg/6T825EyvrG"
 	icon = "fab fa-discord"
-      desc = "Chat with other peopel in the eastern hemisphere."
+  desc = "Chat with other peopel in the eastern hemisphere."
+
 [[params.links.user]]
 	name = "Telegram"
-	url = "https://example.org/stack"
+	url = "https://t.me/joinchat/ODKTOvGnrHEwNTc6"
 	icon = "fab fa-telegram"
-      desc = "Chat with other peopel in the eastern hemisphere."
-[[params.links.user]]
-	name ="Twitter"
-	url = "https://example.org/twitter"
-	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
+  desc = "Chat with other peopel in the eastern hemisphere."
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/c3eth/c3eth.github.io"
+	url = "https://github.com/c3eth"
 	icon = "fab fa-github"
-        desc = "Development takes place here!"
+  desc = "Development takes place here!"
+
 [[params.links.developer]]
 	name = "Stack Overflow"
-	url = "https://example.org/stack"
+	url = "https://cardano.stackexchange.com/"
 	icon = "fab fa-stack-overflow"
-        desc = "Practical questions and curated answers"
+  desc = "Practical questions and curated answers"
