@@ -1,8 +1,9 @@
 ---
-title: Dana Katalis 6
-linkTitle: Dana 6 Tantangan
+title: "Catalyst Fund 6"
+linkTitle: "Fund 6"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
-Ini adalah **Proposal Katalis untuk** bagian dana 6. Ini akan diperbarui untuk setiap dana.
+This index page is yet to be udated. 
+The **Catalyst Proposals for fund 6** runs from date x, to date y in these stategs.
