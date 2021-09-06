@@ -5,7 +5,7 @@
 
 ## Overview
 
-[English](./README.md) | [Tiếng Việt](./README_VN.md) | [Indonesia](./README_IN.md) | [日本語](./README_JP.md) | [한국어](./README_KO.md)
+[English](./README.md) | [Tiếng Việt](./README/vi/README.md) | [Indonesia](./README/in/README.md) | [日本語](./README/ja/README.md) | [한국어](./README/ko/README.md)
 
 This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) updates and related documentation. C3ETH is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
 
