@@ -71,7 +71,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.id]
-title = "Balai Kota Catalyst Timur"
+title = "Catalyst Eastern Town Hall"
 description = "Cardano Catalyst Community Eastern Townhall membantu masyarakat lintas negara dan bahasa di zona waktu timur."
 languageName ="Indonesian"
 contentDir = "content/id"
