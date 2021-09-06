@@ -1,34 +1,34 @@
 ---
-title: Partnerships for Global Adoption
-linkTitle: Partnerships for Global Adoption
+title: Kemitraan untuk Adopsi Global
+linkTitle: Kemitraan untuk Adopsi Global
 type: docs
 hide_feedback: 'true'
 ---
 
 Bagaimana Cardano dapat masuk dalam kemitraan global dengan Program Pembangunan Perserikatan Bangsa-Bangsa dan Kelompok Bank Dunia, untuk meningkatkan adopsi massal?
 
-Fund Size: **$30,000 in Ada**
+Ukuran Dana: **$30,000 di Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26114) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26114) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified) .
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-Partnership protocols aim to support nation building and support sustainable development goals by providing blockchain solutions to local governments and populations. Cardano´s work would be part of wider development projects undertaking. Proposers to provide a partnership framework model for each of the international bodies in question for Cardano Foundation further implementation.
+Protokol kemitraan bertujuan untuk mendukung pembangunan bangsa dan mendukung tujuan pembangunan berkelanjutan dengan menyediakan solusi blockchain kepada pemerintah daerah dan masyarakat. Pekerjaan Cardano akan menjadi bagian dari proyek pembangunan yang lebih luas. Pengusul untuk menyediakan model kerangka kemitraan untuk masing-masing badan internasional yang bersangkutan untuk implementasi lebih lanjut dari Cardano Foundation.
 
-## Why is it important?
+## Mengapa itu penting?
 
-Collaboration with International bodies working in the developing world will accelerate mass adoption for Cardano´s blockchain solutions.
+Kolaborasi dengan badan internasional yang bekerja di negara berkembang akan mempercepat adopsi massal untuk solusi blockchain Cardano.
 
-## How does success look like?
+## Seperti apa kesuksesan itu?
 
-Establishment of Local Community Centers in 130 countries backed by Cardano Foundation working in synergy with international bodies
+Pendirian Pusat Komunitas Lokal di 130 negara yang didukung oleh Cardano Foundation yang bersinergi dengan badan-badan internasional
 
-## Key Metrics to measure
+## Ukuran kunci untuk diukur
 
-- 10 proposals put forward for voting
-- Partnerships formalized with in 3 months by Cardano Foundation
-- Local Community Centers established with in 6 months
+- 10 proposal diajukan untuk pemungutan suara
+- Kemitraan diformalkan dalam 3 bulan oleh Cardano Foundation
+- Pusat Komunitas Lokal didirikan dalam 6 bulan
 
-## References
+## Referensi
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)
+1. [Proposal pengaturan tantangan asli](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)
