@@ -9,7 +9,7 @@ menu:
     weight: '20'
 ---
 
-{{% pageinfo %}} Ini adalah halaman placeholder yang menunjukkan cara menggunakan situs template ini. {{% /Info halaman %}}
+{{% pageinfo %}} Ini adalah halaman placeholder yang menunjukkan cara menggunakan situs template ini. {{% /pageinfo %}}
 
 Bagian ini adalah tempat tinggal dokumentasi pengguna untuk proyek Anda - semua informasi yang dibutuhkan pengguna untuk memahami dan berhasil menggunakan proyek Anda.
 
