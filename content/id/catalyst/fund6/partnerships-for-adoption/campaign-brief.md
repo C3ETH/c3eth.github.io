@@ -1,11 +1,11 @@
 ---
-title: "Partnerships for Global Adoption"
-linkTitle: "Partnerships for Global Adoption"
+title: Partnerships for Global Adoption
+linkTitle: Partnerships for Global Adoption
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
 
-ow can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?
+Bagaimana Cardano dapat masuk dalam kemitraan global dengan Program Pembangunan Perserikatan Bangsa-Bangsa dan Kelompok Bank Dunia, untuk meningkatkan adopsi massal?
 
 Fund Size: **$30,000 in Ada**
 
@@ -28,6 +28,7 @@ Establishment of Local Community Centers in 130 countries backed by Cardano Foun
 - 10 proposals put forward for voting
 - Partnerships formalized with in 3 months by Cardano Foundation
 - Local Community Centers established with in 6 months
+
 ## References
 
 1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)
