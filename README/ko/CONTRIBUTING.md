@@ -1,6 +1,6 @@
 This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) updates and related documentation. C3ETH is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
 
-[English](/README/en/CONTRIBUTING.md) | [Tiếng Việt](/README/vi/CONTRIBUTING.md) | [Indonesia](/README/id/CONTRIBUTING.md) | [日本語](/README/ja/CONTRIBUTING.md) | [한국어](./README/ko/CONTRIBUTING.md)
+[English](/README/en/CONTRIBUTING.md) | [Tiếng Việt](/README/vi/CONTRIBUTING.md) | [Indonesia](/README/id/CONTRIBUTING.md) | [日本語](/README/ja/CONTRIBUTING.md) | [한국어](/README/ko/CONTRIBUTING.md)
 
 This repository contains C3ETH translations of Project Catalyst documentation, community-sourced documentation, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
 
