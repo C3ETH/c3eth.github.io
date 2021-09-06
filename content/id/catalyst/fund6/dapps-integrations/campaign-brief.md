@@ -1,68 +1,68 @@
 ---
-title: "Dapps & Integrasinya"
-linkTitle: "Dapps & Integrasinya"
+title: Dapps & Integrasinya
+linkTitle: Dapps & Integrasinya
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
 
 Aplikasi apa yang akan memberikan benefit paling untuk pengguna di tahun 2021?
 
-Fund Size: **$250,000 in Ada**
+Ukuran Dana: **$250,000 di Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26103) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26103) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified) .
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-Quality Dapps and integrations will increase utility & adoption of Cardano.
+Dapps dan integrasi berkualitas akan meningkatkan utilitas &amp; adopsi Cardano.
 
-## How success looks like
+## Seperti apa kesuksesan itu?
 
-Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
+Aplikasi baru dan layak dibangun dari Cardano yang menarik pengguna. Integrasi berhasil menarik lebih banyak adopsi.
 
-## Key metric to measure
+## Metrik utama untuk diukur
 
-To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
+Untuk menilai tantangan, kami akan bertanya pada diri sendiri: Apakah upaya kami berhasil menarik pengguna ke platform? Apakah upaya kami menghasilkan aplikasi baru yang layak dibangun di atas Cardano?
 
-Let an "application output" and an "application transaction" be an outputs and transactions that use the applications' script addresses; and an "application token" be a token that's issued by the application.
+Biarkan "output aplikasi" dan "transaksi aplikasi" menjadi output dan transaksi yang menggunakan alamat skrip aplikasi; dan "token aplikasi" menjadi token yang dikeluarkan oleh aplikasi.
 
-## Usage of applications developed during the challenge
+## Penggunaan aplikasi yang dikembangkan selama tantangan
 
-- Number/growth of application output
-- Number/growth of application transactions
-- Total volume of Ada involved in application transactions
-- Total/growth of resource usage by applications
-- Number/growth of distinct addresses mentioned in application transactions
-- If the application uses tokens:
-- Number/growth of application tokens
-- Number/growth of distinct addresses holding application tokens
+- Jumlah/pertumbuhan keluaran aplikasi
+- Jumlah/pertumbuhan keluaran aplikasi
+- Total volume Ada yang terlibat dalam transaksi aplikasi
+- Total/pertumbuhan penggunaan sumber daya oleh aplikasi
+- Jumlah/pertumbuhan alamat berbeda yang disebutkan dalam transaksi aplikasi
+- Jika aplikasi menggunakan token:
+- Jumlah/pertumbuhan token aplikasi
+- Jumlah/pertumbuhan alamat berbeda yang menyimpan token aplikasi
 
-## Viability of applications developed during the challenge
+## Kelangsungan aplikasi yang dikembangkan selama tantangan
 
-- How many of the applications are still being developed at the end of 2021?
-- How many of the applications made a profit for their creators?
-- How many of the teams which built the applications grew during 2021?
-- How many of the teams which built the applications built (or plan to build) another application?
+- Berapa banyak aplikasi yang masih dikembangkan pada akhir tahun 2021?
+- Berapa banyak aplikasi yang menghasilkan keuntungan bagi pembuatnya?
+- Berapa banyak tim yang membuat aplikasi tumbuh selama tahun 2021?
+- Berapa banyak tim yang membangun aplikasi yang membangun (atau berencana membangun) aplikasi lain?
 
-## Guiding questions
+## Pertanyaan panduan
 
-What are the key applications that underpin the application ecosystem on other platforms?
+Apa saja aplikasi utama yang menopang ekosistem aplikasi di platform lain?
 
-What are the most profitable or most used applications on other ecosystems?
+Apa aplikasi yang paling menguntungkan atau paling banyak digunakan di ekosistem lain?
 
-What needs do users of Cardano have that could be solved by new applications?
+Kebutuhan apa yang dimiliki pengguna Cardano yang dapat diselesaikan dengan aplikasi baru?
 
-What applications deliver the highest amount of value with the least amount of technical sophistication?
+Aplikasi apa yang memberikan nilai tertinggi dengan kecanggihan teknis paling sedikit?
 
-## Potential directions
+## Arah potensial
 
-- Swaps, both simple and fancy variants (multi-party etc.)
-- Escrow, both simple and fancy variants
-- Integrations with existing products
+- Swap, baik varian sederhana maupun mewah (multi-partai, dll.)
+- Escrow, baik varian sederhana maupun mewah
+- Integrasi dengan produk yang ada
 
-## Prior Challenges
+## Tantangan Sebelumnya
 
-1. [Fund 5 DApps & Integrations](https://cardano.ideascale.com/a/campaign-home/25941)
-2. [Fund 4 DApps & Integrations](https://cardano.ideascale.com/a/campaign-home/25869)
-3. [Fund 3 DApps Creation](https://cardano.ideascale.com/a/campaign-home/25797)
-4. [Fund 2 Challenge](https://cardano.ideascale.com/a/campaign-home/25652)
-5. [Fund 1 Challenge](https://cardano.ideascale.com/a/campaign-home/25604)
+1. [Dana 5 DApps &amp; Integrasi](https://cardano.ideascale.com/a/campaign-home/25941)
+2. [Dana 4 DApps &amp; Integrasi](https://cardano.ideascale.com/a/campaign-home/25869)
+3. [Dana 3 Pembuatan DApps](https://cardano.ideascale.com/a/campaign-home/25797)
+4. [Tantangan Dana 2](https://cardano.ideascale.com/a/campaign-home/25652)
+5. [Tantangan Dana 2](https://cardano.ideascale.com/a/campaign-home/25604)

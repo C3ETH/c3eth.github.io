@@ -1,47 +1,47 @@
 ---
-title: "Disaster: When all is at stake"
-linkTitle: "Disaster: When all is at stake"
+title: 'Bencana: Ketika semua dipertaruhkan'
+linkTitle: 'Bencana: Ketika semua dipertaruhkan'
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
 
-How can we help SPOs tackle risks & plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?
+Bagaimana kami dapat membantu SPO mengatasi risiko &amp; merencanakan, mengembangkan, dan berpartisipasi dalam uji pemulihan bencana dengan cara yang aman dan terdesentralisasi?
 
-Fund Size: **$150,000 in Ada**
+Ukuran Dana: **$150,000 di Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26117) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26117) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified) .
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-Disaster recovery (DR) is an area of security planning that aims to protect an organization from the effects of significant negative events.
+Pemulihan bencana (DR) adalah area perencanaan keamanan yang bertujuan untuk melindungi organisasi dari efek peristiwa negatif yang signifikan.
 
-Having a disaster recovery strategy in place enables an organization to maintain or quickly resume mission-critical functions following a disruption.
+Memiliki strategi pemulihan bencana memungkinkan organisasi untuk mempertahankan atau dengan cepat melanjutkan fungsi misi-kritis setelah gangguan.
 
-Cardano as a proposed financial operating system for the world must have several layers of built in redundancies even for events that may seem remote or very unlikely now.
+Cardano sebagai sistem operasi keuangan yang diusulkan untuk dunia harus memiliki beberapa lapisan redundansi bawaan bahkan untuk peristiwa yang mungkin tampak jauh atau sangat tidak mungkin sekarang.
 
-Although a testnet exists, real-world conditions can never be fully replicated. Maybe proposers can develop a way of incentivizing further SPO participation in the Cardano testnet and more simulations.
+Meskipun testnet ada, kondisi dunia nyata tidak pernah dapat sepenuhnya direplikasi. Mungkin pengusul dapat mengembangkan cara untuk mendorong partisipasi SPO lebih lanjut dalam testnet Cardano dan lebih banyak simulasi.
 
-## Why is it important?
+## Mengapa itu penting?
 
-A system that aspires to become a global financial operating system, must be stress tested. Running nodes should be prepared for disaster.
+Sebuah sistem yang bercita-cita menjadi sistem operasi keuangan global, harus diuji stres. Menjalankan node harus siap menghadapi bencana.
 
-## How does success look like?
+## Bagaimana penampakan sukses
 
-Likely points of failure identified. Disaster communication channels set up. Recovery procedures identified. Testing procedures developed.
+Kemungkinan titik kegagalan diidentifikasi. Saluran komunikasi bencana disiapkan. Prosedur pemulihan diidentifikasi. Prosedur pengujian dikembangkan.
 
-## Key Metrics to measure
+## Ukuran kunci untuk diukur
 
-- has a methodology for decentralized stress testing of the main network been developed - by and for stakepool operators?
-- are participating stakepools being rewarded for taking part in mainnet disaster recovery tests?
-- are there enough incentives in place for participating in the Cardano testnet?
-- are stakepool operators able to conduct limited network stress testing (overload, disconnection, bad actor, DDoS … scenarios) and are they rewarded for participating in these tests (instead of being punished by losing slots)?
-- have new guidelines, recommendations and emergency communication channels been established for stakepool operators who wish to take part in these emergency preparations?
-- has a a dedicated risk-assessment and risk-management team been set up?
-- have protocols been developed for recovering from an emergency situation that could take most of the main network offline?
-- have proposals been developed for building in different kinds of redundancies?
-- have new benchmarks been developed to measure whether the Cardano stake pool network is safer, more stable, more resilient and more decentralized?
-- have wider screening of risk sources been performed: CyberSecurity, political and regulatory risks, internet-related risks etc.
+- apakah metodologi untuk stress testing terdesentralisasi dari jaringan utama telah dikembangkan - oleh dan untuk operator stakepool?
+- apakah stakepools yang berpartisipasi diberi imbalan karena mengambil bagian dalam tes pemulihan bencana mainnet?
+- apakah ada cukup insentif untuk berpartisipasi dalam testnet Cardano?
+- apakah operator stakepool dapat melakukan pengujian stres jaringan terbatas (kelebihan beban, pemutusan hubungan, aktor buruk, skenario DDoS …) dan apakah mereka dihargai karena berpartisipasi dalam pengujian ini (bukan dihukum dengan kehilangan slot)?
+- apakah pedoman, rekomendasi, dan saluran komunikasi darurat baru telah dibuat untuk operator stakepool yang ingin mengambil bagian dalam persiapan darurat ini?
+- apakah tim penilaian risiko dan manajemen risiko khusus telah dibentuk?
+- apakah protokol telah dikembangkan untuk pemulihan dari situasi darurat yang dapat membuat sebagian besar jaringan utama offline?
+- apakah proposal telah dikembangkan untuk membangun dalam berbagai jenis redundansi?
+- apakah tolok ukur baru telah dikembangkan untuk mengukur apakah jaringan kumpulan pasak Cardano lebih aman, lebih stabil, lebih tangguh, dan lebih terdesentralisasi?
+- memiliki penyaringan sumber risiko yang lebih luas: Keamanan Siber, risiko politik dan peraturan, risiko terkait internet, dll.
 
-## References
+## Referensi
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Disaster-When-all-is-at-stake/351012-48088)
+1. [Proposal pengaturan tantangan asli](https://cardano.ideascale.com/a/dtd/Disaster-When-all-is-at-stake/351012-48088)

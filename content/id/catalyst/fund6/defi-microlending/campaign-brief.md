@@ -1,31 +1,30 @@
 ---
-title: "DeFi and Microlending for Africa"
-linkTitle: "DeFi and Microlending for Africa"
+title: DeFi dan Pinjaman Mikro untuk Afrika
+linkTitle: DeFi dan Pinjaman Mikro untuk Afrika
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
-# DeFi and Microlending for Africa
 
-Fund Size: **$90,000 in Ada**
+Ukuran Dana: **$90,000 di Ada**
 
-How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
+Bagaimana kita dapat mengaktifkan pembuatan pinjaman mikro dan solusi Defi dApp yang sesuai dengan pengaturan Afrika?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26112) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26112) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified) .
 
-## Why is it important?
+## Mengapa itu penting?
 
-Microlending and DeFi dApps targeted specifically to the African context & based on historical cultural norms will accelerate user adoption
+Pinjaman mikro dan dApps DeFi yang ditargetkan secara khusus untuk konteks Afrika &amp; berdasarkan norma budaya historis akan mempercepat adopsi pengguna
 
-## How does success look like?
+## Seperti apa kesuksesan itu?
 
-Businesses are confident to submit well-researched proposals that address the African micro-lending and decentralized finance context
+Bisnis yakin untuk mengajukan proposal yang diteliti dengan baik yang membahas pinjaman mikro Afrika dan konteks keuangan terdesentralisasi
 
-## Key Metrics to measure
+## Metrik Utama untuk diukur
 
-- Submitted proposals well researched, viable and addresses traditional African financial cultural norms and practices
-- 3 or more successfully funded micro-lending and Defi dApp launched within the next 3 funding rounds
-- Minimum 50% user adoption in funded proposal's target market within 2 years
+- Proposal yang diajukan diteliti dengan baik, layak dan membahas norma dan praktik budaya keuangan tradisional Afrika
+- 3 atau lebih pinjaman mikro yang berhasil didanai dan Defi dApp diluncurkan dalam 3 putaran pendanaan berikutnya
+- Minimum 50% adopsi pengguna di pasar target proposal yang didanai dalam 2 tahun
 
 ## References
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)
+1. [Proposal pengaturan tantangan asli](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)
