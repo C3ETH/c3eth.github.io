@@ -13,144 +13,144 @@ description: |2-
 
 [](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
-**Requested Amount (USD):** $10,000
+**Jumlah yang Diminta (USD):** $10,000
 
-## Problem statement
+## Pernyataan masalah
 
-Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English.
+Berpartisipasi dalam Catalyst sulit ketika Anda tinggal di zona waktu timur dan bahasa Anda bukan bahasa Inggris.
 
-## Describe your solution to the problem
+## Jelaskan solusi Anda untuk masalah tersebut
 
 Eastern Townhall mendukung negara-negara di belahan timur dunia dengan berbagai macam acara, dan konten yang diterjemahkan. Tujuannya adalah untuk meningkatkan peserta sebesar 20% untuk setiap dana.
 
-## Relevant experience
+## Pengalaman yang sesuai
 
 Co-Founder Catalyst Swarm, Eastern Townhall, Catalyst School. Rekayasa TI &amp; Perangkat Lunak. pendidik dan akuntan di Asia Timur &amp; Jepang.
 
-## Detailed plan
+## Rencana rinci
 
 Eastern Townhall adalah inisiatif berbasis komunitas yang menumbuhkan Cardano di Belahan Bumi Timur dan di seluruh Asia. Kami ingin membangun ekonomi dan masyarakat yang benar-benar global. Fokus kami adalah membuat yang sulit menjadi mungkin. Sebuah tempat, waktu, dan ruang di mana:
 
-- We can build knowledge, share information, connect and support each other.
-- Language and culture are not an barrier to participation.
-- We learn how to apply the technology, and community, to address local needs.
-- Show how to use Cardano to increase our economic wellbeing.
-- Enrich Cardano's ecosystem with our stories, our energy, and our perspectives.
+- Kita bisa membangun pengetahuan, berbagi informasi, terhubung dan saling mendukung.
+- Bahasa dan budaya bukanlah penghalang untuk berpartisipasi.
+- Kami belajar bagaimana menerapkan teknologi, dan komunitas, untuk memenuhi kebutuhan lokal.
+- Tunjukkan cara menggunakan Cardano untuk meningkatkan kesejahteraan ekonomi kita.
+- Perkaya ekosistem Cardano dengan cerita, energi, dan perspektif kami.
 
 Dunia belahan timur, kawasan Asia Timur dan Tenggara menyatukan banyak negara secara budaya dan bahasa. Dengan populasi lebih dari 1,6 Miliar, tujuan kami adalah menumbuhkan Cardano.
 
-### Current Problems and Limitation
+### Masalah dan Keterbatasan Saat Ini
 
 Eastern Townhall adalah hasil kerja individu dan kelompok. Masing-masing membawa kualitas yang unik. Kami berinteraksi di dalam dan di sekitar Komunitas Cardano, berfokus pada menghubungkan individu dan proyek ke Project Catalyst. Tapi ini membutuhkan waktu, tenaga, dan mengeluarkan biaya. Tidak memiliki kumpulan dana untuk membatasi apa yang bisa kita capai.
 
-### Proposed Solution: Pool of Funds
+### Solusi yang Diusulkan: Kumpulan Dana
 
-To reach a global audience means meeting people where they are, in their country, their language and their culture.
+Untuk menjangkau khalayak global berarti bertemu orang-orang di mana mereka berada, di negara mereka, bahasa mereka dan budaya mereka.
 
 Kami adalah bagian aktif dari ekosistem Cardano kami. Acara landasan kami adalah Eastern Townhall mingguan. Tapi kami sebenarnya melakukan lebih dari itu, jauh lebih banyak lagi:
 
-- We make knowledge and content accessible to as many cultures as possible.
-- We host different events where community members come together
-- We bridges to underrepresented groups
+- Kami membuat pengetahuan dan konten dapat diakses oleh sebanyak mungkin budaya.
+- Kami menyelenggarakan berbagai acara di mana anggota komunitas berkumpul
+- Kami menjembatani kelompok-kelompok yang kurang terwakili
 - Kami mengintegrasikan perspektif lokal untuk memperkaya Komunitas Catalyst; dan
-- We listen! Gathering opinions and data to help us all understand.
+- Kami mendengar! Mengumpulkan pendapat dan data untuk membantu kita semua memahami.
 
-**We are doing translations, building community, sharing knowledge, enabling entrepreneurs, and growing Cardano.**
+**Kami melakukan penerjemahan, membangun komunitas, berbagi pengetahuan, memberdayakan wirausahawan, dan mengembangkan Cardano.**
 
 Melakukan semua itu membutuhkan biaya, jadi jika kita ingin mempertahankan upaya Eastern Townhall, maka kita perlu mengamankan pendanaan dengan cara yang tidak menambah upaya ekstra terhadap apa yang sedang kita lakukan.
 
 Proposal ini tentang pembentukan dan pemeliharaan kumpulan dana (perbendaharaan) yang dikelola oleh Anggota Terpercaya Eastern Townhall. Kumpulan dana untuk dibelanjakan sesuai kebijaksanaan kami. Perbendaharaan akan digunakan untuk menutupi pengeluaran, untuk menumbuhkan dan mempertahankan upaya Eastern Townhall. Biaya seperti hadiah terjemahan; produksi konten; membayar langganan layanan online seperti Zoom, Github, HackMD, Statbot, dan lainnya; membayar untuk kegiatan yang berkaitan dengan penyelenggaraan Eastern Townhall.
 
-Simply put this proposal is about funds for organising a community group. Establishing a resource and distributed support structure that provides funds needed on demand without the overhead of specific Catalyst proposals.
+Secara sederhana proposal ini adalah tentang dana untuk pengorganisasian kelompok masyarakat. Membangun sumber daya dan struktur dukungan terdistribusi yang menyediakan dana yang dibutuhkan sesuai permintaan tanpa biaya tambahan dari proposal Catalyst tertentu.
 
 Sebagai imbalannya, kami berjanji untuk melaporkan kembali laporan keuangan atas aktivitas dan pengeluaran kami. Diterjemahkan ke dalam banyak bahasa yang dapat kami temukan untuk kolaborator. Tujuan kami adalah untuk merintis dan membuat prototipe pelaporan manajemen perbendaharaan DAO[3]. Itu bukan masalah kecil dan mengelola kumpulan dana bersama memiliki banyak komplikasi kepatuhan. Upaya pelaporan serupa pada prinsipnya dengan pekerjaan yang dilakukan oleh index.coop[4] dan FWB[5]. Sebagian besar DAO masih mencari tahu tentang hal ini dan praktik terbaik bahkan masih belum sebuah sketsa kasar, jadi bantu kami menyelesaikannya.
 
 Mempelajari bagaimana Eastern Townhall membelanjakan dan mengalokasikan dana akan membantu kami menarik dana di masa depan. Membantu juga kolaborator mengidentifikasi peluang untuk bekerja sama dengan kami.
 
-Help us scale and reach more people across the Eastern Hemisphere.
+Bantu kami meningkatkan dan menjangkau lebih banyak orang di seluruh Belahan Bumi Timur.
 
-### KPI measurement method and goals
+### Metode dan tujuan pengukuran KPI
 
-A questionnaire on the number of proposers / voters / advisors is conducted for each **fund** in the community of the target country. The goal is to grow participation by 20% for each fund in the next 6 months. See our work on Catalyst Fund6 submission phase analysis[6] as a base line example.
+Kuesioner tentang jumlah pengusul/pemilih/penasihat dilakukan untuk setiap **dana** di komunitas negara target. Tujuannya adalah untuk menumbuhkan partisipasi sebesar 20% untuk setiap dana dalam 6 bulan ke depan. Lihat pekerjaan kami tentang analisis fase pengajuan Catalyst Fund6[6] sebagai contoh garis dasar.
 
-### Activities to reach KPIs
+### Kegiatan untuk mencapai KPI
 
-**Daily**: Inquiries from the community about Catalyst are answered by our members in their respective languages. We will translate Catalyst content and publish it via our website.
+**Harian** : Pertanyaan dari komunitas tentang Catalyst dijawab oleh anggota kami dalam bahasa masing-masing. Kami akan menerjemahkan konten Catalyst dan mempublikasikannya melalui situs web kami.
 
-**Weekly**: We hold weekly planning events and meetups, sharing information about our activities with each community.
+**Mingguan** : Kami mengadakan acara dan pertemuan perencanaan mingguan, berbagi informasi tentang kegiatan kami dengan setiap komunitas.
 
-**Monthly**: Our spending is reported. We will manage your finances in a decentralized manner using a multi-sig wallet.
+**Bulanan** : Pengeluaran kami dilaporkan. Kami akan mengelola keuangan Anda secara terdesentralisasi menggunakan dompet multi-sig.
 
-**By Fund**: Surveys will be conducted in each eastern community to count the number of voters, proposers and experts in each region.
+**By Fund** : Survey akan dilakukan di setiap komunitas timur untuk menghitung jumlah pemilih, pengusul dan ahli di setiap daerah.
 
-### Details and costs to implement
+### Detail dan biaya untuk diterapkan
 
-### Budget Areas
+### Area Anggaran
 
-1. Attendance at weekly project planning meetings that activate Eastern Hemisphere: 20 people x 2 hours x 4 weeks x 6 months x $ 15: **$14,400**
-2. Financial management, progress management, monitoring and reporting activities, other new member recruiting activities, etc .: $ 500 x 6 months = **$3,000**
-3. Common expenses: Expenses incurred across multiple projects (domain name, hosting costs, Zoom): **$1,000**
+1. Kehadiran di pertemuan perencanaan proyek mingguan yang mengaktifkan Belahan Bumi Timur: 20 orang x 2 jam x 4 minggu x 6 bulan x $15: **$14.400**
+2. Manajemen keuangan, manajemen kemajuan, aktivitas pemantauan dan pelaporan, aktivitas perekrutan anggota baru lainnya, dll.: $500 x 6 bulan = **$3.000**
+3. Pengeluaran umum: Pengeluaran yang terjadi di beberapa proyek (nama domain, biaya hosting, Zoom): **$1.000**
 
-Total: (1) ＋ (2) ＋ (3): $18,400
+Total: (1) (2) (3): $18.400
 
-▲ Discount: $8,400
+Diskon: $8,400
 
-Billed: $10,000
+Tagihan: $10,000
 
-Further funding requirements in future funds will be required to maintain KPIs that support Cataslyt's success in the Eastern hemisphere
+Persyaratan pendanaan lebih lanjut dalam dana masa depan akan diperlukan untuk mempertahankan KPI yang mendukung kesuksesan Cataslyt di belahan bumi Timur
 
-We have already started this activity and will continue to do so whether or not this funding is raised.We gave a 45.6% discount to free up funds for a wider project.
+Kami telah memulai kegiatan ini dan akan terus melakukannya terlepas dari apakah dana ini terkumpul atau tidak. Kami memberikan diskon 45,6% untuk membebaskan dana untuk proyek yang lebih luas.
 
-**NOTE**: The funds directly required for each activity, such as East Asian entrepreneurial events in the Eastern Hemisphere, meetups, translation activities, theme setting and management, etc., are not in the category of funds required for this proposal.
+**CATATAN** : Dana yang dibutuhkan secara langsung untuk setiap kegiatan, seperti acara kewirausahaan Asia Timur di Belahan Bumi Timur, pertemuan, kegiatan penerjemahan, pengaturan dan pengelolaan tema, dll., tidak termasuk dalam kategori dana yang diperlukan untuk proposal ini.
 
 ### Intellectual Property
 
-Participation in our community is covered by a [Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
+Partisipasi dalam komunitas kami tercakup dalam [Perjanjian Kontributor](https://www.contributor-covenant.org/) . Lisensi Kontributor menyertai kontribusi ke proyek kami. Hak cipta dari kontribusi siapa pun dipertahankan; perjanjian hanya memberi kami izin untuk menggunakan dan mendistribusikan kembali kontribusi sebagai bagian dari proyek.
 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+Semua kode sumber kami dilisensikan di bawah Lisensi Apache 2.0 - lihat [file LISENSI](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) kami untuk detailnya.
 
-Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Konten kami yang diterbitkan dilisensikan di bawah [Lisensi Atribusi-Non-Komersial-BerbagiSerupa (CC BY-NC-SA) Kreatif v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### After 6 months
+### Setelah 6 bulan
 
-We have demonstrated our ability to grow Catalyst participation in the Easted Hemisphere and East Asian countries by 20% for each fund.
+Kami telah menunjukkan kemampuan kami untuk menumbuhkan partisipasi Catalyst di belahan bumi Timur dan negara-negara Asia Timur sebesar 20% untuk setiap dana.
 
-### The Team
+### Tim
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+Sebuah upaya kolaboratif, tim membawa banyak pengalaman budaya dan teknis ke Cardano. Kita semua sangat aktif di Catalyst, dan kelompok komunitas di seluruh ekosistem kita. Kami adalah kelompok beragam yang disatukan oleh janji Cardano:
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+**Yuta Yuta** (@yutazz) - Jepang: Duta resmi Cardano, Community Co-Organizer, Penerima Catalyst Fund 2, akuntan publik bersertifikat.
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+**Yan Tirta** (@yantirta) - Indonesia: Pejuang komunitas Cardano Indonesia memberdayakan komunitas lokalnya dengan pendidikan dan dorongan.
 
 **Mie Tran** (@mie.tran.0407) - Vietnam: Jurusan Bahasa Inggris dan Bisnis Internasional dengan pengalaman bekerja dengan bisnis-bisnis barat dan penerjemahan.
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+**Andy Sibuea** (@zicozibu) - Indonesia: Memimpin pendidikan blockchain di luar cryptocurrency dan di seluruh Indonesia.
 
 **Tim O'Brien** (@tobrien) - Vietnam: Pelopor tanpa kode. Fasilitator di East African Townhall (EATH).
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+**Greg Bell** (@grebel) - Australia: Konsultan IT, menulis Catalyst Challenges.
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+**Seomon Blub** (@seomon) - Austria: Konsultan IT berfokus pada infrastruktur perangkat manusia untuk komunitas yang berkelanjutan.
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+**Robert O'Brien** (@wolstaeb) - Selandia Baru: Insinyur Perangkat Lunak sistem keuangan, Co-Organizer Komunitas, dan Pengusaha.
 
 **Stephen Whitenstall** (@swhitenstall) - Inggris: Mengikuti dan mendokumentasi segala kegiatan Catalyst. Membantu komunitas seperti Catalyst Circle dan Catalyst Swarm menjadi terorganisir.
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&amp;M Catalyst Circle/Swarm/School.
+**Felix Weber** (@felixweber) - Prancis: Manajer Komunitas membangun jembatan di antara orang-orang. Anggota T&amp;M Catalyst Circle/Swarm/School.
 
 Tim tersebut mewakili **anggota terpercaya** Balai Kota Timur awal. Tidak ada peran, tidak ada pemimpin. Sebaliknya orang membangun diri mereka sendiri dari waktu ke waktu, melalui partisipasi. Kami tumpang tindih dan berkolaborasi dengan Catalyst Swarm[1], dan Catalyst School[2] dan kelompok komunitas lainnya di seluruh Asia.
 
-## References
+## Referensi
 
 [1] [Catalyst Swarm](http://catalystswarm.com/)
 
 [2] [Catalyst School](https://linktr.ee/CatalystSchool)
 
-[3] [How DAOs should approach treasury management](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
+[3][Bagaimana DAO harus mendekati manajemen perbendaharaan](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
 
-[4] [Index Coop Q3 Financial Report](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
+[4] [Laporan Keuangan Indeks Coop Q3](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
 
-[5] [FWB DAO Financial Report (PDF)](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
+[5] [Laporan Keuangan DAO FWB (PDF)](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
 
-[6] [Catalyst Fund6 submission phase analysis](https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711)
+[6] [Analisis fase pengajuan Catalyst Fund6](https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711)
