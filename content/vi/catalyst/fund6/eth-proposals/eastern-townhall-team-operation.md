@@ -1,11 +1,11 @@
 ---
-title: "Eastern TownHall DAO Operation"
-linkTitle: "Eastern TownHall DAO Operation"
+title: "Eastern Townhall Team Operation"
+linkTitle: "Eastern Townhall Team Operation"
 type: docs
 hide_feedback: true
 weight: 20
 description: >
-    Difficult to participate in Catalyst for eastern part.Because(1) time zone (2) language (non-English) is different from the western part. We propose the operation of Eastern TownHall (Translate/event/meet-up by Eastern countries.)Increased Eastern participants by 20% for each FUND.
+    Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English. We propose that the Eastern TownHall is funded to support eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
 ---
 **Challenge:** [Value Onboarding Challenge]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
@@ -14,10 +14,10 @@ description: >
 **Requested Amount (USD):** $10,000
 
 ## Problem statement
-Difficult to participate in Catalyst for eastern part.Because(1) time zone (2) language (non-English) is different from the western part.
+Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English.
 
 ## Describe your solution to the problem
-Operation of Eastern TownHall (Translate / event / meet-up by Eastern countries.)Increased Eastern participants by 20% for each FUND
+Eastern TownHall supports eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
 
 ## Relevant experience
 Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
@@ -65,23 +65,25 @@ Help us scale and reach more people across the Eastern Hemisphere.
 
 ### KPI measurement method and goals
 
-A questionnaire on the number of proposers / voters / advisors was conducted for each FUND in the community of the target area. The goal is to grow 20% for each FUND in the next 6 months.
+A questionnaire on the number of proposers / voters / advisors is conducted for each **fund** in the community of the target country. The goal is to grow participation by 20% for each fund in the next 6 months. See our work on Catalyst Fund6 submission phase analysis[6] as a base line example.
 
 ### Activities to reach KPIs
 
-Daily: Inquiries from the community about Catalyst are answered by our members in their respective languages. We also manage financial matters. Eventually, multisig will allow you to manage your finances in a decentralized manner.
+**Daily**: Inquiries from the community about Catalyst are answered by our members in their respective languages. We will translate Catalyst content and publish it via our website.
 
-Weekly: We hold weekly management meetups, planning events and meetups, and sharing information that we want to share with each community. In addition, the progress of each project will be grasped and reported.
+**Weekly**: We hold weekly planning events and meetups, sharing information about our activities with each community. 
 
-By FUND: Surveys will be conducted in each eastern community to count the number of voters, proposers and experts in each region.
+**Monthly**: Our spending is reported. We will manage your finances in a decentralized manner using a multi-sig wallet.
+
+**By Fund**: Surveys will be conducted in each eastern community to count the number of voters, proposers and experts in each region.
 
 ### Details and costs to implement
 
-1. Incentives for management meetings to create projects and events that activate Eastern Hemisphere activities every week: 20 people x 2 hours x 4 weeks x 6 months x $15 = $14,400
+### Budget Areas
 
-2. Incentives for financial management, progress management, monitoring and reporting activities, other new member recruiting activities, etc .: $ 500 x 6 months = $ 3,000
-
-3. Common expenses: Expenses incurred across multiple projects (domain, server, Zoom…): $1,000
+1. Attendance at weekly project planning meetings that activate Eastern Hemisphere: 20 people x 2 hours x 4 weeks x 6 months x $ 15: **$14,400**
+2. Financial management, progress management, monitoring and reporting activities, other new member recruiting activities, etc .: $ 500 x 6 months = **$3,000**
+3. Common expenses: Expenses incurred across multiple projects (domain name, hosting costs, Zoom): **$1,000**
 
 Total: (1) ＋ (2) ＋ (3): $18,400
 
@@ -89,17 +91,22 @@ Total: (1) ＋ (2) ＋ (3): $18,400
 
 Billed: $10,000
 
-* The funds directly required for each activity, such as East Asian entrepreneurial events in the Eastern Hemisphere, meetups, translation activities, theme setting and management, etc., are not in the category of funds required for this proposal.
+Further funding requirements in future funds will be required to maintain KPIs that support Cataslyt's success in the Eastern hemisphere
 
 We have already started this activity and will continue to do so whether or not this funding is raised.We gave a 45.6% discount to free up funds for a wider project.
 
-### Intellectual property right
+**NOTE**: The funds directly required for each activity, such as East Asian entrepreneurial events in the Eastern Hemisphere, meetups, translation activities, theme setting and management, etc., are not in the category of funds required for this proposal.
 
-Follow the policies set by each project, but we respect open source.
+### Intellectual Property
+
+Participation in our community is covered by a [Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
+ 
+All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+ 
+Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### After 6 months
-  We will consider further funding requirements to maintain KPIs that support Cataslyt's success, including in the eastern region.
-
+We have demonstrated our ability to grow Catalyst participation in the Easted Hemisphere and East Asian countries by 20% for each fund. 
 
 ### The Team
 
@@ -138,3 +145,5 @@ The team represents the initial Eastern Town Hall **trusted seed**. There are no
 [4] [Index Coop Q3 Financial Report](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
 
 [5] [FWB DAO Financial Report (PDF)](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
+
+[6] [Catalyst Fund6 submission phase analysis](https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711)
