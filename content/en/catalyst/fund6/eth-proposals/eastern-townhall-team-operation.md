@@ -145,3 +145,5 @@ The team represents the initial Eastern Town Hall **trusted seed**. There are no
 [4] [Index Coop Q3 Financial Report](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
 
 [5] [FWB DAO Financial Report (PDF)](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
+
+[6] Catalyst Fund6 submission phase analysis - https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711
