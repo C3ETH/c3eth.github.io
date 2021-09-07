@@ -1,12 +1,12 @@
 ---
-title: Eastern Townhall Team Operation
-linkTitle: Eastern Townhall Team Operation
+title: Hoạt động của phòng họp mặt phía Đông
+linkTitle: Hoạt động của phòng họp mặt phía Đông
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2
+description: |2-
 
-  Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English. We propose that the Eastern TownHall is funded to support eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
+  Tham gia vào dự án Catalyst sẽ rất khó khăn khi bạn sống vào múi giờ ở bán cầu phía đông và ngôn ngữ của bạn không phải là tiếng Anh. Chúng tôi đề xuất rằng Eastern TownHall được tài trợ để hỗ trợ các nước khu vực phía đông tổ chức các sự kiện và biên dịch các nội dung. Mục đích là tăng lượng người tham gia lên 20% cho mỗi quỹ.
 ---
 
 **Thử thách:** [Thử thách gia nhập giá trị] ({{&lt;relref "../challenges/catalyst-value-onboarding/campaign-brief.md"&gt;}})
@@ -15,39 +15,39 @@ description: |2
 
 **Số tiền yêu cầu (USD):** $ 10.000
 
-## Problem statement
+## Hoạch định vấn đề
 
-Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English.
+Tham gia vào dự án Catalyst sẽ rất khó khăn khi bạn sống ở múi giờ phía đông và ngôn ngữ của bạn không phải là tiếng Anh.
 
 ## Mô tả giải pháp của bạn cho vấn đề
 
-Eastern TownHall supports eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
+Eastern TownHall hỗ trợ các quốc gia phía đông bằng cách tổ chức các sự kiện và biên/phiên dịch nội dung. Mục đích nhằm tăng 20% số người tham gia cho mỗi quỹ.
 
 ## Kinh nghiệm liên quan
 
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT &amp; Software Engineering. educators and accountant in East Asia &amp; Japan.
+Đồng sáng lập Catalyst Swarm, Eastern Townhall, Catalyst School. Kỹ sư CNTT &amp; Kỹ thuật phần mềm. Các nhà giáo dục và kế toán ở Đông Á và Nhật Bản.
 
 ## Kế hoạch chi tiết
 
-The Eastern Townhall is a community-driven initiative growing Cardano in the Eastern Hemisphere and across Asia. We want to build a truly global economy and society. Our focus is on making the hard, possible. A place, a time, and a space where:
+Phòng họp mặt phía Đông là một sáng kiến do cộng đồng thúc đẩy phát triển Cardano ở khu vực Đông bán cầu và trên toàn châu Á. Chúng tôi muốn xây dựng một nền kinh tế và xã hội toàn cầu. Trọng tâm của chúng tôi là biến những việc không thể thành có thể. Địa điểm, thời gian và không gian:
 
-- We can build knowledge, share information, connect and support each other.
-- Language and culture are not an barrier to participation.
+- Chúng tôi có thể đóng góp kiến thức, chia sẻ thông tin, kết nối và hỗ trợ lẫn nhau.
+- Ngôn ngữ và văn hóa không còn là rào cản khi tham gia dự án.
 - Chúng tôi học cách áp dụng công nghệ và cộng đồng để giải quyết các nhu cầu của địa phương.
-- Show how to use Cardano to increase our economic wellbeing.
-- Enrich Cardano's ecosystem with our stories, our energy, and our perspectives.
+- Hướng dẫn cách sử dụng Cardano để tăng cường phúc lợi kinh tế.
+- Làm phong phú thêm hệ sinh thái của Cardano bằng những câu chuyện, năng lượng và quan điểm của chúng tôi.
 
-The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano.
+Đông bán cầu, Đông Nam Á là khu vực giao thoa về văn hóa và ngôn ngữ của nhiều quốc gia. Với dân số hơn 1,6 tỷ, mục tiêu của chúng tôi là phát triển Cardano.
 
-### Current Problems and Limitation
+### Các vấn đề hiện tại và hạn chế
 
-The Eastern Townhall is the result of individuals and groups working together. Each bringing a unique quality. We interact in and around the Cardano Community, focused on linking individuals and projects to Project Catalyst. But this takes time, effort, and incurs expenses. Having no pool of funds to draw upon limits what we can achieve.
+Phòng họp mặt phía Đông là kết quả của các cá nhân và nhóm làm việc cùng nhau. Mỗi cá nhân mang đến một chất lượng riêng biệt. Chúng tôi tương tác bên trong và bên ngoài Cộng đồng Cardano, tập trung vào việc liên kết các cá nhân và dự án với Project Catalyst. Nhưng việc này tốn khá nhiều thời gian, công sức và phát sinh nhiều chi phí. Không có nguồn quỹ nào để rút ra những giới hạn mà chúng tôi có thể đạt được.
 
-### Proposed Solution: Pool of Funds
+### Giải pháp đề xuất: Bể đào cho quỹ
 
-To reach a global audience means meeting people where they are, in their country, their language and their culture.
+Tiếp cận người tham gia toàn cầu có nghĩa là gặp gỡ mọi người ở nơi họ đang sống, ở quốc gia của họ, ngôn ngữ của họ và văn hóa của họ.
 
-We are an active part of our Cardano ecosystem. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more, so much more:
+Chúng tôi là một phần tích cực trong hệ sinh thái Cardano. Sự kiện nền tảng của chúng tôi là các phòng họp phía Đông hàng tuần. Nhưng chúng tôi đang làm nhiều hơn, rất nhiều hơn thế nữa:
 
 - Chúng tôi cung cấp kiến thức và nội dung cho nhiều nền văn hóa nhất có thể.
 - Chúng tôi tổ chức các sự kiện khác nhau, nơi các thành viên cộng đồng đến với nhau
@@ -55,15 +55,15 @@ We are an active part of our Cardano ecosystem. Our cornerstone event is the wee
 - Chúng tôi tích hợp các quan điểm địa phương để làm phong phú Cộng đồng Catalyst; và
 - Chúng tôi lắng nghe! Thu thập ý kiến và dữ liệu để giúp tất cả chúng ta hiểu.
 
-**We are doing translations, building community, sharing knowledge, enabling entrepreneurs, and growing Cardano.**
+**Chúng tôi đang thực hiện các công việc dịch thuật, xây dựng cộng đồng, chia sẻ kiến thức, tạo điều kiện cho các doanh nhân và phát triển Cardano.**
 
-Doing all that has costs, so if we are to sustain the Eastern Townhall efforts, then we need to secure funding in a way that does not add extra effort to what we are already doing.
+Làm tất cả những việc đó đều có chi phí, vì vậy nếu chúng ta muốn duy trì các nỗ lực của phòng họp phía Đông, thì chúng ta cần đảm bảo nguồn tài trợ theo cách mà không như cách mà chúng tôi đã và đang làm.
 
-This proposal is about forming and maintain a pool of funds (a treasury) that is managed by the Eastern Townhall Trusted Seed. A pool of funds to spend at our discretion. The treasury will be used to cover expenses, to grow and sustain the efforts of the Eastern Townhall. Expenses like translation bounties; production of content; paying for online service subscriptions such as Zoom, Github, HackMD, Statbot and others; paying for activities related to organising the Eastern Town Hall.
+Đề xuất này là về việc hình thành và duy trì một nhóm quỹ (ngân khố) được quản lý bởi những người đáng tin cậy của phòng họp phía Đông. Một nhóm quỹ để chi tiêu theo quyết định của chúng tôi. Ngân khố sẽ được sử dụng để trang trải các chi phí, để phát triển và duy trì những nỗ lực của phòng họp chính phía Đông. Các chi phí như tiền thưởng dịch thuật; sản xuất nội dung; thanh toán cho các đăng ký dịch vụ trực tuyến như Zoom, Github, HackMD, Statbot và các dịch vụ khác; chi cho các hoạt động liên quan đến tổ chức phòng họp mặt phía Đông.
 
 Nói một cách đơn giản, đề xuất này là về kinh phí để tổ chức một nhóm cộng đồng. Thiết lập một nguồn lực và cấu trúc hỗ trợ phân tán cung cấp các quỹ cần thiết theo yêu cầu mà không cần các đề xuất Catalyst cụ thể.
 
-In return, we promise to report back financial statements on our activities and expenses. Translated into as many languages as we can find collaborators for. Our intent is to pioneer and prototype DAO treasury management[3] reporting. That is not a small matter and managing a shared pool of funds has plenty of compliance complications. The reporting effort is Similar in principal to the work being done by index.coop[4] and FWB[5]. Most DAOs are still figuring this out and the best practices are not even drafts, so help us work this out.
+Đổi lại, chúng tôi hứa sẽ báo cáo lại báo cáo tài chính về các hoạt động và chi phí của chúng tôi. Được dịch sang nhiều ngôn ngữ nhất mà chúng tôi có thể tìm được cộng tác viên. Mục đích của chúng tôi là tiên phong và tạo mẫu báo cáo quản lý kho bạc DAO [3]. Đó không phải là một vấn đề nhỏ và việc quản lý một nhóm quỹ được có rất nhiều vấn đề phức tạp để tuân theo. Nỗ lực báo cáo cũng tương tự như công việc được thực hiện bởi index.coop [4] và FWB [5]. Hầu hết các DAO vẫn đang tìm ra điều này và các phương pháp hay nhất thậm chí chưa được là bản nháp, vì vậy hãy giúp chúng tôi giải quyết vấn đề này.
 
 Tìm hiểu cách Tòa thị chính phía Đông chi tiêu và phân bổ ngân quỹ sẽ giúp chúng tôi thu hút tài trợ trong tương lai. Giúp cộng tác viên xác định cơ hội làm việc với chúng tôi.
 
@@ -71,7 +71,7 @@ Giúp chúng tôi mở rộng quy mô và tiếp cận nhiều người hơn tr�
 
 ### Phương pháp đo lường KPI và mục tiêu
 
-A questionnaire on the number of proposers / voters / advisors is conducted for each **fund** in the community of the target country. The goal is to grow participation by 20% for each fund in the next 6 months. See our work on Catalyst Fund6 submission phase analysis[6] as a base line example.
+Một bảng câu hỏi về số lượng người đề xuất / cử tri / cố vấn được thực hiện cho mỗi **quỹ** trong cộng đồng của quốc gia được hướng đến. Mục tiêu là tăng tỷ lệ tham gia lên 20% cho mỗi quỹ trong 6 tháng tới. Xem công việc của chúng tôi về phân tích giai đoạn gửi Catalyst Fund6 [6] như một ví dụ.
 
 ### Các hoạt động để đạt được KPI
 
@@ -85,7 +85,7 @@ A questionnaire on the number of proposers / voters / advisors is conducted for 
 
 ### Chi tiết và chi phí để thực hiện
 
-### Budget Areas
+### Ngân sách
 
 1. Tham dự các cuộc họp lập kế hoạch dự án hàng tuần kích hoạt Đông bán cầu: 20 người x 2 giờ x 4 tuần x 6 tháng x 15 **đô la: 14.400 đô la**
 2. Quản lý tài chính, quản lý tiến độ, các hoạt động giám sát và báo cáo, các hoạt động tuyển dụng thành viên mới khác, v.v.: $ 500 x 6 tháng = **$ 3.000**
@@ -111,35 +111,35 @@ Tất cả mã nguồn của chúng tôi đều được cấp phép theo Giấy
 
 Nội dung đã xuất bản của chúng tôi được cấp phép theo [Giấy phép Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### After 6 months
+### Sau 6 tháng
 
 Chúng tôi đã chứng minh khả năng của mình trong việc tăng mức độ tham gia của Catalyst ở Đông bán cầu và các nước Đông Á lên 20% cho mỗi quỹ.
 
-### The Team
+### Về Đội Nhóm
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+Với nỗ lực hợp tác, nhóm mang lại nhiều kinh nghiệm về văn hóa và kỹ thuật cho Cardano. Tất cả chúng tôi đều hoặt động rất tích cực trong Catalyst và các nhóm cộng đồng trong hệ sinh thái của chúng tôi. Chúng tôi là một nhóm đa dạng được thống nhất bởi lời hứa của Cardano:
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+**Yuta Yuta** (@yutazz) - Nhật Bản: Đại sứ chính thức của Cardano, Người đồng tổ chức cộng đồng, Người nhận Quỹ Catalyst 2, kế toán.
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+**Yan Tirta** (@yantirta) - Indonesia: Hỗ trợ cộng đồng Cardano ở Indonesia, khuyến khích cộng đồng địa phương phát triển bằng giáo dục và sự khích lệ.
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+**Mie Tran** (@ mie.tran.0407) - Việt Nam: Chuyên ngành Ngôn ngữ Anh và Kinh doanh Quốc tế, có kinh nghiệm làm việc với các doanh nghiệp phương Tây và phiên dịch.
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+**Andy Sibuea** (@zicozibu) - Indonesia: Tiên phong trong viêc giáo dục blockchain trên nền tảng tiền điện tử trên phạm vi rộng khắp Indonesia.
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+**Tim O'Brien** (@tobrien) - Việt Nam: Tiên phong trong công nghệ No-code. Người chủ trị tại phòng họp phía Đông Phi (EATH).
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+**Greg Bell** (@grebel) - Úc: Chuyên gia tư vấn CNTT, người tạo ra những chellenge cho dự án Catalyst.
 
 **Seomon Blub** (@seomon) - Áo: Chuyên gia tư vấn CNTT tập trung vào cơ sở hạ tầng con người cho cộng đồng bền vững.
 
 **Robert O'Brien** (@wolstaeb) - New Zealand: Kỹ sư phần mềm hệ thống tài chính, Nhà đồng tổ chức và Doanh nhân cộng đồng.
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+**Stephen Whitenstall** (@swhitenstall) - Anh: Theo dõi và soạn thảo tài liệu Catalyst. Giúp tổ chức các cộng đồng như Catalyst Circle và Catalyst Swarm.
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&amp;M Catalyst Circle/Swarm/School.
+**Felix Weber** (@felixweber) - Pháp: Quản lý cộng đồng, xây dựng cầu nối giữa mọi người. Thành viên của T&amp;M Catalyst Circle / Swarm / School.
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[2] and other community groups across Asia.
+**Đội đại diện tiên phong đáng tin cậy** của Eastern Townhall. Không chia vai trò, không có nhà lãnh đạo. Đúng hơn là chúng tôi tự thành lập và phát triển theo thời gian, thông qua sự tham gia. Chúng tôi hợp tác và cộng tác với Catalyst Swarm [1], Catalyst School [2] và các nhóm cộng đồng khác trên khắp Châu Á.
 
 ## Người giới thiệu
 
