@@ -99,7 +99,7 @@ We have already started this activity and will continue to do so whether or not 
 
 ### Intellectual property right
 
-Participation in our community is covered by a [Contributor Covenant]([Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
+Participation in our community is covered by a [Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
  
 All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
  
