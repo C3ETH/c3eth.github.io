@@ -97,7 +97,7 @@ We have already started this activity and will continue to do so whether or not 
 
 **NOTE**: The funds directly required for each activity, such as East Asian entrepreneurial events in the Eastern Hemisphere, meetups, translation activities, theme setting and management, etc., are not in the category of funds required for this proposal.
 
-### Intellectual property right
+### Intellectual Property
 
 Participation in our community is covered by a [Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
  
