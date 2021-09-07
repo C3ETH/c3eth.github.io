@@ -5,21 +5,19 @@ type: docs
 hide_feedback: true
 weight: 10
 description: >
-    How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations! 
+    How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
 ---
-**Challenge:** [Multilingual resources]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
+**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 **Requested Amount (USD):** $250,000
 
 ## Challenge question:
-How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way?
-The same way we do in Africa, focused initiatives and implementations!
+How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
 
 ## Why is it important?
-The Cardano community is heavily based in North America and Europe.
-Growth elsewhere requires our support and initiative as a community.
+The Cardano community is heavily based in North America and Europe. Growth elsewhere requires our support and initiative as a community.
 
 ## How does success look like?
 A wide spectrum of people from Asia or with connections to Asia coming together and forming teams to grow our ecosystem.
@@ -44,7 +42,7 @@ Addressing these different parts of the world directly through funding challenge
 
 The amount of funding which is proposed equals 6.25 % of the total available for Fund 7. The suggestion is that this is a nice percentage to use as a guide for future rounds when funding increases for all of the challenges that focus on specific regions.
 
---
+---
 
 South-East Asia is fertile ground for the adoption of Cardano.
 Having a funding round that focuses on South-East Asia is a win, win, win scenario. South-East Asia wins by getting some backing. Commercial projects that are already building up in South-East Asia win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.
@@ -78,11 +76,18 @@ Thank you to all of you who have commented and interacted with me over the last 
 
 **Budget**: Large enough to attract attention and significant proposals, but small enough to allow other community proposals to seek funding
 
-### Challenge Team
+## Challenge Team
+
+This proposal seeks to include a challenge team. Unfortunately, the proposer’s have not had time to full form a challenge team before the proposal goes into review. If possible, we intend to help form that team before voting commences.
+
+The following individuals have offered to be on the challenge team.
 
 - Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?)) 
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
 
+The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed. 
+
+If you are interested in being part of that team, please let us know in the comments.
 ## Acknowledgements
 
-This proposal is a copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108). 
+This proposal is a copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108).
