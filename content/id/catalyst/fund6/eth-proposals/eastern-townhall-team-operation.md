@@ -1,11 +1,11 @@
 ---
-title: "Eastern TownHall Team Operation"
-linkTitle: "Eastern TownHall Team Operation"
+title: "Eastern Townhall Team Operation"
+linkTitle: "Eastern Townhall Team Operation"
 type: docs
 hide_feedback: true
 weight: 20
 description: >
-    Difficult to participate in Catalyst for eastern part.Because(1) time zone (2) language (non-English) is different from the western part. We propose the operation of Eastern TownHall (Translate/event/meet-up by Eastern countries.)Increased Eastern participants by 20% for each FUND.
+    Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English. We propose that the Eastern TownHall is funded to support eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
 ---
 **Challenge:** [Value Onboarding Challenge]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
