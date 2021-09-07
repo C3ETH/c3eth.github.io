@@ -146,4 +146,4 @@ The team represents the initial Eastern Town Hall **trusted seed**. There are no
 
 [5] [FWB DAO Financial Report (PDF)](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
 
-[6] Catalyst Fund6 submission phase analysis - https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711
+[6] [Catalyst Fund6 submission phase analysis](https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711)
