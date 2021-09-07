@@ -4,12 +4,12 @@ linkTitle: Operasional Tim Eastern Townhall
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2-
+description: >
 
   Berpartisipasi dalam Catalyst sulit ketika Anda tinggal di zona waktu timur dan bahasa Anda bukan bahasa Inggris. Kami mengusulkan agar Eastern Townhall didanai untuk mendukung negara-negara timur dengan acara, dan menerjemahkan konten. Tujuannya adalah untuk meningkatkan peserta sebesar 20% untuk setiap dana.
 ---
 
-**Tantangan:** [Tantangan Pengadopsian Nilai-Nilai]({{&lt; relref "../challenges/catalyst-value-onboarding/campaign-brief.md" &gt;}})
+**Tantangan:** [Tantangan Pengadopsian Nilai-Nilai]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
 [](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
