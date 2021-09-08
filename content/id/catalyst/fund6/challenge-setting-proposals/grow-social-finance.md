@@ -1,78 +1,79 @@
 ---
-title: "Grow Social & Environmental Finance"
-linkTitle: "Grow Social & Environmental Finance"
+title: Kembangkan Keuangan Sosial & Lingkungan
+linkTitle: Kembangkan Keuangan Sosial & Lingkungan
 type: docs
-hide_feedback: true
-weight: 20
-description: > 
-   To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
+hide_feedback: 'true'
+weight: '20'
+description: |2-
 
+  Untuk mengatasi keadaan darurat iklim dan tantangan ekonomi terkait, kita perlu membangun solusi keuangan yang tangguh untuk mendorong perubahan. Solusi apa yang dapat kita bangun di Cardano untuk membiayai inovasi sosial dan lingkungan?
 ---
-**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+**Tantangan:** [Pengaturan Tantangan Dana 7]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
 
-**Requested Amount (USD):** $250,000
+[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
-## Challenge question
+**Jumlah yang Diminta (USD):** $250,000
 
-What solutions can we build on Cardano to finance social and environmental innovation?
+## Pertanyaan tantangan
 
-## Why is it important?
+Solusi apa yang dapat kita bangun di Cardano untuk membiayai inovasi sosial dan lingkungan hidup?
 
-To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change.
+## Mengapa itu penting?
 
-## How does success look like?
+Untuk mengatasi keadaan darurat iklim dan tantangan ekonomi terkait, kita perlu membangun solusi keuangan yang tangguh untuk mendorong perubahan.
 
-Impact investors, NGOs, and grassroots communities make Cardano the default choice to help transparently deliver the greatest impact.
+## Seperti apa kesuksesan itu?
 
-## Key Metrics to measure
+Investor dampak, LSM, dan komunitas akar rumput menjadikan Cardano sebagai pilihan utama untuk membantu memberikan dampak terbesar secara transparan.
 
-At the end of this challenge, we will be asking ourselves some guiding questions about the quality of developed solutions:
+## Metrik Utama untuk diukur
 
-* Are we on track to improve the lives of people using them?
-* How much financial capital is deployed to grassroots community efforts?
-* How many gaps are filled along the impact investing value chain?
-* Have we increased capital efficiency and lowered financing costs compared with current approaches?
-* Are the solutions using Cardano's technical features to the fullest?
-* Do teams adopt high-assurance engineering practices to develop code we can trust?
-* How decentralised is the solution and where are the points of control?
+Di akhir tantangan ini, kami akan menanyakan kepada diri sendiri beberapa pertanyaan panduan tentang kualitas solusi yang dikembangkan:
 
-At the moment there are very few usage metrics addressing Social & Environmental Finance (SoFi) scenarios. This challenge, therefore, will determine uptake by adopting some metrics from Decentralised Finance (DeFi) markets as a guide.
+- Apakah kita berada di jalur yang tepat untuk meningkatkan kehidupan orang-orang yang menggunakannya?
+- Berapa banyak modal keuangan yang dikerahkan untuk upaya komunitas akar rumput?
+- Berapa banyak celah yang terisi di sepanjang rantai nilai investasi dampak?
+- Sudahkah kita meningkatkan efisiensi modal dan menurunkan biaya pembiayaan dibandingkan dengan pendekatan saat ini?
+- Are the solutions using Cardano's technical features to the fullest?
+- Apakah tim mengadopsi praktik rekayasa dengan jaminan tinggi untuk mengembangkan kode yang dapat kami percayai?
+- How decentralised is the solution and where are the points of control?
 
-* Daily/Monthly Active Wallets (DAW/MAW) - Measure of momentum and engagement
-* Average Order Value - Measures who are using services, how much and how often.
-* Total Value Locked (TLV) - Measure of confidence in DeFi market protocols. 
-* Take Rate (Rake) - Measure of efficiency
-* Gross Merchandise Volume (GMV) - Total value of services transacted.
+Saat ini ada sangat sedikit metrik penggunaan yang menangani skenario Keuangan Sosial &amp; Lingkungan (SoFi). Oleh karena itu, tantangan ini akan menentukan penyerapan dengan mengadopsi beberapa metrik dari pasar Decentralized Finance (DeFi) sebagai panduan.
 
-We will also be asking some specific questions about the proposals.
+- Dompet Aktif Harian/Bulanan (DAW/MAW) - Ukuran momentum dan keterlibatan
+- Nilai Pesanan Rata-Rata - Mengukur siapa yang menggunakan layanan, seberapa banyak dan seberapa sering.
+- Total Nilai yang Terkunci (TLV) - Ukuran kepercayaan dengan protokol pasar DeFi.
+- Tingkat Pengambilan (Rake) - Ukuran efisiensi
+- Volume Kotor Barang Berharga (GMV) - Total nilai layanan yang ditransaksikan.
 
-* What is the sustainability of proposals beyond the scope of Catalyst?
-* Was social and environmental impact evaluation used to measure proposal performance?
+Kami juga akan mengajukan beberapa pertanyaan spesifik tentang proposal.
 
-## Challenge brief
+- Apa keberlanjutan proposal di luar cakupan Catalyst?
+- Apakah evaluasi dampak sosial dan lingkungan digunakan untuk mengukur kinerja proposal?
 
-This challenge is about the ways we can spark a fire under impact investing using the Cardano ecosystem.
+## Penjelasan Tantangan
 
-Impact investments are made with the intention to generate positive, measurable social and environmental impact alongside financial returns. While a variety of projects push for the adoption of DeFi on Cardano, can we bring to market the potential of DeFi mechanisms as a vehicle for social good?
+Tantangan ini adalah tentang cara kita dapat mendorong terjadinya investasi berdampak menggunakan ekosistem Cardano.
 
-Delivering an outcome that has an impact is a lot harder than just delivering a financial Return-on-Investment, even a small one. Impact investing (according to the World Economic Forum) is hindered by:
+Investasi berdampak dilakukan dengan tujuan untuk menghasilkan dampak sosial dan lingkungan yang positif dan terukur di samping keuntungan finansial. Sementara berbagai proyek mendorong adopsi DeFi di Cardano, dapatkah kita membawa potensi mekanisme DeFi ke pasar sebagai sarana untuk kebaikan sosial?
 
-* The lack and/or high cost of trustworthy data on the social or environmental results of investment, making credible accounting of impacts difficult.
-* Challenges around the “attribution” of impact – meaning the allocation of an impact-related claim to an investor risks “double-counting.”
-* Roadblocks in monetizing impacts – illiquid impact markets, uncertain returns, high transaction costs.
+Memberikan hasil yang berdampak jauh lebih sulit daripada hanya memberikan Pengembalian Investasi finansial, bahkan pada skala yang kecil. Investasi berdampak (menurut World Economic Forum) terhambat oleh:
 
-Propose market solutions, financial mechanisms, or means of measuring impact. Think about how these can be deployed at scale to affect positively millions of people. Think about how the results of your proposal can be embedded or reused in different market contexts, or integrated with existing providers. 
+- Kurangnya dan/atau tingginya biaya data yang dapat dipercaya tentang hasil sosial atau lingkungan dari investasi, membuat penghitungan dampak yang kredibel menjadi sulit.
+- Tantangan seputar “pemahaman” dampak – yang berarti alokasi klaim terkait dampak kepada investor berisiko “penghitungan ganda.”
+- Hambatan dalam memonetisasi dampak – pasar berdampak yang tidak likuid, pengembalian yang tidak pasti, biaya transaksi yang tinggi.
 
-Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education. 
+Mengusulkan solusi pasar, mekanisme keuangan, atau cara mengukur dampak. Pikirkan tentang bagaimana ini dapat diterapkan dalam skala besar untuk memengaruhi jutaan orang secara positif. Pikirkan tentang bagaimana hasil proposal Anda dapat disematkan atau digunakan kembali dalam konteks pasar yang berbeda, atau diintegrasikan dengan penyedia yang ada.
 
-To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst? 
+Mendorong munculnya investasi berdampak pada Cardano akan memberikan modal untuk mengatasi tantangan paling mendesak di dunia di sektor-sektor seperti pertanian berkelanjutan, energi terbarukan, konservasi, keuangan mikro, dan layanan dasar yang terjangkau dan dapat diakses termasuk perumahan, perawatan kesehatan, dan pendidikan.
 
-## Challenge Team
+Untuk mencapai dampak membutuhkan kerja sama dan kolaborasi, sesuatu yang dapat dilakukan Cardano. Mungkinkah jawaban untuk mengelola sumber daya dunia dengan lebih baik tidak terletak pada pemerintah atau investor besar, melainkan pada teknologi yang memberdayakan bantuan peer-to-peer. Keuangan berbasis komunitas atau crowdfunding berbasis data misalnya. Bagaimana kita dapat memanfaatkan kekuatan ekosistem Cardano yang luar biasa untuk menjadi katalis itu?
 
-This proposal can and should be a challenge team proposal. Unfortunately, the proposer’s challenge has not had time to form a challenge team before the proposal goes into review. If possible, we intend to help form that team before voting commences.
+## Tim Tantangan
 
-The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed. 
+Proposal ini dapat dan harus menjadi proposal tim tantangan. Sayangnya, pengusul tantangan belum sempat membentuk tim tantangan sebelum proposal masuk ke review. Jika memungkinkan, kami bermaksud membantu membentuk tim itu sebelum pemungutan suara dimulai.
 
-If you are interested in being part of that team, please let us know in the comments.
+Peran Tim Tantangan adalah untuk mengelola tantangan di Catalyst - untuk mempresentasikan tantangan, melacak kemajuan, dan melaporkan kembali kepada komunitas perspektif mereka tentang apakah tantangan telah ditangani.
+
+Jika Anda tertarik untuk menjadi bagian dari tim itu, beri tahu kami di komentar.
