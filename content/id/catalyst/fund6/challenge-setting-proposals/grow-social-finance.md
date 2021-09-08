@@ -1,18 +1,19 @@
 ---
-title: "Grow Social & Environmental Finance"
-linkTitle: "Grow Social & Environmental Finance"
+title: Kembangkan Keuangan Sosial & Lingkungan
+linkTitle: Kembangkan Keuangan Sosial & Lingkungan
 type: docs
-hide_feedback: true
-weight: 20
-description: > 
-   To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
+hide_feedback: 'true'
+weight: '20'
+description: |2-
 
+  Untuk mengatasi keadaan darurat iklim dan tantangan ekonomi terkait, kita perlu membangun solusi keuangan yang tangguh untuk mendorong perubahan. Solusi apa yang dapat kita bangun di Cardano untuk membiayai inovasi sosial dan lingkungan?
 ---
-**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+**Tantangan:** [Pengaturan Tantangan Dana 7]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
 
-**Requested Amount (USD):** $250,000
+[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+
+**Jumlah yang Diminta (USD):** $250,000
 
 ## Challenge question
 
@@ -30,26 +31,26 @@ Impact investors, NGOs, and grassroots communities make Cardano the default choi
 
 At the end of this challenge, we will be asking ourselves some guiding questions about the quality of developed solutions:
 
-* Are we on track to improve the lives of people using them?
-* How much financial capital is deployed to grassroots community efforts?
-* How many gaps are filled along the impact investing value chain?
-* Have we increased capital efficiency and lowered financing costs compared with current approaches?
-* Are the solutions using Cardano's technical features to the fullest?
-* Do teams adopt high-assurance engineering practices to develop code we can trust?
-* How decentralised is the solution and where are the points of control?
+- Are we on track to improve the lives of people using them?
+- How much financial capital is deployed to grassroots community efforts?
+- How many gaps are filled along the impact investing value chain?
+- Have we increased capital efficiency and lowered financing costs compared with current approaches?
+- Are the solutions using Cardano's technical features to the fullest?
+- Do teams adopt high-assurance engineering practices to develop code we can trust?
+- How decentralised is the solution and where are the points of control?
 
-At the moment there are very few usage metrics addressing Social & Environmental Finance (SoFi) scenarios. This challenge, therefore, will determine uptake by adopting some metrics from Decentralised Finance (DeFi) markets as a guide.
+At the moment there are very few usage metrics addressing Social &amp; Environmental Finance (SoFi) scenarios. This challenge, therefore, will determine uptake by adopting some metrics from Decentralised Finance (DeFi) markets as a guide.
 
-* Daily/Monthly Active Wallets (DAW/MAW) - Measure of momentum and engagement
-* Average Order Value - Measures who are using services, how much and how often.
-* Total Value Locked (TLV) - Measure of confidence in DeFi market protocols. 
-* Take Rate (Rake) - Measure of efficiency
-* Gross Merchandise Volume (GMV) - Total value of services transacted.
+- Daily/Monthly Active Wallets (DAW/MAW) - Measure of momentum and engagement
+- Average Order Value - Measures who are using services, how much and how often.
+- Total Value Locked (TLV) - Measure of confidence in DeFi market protocols.
+- Take Rate (Rake) - Measure of efficiency
+- Gross Merchandise Volume (GMV) - Total value of services transacted.
 
 We will also be asking some specific questions about the proposals.
 
-* What is the sustainability of proposals beyond the scope of Catalyst?
-* Was social and environmental impact evaluation used to measure proposal performance?
+- What is the sustainability of proposals beyond the scope of Catalyst?
+- Was social and environmental impact evaluation used to measure proposal performance?
 
 ## Challenge brief
 
@@ -59,20 +60,20 @@ Impact investments are made with the intention to generate positive, measurable 
 
 Delivering an outcome that has an impact is a lot harder than just delivering a financial Return-on-Investment, even a small one. Impact investing (according to the World Economic Forum) is hindered by:
 
-* The lack and/or high cost of trustworthy data on the social or environmental results of investment, making credible accounting of impacts difficult.
-* Challenges around the “attribution” of impact – meaning the allocation of an impact-related claim to an investor risks “double-counting.”
-* Roadblocks in monetizing impacts – illiquid impact markets, uncertain returns, high transaction costs.
+- The lack and/or high cost of trustworthy data on the social or environmental results of investment, making credible accounting of impacts difficult.
+- Challenges around the “attribution” of impact – meaning the allocation of an impact-related claim to an investor risks “double-counting.”
+- Roadblocks in monetizing impacts – illiquid impact markets, uncertain returns, high transaction costs.
 
-Propose market solutions, financial mechanisms, or means of measuring impact. Think about how these can be deployed at scale to affect positively millions of people. Think about how the results of your proposal can be embedded or reused in different market contexts, or integrated with existing providers. 
+Propose market solutions, financial mechanisms, or means of measuring impact. Think about how these can be deployed at scale to affect positively millions of people. Think about how the results of your proposal can be embedded or reused in different market contexts, or integrated with existing providers.
 
-Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education. 
+Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education.
 
-To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst? 
+To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst?
 
 ## Challenge Team
 
 This proposal can and should be a challenge team proposal. Unfortunately, the proposer’s challenge has not had time to form a challenge team before the proposal goes into review. If possible, we intend to help form that team before voting commences.
 
-The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed. 
+The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed.
 
 If you are interested in being part of that team, please let us know in the comments.
