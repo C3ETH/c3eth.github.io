@@ -15,68 +15,68 @@ description: |2-
 
 **Jumlah yang Diminta (USD):** $250,000
 
-## Challenge question:
+## Pertanyaan tantangan:
 
-How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
+Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif dan mendukung? Cara yang sama kita lakukan di Afrika, inisiatif terfokus!
 
-## Why is it important?
+## Mengapa itu penting?
 
-The Cardano community leans heavily toward North America and Europe. Growth elsewhere requires our support and initiative as a community.
+Komunitas Cardano sangat condong ke Amerika Utara dan Eropa. Pertumbuhan di tempat lain membutuhkan dukungan dan inisiatif kita sebagai komunitas.
 
-## How does success look like?
+## Seperti apa kesuksesan itu?
 
-A broad spectrum of people across Asia and connected to Asia, coming together and forming teams to grow our ecosystem.
+Spektrum luas orang di seluruh Asia dan terhubung ke Asia, berkumpul dan membentuk tim untuk menumbuhkan ekosistem kita.
 
-## Key Metrics to measure
+## Metrik Utama untuk diukur
 
-At the end of this challenge, we will be asking ourselves some questions about the quality of participation:
+Di akhir tantangan ini, kami akan mengajukan beberapa pertanyaan kepada diri sendiri tentang kualitas partisipasi:
 
-- The number of proposals originating from East Asian participants in Project Catalyst
-- The quantity and quality of funded proposals originating from East Asian teams.
-- The observed impact of funded projects (meeting their KPIs).
-- Did we increase the participation of the Cardano community and Catalyst teams with East Asian residents?
-- Was there an increase in Daily/Monthly Active Wallets (DAW/MAW) as a proxy measure of momentum and engagement
-- Did we increase the number of Stake Pools and Stake Pool Operators based in East Asia?
+- Jumlah proposal yang berasal dari peserta Asia Timur di Project Catalyst
+- Kuantitas dan kualitas proposal yang didanai berasal dari tim Asia Timur.
+- Dampak yang diamati dari proyek yang didanai (memenuhi KPI mereka).
+- Apakah kami meningkatkan partisipasi komunitas Cardano dan tim Catalyst dengan penduduk Asia Timur?
+- Apakah ada peningkatan Dompet Aktif Harian/Bulanan (DAW/MAW) sebagai ukuran dari momentum dan keterlibatan
+- Apakah kami meningkatkan jumlah Stake Pools dan Stake Pool Operators yang berbasis di Asia Timur?
 
-We will also be asking some specific questions about the quality of the proposals.
+Kami juga akan mengajukan beberapa pertanyaan spesifik tentang kualitas proposal.
 
-- Is there good feedback on funded project progress, failure or success, that help us understand the nuances of deploying Cardano solutions across East Asia?
-- What is the novelty and appropriateness of solutions?
-- Are we on track to improve the lives of people using Cardano in East Asia?
-- Was social and environmental impact evaluation used to measure proposal performance?
-- What is the sustainability of proposals beyond the scope of Catalyst?
+- Apakah ada umpan balik yang baik tentang kemajuan, kegagalan, atau keberhasilan proyek yang didanai, yang membantu kami memahami nuansa penerapan solusi Cardano di seluruh Asia Timur?
+- Apakah kekhasan dan kesesuaian dari solusi-solusinya?
+- Apakah kita berada di jalur yang tepat untuk meningkatkan kehidupan orang-orang yang menggunakan Cardano di Asia Timur?
+- Apakah evaluasi dampak sosial dan lingkungan digunakan untuk mengukur kinerja proposal?
+- Apa keberlanjutan proposal di luar cakupan Catalyst?
 
-## Challenge brief
+## Penjelasan Tantangan
 
-As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
+Seperti di Afrika, meningkatkan tingkat kesadaran orang-orang biasa di Asia Timur tentang blockchain dan jaringan Cardano harus menjadi prioritas bagi komunitas Catalyst. Dalam tantangan ini, kami menyediakan dana bagi orang-orang yang telah mempelajari Cardano untuk memanfaatkan dukungan komunitas dan membangun atau menggunakan jaringan Cardano.
 
-The nature of the proposals for this challenge is open-ended. Their only requirement is to originate or focus on East Asia and include east Asian team members or focus on East Asian participants.
+Sifat proposal untuk tantangan ini adalah terbuka. Satu-satunya persyaratan mereka adalah berasal atau fokus pada Asia Timur dan menyertakan anggota tim Asia Timur atau fokus pada peserta Asia Timur.
 
-For instance, the overwhelming majority of Stake Pools reside in North America and Europe. The Cardano network will be more resilient when Stake Pools are evenly distributed across the globe. The Catalyst community needs to step up and intentionally make that happen.
+Misalnya, sebagian besar Stake Pools berada di Amerika Utara dan Eropa. Jaringan Cardano akan lebih tangguh ketika Stake Pools didistribusikan secara merata di seluruh dunia. Komunitas Catalyst perlu melangkah dan dengan sengaja mewujudkannya.
 
-Cardano started life in East Asia (Japan and Hong Kong), and Emurgo focuses on East Asia. Let's build upon that.
+Cardano memulai kehidupan di Asia Timur (Jepang dan Hong Kong), dan Emurgo berfokus pada Asia Timur. Mari kita membangun itu.
 
-## What this is:
+## Apakah ini:
 
-A call to action; Activate the Cardano community's ability to recognise, reward the opportunity to make the world a better place. East Asia is fertile ground for the adoption of Cardano. The return on intention (ROI) is likely to be high because projects in young and developing economies face less economic inertia.
+Panggilan untuk bertindak; Aktifkan kemampuan komunitas Cardano untuk mengenali, menghargai kesempatan untuk membuat dunia menjadi tempat yang lebih baik. Asia Timur adalah lahan subur untuk adopsi Cardano. Pengembalian atas niat (ROI) cenderung tinggi karena proyek-proyek di ekosistem ekonomi yang masih muda dan berkembang menghadapi lebih sedikit kemandekan ekonomi.
 
-Addressing different parts of the world directly and intentionally through funding challenges makes our community more accessible. It makes us more resilient. It helps us learn and understand the needs of communities that make up our ecosystem.
+Mengakomodir berbagai belahan dunia secara langsung dan sengaja melalui tantangan pendanaan membuat komunitas kami lebih mudah diakses. Itu membuat kita lebih tahan banting. Ini membantu kita belajar dan memahami kebutuhan komunitas yang membentuk ekosistem kita.
 
-It is a vision that needs votes to become an achievement. When the challenge succeeds, the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the benefits many of us were born with—allowing others with fewer privileged circumstances to rise and succeed.
+Sebuah visi yang membutuhkan suara untuk menjadi sebuah pencapaian. Ketika tantangan berhasil, penerima manfaat adalah seluruh komunitas Cardano. Ini adalah panggilan untuk menutup prasangka kita dan membuka mata, hati, dan pikiran kita kepada orang-orang baik yang tidak memiliki fasilitas kebanyakan rata-rata kita miliki sejak lahir—memungkinkan orang lain dengan keadaan yang tidak bercukupan untuk bangkit dan berhasil.
 
-## Challenge Team
+## Tim Tantangan
 
-This proposal seeks to include a challenge team. Unfortunately, the proposer's have not had time to fully form a challenge team before the proposal goes into review. If possible, we intend to help form that team before voting commences.
+Proposal ini dapat dan harus menjadi proposal tim tantangan. Sayangnya, pengusul tantangan belum sempat membentuk tim tantangan sebelum proposal masuk ke review. Jika memungkinkan, kami bermaksud membantu membentuk tim itu sebelum pemungutan suara dimulai.
 
-The following individuals have offered to be on the challenge team.
+Orang-orang berikut telah menawarkan diri untuk bergabung dalam tim tantangan.
 
 - Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?))
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
 
-The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed.
+Peran Tim Tantangan adalah untuk mengelola tantangan di Catalyst - untuk mempresentasikan tantangan, melacak kemajuan, dan melaporkan kembali kepada komunitas perspektif mereka tentang apakah tantangan telah ditangani.
 
-If you are interested in being part of that team, please let us know in the comments.
+Jika Anda tertarik untuk menjadi bagian dari tim itu, beri tahu kami di komentar.
 
 ## Acknowledgements
 
-This proposal is a copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108).
+Proposal ini adalah salinan dari [Grow Africa, Grow Cardano yang](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) diusulkan oleh @grebel dan @archangelbob dan sekarang menjadi salah satu dari banyak [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108) .
