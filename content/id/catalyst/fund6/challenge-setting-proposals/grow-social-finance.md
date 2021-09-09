@@ -4,8 +4,7 @@ linkTitle: Kembangkan Keuangan Sosial & Lingkungan
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2-
-
+description: >
   Untuk mengatasi keadaan darurat iklim dan tantangan ekonomi terkait, kita perlu membangun solusi keuangan yang tangguh untuk mendorong perubahan. Solusi apa yang dapat kita bangun di Cardano untuk membiayai inovasi sosial dan lingkungan?
 ---
 

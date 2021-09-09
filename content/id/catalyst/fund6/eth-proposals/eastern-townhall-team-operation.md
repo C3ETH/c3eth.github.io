@@ -11,7 +11,7 @@ description: >
 
 **Tantangan:** [Tantangan Pengadopsian Nilai-Nilai]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
 **Jumlah yang Diminta (USD):** $10,000
 

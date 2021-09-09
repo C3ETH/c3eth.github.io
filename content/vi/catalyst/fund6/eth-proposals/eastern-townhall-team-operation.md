@@ -4,14 +4,13 @@ linkTitle: Hoạt động của phòng họp mặt phía Đông
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2-
-
+description: >
   Tham gia vào dự án Catalyst sẽ rất khó khăn khi bạn sống vào múi giờ ở bán cầu phía đông và ngôn ngữ của bạn không phải là tiếng Anh. Chúng tôi đề xuất rằng Eastern TownHall được tài trợ để hỗ trợ các nước khu vực phía đông tổ chức các sự kiện và biên dịch các nội dung. Mục đích là tăng lượng người tham gia lên 20% cho mỗi quỹ.
 ---
 
-**Thử thách:** [Thử thách gia nhập giá trị] ({{&lt;relref "../challenges/catalyst-value-onboarding/campaign-brief.md"&gt;}})
+**Thử thách:** [Thử thách gia nhập giá trị] ({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
 **Số tiền yêu cầu (USD):** $ 10.000
 
@@ -147,7 +146,7 @@ Với nỗ lực hợp tác, nhóm mang lại nhiều kinh nghiệm về văn h�
 
 [2] [Catalyst School](https://linktr.ee/CatalystSchool)
 
-[3][Các DAO nên tiếp cận quản lý ngân quỹ như thế nào](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
+[3] [Các DAO nên tiếp cận quản lý ngân quỹ như thế nào](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
 
 [4] [Báo cáo tài chính quý 3 của Index Coop](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
 
