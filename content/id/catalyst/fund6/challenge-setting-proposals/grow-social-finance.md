@@ -10,7 +10,7 @@ description: >
 
 **Tantangan:** [Pengaturan Tantangan Dana 7]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **Jumlah yang Diminta (USD):** $250,000
 
