@@ -9,7 +9,7 @@ description: |2-
   Untuk mengatasi keadaan darurat iklim dan tantangan ekonomi terkait, kita perlu membangun solusi keuangan yang tangguh untuk mendorong perubahan. Solusi apa yang dapat kita bangun di Cardano untuk membiayai inovasi sosial dan lingkungan?
 ---
 
-**Tantangan:** [Pengaturan Tantangan Dana 7]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+**Tantangan:** [Pengaturan Tantangan Dana 7]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
 [](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
