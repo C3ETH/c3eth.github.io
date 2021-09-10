@@ -69,10 +69,3 @@ Mendorong munculnya investasi berdampak pada Cardano akan memberikan modal untuk
 
 Untuk mencapai dampak membutuhkan kerja sama dan kolaborasi, sesuatu yang dapat dilakukan Cardano. Mungkinkah jawaban untuk mengelola sumber daya dunia dengan lebih baik tidak terletak pada pemerintah atau investor besar, melainkan pada teknologi yang memberdayakan bantuan peer-to-peer. Keuangan berbasis komunitas atau crowdfunding berbasis data misalnya. Bagaimana kita dapat memanfaatkan kekuatan ekosistem Cardano yang luar biasa untuk menjadi katalis itu?
 
-## Tim Tantangan
-
-Proposal ini dapat dan harus menjadi proposal tim tantangan. Sayangnya, pengusul tantangan belum sempat membentuk tim tantangan sebelum proposal masuk ke review. Jika memungkinkan, kami bermaksud membantu membentuk tim itu sebelum pemungutan suara dimulai.
-
-Peran Tim Tantangan adalah untuk mengelola tantangan di Catalyst - untuk mempresentasikan tantangan, melacak kemajuan, dan melaporkan kembali kepada komunitas perspektif mereka tentang apakah tantangan telah ditangani.
-
-Jika Anda tertarik untuk menjadi bagian dari tim itu, beri tahu kami di komentar.

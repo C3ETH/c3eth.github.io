@@ -67,12 +67,4 @@ Propose market solutions, financial mechanisms, or means of measuring impact. Th
 
 Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education. 
 
-To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst? 
-
-## Challenge Team
-
-This proposal can and should be a challenge team proposal. Unfortunately, the proposer’s challenge has not had time to form a challenge team before the proposal goes into review. If possible, we intend to help form that team before voting commences.
-
-The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed. 
-
-If you are interested in being part of that team, please let us know in the comments.
+To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst?
