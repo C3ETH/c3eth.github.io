@@ -1,6 +1,6 @@
 ---
-title: "Connecting Asian Voters & Proposers"
-linkTitle: "Connecting Asian Voters & Proposers"
+title: "Connecting Asian Voters and Proposers"
+linkTitle: "Connecting Asian Voters and Proposers"
 type: docs
 hide_feedback: true
 weight: 40
