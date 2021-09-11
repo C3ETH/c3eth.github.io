@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can early stage entrepreneurs develop their skills to execute & communicate great ideas so voters/stakeholders value the project?
 
-Fund Size: **$150,000 in Ada**
+Fund Size: **$150,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26113) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified).
 

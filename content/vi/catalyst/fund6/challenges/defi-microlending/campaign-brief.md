@@ -4,7 +4,7 @@ linkTitle: "Tài chính phi tập trung và Khoản vay vi mô cho Châu Phi"
 type: docs
 hide_feedback: true
 ---
-Giá trị quỹ: **$90,000 Ada**
+Giá trị quỹ: **$90,000 USD paid in Ada**
 
 How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
 

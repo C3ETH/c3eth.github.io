@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Làm cách nào để khuyến khích các doanh nhân từ bên ngoài hệ sinh thái Cardano gửi đề xuất cho Catalyst trong hai quỹ đầu tư tiếp theo?
 
-Giá trị quỹ: **$100,000 Ada**
+Giá trị quỹ: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26105) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified).
 

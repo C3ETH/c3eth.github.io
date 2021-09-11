@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
 
-Fund Size: **$100,000 in Ada**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26105) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified).
 

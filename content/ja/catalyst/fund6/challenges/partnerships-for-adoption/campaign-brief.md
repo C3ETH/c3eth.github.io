@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 カルダノは、国連開発計画や世界銀行グループとグローバルなパートナーシップを結ぶことができるでしょうか?
 
-予算規模: **$30,000 in Ada**
+予算規模: **$30,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26114) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified)。
 

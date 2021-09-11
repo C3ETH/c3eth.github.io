@@ -7,7 +7,7 @@ hide_feedback: true
 
 初期段階の起業家は、有権者/ステークホルダーがプロジェクトを評価するため、 偉大なアイデアを実行 & 伝達するスキルをどう開発できますか?
 
-予算規模: **$150,000 in Ada**
+予算規模: **$150,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26113) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified)。
 

@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 CardanoのDIDの大規模な採用を推進するには？
 
-予算規模: **$250,000 in Ada**
+予算規模: **$250,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26116) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified)。
 

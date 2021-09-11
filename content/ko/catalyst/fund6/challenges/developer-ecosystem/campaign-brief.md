@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 
-Fund Size: **$1,005,000 in Ada**
+Fund Size: **$1,005,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26094) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26094/stage/unspecified).
 

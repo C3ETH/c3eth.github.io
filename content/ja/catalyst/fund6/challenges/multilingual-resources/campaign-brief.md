@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 今後3~6ヶ月以内に、英語以外の人にCardanoエコシステムを学ばせ、成長させるにはどうすればいいでしょうか?
 
-予算規模: **$75,000 in Ada**
+予算規模: **$75,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26111) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified)。
 

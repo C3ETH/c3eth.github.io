@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
 
-Fund Size: **$100,000 in Ada**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26118) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26118/stage/unspecified).
 

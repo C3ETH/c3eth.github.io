@@ -9,7 +9,7 @@ hide_feedback: true
 
 脅威がシステムを壊す前に、ステークホルダーがCardanoブロックチェーンの深刻な脅威を特定するのをどのように支援できますか？
 
-予算規模: **$50,000 in Ada**
+予算規模: **$50,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26110) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified)。
 

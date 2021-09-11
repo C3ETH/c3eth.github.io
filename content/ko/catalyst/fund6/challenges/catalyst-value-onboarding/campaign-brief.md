@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
 
-Fund Size: **$75,000 in Ada**
+Fund Size: **$75,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26106) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
 

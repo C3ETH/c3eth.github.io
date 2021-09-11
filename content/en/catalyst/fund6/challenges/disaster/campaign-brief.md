@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we help SPOs tackle risks & plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?
 
-Fund Size: **$150,000 in Ada**
+Fund Size: **$150,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26117) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified).
 

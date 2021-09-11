@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Những thử thách nào mà cộng đồng nên ưu tiên giải quyết trong Quỹ đầu tư số 7?
 
-Giá trị quỹ: **$5,400,000 Ada**
+Giá trị quỹ: **$5,400,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26120) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified).
 

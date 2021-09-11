@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 どのアプリケーションが2021年にエンドユーザーに最も価値を提供するでしょうか?
 
-予算規模: **$250,000 in Ada**
+予算規模: **$250,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26103) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified)。
 

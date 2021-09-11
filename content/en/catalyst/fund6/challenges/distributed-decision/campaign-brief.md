@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
 
-Fund Size: **$75,000 in Ada**
+Fund Size: **$75,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26104) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified).
 

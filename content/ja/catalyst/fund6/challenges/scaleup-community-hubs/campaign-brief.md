@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 今後6ヶ月間で、ローカル・コミュニティ・ハブがCardanoの採用と認知を促進するにはどうすればよいでしょうか?
 
-予算規模: **$100,000 in Ada**
+予算規模: **$100,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26118) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26118/stage/unspecified)。
 

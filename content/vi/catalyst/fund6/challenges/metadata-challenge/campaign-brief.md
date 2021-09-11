@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Làm cách nào chúng ta có thể sử dụng giao dịch siêu dữ liệu để giải quyết các vấn đề trong thế giới thực?
 
-Giá trị quỹ: **$100,000 Ada**
+Giá trị quỹ: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26107) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified).
 

@@ -7,7 +7,7 @@ hide_feedback: true
 
 Làm cách nào để giúp các bên liên quan xác định các mối đe dọa có hệ thống nghiêm trọng rõ rệt đối với Cardano blockchain trước khi một mối đe dọa vượt qua hệ thống?
 
-Fund Size: **$50,000 in Ada**
+Fund Size: **$50,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26110) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified).
 

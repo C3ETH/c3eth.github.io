@@ -7,7 +7,7 @@ hide_feedback: true
 
 How do we seed and grow Cardano in Africa?
 
-Fund Size: **$200,000 in Ada**
+Fund Size: **$200,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26108) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified).
 

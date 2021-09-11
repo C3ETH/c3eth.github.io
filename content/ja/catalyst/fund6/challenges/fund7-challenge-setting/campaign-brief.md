@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 コミュニティは、Fund7でどのような課題を優先すべきでしょうか?
 
-予算規模: **$5,400,000 in Ada**
+予算規模: **$5,400,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26120) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified)。
 

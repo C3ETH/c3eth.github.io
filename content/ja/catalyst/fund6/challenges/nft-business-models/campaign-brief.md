@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 NFTのアート以外のユースケースで、CardanoをNFTベースのビジネスに最適なブロックチェーンとして区別できるものはどれですか？
 
-予算規模: **$200,000 in Ada**
+予算規模: **$200,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26115) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26115/stage/unspecified)。
 

@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Làm cách nào để quá trình kiểm tra các đề xuất được tài trợ hiệu quả, phân bổ và minh bạch?
 
-Giá trị quỹ: **$100,000 Ada**
+Giá trị quỹ: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26119) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26119/stage/unspecified).
 

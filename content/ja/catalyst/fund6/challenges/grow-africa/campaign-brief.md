@@ -9,7 +9,7 @@ hide_feedback: true
 
 アフリカでCardanoをどのように育てるのか？
 
-予算規模: **$200,000 in Ada**
+予算規模: **$200,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26108) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified)。
 

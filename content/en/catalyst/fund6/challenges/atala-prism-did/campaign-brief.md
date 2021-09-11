@@ -7,7 +7,7 @@ hide_feedback: true
 
 What will drive mass-scale adoption of decentralized IDs on Cardano?
 
-Fund Size: **$250,000 in Ada**
+Fund Size: **$250,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26116) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
 

@@ -7,7 +7,7 @@ hide_feedback: true
 
 資金調達された提案の監査プロセスを効率的、分散、透明にするにはどうすればよいでしょうか?
 
-予算規模: **$100,000 in Ada**
+予算規模: **$100,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26119) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26119/stage/unspecified)。
 

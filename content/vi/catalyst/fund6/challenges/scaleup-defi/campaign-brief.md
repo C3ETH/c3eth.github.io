@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Làm cách nào để có thể khuyến khích các nhóm Tài chính phi tập trung xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?
 
-Giá trị quỹ: **$200,000 Ada**
+Giá trị quỹ: **$200,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26109) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26109/stage/unspecified).
 

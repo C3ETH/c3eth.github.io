@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Cardanoエコシステム外の起業家が次の2つの資金でCatalystに提案を提出するように促すにはどうすればよいでしょうか?
 
-予算規模: **$100,000 in Ada**
+予算規模: **$100,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26105) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified)。
 

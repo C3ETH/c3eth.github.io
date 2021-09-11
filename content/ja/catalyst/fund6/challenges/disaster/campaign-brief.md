@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 SPOは、安全な問題のない分散型の方法で、リスク & 災害復旧テストの計画、開発、および参加を支援するにはどうすればよいですか?
 
-予算規模: **$150,000 in Ada**
+予算規模: **$150,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26117) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified)。
 

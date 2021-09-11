@@ -11,7 +11,7 @@ description: >
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
-**Requested Amount (USD):** $000,000
+**Requested Amount (USD):** $12,500
 
 ![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 ## Problem statement

@@ -4,7 +4,7 @@ linkTitle: "アフリカのためのDeFiとマイクロレンディング"
 type: docs
 hide_feedback: true
 ---
-予算規模: **$90,000 in Ada**
+予算規模: **$90,000 USD paid in Ada**
 
 アフリカに合ったマイクロレンディングとDefi dAppソリューションの作成を可能にするにはどうすればよいでしょうか?
 

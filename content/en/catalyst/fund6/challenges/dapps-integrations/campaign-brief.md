@@ -7,7 +7,7 @@ hide_feedback: true
 
 What applications will provide the most value for end users in 2021?
 
-Fund Size: **$250,000 in Ada**
+Fund Size: **$250,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26103) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified).
 

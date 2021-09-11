@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 Làm cách nào để tạo ra trải nghiệm tích cực cho nhà phát triển giúp họ tập trung vào vào việc xây dựng thành công các ứng dụng?
 
-Giá trị quỹ: **$1,005,000 in Ada**
+Giá trị quỹ: **$1,005,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26094) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26094/stage/unspecified).
 

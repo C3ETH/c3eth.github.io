@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?
 
-Fund Size: **$50,000 in Ada**
+Fund Size: **$50,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26110) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified).
 

@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 今後6ヶ月以内にCardanoにオープンファイナンスソリューションを構築/展開するように、DeFiチームに推奨するにはどうすればよいですか?
 
-予算規模: **$200,000 in Ada**
+予算規模: **$200,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26109) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26109/stage/unspecified)。
 

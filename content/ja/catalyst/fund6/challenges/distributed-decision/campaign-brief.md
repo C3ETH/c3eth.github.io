@@ -7,7 +7,7 @@ hide_feedback: true
 
 Catalystコミュニティが次の2つのCatalystラウンドで分散型意思決定をより良くするためにどのように支援することができますか?
 
-予算規模: **$75,000 in Ada**
+予算規模: **$75,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26104) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified)。
 

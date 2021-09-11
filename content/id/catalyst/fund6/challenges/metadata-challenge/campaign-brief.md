@@ -7,7 +7,7 @@ hide_feedback: true
 
 How can we utilize transaction metadata to solve real world problems?
 
-Fund Size: **$100,000 in Ada**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26107) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified).
 

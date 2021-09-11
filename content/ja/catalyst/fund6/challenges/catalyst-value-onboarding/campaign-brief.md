@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 次の2つのFUNDでコミュニティメンバーからのProject Catalystへの有意義な参加を促進するにはどうすればよいでしょうか?
 
-予算規模: **$75,000 in Ada**
+予算規模: **$75,000 USD paid in Ada**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26106) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified)。
 

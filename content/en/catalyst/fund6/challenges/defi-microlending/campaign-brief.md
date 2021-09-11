@@ -5,7 +5,7 @@ type: docs
 hide_feedback: true
 ---
 
-Fund Size: **$90,000 in Ada**
+Fund Size: **$90,000 USD paid in Ada**
 
 How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
 
