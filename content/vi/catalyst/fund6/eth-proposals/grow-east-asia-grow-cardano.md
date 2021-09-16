@@ -9,7 +9,7 @@ description: |2-
   Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở khu vực Đông Á theo một cách toàn diện, đa dạng và theo hướng khuyến khích và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến và việc triển khai!
 ---
 
-**Thử thách:** [Thiết lập thử thách của Quỹ 7] ({{<relref "../challenges/fund7-challenge-setting/campaign-brief.md">}})
+**Thử thách:** [Thiết lập thử thách của Quỹ 7]({{<relref "../challenges/fund7-challenge-setting/campaign-brief.md">}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 

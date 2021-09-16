@@ -10,7 +10,7 @@ description: |2-
 ---
 {{< youtube RgNaKSNI9l8 >}}
 
-**チャレンジ：** [バリューオンボーディングチャレンジ]（{{<relref "../challenges/catalyst-value-onboarding/campaign-brief.md">}}）
+**チャレンジ：** [バリューオンボーディングチャレンジ]({{<relref "../challenges/catalyst-value-onboarding/campaign-brief.md">}}）
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
