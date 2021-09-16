@@ -1,149 +1,156 @@
 ---
-title: "Eastern Townhall Team Operation"
-linkTitle: "Eastern Townhall Team Operation"
+title: イースタンタウンホールチームオペレーション
+linkTitle: イースタンタウンホールチームオペレーション
 type: docs
-hide_feedback: true
-weight: 20
-description: >
-    Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English. We propose that the Eastern TownHall is funded to support eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
+hide_feedback: 'true'
+weight: '20'
+description: |2-
+
+  東部時間帯に住んでいて、言語が英語でない場合、Catalystへの参加は困難です。イースタンタウンホールは、イベントやコンテンツの翻訳で東の国をサポートするために資金提供されることを提案します。目的は、各ファンドの参加者を20％増やすことです。
 ---
-**Challenge:** [Value Onboarding Challenge]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
+**チャレンジ：** [バリューオンボーディングチャレンジ]（{{&lt;relref "../ challenges / catalyst-value-onboarding / campaign-brief.md"&gt;}}）
 
-**Requested Amount (USD):** $10,000
+[](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
-## Problem statement
-Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English.
+**要求額（USD）：** $ 10,000
 
-## Describe your solution to the problem
-Eastern TownHall supports eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
+## 問題文
 
-## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
+東部時間帯に住んでいて、言語が英語でない場合、Catalystへの参加は困難です。
 
-## Detailed plan
-The Eastern Townhall is a community-driven initiative growing Cardano in the Eastern Hemisphere and across Asia. We want to build a truly global economy and society. Our focus is on making the hard, possible. A place, a time, and a space where:
+## 問題の解決策を説明してください
 
-* We can build knowledge, share information, connect and support each other.
-* Language and culture are not an barrier to participation.
-* We learn how to apply the technology, and community, to address local needs.
-* Show how to use Cardano to increase our economic wellbeing.
-* Enrich Cardano's ecosystem with our stories, our energy, and our perspectives.
+Eastern TownHallは、イベントやコンテンツの翻訳で東の国をサポートしています。目的は、各ファンドの参加者を20％増やすことです。
 
-The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano. 
+## 関連する経験
 
-### Current Problems and Limitation
+Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニアリング。東アジアと日本の教育者と会計士。
 
-The Eastern Townhall is the result of individuals and groups working together. Each bringing a unique quality. We interact in and around the Cardano Community, focused on linking individuals and projects to Project Catalyst. But this takes time, effort, and incurs expenses. Having no pool of funds to draw upon limits what we can achieve.
+## 詳細計画
 
-### Proposed Solution: Pool of Funds
+イースタンタウンホールは、東半球とアジア全体でカルダノを成長させるコミュニティ主導のイニシアチブです。私たちは真にグローバルな経済と社会を構築したいと考えています。私たちの焦点は、困難を可能にすることにあります。場所、時間、そして空間：
 
-To reach a global audience means meeting people where they are, in their country, their language and their culture. 
+- 私たちは知識を構築し、情報を共有し、相互につながり、サポートすることができます。
+- 言語と文化は参加の障壁ではありません。
+- 地域のニーズに対応するために、テクノロジーとコミュニティを適用する方法を学びます。
+- カルダノを使用して経済的幸福を高める方法を示します。
+- 私たちのストーリー、エネルギー、そして視点でカルダノのエコシステムを豊かにしてください。
 
-We are an active part of our Cardano ecosystem. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more, so much more:
+東半球、東および東南アジア地域は、文化的および言語的に多くの国々を結びつけています。 16億人以上の人口を抱える私たちの目標は、カルダノを成長させることです。
 
-* We make knowledge and content accessible to as many cultures as possible.
-* We host different events where community members come together
-* We bridges to underrepresented groups
-* We integrate local perspectives to enrich the Catalyst Community; and
-* We listen! Gathering opinions and data to help us all understand.
+### 現在の問題と制限
 
-**We are doing translations, building community, sharing knowledge, enabling entrepreneurs, and growing Cardano.**
+イースタンタウンホールは、個人とグループが協力して取り組んだ結果です。それぞれが独自の品質をもたらします。私たちはカルダノコミュニティ内およびその周辺で交流し、個人やプロジェクトをProjectCatalystにリンクすることに重点を置いています。しかし、これには時間と労力がかかり、費用がかかります。利用できる資金のプールがないため、達成できることは限られています。
 
-Doing all that has costs, so if we are to sustain the Eastern Townhall efforts, then we need to secure funding in a way that does not add extra effort to what we are already doing.
+### 提案された解決策：資金のプール
 
-This proposal is about forming and maintain a pool of funds (a treasury) that is managed by the Eastern Townhall Trusted Seed. A pool of funds to spend at our discretion. The treasury will be used to cover expenses, to grow and sustain the efforts of the Eastern Townhall. Expenses like translation bounties; production of content; paying for online service subscriptions such as Zoom, Github, HackMD, Statbot and others; paying for activities related to organising the Eastern Town Hall.
+世界中の聴衆にリーチするということは、彼らがいる国、彼らの言語、そして彼らの文化で人々に会うことを意味します。
 
-Simply put this proposal is about funds for organising a community group. Establishing a resource and distributed support structure that provides funds needed on demand without the overhead of specific Catalyst proposals. 
+私たちはカルダノエコシステムの積極的な一部です。私たちの基本的なイベントは、毎週開催されるイースタンタウンホールです。しかし、私たちはもっと多くのことをしています。
 
-In return, we promise to report back financial statements on our activities and expenses. Translated into as many languages as we can find collaborators for. Our intent is to pioneer and prototype DAO treasury management[3] reporting. That is not a small matter and managing a shared pool of funds has plenty of compliance complications. The reporting effort is Similar in principal to the work being done by index.coop[4] and FWB[5]. Most DAOs are still figuring this out and the best practices are not even drafts, so help us work this out. 
+- 私たちは知識とコンテンツをできるだけ多くの文化にアクセスできるようにします。
+- コミュニティのメンバーが集まるさまざまなイベントを開催しています
+- 過小評価グループへの架け橋
+- 地域の視点を統合して、Catalystコミュニティを充実させます。と
+- 私たちは聞きます！私たち全員が理解するのに役立つ意見やデータを収集します。
 
-Learning how the Eastern Town Hall is spending and allocating funds will help us attract future funding. Help collaborators identify opportunities to work with us. 
+**私たちは翻訳を行い、コミュニティを構築し、知識を共有し、起業家を可能にし、カルダノを成長させています。**
 
-Help us scale and reach more people across the Eastern Hemisphere.
+コストのかかるすべてのことを行うので、イースタンタウンホールの取り組みを維持するためには、すでに行っていることに余分な労力を加えない方法で資金を確保する必要があります。
 
-### KPI measurement method and goals
+この提案は、Eastern Townhall Trusted Seedによって管理される資金のプール（財務）を形成および維持することに関するものです。私たちの裁量で使う資金のプール。財務省は、経費を賄い、東部市庁舎の努力を成長させ、維持するために使用されます。翻訳賞金などの費用。コンテンツの制作; Zoom、Github、HackMD、Statbotなどのオンラインサービスサブスクリプションの支払い。東部市庁舎の組織化に関連する活動の支払い。
 
-A questionnaire on the number of proposers / voters / advisors is conducted for each **fund** in the community of the target country. The goal is to grow participation by 20% for each fund in the next 6 months. See our work on Catalyst Fund6 submission phase analysis[6] as a base line example.
+簡単に言えば、この提案はコミュニティグループを組織するための資金に関するものです。特定のCatalyst提案のオーバーヘッドなしに、オンデマンドで必要な資金を提供するリソースと分散サポート構造を確立します。
 
-### Activities to reach KPIs
+その見返りとして、私たちは私たちの活動と費用に関する財務諸表を報告することを約束します。協力者を見つけることができる限り多くの言語に翻訳されています。私たちの目的は、DAOの財務管理[3]レポートのパイオニアとプロトタイプを作成することです。それは小さな問題ではなく、資金の共有プールを管理することは、コンプライアンスの複雑さをたくさん伴います。報告の取り組みは、原則としてindex.coop [4]およびFWB [5]によって行われている作業と同様です。ほとんどのDAOはまだこれを理解しており、ベストプラクティスはドラフトでさえないので、これを解決するのを手伝ってください。
 
-**Daily**: Inquiries from the community about Catalyst are answered by our members in their respective languages. We will translate Catalyst content and publish it via our website.
+東部市庁舎がどのように支出し、資金を配分しているかを知ることは、将来の資金を引き付けるのに役立ちます。協力者が私たちと協力する機会を特定するのを手伝ってください。
 
-**Weekly**: We hold weekly planning events and meetups, sharing information about our activities with each community. 
+東半球全体でより多くの人々に拡大し、リーチするのを手伝ってください。
 
-**Monthly**: Our spending is reported. We will manage your finances in a decentralized manner using a multi-sig wallet.
+### KPIの測定方法と目標
 
-**By Fund**: Surveys will be conducted in each eastern community to count the number of voters, proposers and experts in each region.
+対象国のコミュニティの**ファンド**ごとに、提案者・有権者・顧問の数に関するアンケートを実施します。目標は、今後6か月で各ファンドの参加を20％増やすことです。ベースラインの例として、CatalystFund6提出フェーズ分析[6]に関する作業を参照してください。
 
-### Details and costs to implement
+### KPIに到達するためのアクティビティ
 
-### Budget Areas
+**毎日**：Catalystに関するコミュニティからの問い合わせには、メンバーがそれぞれの言語で回答します。 Catalystのコンテンツを翻訳し、Webサイトで公開します。
 
-1. Attendance at weekly project planning meetings that activate Eastern Hemisphere: 20 people x 2 hours x 4 weeks x 6 months x $ 15: **$14,400**
-2. Financial management, progress management, monitoring and reporting activities, other new member recruiting activities, etc .: $ 500 x 6 months = **$3,000**
-3. Common expenses: Expenses incurred across multiple projects (domain name, hosting costs, Zoom): **$1,000**
+**毎週**：毎週の計画イベントやミートアップを開催し、各コミュニティと活動に関する情報を共有しています。
 
-Total: (1) ＋ (2) ＋ (3): $18,400
+**毎月**：私たちの支出が報告されます。マルチシグウォレットを使用して、分散型の方法で財務を管理します。
 
-▲ Discount: $8,400
+**基金別**：各地域の有権者、提案者、専門家の数を数えるために、各東部コミュニティで調査が実施されます。
 
-Billed: $10,000
+### 実装の詳細とコスト
 
-Further funding requirements in future funds will be required to maintain KPIs that support Cataslyt's success in the Eastern hemisphere
+### 予算エリア
 
-We have already started this activity and will continue to do so whether or not this funding is raised.We gave a 45.6% discount to free up funds for a wider project.
+1. 東半球を活性化する毎週のプロジェクト計画会議への出席：20人x2時間x4週間x6か月x $ 15： **$ 14,400**
+2. 財務管理、進捗管理、監視および報告活動、その他の新会員勧誘活動など：$ 500 x6か月= **$ 3,000**
+3. 一般的な費用：複数のプロジェクトで発生した費用（ドメイン名、ホスティング費用、ズーム）： **$ 1,000**
 
-**NOTE**: The funds directly required for each activity, such as East Asian entrepreneurial events in the Eastern Hemisphere, meetups, translation activities, theme setting and management, etc., are not in the category of funds required for this proposal.
+合計：（1）＋（2）＋（3）：$ 18,400
 
-### Intellectual Property
+▲割引：$ 8,400
 
-Participation in our community is covered by a [Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
- 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
- 
-Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+請求：10,000ドル
 
-### After 6 months
-We have demonstrated our ability to grow Catalyst participation in the Easted Hemisphere and East Asian countries by 20% for each fund. 
+東半球でのCataslytの成功をサポートするKPIを維持するには、将来の資金におけるさらなる資金調達要件が必要になります。
 
-### The Team
+私たちはすでにこの活動を開始しており、この資金が調達されるかどうかに関係なく継続します.45.6％の割引を提供して、より広いプロジェクトのために資金を解放しました。
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+**注**：東半球での東アジアの起業イベント、ミートアップ、翻訳活動、テーマの設定と管理など、各活動に直接必要な資金は、この提案に必要な資金のカテゴリには含まれません。
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+### 知的財産
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+私たちのコミュニティへの参加は、[貢献者規約](https://www.contributor-covenant.org/)によってカバーされています。コントリビューターライセンスは、私たちのプロジェクトへのコントリビューションに付随しています。誰かの貢献の著作権は保持されます。この契約は、プロジェクトの一環として寄付を使用および再配布する許可を与えるだけです。
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+すべてのソースコードは、Apache License 2.0の下でライセンスされてい[ます。詳細については、LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md)ファイルを参照してください。
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+公開されたコンテンツは、[クリエイティブ・アトリビューション-非営利-継承（CC BY-NC-SA）ライセンスv4.0の下でライセンスされています。](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+### 6ヶ月後
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+私たちは、東半球および東アジア諸国でのCatalystの参加をファンドごとに20％増やす能力を実証しました。
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+### チーム
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+**Yuta Yuta** （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
+**Yan Tirta** （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[2] and other community groups across Asia. 
+**Mie Tran** （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。
+
+**Andy Sibuea** （@zicozibu）-インドネシア：暗号通貨を超えてインドネシア全体でブロックチェーン教育をリードしています。
+
+**ティムオブライエン**（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。
+
+**Greg Bell** （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。
+
+**Seomon Blub** （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。
+
+**Robert O'Brien** （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。
+
+**Stephen Whitenstall** （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。
+
+**Felix Weber** （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。
+
+チームは、最初のイースタンタウンホールの**信頼できるシードを**代表しています。役割もリーダーもありません。むしろ、人々は参加を通じて、時間をかけて自分自身を確立します。私たちは、Catalyst Swarm [1]、Catalyst School [2]、およびアジア全体の他のコミュニティグループと重複して協力しています。
 
 ## References
 
 [1] [Catalyst Swarm](http://catalystswarm.com/)
 
-[2] [Catalyst School](https://linktr.ee/CatalystSchool) 
+[2] [Catalyst School](https://linktr.ee/CatalystSchool)
 
-[3] [How DAOs should approach treasury management](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
+[3][DAOが財務管理にどのように取り組むべきか](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
 
-[4] [Index Coop Q3 Financial Report](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
+[4] [Index CoopQ3財務レポート](https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629)
 
-[5] [FWB DAO Financial Report (PDF)](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
+[5] [FWB DAO財務報告（PDF）](https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0)
 
-[6] [Catalyst Fund6 submission phase analysis](https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711)
+[6] [CatalystFund6提出フェーズ分析](https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711)
