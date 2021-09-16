@@ -4,13 +4,14 @@ linkTitle: Tumbuhkan Asia Timur, Tumbuhkan Cardano
 type: docs
 hide_feedback: 'true'
 weight: '10'
-description: >
+description: |2
+
   Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif, beragam, dan mendukung? Cara yang sama kita lakukan di Afrika, inisiatif dan implementasi terfokus!
 ---
 
 **Tantangan:** [Pengaturan Tantangan Dana 7]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+[](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 **Jumlah yang Diminta (USD):** $250,000
 
@@ -76,6 +77,6 @@ Peran Tim Tantangan adalah untuk mengelola tantangan di Catalyst - untuk mempres
 
 Jika Anda tertarik untuk menjadi bagian dari tim itu, beri tahu kami di komentar.
 
-## Acknowledgements
+## Ucapan Terima Kasih
 
 Proposal ini adalah salinan dari [Grow Africa, Grow Cardano yang](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) diusulkan oleh @grebel dan @archangelbob dan sekarang menjadi salah satu dari banyak [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108) .
