@@ -1,7 +1,7 @@
 ---
-title: Connecting Asian Voters and Proposers
+title: Menghubungkan Pemilih dan Pengusul Asia
 linkTitle: Menghubungkan Pemilih dan Pengusul Asia
-type: docs
+type: dokumen
 hide_feedback: 'true'
 weight: '40'
 description: |2-
@@ -15,25 +15,25 @@ description: |2-
 
 [](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
 
-**Requested Amount (USD):** $15,000
+**Jumlah yang Diminta (USD):** $15,000
 
-## Problem statement
+## Pernyataan masalah
 
 Ada hambatan, seperti kurangnya informasi tepercaya untuk memilih yang disebabkan oleh perbedaan bahasa &amp; eksklusivitas budaya.
 
-## Describe your solution to the problem
+## Jelaskan solusi Anda untuk masalah tersebut
 
 Berikan informasi tepercaya dengan bertemu orang-orang di mana pun mereka berada, dalam bahasa dan budaya lokal mereka.
 
-## Relevant experience
+## Pengalaman yang sesuai
 
 Rekan Pendiri Catalyst Swarm, Eastern Town Hall, Sekolah Catalyst. Rekayasa TI &amp; Perangkat Lunak, pendidik dan akuntan di Asia Timur &amp; Jepang.
 
-## Detailed plan
+## Rencana rinci
 
 Voting tentang bagaimana Catalyst menggunakan dana tabungan menciptakan nilai jangka panjang bagi ADA, tetapi dengan begitu banyak proposal, dengan begitu banyak konsep baru, bagaimana kita membuat keputusan voting? Sekarang bayangkan betapa sulitnya jika Anda tidak berbicara bahasa Inggris. Semua pemegang Ada mendapat manfaat jika kami mengembangkan proses dan strategi tata kelola yang lebih inklusif dan beragam. Kecuali Komunitas Catalyst dan pemegang Ada meningkatkan tingkat pemahaman kolektif kita, strategi pemungutan suara acak sama validnya dengan strategi yang telah diteliti dengan baik.
 
-### Current Problems and Limitation
+### Masalah dan Keterbatasan Saat Ini
 
 Perbedaan bahasa dan eksklusivitas budaya menghalangi inisiatif tata kelola untuk berkembang secara global. Eksperimen Catalyst yang konstan berarti kita harus berhati-hati untuk memasukkan bahasa dan budaya yang berbeda. Menghindari satu budaya mendominasi narasi.
 
@@ -58,11 +58,11 @@ Anggota tepercaya Eastern Townhall adalah bagian aktif dari ekosistem Cardano ka
 
 Bantu kami meningkatkan pengambilan keputusan di seluruh Belahan Dunia Timur dengan membuat pemungutan suara Catalyst lebih mudah diakses.
 
-## What Success Looks Like
+## Seperti Apa Kesuksesan Itu?
 
 Partisipasi dalam acara Townhall Timur telah meningkat dan mempertahankan semangat anggota komunitas baru dan reguler. Lebih banyak pengusul Catalyst terlibat dengan komunitas Asia. Bahkan jika itu hanya terjemahan proposal, konten, atau DApps untuk pasar Asia. Selain itu, pengusul Asia menemukan kerumunan mereka. Mereka dapat didanai karena ada banyak pemilih Asia yang berpartisipasi dalam Catalyst. Hasil survei menunjukkan peningkatan keterlibatan pemilih dengan pengusul, proses Catalyst, dan musyawarah sebelum pemungutan suara.
 
-### Key Performance Indicators
+### Indikator Kinerja Utama
 
 Alat utama kami untuk mengukur kinerja adalah survei pemilih kami. Kami akan melakukan ini secara teratur di negara-negara Asia. Berdasarkan survei selama dan setelah satu proses fund, kami berharap untuk:
 
@@ -76,23 +76,23 @@ Pertemuan Eastern Townhall adalah panggung utama kami di mana pemegang Ada dan o
 - Proposal Catalyst yang tersedia dalam empat bahasa *(ID, JP, KR, VN)* meningkat 50% untuk setiap satu proses fund.
 - Akun Media Sosial Eastern Townhall meningkatkan pengikut sebanyak 1000 pengikut baru dalam enam bulan.
 
-#### After One Month:
+#### Setelah satu bulan:
 
 - Menyelesaikan survei pemilih sepanajng-Asia pertama kami di empat negara Asia *(ID, JP, KR, VN)*
 - Acara khusus bahasa lokal – Pendidikan Pemilih &amp; Catalyst Swarm
 
-#### After Three Months:
+#### Setelah Tiga Bulan:
 
 - Memproduksi video Pendidikan bagi Pemilih kami
 - Menerjemahkan materi terkait pemilih Catalyst dalam empat bahasa Asia *(ID, JP, KR, VN)*
 - Mengadakan dalam bahasa formal Eastern Townhall - Catalyst Swarm IdeaFests yang pertama. (Uji coba untuk Fund 6 sedang dilakukan untuk menjadi bahan evaluasi kami).
 
-#### After Six Months:
+#### Setelah Enam Bulan:
 
 - Menyelesaikan enam survei pemilih di empat negara Asia *(ID, JP, KR, VN)*
 - Menyelesaikan retrospektif pada seluruh kegiatan kami.
 
-#### After Twelve Months:
+#### Setelah Dua Belas Bulan:
 
 - Kami telah mengintegrasikan konten dan praktik yang dibutuhkan untuk terlibat dengan pemilih dan pengusul Asia.
 - Survei bulanan kami berlanjut dan menunjukkan momentum ke depan.
@@ -101,11 +101,11 @@ Pertemuan Eastern Townhall adalah panggung utama kami di mana pemegang Ada dan o
 
 ## Hak Kekayaan Intelektual
 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+Semua kode sumber kami dilisensikan di bawah Lisensi Apache 2.0 - lihat [file LISENSI](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) kami untuk detailnya.
 
-Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Konten kami yang diterbitkan dilisensikan di bawah [Lisensi Atribusi-Non-Komersial-BerbagiSerupa (CC BY-NC-SA) Kreatif v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Budget
+## Anggaran
 
 Silakan lihat rencana yang diusulkan terlampir untuk rincian anggaran dengan kegiatan yang direncanakan.
 
@@ -116,31 +116,31 @@ Silakan lihat rencana yang diusulkan terlampir untuk rincian anggaran dengan keg
 
 Biaya tenaga kerja jauh lebih rendah di Vietnam dan Indonesia kami dapat berbuat lebih banyak. Namun, biaya ini perlu dinormalisasi ke median global untuk jenis pekerjaan/keterampilan. Tidak semua orang tinggal di Vietnam/Indonesia.
 
-### The Team
+### Tim
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+Sebuah upaya kolaboratif, tim membawa banyak pengalaman budaya dan teknis ke Cardano. Kita semua sangat aktif di Catalyst, dan kelompok komunitas di seluruh ekosistem kita. Kami adalah kelompok beragam yang disatukan oleh janji Cardano:
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+**Yuta Yuta** (@yutazz) - Jepang: Duta resmi Cardano, Community Co-Organizer, Penerima Catalyst Fund 2, akuntan publik bersertifikat.
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+**Yan Tirta** (@yantirta) - Indonesia: Pejuang komunitas Cardano Indonesia memberdayakan komunitas lokalnya dengan pendidikan dan dorongan.
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+**Mie Tran** (@mie.tran.0407) - Vietnam: Jurusan Bahasa Inggris dan Bisnis Internasional dengan pengalaman bekerja dengan bisnis Barat dan penerjemahan.
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+**Andy Sibuea** (@zicozibu) - Indonesia: Memimpin pendidikan blockchain di luar cryptocurrency dan di seluruh Indonesia.
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+**Tim O'Brien** (@tobrien) - Vietnam: Pelopor tanpa kode. Fasilitator di East African Townhall (EATH).
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+**Greg Bell** (@grebel) - Australia: Konsultan IT, menulis Catalyst Challenges.
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+**Seomon Blub** (@seomon) - Austria: Konsultan IT berfokus pada infrastruktur perangkat manusia untuk komunitas yang berkelanjutan.
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+**Robert O'Brien** (@wolstaeb) - Selandia Baru: Insinyur Perangkat Lunak sistem keuangan, Co-Organizer Komunitas, dan Pengusaha.
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+**Stephen Whitenstall** (@swhitenstall) - Inggris: Mengikuti dan mendokumentasi segala kegiatan Catalyst. Membantu komunitas seperti Catalyst Circle dan Catalyst Swarm menjadi terorganisir.
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&amp;M Catalyst Circle/Swarm/School.
+**Felix Weber** (@felixweber) - Prancis: Manajer Komunitas membangun jembatan di antara orang-orang. Anggota T&amp;M Catalyst Circle/Swarm/School.
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[2], and Catalyst School[3] and other community groups across Asia.
+Tim tersebut mewakili **anggota terpercaya** Balai Kota Timur awal. Tidak ada peran, tidak ada pemimpin. Sebaliknya orang membangun diri mereka sendiri dari waktu ke waktu, melalui partisipasi. Kami tumpang tindih dan berkolaborasi dengan Catalyst Swarm[1], dan Catalyst School[2] dan kelompok komunitas lainnya di seluruh Asia.
 
 ## Referensi
 
