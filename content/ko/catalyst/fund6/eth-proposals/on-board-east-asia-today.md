@@ -146,6 +146,7 @@ A collaborative effort, the team bring a wealth of cultural and technical experi
 **Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
 
 The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. The exteded team includes professional interpreters and translators.
+
 ## References
 
 [1] [English Proficiency Index](https://www.ef.com/wwen/epi/)
