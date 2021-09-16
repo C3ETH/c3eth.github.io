@@ -9,7 +9,7 @@ description: |2-
   Meskipun populasinya miliaran, orang Asia Timur kurang terwakili di Catalyst karena kurangnya konten lokal. Kami mengusulkan untuk menyiapkan saluran terjemahan yang akan menerjemahkan dokumentasi & proposal katalis di sebanyak mungkin bahasa di Asia Timur.
 ---
 
-**Tantangan:** [Sumber daya multibahasa]({{&lt; relref "../challenges/multilingual-resources/campaign-brief.md" &gt;}})
+**Tantangan:** [Sumber daya multibahasa]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
 [](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
