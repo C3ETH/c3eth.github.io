@@ -9,7 +9,7 @@ description: |2-
   東部時間帯に住んでいて、言語が英語でない場合、Catalystへの参加は困難です。イースタンタウンホールは、イベントやコンテンツの翻訳で東の国をサポートするために資金提供されることを提案します。目的は、各ファンドの参加者を20％増やすことです。
 ---
 
-**チャレンジ：** [バリューオンボーディングチャレンジ]（{{&lt;relref "../ challenges / catalyst-value-onboarding / campaign-brief.md"&gt;}}）
+**チャレンジ：** [バリューオンボーディングチャレンジ]（{{<relref "../challenges/catalyst-value-onboarding/campaign-brief.md">}}）
 
 [](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
