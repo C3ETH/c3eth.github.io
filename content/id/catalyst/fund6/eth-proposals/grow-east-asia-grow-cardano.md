@@ -4,69 +4,82 @@ linkTitle: Tumbuhkan Asia Timur, Tumbuhkan Cardano
 type: docs
 hide_feedback: 'true'
 weight: '10'
-description: |2
-
-  Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif, beragam, dan mendukung? Cara yang sama kita lakukan di Afrika, inisiatif dan implementasi terfokus!
+description: >
+  Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif, beragam, dan mendukung? Cara yang sama kami lakukan di Afrika, inisiatif dan implementasi terfokus!
 ---
+**Tantangan:** [Pengaturan Tantangan Fund 7]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-**Tantangan:** [Pengaturan Tantangan Dana 7]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
-
-[](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 **Jumlah yang Diminta (USD):** $250,000
 
 ## Pertanyaan tantangan:
 
-Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif dan mendukung? Cara yang sama kita lakukan di Afrika, inisiatif terfokus!
+Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif, beragam, dan mendukung? Cara yang sama kami lakukan di Afrika, inisiatif dan implementasi terfokus!
 
 ## Mengapa itu penting?
 
-Komunitas Cardano sangat condong ke Amerika Utara dan Eropa. Pertumbuhan di tempat lain membutuhkan dukungan dan inisiatif kita sebagai komunitas.
+Komunitas Cardano sangat berbasis di Amerika Utara dan Eropa. Pertumbuhan di tempat lain membutuhkan dukungan dan inisiatif kita sebagai komunitas.
 
 ## Seperti apa kesuksesan itu?
 
-Spektrum luas orang di seluruh Asia dan terhubung ke Asia, berkumpul dan membentuk tim untuk menumbuhkan ekosistem kita.
+Berbagai macam orang dari Asia atau dengan koneksi ke Asia berkumpul dan membentuk tim untuk menumbuhkan ekosistem kita.
 
 ## Metrik Utama untuk diukur
 
-Di akhir tantangan ini, kami akan mengajukan beberapa pertanyaan kepada diri sendiri tentang kualitas partisipasi:
-
-- Jumlah proposal yang berasal dari peserta Asia Timur di Project Catalyst
-- Kuantitas dan kualitas proposal yang didanai berasal dari tim Asia Timur.
-- Dampak yang diamati dari proyek yang didanai (memenuhi KPI mereka).
-- Apakah kami meningkatkan partisipasi komunitas Cardano dan tim Catalyst dengan penduduk Asia Timur?
-- Apakah ada peningkatan Dompet Aktif Harian/Bulanan (DAW/MAW) sebagai ukuran dari momentum dan keterlibatan
-- Apakah kami meningkatkan jumlah Stake Pools dan Stake Pool Operators yang berbasis di Asia Timur?
-
-Kami juga akan mengajukan beberapa pertanyaan spesifik tentang kualitas proposal.
-
-- Apakah ada umpan balik yang baik tentang kemajuan, kegagalan, atau keberhasilan proyek yang didanai, yang membantu kami memahami nuansa penerapan solusi Cardano di seluruh Asia Timur?
-- Apakah kekhasan dan kesesuaian dari solusi-solusinya?
-- Apakah kita berada di jalur yang tepat untuk meningkatkan kehidupan orang-orang yang menggunakan Cardano di Asia Timur?
-- Apakah evaluasi dampak sosial dan lingkungan digunakan untuk mengukur kinerja proposal?
-- Apa keberlanjutan proposal di luar cakupan Catalyst?
+- Kuantitas dan kualitas proposal yang didanai serta dampak yang diamati.
+- Peningkatan yang stabil dalam SPO dan transaksi di Asia Timur.
+- Jumlah peserta Asia Timur
+- Jumlah peserta Luar Asia Timur dengan kemitraan yang signifikan dengan penduduk Asia Timur
+- Umpan balik tentang kemajuan dari proposal yang berhasil terlepas dari kegagalan atau keberhasilan
+- Kebaruan dan kesesuaian solusi (sulit diukur, mudah dilihat)
+- Jumlah proposal East Asia Fund7 yang tidak memerlukan pendanaan lebih lanjut untuk tetap beroperasi
 
 ## Penjelasan Tantangan
 
-Seperti di Afrika, meningkatkan tingkat kesadaran orang-orang biasa di Asia Timur tentang blockchain dan jaringan Cardano harus menjadi prioritas bagi komunitas Catalyst. Dalam tantangan ini, kami menyediakan dana bagi orang-orang yang telah mempelajari Cardano untuk memanfaatkan dukungan komunitas dan membangun atau menggunakan jaringan Cardano.
+Seperti di Afrika, meningkatkan tingkat kesadaran orang-orang pada umumnya di Asia Timur tentang teknologi blockchain dan protokol Cardano harus menjadi prioritas bagi komunitas Catalyst. Menyediakan dana bagi orang-orang yang belajar tentang protokol kami untuk memanfaatkan protokol dan dukungan yang ditawarkan komunitas menurut saya adalah alasan kami bekerja sama, bukan?
 
-Sifat proposal untuk tantangan ini adalah terbuka. Satu-satunya persyaratan mereka adalah berasal atau fokus pada Asia Timur dan menyertakan anggota tim Asia Timur atau fokus pada peserta Asia Timur.
+Sebagian besar kumpulan stake pool berbasis di Amerika Utara dan Eropa. Protokol Cardano akan jauh lebih tangguh dan produktif bagi orang-orang di seluruh dunia ketika komunitas Catalyst meningkatkan kerja dan dengan sengaja mendanai orang-orang di seluruh dunia.
 
-Misalnya, sebagian besar Stake Pools berada di Amerika Utara dan Eropa. Jaringan Cardano akan lebih tangguh ketika Stake Pools didistribusikan secara merata di seluruh dunia. Komunitas Catalyst perlu melangkah dan dengan sengaja mewujudkannya.
+Menanggapi bagian belahan dunia ini secara langsung melalui tantangan pendanaan seperti ini memberi mereka akses ke komunitas kami dan dengan demikian menjadi sarana pendukung saat mereka terlibat dengan ekosistem Cardano.
 
-Cardano memulai kehidupan di Asia Timur (Jepang dan Hong Kong), dan Emurgo berfokus pada Asia Timur. Mari kita membangun itu.
+Jumlah dana yang diusulkan sama dengan 6,25% dari total yang tersedia untuk Fund 7. Saran yamg bisa diberikan adalah bahwa ini adalah persentase yang bagus untuk digunakan sebagai panduan untuk putaran pendanaan masa depan ketika pendanaan meningkat untuk semua tantangan yang fokus pada wilayah tertentu.
+
+---
+
+Asia Tenggara adalah lahan subur untuk adopsi Cardano. Memiliki putaran pendanaan yang berfokus pada Asia Tenggara adalah skenario menang, menang, menang. Asia Tenggara menang dengan mendapat dukungan. Proyek komersial yang sudah dibangun di Asia Tenggara menang, karena mendapat sinyal dukungan dari komunitas kami. Pemegang Cardano menang ketika ada lingkungan yang mendorong untuk adopsi massal di mana saja.
+
+Cardano memulai kehidupan di Asia Tenggara (Jepang dan Hong Kong). Fokus pada Asia Tenggara adalah strategi yang telah dipromosikan dan dilakukan secara terbuka oleh Emurgo.
+
+ROI kemungkinan besar akan tinggi karena proyek yang disponsori masyarakat lebih baik dijalankan di ekonomi muda dan berkembang.
 
 ## Apakah ini:
 
-Panggilan untuk bertindak; Aktifkan kemampuan komunitas Cardano untuk mengenali, menghargai kesempatan untuk membuat dunia menjadi tempat yang lebih baik. Asia Timur adalah lahan subur untuk adopsi Cardano. Pengembalian atas niat (ROI) cenderung tinggi karena proyek-proyek di ekosistem ekonomi yang masih muda dan berkembang menghadapi lebih sedikit kemandekan ekonomi.
+Panggilan untuk mengaktifkan kemampuan komunitas Cardano untuk mengenali, mengambil risiko, dan menghargai kesempatan ini untuk membuat dunia menjadi tempat yang lebih baik.
 
-Mengakomodir berbagai belahan dunia secara langsung dan sengaja melalui tantangan pendanaan membuat komunitas kami lebih mudah diakses. Itu membuat kita lebih tahan banting. Ini membantu kita belajar dan memahami kebutuhan komunitas yang membentuk ekosistem kita.
+## Ini bukanlah:
 
-Sebuah visi yang membutuhkan suara untuk menjadi sebuah pencapaian. Ketika tantangan berhasil, penerima manfaat adalah seluruh komunitas Cardano. Ini adalah panggilan untuk menutup prasangka kita dan membuka mata, hati, dan pikiran kita kepada orang-orang baik yang tidak memiliki fasilitas kebanyakan rata-rata kita miliki sejak lahir—memungkinkan orang lain dengan keadaan yang tidak bercukupan untuk bangkit dan berhasil.
+Ini bukan proposal yang membutuhkan kerja aktif para pengusul, ini adalah visi yang membutuhkan suara untuk menjadi sebuah prestasi. Jika berhasil, penerima manfaat adalah seluruh komunitas Cardano. Ini adalah panggilan untuk menutup prasangka kita dan membuka mata, hati, dan pikiran kita kepada orang-orang baik yang tidak memiliki manfaat lingkungan yang banyak dari kita sejak lahir. Memberi mereka kesempatan untuk menunjukkan bahwa kondisi bukanlah sesuatu yang membutuhkan amal untuk naik level dan berhasil. Yang diperlukan hanyalah kesempatan yang sama untuk berhasil atau gagal yang telah lama dinikmati oleh banyak dari kita, tetapi dengan hambatan dan rintangan mereka yang telah berkurang dan pilihan mereka tetap berada di tangan mereka sendiri.
+
+## Terlepas dari apakah itu berhasil atau gagal:
+
+Mata saya terbuka dan pikiran saya berubah tentang potensi Asia Tenggara. Dari bankir Asia Tenggara di barat, ekspatriat dengan visi dan hati, pemuda dengan semangat, dokumenter yang menantang asumsi saya dan anggota komunitas Cardano dengan begitu banyak hal untuk diberikan. Dari bankir Asia Tenggara di barat, ekspatriat dengan visi dan hati, pemuda dengan semangat, dokumenter yang menantang asumsi saya dan anggota komunitas Cardano dengan begitu banyak hal untuk diberikan.
+
+Terima kasih kepada Anda semua yang telah berkomentar dan berinteraksi dengan saya selama beberapa minggu terakhir.
+
+## Dampak
+
+**Dampak** : Fund5 akan dimulai segera setelah kesepakatan dengan pemerintah Ethiopia kemungkinan besar telah diumumkan dan akan terus membangun momentumnya. Bersamaan dengan pengumuman besar ini, Asia Tenggara memiliki lebih banyak talenta yang kurang dimanfaatkan daripada yang mungkin dapat didukung oleh proposal ini, tetapi ia memiliki potensi tak terbatas untuk mengungkap mereka dan membuat mereka terlihat di seluruh dunia. Ini adalah waktu yang tepat untuk tantangan komunitas ini untuk mengubah dunia dengan efek maksimal.
+
+**Kelayakan** : Asia Tenggara siap untuk pertumbuhan yang berfokus pada teknologi (lihat video di atas), memiliki lebih dari 600 pusat teknologi yang tersebar di seluruh benua dan merupakan rumah bagi 4 dari 20 ekonomi dengan pertumbuhan tercepat di dunia.
+
+**Auditability** : Seperti semua proposal komunitas, ini bergantung pada hasil tantangan yang diajukan untuk benar-benar membuktikan dirinya, tetapi metrik yang diusulkan dapat memberikan indikasi awal seberapa suksesnya.
+
+**Anggaran** : Cukup besar untuk menarik perhatian dan proposal yang signifikan, tetapi cukup kecil untuk memungkinkan proposal komunitas lain mencari pendanaan
 
 ## Tim Tantangan
 
-Proposal ini dapat dan harus menjadi proposal tim tantangan. Sayangnya, pengusul tantangan belum sempat membentuk tim tantangan sebelum proposal masuk ke review. Jika memungkinkan, kami bermaksud membantu membentuk tim itu sebelum pemungutan suara dimulai.
+Proposal ini berusaha untuk memasukkan tim tantangan. Sayangnya, pengusul tantangan belum sempat membentuk tim tantangan secara penuh sebelum proposal masuk ke review. Jika memungkinkan, kami bermaksud membantu membentuk tim itu sebelum pemungutan suara dimulai.
 
 Orang-orang berikut telah menawarkan diri untuk bergabung dalam tim tantangan.
 
