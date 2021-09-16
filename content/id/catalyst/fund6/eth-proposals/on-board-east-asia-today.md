@@ -11,7 +11,7 @@ description: |2-
 
 **Tantangan:** [Sumber daya multibahasa]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **Jumlah yang Diminta (USD):** $12,500
 

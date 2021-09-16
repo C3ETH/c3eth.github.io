@@ -19,7 +19,7 @@ There are no initiatives to attract and engage East Asian entrepreneurs where th
 ## Describe your solution to the problem
 Use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
 ## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
+Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. Educators and accountant in East Asia & Japan.
 ## Detailed plan
 We want to reach the massive untapped potential of East Asian entrepreneurs. Meet them where they are, in their country, their language and their culture. The Eastern Townhall wants to establish a growing network of East Asian entrepreneurs. Where they can build knowledge, share information, connect and support each other. Thinking global, acting local.
 ### Current Problems and Limitation
@@ -29,7 +29,7 @@ Recall a moment when you realised if you poked something, pushed it or moulded i
 Reaching Entrepreneurs is difficult when language and cultural barriers exist. Local context may also have undeveloped startup funding programmes too. This can result in unrealized startup funding opportunities. Few East Asian entrepreneurs are aware of the opportunities and the technical, economic benefits of Cardano; Nor is there a full understanding of how to apply Cardano technology within local communities to address local market opportunities. We want to change that.
 ### Proposed Solution: Cardano StartUp Month
 
-This proposal is about running virtual events in January/February 2022 to develop entrepreneurs in Vietnam and Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano. 
+This proposal is about running virtual events in January/February 2022 to develop entrepreneurs in Vietnam and Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano.
 
 **The purpose of the event is to build startup founders and Distributed Autonomous Organisation (DAO) collaborators.** We are not building startups! Our intent is to educate. Focusing on experience-based learning by providing a soft way for the general public to access entrepreneurship and blockchain technology without risk.
 
@@ -72,7 +72,7 @@ At the end of the event:
 * PR and promotion of the event started.
 #### After Two Months: 
 
-* Mentors, Judges and Registrations all confirmed
+* Mentors, Judges and Registrations all confirmed.
 * Event underway and is being run. 
 #### After Six Months: 
 
@@ -89,7 +89,7 @@ All our source code is licensed under the Apache License 2.0 - see our [LICENSE]
 Please see attached proposed plan for a detailed budget breakdown with planned activities.
 
 * Core Team **$10,500 USD:**
-including project management, content production, comunity management, and adminstration. 
+Including project management, content production, comunity management, and adminstration. 
 * Supporting Team **$3,500 USD:**
 Mentors, judges, special guests.
 * Marketing and Communication **$5000 USD:**

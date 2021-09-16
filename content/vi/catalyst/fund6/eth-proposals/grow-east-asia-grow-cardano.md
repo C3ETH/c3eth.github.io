@@ -11,7 +11,7 @@ description: |2-
 
 **Thử thách:** [Thiết lập thử thách của Quỹ 7] ({{<relref "../challenges/fund7-challenge-setting/campaign-brief.md">}})
 
-[](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 **Số tiền yêu cầu (USD):** 250.000 USD
 

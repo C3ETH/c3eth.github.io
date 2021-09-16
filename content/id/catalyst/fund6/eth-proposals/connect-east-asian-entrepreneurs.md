@@ -11,7 +11,7 @@ description: |2-
 
 **Tantangan:** [Menjangkau Pengusul]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
 **Jumlah yang Diminta (USD):** $20,000
 
