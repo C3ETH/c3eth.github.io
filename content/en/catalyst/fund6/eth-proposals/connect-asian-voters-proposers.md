@@ -7,6 +7,8 @@ weight: 40
 description: >
     There are barriers, such as a lack of trusted information to voting caused by language differences & cultural exclusivity. We propose to provide trusted information by meeting people where they are, in their local language and culture.
 ---
+{{< youtube BT2-0tnZnzc >}}
+
 **Challenge:** [Distributed decision making]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)

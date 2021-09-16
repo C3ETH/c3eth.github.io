@@ -7,6 +7,8 @@ weight: 40
 description: >
     There are barriers, such as a lack of trusted information to voting caused by language differences & cultural exclusivity. We propose to provide trusted information by meeting people where they are, in their local language and culture.
 ---
+{{< youtube xtfa15Wl11E >}}
+
 **Challenge:** [Distributed decision making]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
@@ -24,7 +26,6 @@ Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software 
 
 ## Detailed plan
 Voting on how Catalyst spends the treasury creates long-term value to ADA, but with so many proposals, with so many new concepts, how do we make any voting decision? Now imagine how difficult it must be when you do not speak English. All Ada holders benefit if we develop better more inclusive and diverse governance processes and strategies. Unless the Catalyst Community and Ada holders level up our collective cognition, a random voting strategy is just as valid as a well researched one.  
-
 ### Current Problems and Limitation
 Language differences and cultural exclusivity prevents governance initiatives from scaling globally. The constant experimentation of Catalyst means we need to be mindful to include different languages and cultures. Avoiding one culture dominating the narrative. 
 

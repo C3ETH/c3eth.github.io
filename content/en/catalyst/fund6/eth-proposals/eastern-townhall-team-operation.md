@@ -7,6 +7,8 @@ weight: 20
 description: >
     Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English. We propose that the Eastern TownHall is funded to support eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
 ---
+{{< youtube MzemrlXpqnY >}}
+
 **Challenge:** [Value Onboarding Challenge]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)

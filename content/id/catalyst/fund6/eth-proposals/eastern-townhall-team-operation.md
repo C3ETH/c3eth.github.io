@@ -8,6 +8,7 @@ description: >
 
   Berpartisipasi dalam Catalyst sulit ketika Anda tinggal di zona waktu timur dan bahasa Anda bukan bahasa Inggris. Kami mengusulkan agar Eastern Townhall didanai untuk mendukung negara-negara timur dengan acara, dan menerjemahkan konten. Tujuannya adalah untuk meningkatkan peserta sebesar 20% untuk setiap dana.
 ---
+{{< youtube MzemrlXpqnY >}}
 
 **Tantangan:** [Tantangan Pengadopsian Nilai-Nilai]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 

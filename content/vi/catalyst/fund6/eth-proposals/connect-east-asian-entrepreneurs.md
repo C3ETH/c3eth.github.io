@@ -7,6 +7,8 @@ weight: 30
 description: >
     There are no Cardano initiatives to attract and engage East Asian entrepreneurs where they are, in their local language. We propose to use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
 ---
+{{< youtube Ibm36IXxnYA >}}
+
 **Challenge:** [Proposer Outreach]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
