@@ -8,7 +8,7 @@ description: |2-
 
   Tidak ada inisiatif Cardano untuk menarik dan melibatkan entrepreneur Asia Timur di tempat mereka berada, dalam bahasa lokal mereka. Kami mengusulkan untuk menggunakan Eastern Town Hall & acara virtual yang ditargetkan untuk membangun dan mendukung jaringan entrepreneur Asia Timur.
 ---
-{{< youtube Ibm36IXxnYA >}}
+{{< youtube hURNXfZ70tM >}}
 
 **Tantangan:** [Menjangkau Pengusul]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
