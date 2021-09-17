@@ -1,19 +1,18 @@
 ---
 title: Menghubungkan Pemilih dan Pengusul Asia
 linkTitle: Menghubungkan Pemilih dan Pengusul Asia
-type: dokumen
+type: docs
 hide_feedback: 'true'
 weight: '40'
-description: |2-
-
+description: >
   Ada hambatan, seperti kurangnya informasi tepercaya untuk memilih yang disebabkan oleh perbedaan bahasa & eksklusivitas budaya. Kami mengusulkan untuk memberikan informasi tepercaya dengan bertemu orang-orang di mana mereka berada, dalam bahasa dan budaya lokal mereka.
 ---
 
-{{&lt; youtube BT2-0tnZnzc &gt;}}
+{{< youtube BT2-0tnZnzc >}}
 
-**Tantangan:** [Pengambilan keputusan terdistribusi]({{&lt; relref "../challenges/distributed-decision/campaign-brief.md" &gt;}})
+**Tantangan:** [Pengambilan keputusan terdistribusi]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
 
 **Jumlah yang Diminta (USD):** $15,000
 

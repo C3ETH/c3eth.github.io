@@ -63,7 +63,7 @@ Our primary tool for measuring performance is our voter survey. We will conduct 
 
 The Eastern Townhall Meetup is our primary stage where Ada holders and people interested in Cardano can come and meet community members. Through that platform and social media, people learn and feel comfortable going further. Therefore key engagement metrics indicate our success in bridging voters and proposers together:
 
-* The Easter Townhall meetup average weekly numbers increase 25% for each Fund.
+* The Easter Townhall meetup average weekly numbers increase 25% for each fund.
 * Catalyst Proposals available in four languages *(ID, JP, KR, VN)* increase 50% for each fund.
 * Eastern Townhall Social Media accounts increase followers by 1000 new followers in six months.
 
@@ -76,7 +76,7 @@ The Eastern Townhall Meetup is our primary stage where Ada holders and people in
 #### After Three Months: 
 
 * Produced our Voter Education videos
-* Translated Catalyst voter materials in four Asain languages *(ID, JP, KR, VN)*
+* Translated Catalyst voter materials in four Asian languages *(ID, JP, KR, VN)*
 * Held the first formal language specific Eastern Townhall - Catalyst Swarm IdeaFests. (A test run for Fund 6 is being done to find our feet).
 
 #### After Six Months: 
