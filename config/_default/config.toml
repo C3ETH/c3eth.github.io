@@ -79,7 +79,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.ja]
-title = "触媒東部市庁舎"
+title = "CATALYST 東部タウンホール"
 description = "カルダノ触媒コミュニティ東部タウンホールは、東部のタイムゾーンで国や言語を越えたコミュニティを支援しています。"
 languageName ="日本語"
 contentDir = "content/ja"
