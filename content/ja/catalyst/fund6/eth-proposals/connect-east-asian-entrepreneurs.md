@@ -1,134 +1,150 @@
 ---
-title: "Connect East Asian Entrepreneurs"
-linkTitle: "Connect East Asian Entrepreneurs"
+title: Connect East Asian Entrepreneurs（東アジアの起業家を繋がろう）
+linkTitle: Connect East Asian Entrepreneurs（東アジアの起業家を繋がろう）
 type: docs
-hide_feedback: true
-weight: 30
+hide_feedback: 'true'
+weight: '30'
 description: >
-    There are no Cardano initiatives to attract and engage East Asian entrepreneurs where they are, in their local language. We propose to use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
+  東アジアの起業家を現地の言語で引き付け、関与させるためのCardanoのイニシアチブはありません。東アジアの起業家のネットワークを確立し、サポートするために、Eastern Town Hall と対象を絞った仮想イベントを開催することを提案します。
 ---
+
 {{< youtube Ibm36IXxnYA >}}
 
 **Challenge:** [Proposer Outreach]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
-**Requested Amount (USD):** $20,000
+**予算 (USD):** $20,000
 
-## Problem statement
-There are no initiatives to attract and engage East Asian entrepreneurs where they are, in their local language.
+## 問題点
 
-## Describe your solution to the problem
-Use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
-## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
-## Detailed plan
-We want to reach the massive untapped potential of East Asian entrepreneurs. Meet them where they are, in their country, their language and their culture. The Eastern Townhall wants to establish a growing network of East Asian entrepreneurs. Where they can build knowledge, share information, connect and support each other. Thinking global, acting local.
-### Current Problems and Limitation
+東アジアの起業家を現地の言語で引き付け、関与させるイニシアチブはありません。
 
-Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way of governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, to poke, to push, and to mould new ways of doing.
+## 解決策
 
-Reaching Entrepreneurs is difficult when language and cultural barriers exist. Local context may also have undeveloped startup funding programmes too. This can result in unrealized startup funding opportunities. Few East Asian entrepreneurs are aware of the opportunities and the technical, economic benefits of Cardano; Nor is there a full understanding of how to apply Cardano technology within local communities to address local market opportunities. We want to change that.
-### Proposed Solution: Cardano StartUp Month
+東アジアの起業家のネットワークを確立し、サポートするために、Eastern Town Hallと対象を絞った仮想イベントを開催します。
 
-This proposal is about running virtual events in January/February 2022 to develop entrepreneurs in Vietnam and Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano. 
+## 関連する経験
 
-**The purpose of the event is to build startup founders and Distributed Autonomous Organisation (DAO) collaborators.** We are not building startups! Our intent is to educate. Focusing on experience-based learning by providing a soft way for the general public to access entrepreneurship and blockchain technology without risk.
+Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニアリング。東アジアと日本の教育者と会計士。
 
-The event will happen over four weeks:
+## 詳細計画
 
-**Virtual Networking (Week 1 & 2):** The first two weeks of the event is about Networking. Getting registered participants to meet each other, discuss their ideas and aspirations. Tutorial sessions will be held to help upskill and familiarise people with business design tools.
+私たちは、東アジアの起業家の未開拓の大きな可能性に到達したいと考えています。彼らがいる場所、彼らの国、彼らの言語、そして彼らの文化に会いましょう。Eastern Town Hallは、東アジアの起業家の成長するネットワークを確立したいと考えています。彼らが知識を構築し、情報を共有し、つながり、お互いをサポートできる場所です。グローバルに考え、ローカルに行動しましょう。
 
-**Pitch and Team-Up (Start of Week 3):** All participants come together for the opening event where individual participants can give a 60-second pitch of a project idea they want to pursue. People vote with their feet by choosing to join a team.
+### 現在の問題と制限
 
-**Learn and Work (Week 3 & 4)**: Over the next two weeks, teams start working together. Mentors are assigned. Special sessions are run with experts. Teams are encouraged to validate their ideas with potential customers. Throughout the two weeks, each team will have four 30min pitch sessions with a panel of mentors that help them refine their pitch and Catalyst Proposal.
+何かを突いたり、押したり、成形したりすると、反対側に新しくて面白いものが飛び出したことに気付いた瞬間を思い出してください。私たちは再びここに、そして今回は世界規模でここにいます。私たちCardanoCatalystコミュニティは、新しい考え方のパイオニアです。統治と資金調達の新しい方法。しかし、宇宙にへこみを作るには、起業家が必要です。人々はリスクを冒し、突く、押す、そして新しいやり方を形作ろうとしています。
 
-**Pitch (End of Week 4)**: All participants come together for the closing event. The pitch! Each team is given five minutes to present their market problem and their solution to a panellist that ask questions. To pitch every team must have submitted their proposal to Catalyst. When all presentations are given the audience will pick the winning teams. Prizes will be awarded. We all celebrate! At the conclusion of Fund 8, Catalyst Voters choose who to fund.
+言語や文化の障壁が存在する場合、起業家に到達することは困難です。地元でも、未開発のスタートアップ資金調達プログラムがあるかもしれません。これは、未実現のスタートアップ資金調達の機会をもたらす可能性があります。Cardanoの機会と技術的、経済的利益を認識している東アジアの起業家はほとんどいません。また、地元の市場機会に対処するためのコミュニティ内でCardano技術を適用する方法についての完全な理解もありません。私たちはそれを変えたいと思っています。
 
-The event will focus on Cardano Blockchain solutions and place emphasis on using Business Model Generation, Customer Development approaches and the use of analytical tools like Lean Startup, the Platform Design Toolkit, and Wardley Mapping.
+### 提案されたソリューション：Cardano StartUp Month
 
-By the time proposals are submitted in Fund 8, entrepreneurial teams will have formed, worked together, finished customer testing, and developed robust business models.
-### What Success Looks Like
+この提案は、ベトナムとインドネシアで起業家を育成するために、2022年1月/ 2月に仮想イベントを開催することに関するものです。このイベントは、Cardanoに基づいた市場機会を開拓するために起業家をスキルアップすることを目的としています。
 
-The event is planned to finish on conclusion of the second week of Catalyst fund 8, Feburary 2022. Teams will be submitting proposals to Catalyst Fund 8 as part of their work.
+**このイベントの目的は、スタートアップの創設者と分散型自律組織（DAO）の協力者を育成することです。**スタートアップを構築するのではありません！目的は教育です。一般の人々がリスクなしに起業家精神とブロックチェーンテクノロジーにアクセスするためのソフトな方法を提供することにより、経験に基づく学習に焦点を当てています。
 
-At the end of the event, at least 15 teams have managed to complete the process and submitted proposals to Catalyst Fund 8. Individuals complete the event with new skills, connections, and inspiration to continue their Cardano journey.
-#### Key Performance Indicators
+イベントは4週間にわたって行われます。
 
-For Entrepreneurs Startup Month, participation:
+**仮想ネットワーキング（第1週と第2週）**：イベントの最初の2週間は、ネットワーキングに関するものです。登録された参加者を互いに会わせ、彼らのアイデアや願望について話し合います。チュートリアルセッションは、ビジネスデザインツールのスキルアップと習熟を支援するために開催されます。
 
-* Reaches 100 individuals that form into at least 20 teams.
-* At least 15 teams submit proposals.
-* At least 3 proposals that are funded in Catalyts Fund 8/9
+**ピッチとチームアップ（第3週の開始）**：すべての参加者がオープニングイベントに集まり、個々の参加者が追求したいプロジェクトアイデアの60秒のピッチを与えることができます。人々はチーム参加の選択により、投票します。
 
-At the end of the event:
+**学び、働く（第3週と第4週）** ：次の2週間で、チームは協力し始めます。メンターが割り当てられます。専門家による特別セッションが実施されます。チームは、潜在的な顧客とのアイデアを検証することをお勧めします。 2週間を通して、各チームは4回の30分のピッチセッションを行い、メンターのパネルがピッチとCatalystプロポーザルの改善を支援します。
 
-* We have increased our social media presense by 1000 followers.
-* The event is covered by four major media outlets.
-#### After One Month: 
+**ピッチ（第4週の終わり）** ：すべての参加者がクロージングイベントに集まります。ピッチ！各チームは、質問をするパネリストに市場の問題と解決策を提示するために5分間与えられます。提案するには、すべてのチームが提案をCatalystに提出している必要があります。すべてのプレゼンテーションが行われると、聴衆は優勝チームを選びます。賞品が授与されます。私たちは皆お祝いをします！FUND8の終わりに、Catalyst投票者は誰に資金を提供するかを選択します。
 
-* Event Team formed, project plans and budgets finalised.
-* Event Website and Social Media Accounts established.
-* Event Online registration setup.
-* Event Promotional content (blogs/video) developed.
-* PR and promotion of the event started.
-#### After Two Months: 
+このイベントでは、Cardano Blockchainソリューションに焦点を当て、ビジネスモデル生成、顧客開発アプローチ、およびLean Startup、Platform Design Toolkit、WardleyMappingなどの分析ツールの使用に重点を置きます。
 
-* Mentors, Judges and Registrations all confirmed
-* Event underway and is being run. 
-#### After Six Months: 
+FUND8に提案が提出されるまでに、起業家チームが結成され、協力し、顧客テストを終了し、堅牢なビジネスモデルを開発します。
 
-* First event successfully completed and we are planning another improved event.
-* Three teams have turned into three funded projects that are activily building on Cardano.
-#### After Twelve Months:
+### 成功したらどうなるか
 
-* The Cardano Start Month/Week is an established event on the Asian Cardano Calendar.
-### Intellectual Property
+このイベントは、2022年2月のCatalystファンド8の第2週の終わりに終了する予定です。チームは、作業の一環として、Catalystファンド8に提案を提出します。
 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details. Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-### Budget
+イベントの終わりに、少なくとも15チームがプロセスを完了し、Catalyst Fund 8に提案を提出します。個人は、カルダノの旅を続けるための新しいスキル、つながり、インスピレーションでイベントを完了します。
 
-Please see attached proposed plan for a detailed budget breakdown with planned activities.
+#### 主要業績評価指標
 
-* Core Team **$10,500 USD:**
-including project management, content production, comunity management, and adminstration. 
-* Supporting Team **$3,500 USD:**
-Mentors, judges, special guests.
-* Marketing and Communication **$5000 USD:**
-Media Visit, Influencer collaboration, Google/IG ads 
-* Contingency (%5): **$1,000 USD**
-### The Team
+起業家スタートアップ月間、参加者：
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+- 少なくとも20チームを形成する100人の個人に到達します。
+- 少なくとも15チームが提案を提出します。
+- Catalyts Fund8 / 9で少なくとも3つの提案が資金提供されます。
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+イベントの終わりに：
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+- 私たちはソーシャルメディアの存在感を1000人のフォロワーによって増やしました。
+- このイベントは、4つの主要なメディアによって取り上げられています。
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+#### 1か月後：
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+- イベントチームが結成され、プロジェクト計画と予算が確定しました。
+- イベントウェブサイトとソーシャルメディアアカウントが開設されました。
+- イベントオンライン登録の設定。
+- イベントプロモーションコンテンツ（ブログ/ビデオ）が開発されました。
+- イベントのPRとプロモーションが始まりました。
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+#### 2か月後：
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+- メンター、ジャッジ、登録はすべて確認されました。
+- イベントが進行中で、実行されています。
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+#### 6か月後：
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+- 最初のイベントは正常に完了し、別の改善されたイベントを計画しています。
+- 3つのチームが、Cardanoを積極的に構築している3つの資金提供を受けたプロジェクトになりました。
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+#### 12か月後：
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
+- CardanoStartMonth/Weekは、アジアのCardanoカレンダーで確立されたイベントです。
+
+### 知的財産
+
+すべてのソースコードは、Apache License 2.0の下でライセンスされています。詳細については、[LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md)ファイルを参照してください。公開されたコンテンツは、[Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)の下でラインセンスされています。
+
+### 予算
+
+計画された活動の詳細な予算内訳については、添付の提案計画を参照してください。
+
+- コアチーム**$ 10,500 USD：**プロジェクト管理、コンテンツ制作、コミュニティ管理、および管理を含みます。
+- サポートチーム**$ 3,500 USD：**メンター、審査員、特別ゲスト。
+- マーケティングとコミュニケーション**$ 5000 USD：**メディア訪問、インフルエンサーコラボレーション、Google / IG広告
+- 不測の事態（％5）： **$ 1,000 USD**
+
+### チーム
+
+共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：
+
+**Yuta Yuta** （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。
+
+**Yan Tirta** （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。
+
+**Mie Tran** （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。
+
+**Andy Sibuea** （@zicozibu）-インドネシア：暗号通貨を超えてインドネシア全体でブロックチェーン教育をリードしています。
+
+**ティムオブライエン**（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。
+
+**Greg Bell** （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。
+
+**Seomon Blub** （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。
+
+**Robert O'Brien** （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。
+
+**Stephen Whitenstall** （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。
+
+**Felix Weber** （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。
 
 We are working with Venture Centre[1], IdeaFest[2], and Catalyst School[3]; as part of the proposal, we aim to work with Enterprenerdy[4], Emurgo[5], local Universities, and IOG's Catalyst Team.
+
 ## References
 
 [1] [Venture Centre](https://www.venturecentre.nz/)
 
 [2] [IdeaFest](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021)
 
-[3] [Catalyst School](https://linktr.ee/CatalystSchool) 
+[3] [Catalyst School](https://linktr.ee/CatalystSchool)
 
 [4] [Enterprenerdy](https://entreprenerdy.com/)
 
