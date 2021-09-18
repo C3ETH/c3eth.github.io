@@ -7,11 +7,11 @@ weight: '40'
 description: 言語の違いや文化的独占性が原因で、投票に対する信頼できる情報が不足しているなどの障壁があります。私たちは、現地の言語と文化で、彼らがいる場所で人々に会うことによって信頼できる情報を提供することを提案します。
 ---
 
-{{&lt; youtube BT2-0tnZnzc &gt;}}
+{{< youtube BT2-0tnZnzc >}}
 
-**Challenge:** [Distributed decision making]({{&lt; relref "../challenges/distributed-decision/campaign-brief.md" &gt;}})
+**Challenge:** [Distributed decision making]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
 
 **予算 (USD):** $15,000
 
