@@ -4,12 +4,13 @@ linkTitle: On-boarding East Asia Today!
 type: docs
 hide_feedback: 'true'
 weight: '50'
-description: 数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。私たちは、東アジアのできるだけ多くの言語でCatalystのドキュメントと提案を翻訳する翻訳パイプラインを設定することを提案します。
+description: >
+  数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。私たちは、東アジアのできるだけ多くの言語でCatalystのドキュメントと提案を翻訳する翻訳パイプラインを設定することを提案します。
 ---
 
-**Challenge:** [Multilingual resources]({{&lt; relref "../challenges/multilingual-resources/campaign-brief.md" &gt;}})
+**Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **予算 (USD):** $12,500
 
