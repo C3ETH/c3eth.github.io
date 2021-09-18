@@ -5,5 +5,4 @@ type: docs
 hide_feedback: true
 ---
 
-This index page is yet to be udated. 
-The **Catalyst Proposals for fund 6** runs from date x, to date y in these stategs.
+このインデックスページはまだ更新されていません。これはファンド6セクションのCatalyst提案です。ファンドごとに更新されます。

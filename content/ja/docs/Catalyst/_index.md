@@ -8,7 +8,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+これは、このテンプレートサイトの使用方法を示すプレースホルダーページです。
 {{% /pageinfo %}}
 
 This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
