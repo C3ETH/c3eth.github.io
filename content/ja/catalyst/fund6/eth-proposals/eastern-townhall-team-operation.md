@@ -1,18 +1,21 @@
 ---
-title: イースタンタウンホールチームオペレーション
-linkTitle: イースタンタウンホールチームオペレーション
+title: Eastern Townhall Team Operation(東半球タウンホールチーム運営)
+linkTitle: Eastern Townhall Team Operation(東半球タウンホールチーム運営)
 type: docs
 hide_feedback: 'true'
 weight: '20'
 description: |2-
 
+
+
   東部時間帯に住んでいて、言語が英語でない場合、Catalystへの参加は困難です。イースタンタウンホールは、イベントやコンテンツの翻訳で東の国をサポートするために資金提供されることを提案します。目的は、各ファンドの参加者を20％増やすことです。
 ---
-{{< youtube RgNaKSNI9l8 >}}
 
-**チャレンジ：** [バリューオンボーディングチャレンジ]({{<relref "../challenges/catalyst-value-onboarding/campaign-brief.md">}})
+{{&lt; youtube RgNaKSNI9l8 &gt;}}
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
+**チャレンジ：** [バリューオンボーディングチャレンジ]({{&lt;relref "../challenges/catalyst-value-onboarding/campaign-brief.md"&gt;}})
+
+[](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
 **要求額（USD）：** $ 10,000
 
