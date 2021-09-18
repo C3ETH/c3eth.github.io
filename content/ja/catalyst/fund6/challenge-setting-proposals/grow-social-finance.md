@@ -4,14 +4,13 @@ linkTitle: Grow Social & Environmental Finance
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2
-
+description: >
   To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
 ---
 
-**Challenge:** [Fund 7 Challenge Setting]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **Requested Amount (USD):** $250,000
 
