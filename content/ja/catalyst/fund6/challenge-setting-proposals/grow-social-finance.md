@@ -7,9 +7,9 @@ weight: '20'
 description: 気候に関する緊急の課題とそれに関連する経済的課題に対処するには、変化を推進し回復力のある金融ソリューションが必要です。社会的および環境的なイノベーションに資金を提供するために、Cardano上にどのようなソリューションを構築できますか？
 ---
 
-**Challenge:** [Fund 7 Challenge Setting]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **Requested Amount (USD):** $250,000
 
