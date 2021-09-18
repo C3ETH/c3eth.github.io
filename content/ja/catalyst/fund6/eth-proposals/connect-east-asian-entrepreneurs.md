@@ -4,16 +4,15 @@ linkTitle: Connect East Asian Entrepreneurs（東アジアの起業家を繋が�
 type: docs
 hide_feedback: 'true'
 weight: '30'
-description: |2-
-
+description: >
   東アジアの起業家を現地の言語で引き付け、関与させるためのCardanoのイニシアチブはありません。東アジアの起業家のネットワークを確立し、サポートするために、Eastern Town Hall と対象を絞った仮想イベントを開催することを提案します。
 ---
 
-{{&lt; youtube Ibm36IXxnYA &gt;}}
+{{< youtube Ibm36IXxnYA >}}
 
-**Challenge:** [Proposer Outreach]({{&lt; relref "../challenges/proposer-outreach/campaign-brief.md" &gt;}})
+**Challenge:** [Proposer Outreach]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
 **予算 (USD):** $20,000
 
