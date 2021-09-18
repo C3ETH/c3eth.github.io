@@ -114,31 +114,31 @@ Eastern Townhall イベントへの参加が増え、新しい定期的なコミ
 
 ベトナムとインドネシアでは人件費がはるかに低く、より多くのことができます。ただし、これらのコストは、親切な仕事/スキルのグローバル中央値に正規化する必要があります。誰もがベトナム/インドネシアに住んでいるわけではありません。
 
-### The Team
+### チーム
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+**Yuta Yuta** （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+**Yan Tirta** （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+**Mie Tran** （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。
 
 **Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+**ティムオブライエン**（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+**Greg Bell** （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+**Seomon Blub** （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+**Robert O'Brien** （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+**Stephen Whitenstall** （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&amp;M Catalyst Circle/Swarm/School.
+**Felix Weber** （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[2], and Catalyst School[3] and other community groups across Asia.
+チームは、最初のイースタンタウンホールの**信頼できるシードを**代表しています。役割もリーダーもありません。むしろ、人々は参加を通じて、時間をかけて自分自身を確立します。私たちは、Catalyst Swarm [1]、Catalyst School [2]、およびアジア全体の他のコミュニティグループと重複して協力しています。
 
 ## 参照
 
