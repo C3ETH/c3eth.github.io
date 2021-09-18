@@ -1,151 +1,165 @@
 ---
-title: "On-boarding East Asia Today!"
-linkTitle: "On-boarding East Asia Today!"
+title: On-boarding East Asia Today!(東アジアの人々をCatalystに連れてこよう！)
+linkTitle: On-boarding East Asia Today!
 type: docs
-hide_feedback: true
-weight: 50
+hide_feedback: 'true'
+weight: '50'
 description: >
-    Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content. We propose to setup a translation pipeline that will translate catalyst documentation & proposals across as many languages in East Asia as possible.
+  数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。私たちは、東アジアのできるだけ多くの言語でCatalystのドキュメントと提案を翻訳する翻訳パイプラインを設定することを提案します。
 ---
+
 **Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
-**Requested Amount (USD):** $12,500
+**予算 (USD):** $12,500
 
 ![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
-## Problem statement
-Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content.
 
-## Describe your solution to the problem
-Setup a translation pipeline that will translate catalyst documentation & proposals across as many languages in East Asia as possible.
+## 問題点
 
-## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
-## Detailed plan
-East Asia and Southeast Asia region unites culturally and linguistically diverse countries. People in these communities are excited about getting involved in the Cardano ecosystem. Despite having a population of 1.6 Billion, Catalyst has seen very few proposals from East Asia and Southeast Asian regions. 
+数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。
 
-### Current Problems and Limitation
-Across East Asia and Southeast Asian regions, English is not routinely spoken and a web of regional languages are used [1].
+## 解決策
 
-Language barriers reduce participation in Catalyst. It limits the potential growth of Cardano adoption and utility in this region. We experience this, we hear this from our communities. We know Cardano is missing our stories, our energy, and our perspectives of how to use Cardano to increase economic wellbeing.
-### Proposed Solution: Translation Pipeline and Automation
+東アジアのできるだけ多くの言語でCatalystのドキュメントと提案を翻訳する翻訳パイプラインを設定します。
 
-Our objective is to build and document a streamlined process for content translation and start the development of localised content. We have already set up a simple translation pipeline[2] using Git, Hugo, and Github Actions. We've tested several translation services such as Crowdin[3], Lokalize[4], PoEditor[5], and GitLozalise[6] for the Eastern Townhall to help us organise and gain some experience.
+## 関連する経験
 
-Our initial objective is simple: to get a lot of existing Cardano and Catalyst material translated into as many languages of the East and Southeast Asian regions using a semi-automated system. Gaining experience and building community. Documenting what we do and how.
+Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニア。東アジアと日本の教育者と会計士。
 
-By semi-automated system, we do not mean machine translation. While Machine translation is helpful as a starting point, it has difficulty with specialised terms and does not read naturally. Human translations will always have a slight advantage. A semi-automated system refers to an ability to queue a piece of work for translation, which may include feeding it through a machine translation service, have it worked on by someone, reviewed, and then published.
+## 詳細計画
 
-We will start to embrace and extend the excellent localisation documentation processes established by Kubernetes SIG Docs group[7] to help us. Adapting the processes to accommodate the varying technical skills and future directions we want to take. 
-### Work Streams
+東アジアと東南アジア地域は、文化的および言語的に多様な国々を結びつけています。これらのコミュニティの人々は、Cardanoエコシステムに参加することに興奮しています。人口は16億人もいますが、Catalystは東アジアおよび東南アジア地域からの提案をほとんど見ていません。
 
-To establish a functioning and sustainable translation pipeline, we are seeking initial funding to help develop the work we have already started. The funding will cover five workstreams:
+### 現在の問題と制限
 
-1. Evaluation of translation services and their integration:
-with Git, Github, Ideascale, and the Markdown-based documentation efforts of the Cardano Foundation.
-2. Design, configuration, testing of a translation pipeline:
-The goal is to have a small scale process in place that is easy enough to follow and requires minimal supervision.
-3. Documenting translation process & development of tutorial material: 
-Embrace and extend the Kubernettes SIG Doc[7] processes to help with our own needs. Developing localised tutorial content to onboard future translators. 
-4. Train the trainers:
-Run training sessions with Eastern Townhall members to a level of competence in the process such that they can train others.
-5. Translations:
-Getting up to speed on our workflow is going to require some hands-on tinkering and experience. We aim to translate a selection of Catalyst Guides, Community Advisor, voter education and our own material. That takes time and effort for each language.
+東アジアと東南アジアの地域では、英語は日常的に話されておらず、地域の言語のウェブが使用されています[1]。
 
-### Getting Scale: Earn-to-Learn
+言語の壁はCatalystへの参加を減らします。これは、この地域でのカルダノの採用と有用性の潜在的な成長を制限します。私たちはこれを経験し、私たちのコミュニティからこれを聞いています。Cardanoには、私たちのストーリー、エネルギー、そしてCardanoを使用して経済的幸福を高める方法についての見方が欠けていることを私たちは知っています。
 
-To get true scale, translations and localisation standards, automation, and skills need to be developed so we can outsource localisation to the wider Cardano community. Doing translation and localisation work as a way to get more involved in Cardano and the different communities. Doing translation and localisation work; learning and earning. Doing translation and localisation work to build a reputation and earn Ada. We see a future that leverages Metadata, Native Assets, Non-Fungible Tokens (NFT), Machine-Learning, and Atala Prism on the Cardano blockchain to give us language and cultural reach. However, starting simply first.
-### Collaboration
+### 提案されたソリューション：翻訳パイプラインと自動化
 
-Translation and localisation of content is a general issue across many groups working in Cardano and Catalyst. We do not plan to do this work alone or exclusively. In the Eastern Town Hall, we are at the forefront of managing many languages and cultures, our plan is to develop practices and automated processes for our own purposes, and share them widely. Everything we learn and do, we hope will inform the Cardano ecosystem at large.
-## What Success Looks Like
+私たちの目的は、コンテンツ翻訳の合理化されたプロセスを構築および文書化し、ローカライズされたコンテンツの開発を開始することです。 Git、Hugo、GithubActionsを使用して簡単な翻訳パイプライン[2]をすでに設定しています。 Crowdin [3]、Lokalize [4]、PoEditor [5]、GitLozalise [6]などのいくつかの翻訳サービスをEasternTownhallでテストし、整理して経験を積むのに役立てています。
 
-Near-term the Eastern Townhall is able to translate and host Catalyst Proposals as they are finalised. Translated for our four initial languages in the Asian region. Funded project reports are integrated and translated too. We have also translated, and maintain those translations, of key Cardano and Catalyst documents and guides. 
+私たちの最初の目的は単純です。半自動システムを使用して、既存の多くのCardanoおよびCatalyst資料を東アジアおよび東南アジア地域の多くの言語に翻訳することです。経験を積み、コミュニティを構築する。私たちが何をどのように行うかを文書化します。
 
-Mid-term we would like to expand the languages translated, and we are actively working with other groups across the Cardano Ecosystem to do this work.
+半自動システムとは、機械翻訳を意味するものではありません。機械翻訳は出発点として役立ちますが、専門用語が難しく、自然に読めません。人間による翻訳には常にわずかな利点があります。半自動化されたシステムとは、翻訳のために作品をキューに入れる機能を指します。これには、機械翻訳サービスを介した作品のフィード、誰かによる作業、レビュー、公開が含まれる場合があります。
 
-Longer-term success means we've established a whole decentralised workflow for translation and interpretation of any document, video, podcast etc. using the Cardano Network as the coordinating backbone. Where one of the simplest ways to onboard and earn ADA in the Cardano ecosystem system is to help translate, transcribe or interpret material (no harm in dreaming big!).
-### Key Performance Indicators
+Kubernetes SIG Docs group [7]によって確立された優れたローカリゼーションドキュメントプロセスを採用および拡張して、サポートを開始します。さまざまな技術スキルと私たちが取りたい将来の方向性に対応するためにプロセスを適応させます。
 
-Since we are using Git, and Github for the Eastern Townhall planning, organisation, documentation, metrics are derived from Github activity and engagement.
+### ワークストリーム
 
-**Key Metric**: Project Velocity[8], defined as a combination of base activity metric of commits and pull-requests taken from Github.
+機能的で持続可能な翻訳パイプラインを確立するために、私たちはすでに開始した作業の開発を支援するための初期資金を求めています。資金は5つのワークストリームをカバーします：
 
-**Activity Metrics**: captured as project activity in Github and cadence documents added and the speed of translation.
+1. 翻訳サービスの評価とそれらの統合：Git、Github、Ideascale、およびCardanoFoundationのMarkdownベースのドキュメント作成の取り組みとの統合。
+2. 翻訳パイプラインの設計、構成、テスト：目標は、追跡が容易で、最小限の監視しか必要としない小規模なプロセスを導入することです。
+3. 翻訳プロセスの文書化とチュートリアル資料の開発：Kubernettes SIG Doc [7]プロセスを採用および拡張して、私たち自身のニーズに対応します。将来の翻訳者をオンボードするためのローカライズされたチュートリアルコンテンツの開発。
+4. トレーナーのトレーニング：Eastern Townhallメンバーとのトレーニングセッションを、他のメンバーをトレーニングできるように、プロセスの能力レベルまで実行します。
+5. 翻訳：ワークフローを理解するには、実践的な調整と経験が必要になります。私たちは、Catalystガイド、コミュニティアドバイザー、投票者教育、および私たち自身の資料を翻訳することを目指しています。それには、言語ごとに時間と労力がかかります。
 
-**Community Metrics**: engagement behaviours broken down into four categories[9] for the Eastern Townhall website, to measure how our work is being spread and used in the Cardano ecosystem.
+### 規模の拡大：学ぶために稼ぐ
 
-### After One Month:
+真の規模を実現するには、翻訳とローカリゼーションの標準、自動化、スキルを開発して、ローカリゼーションをより広いCardanoコミュニティにアウトソーシングできるようにする必要があります。翻訳とローカリゼーションを行うことは、Cardanoやさまざまなコミュニティにより深く関与する方法として機能します。翻訳とローカリゼーションの作業を行う、つまり学習と稼ぎです。翻訳とローカリゼーションの仕事をして評判を築き、ADAを獲得します。 Cardanoブロックチェーンでメタデータ、ネイティブアセット、非代替トークン（NFT）、機械学習、Atala Prismを活用して、言語と文化の到達範囲を提供する未来が見えます。ただし、最初はシンプルに開始めるだけです。
 
-* Eastern Townhall website information architecture has been developed.
-* Primary content for the initial website has been identified and ported to Markdown.
-* The entire Eastern Townhall website is translated.
-### After Three Months: 
+### コラボレーション
 
-* We have established a semi-automated translation pipeline driven by Git Pull requests.
-* Evaluated and tested different translations services as a means to simplify translation.
-* Documented our initial translation process and trained the trainers.
-* Expanded formats for translations to include video subtitles.
-* Issuing NFTs for skills, language, and attribution/contribution tracking. 
-### After Six Months: 
+コンテンツの翻訳とローカリゼーションは、CardanoとCatalystで活動している多くのグループに共通する一般的な問題です。この作業を単独で、または排他的に行う予定はありません。Eastern Town Hallでは、私たちは多くの言語と文化を管理する最前線にいます。私たちの計画は、自身の目的のために実践と自動化されたプロセスを開発し、それらを広く共有することです。私たちが学び、行うことはすべて、Cardanoのエコシステム全体に情報を提供することを願っています。
 
-* On-boarding more members of the Cardano Community to do translations.
-* Added two more Eastern hemisphere languages to our core set.
-* Tutorial material (documentation and videos) is developed and translated to help onboard new contributors and languages.
-### After Twelve Months:
+## 成功したらどうなるか
 
-* All Catalyst Proposals and Funded Projects are translated and published within days of being produced.
-* We have expanded our core language set to include the ten languages from the Eastern hemisphere.
-* The translation project is self-sustaining because projects/teams/businesses want to reach our audience in their native language.
-* The Cardano ecosystem coalesce around similar standards for document management and their translations.
-### Licensing
+短期的には、Eastern Townhallは、Catalystプロポーザルが完成したときに、それらを翻訳してホストすることができます。アジア地域の4つの初期言語に翻訳されています。資金提供を受けたプロジェクトレポートも統合され、翻訳されています。また、CardanoおよびCatalystの主要なドキュメントとガイドの翻訳をしています。
 
-All our source code will be licensed under a free and open-source (OSI) license e.g. MIT, and contributions must be contributed patent-free. Contributors will be required to agree to a Contributor Covernant[10].
+中期的には、翻訳言語を拡大したいと考えており、Cardanoエコシステム全体で他のグループと積極的に協力してこの作業を行っています。
 
-Published content will be licensed under the Creative Attribution-Non-Commercial-ShareAlike International (CC BY-NC-SA) License v4.0. Any meta-data specifications will be published under a Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license. Where and when applicable metadata specifications for document identification and provenance will be submitted as Cardano Improvement Proposals. 
+長期的には、Cardanoネットワークを調整バックボーンとして使用して、ドキュメント、ビデオ、ポッドキャストなどの翻訳と解釈のための分散型ワークフロー全体を確立します。CardanoエコシステムシステムにADAを搭載して獲得する最も簡単な方法の1つは、資料の翻訳、転写、または解釈をサポートすることです（大きな夢を見ても害はありません！）。
 
-Code, documentation, project activity is made available on Github or in the future a similar service.
-## Budget
+### 主要業績評価指標
 
-The requested Fund 6 budget is for wages for three months and six months of expenses. Fifty per cent of funds will be used retrospectively to cover work and expenses we are already undertaking. 
+Eastern Townhall の計画、編成、文書化にGitとGithubを使用しているため、指標はGithubのアクティビティとエンゲージメントから導き出されます。
 
-* Evaluation/Integration of Translation services: $1200 USD
-* Workflow Automation: $3000 USD
-* Process Documentation: $2200 USD
-* Train the Trainers: $850 USD
-* Translations: $1250 USD
-* Project Management (%8): $1000 USD
-* Software Services & Servers: $3000 USD
+**主要な指標**：プロジェクト速度[8]。Githubから取得したコミットとプルリクエストの基本アクティビティ指標の組み合わせとして定義されます。
 
-Software Services & Servers fees ($500 x 6 months = $3,000) includes the expenses of using a translation service (anywhere from $140USD to $240USD a month) to help streamline translations; Github; website hosting and any servers needed for translation. 
+**アクティビティメトリクス**：Githubにプロジェクトアクティビティとしてキャプチャされ、ケイデンスドキュメントが追加され、翻訳の速度が向上します。
 
-This funding only concerns setting up and testing a translation pipeline. Further funds will be requested to continue any work beyond the three month period, either through Catalyst or other means of funding the Eastern Townhall activity.
-### The Team
+**コミュニティメトリクス**：Cardanoエコシステムで私たちの仕事がどのように広まり、使用されているかを測定するための、Eastern Townhall ウェブサイトの4つのカテゴリ[9]に分類されたエンゲージメント行動。
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+### 1か月後：
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+- Eastern Townhall のウェブサイト情報アーキテクチャが開発されました。
+- 最初のWebサイトの主要コンテンツが特定され、Markdownに移植されました。
+- Eastern Townhall のウェブサイト全体が翻訳されています。
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+### 3か月後：
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+- GitPullリクエストによって駆動される半自動翻訳パイプラインを確立しました。
+- 翻訳を簡素化する手段として、さまざまな翻訳サービスを評価およびテストしました。
+- 最初の翻訳プロセスを文書化し、トレーナーをトレーニングしました。
+- ビデオ字幕を含むように翻訳のフォーマットを拡張しました。
+- スキル、言語、および帰属/貢献の追跡のためにNFTを発行します。
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+### 6ヶ月後
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+- 翻訳を行うために、Cardanoコミュニティのより多くのメンバーをオンボーディングします。
+- コアセットにさらに2つの東半球の 言語を追加しました。
+- チュートリアル資料（ドキュメントとビデオ）は、新しい寄稿者と言語のオンボーディングを支援するために開発および翻訳されています。
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+### 12か月後：
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+- すべてのCatalystプロポーザルと資金提供プロジェクトは、作成されてから数日以内に翻訳および公開されます。
+- コア言語セットを拡張して、東半球の10言語を含めました。
+- プロジェクト/チーム/企業は母国語で視聴者にリーチしたいので、翻訳プロジェクトは自立しています。
+- Cardanoエコシステムは、ドキュメント管理とその翻訳に関する同様の標準を中心に融合しています。
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+### ライセンス
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+すべてのソースコードは、MITなどの無料のオープンソース（OSI）ライセンスの下でライセンスされ、寄稿は特許なしで寄稿する必要があります。コントリビューターは、コントリビューターカバーナント[10]に同意する必要があります。
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
+公開されたコンテンツは、Creative Attribution-Non-Commercial-ShareAlike International (CC BY-NC-SA) License v4.0の下でライセンスされます。メタデータの仕様は、Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)ライセンスの下で公開されます。文書の識別と出所に関する該当するメタデータ仕様は、Cardano改善提案としていつどこで提出されます。
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. The exteded team includes professional interpreters and translators.
+コード、ドキュメント、プロジェクトアクティビティは、Githubまたは将来的には同様のサービスで利用できるようになります。
+
+## 予算
+
+要求されたファンド6の予算は、3か月と6か月の費用の賃金です。資金の50％は、私たちがすでに行っている作業と費用をカバーするために遡及的に使用されます。
+
+- 翻訳サービスの評価/統合：1200米ドル
+- ワークフローの自動化：3000米ドル
+- プロセスドキュメント： 2200 米ドル
+- トレーナーのトレーニング：850米ドル
+- 翻訳：1250 米ドル
+- プロジェクト管理（％8）： 1000米ドル
+- ソフトウェアサービスとサーバー：3000米ドル
+
+ソフトウェアサービスおよびサーバーの料金（$ 500 x6か月= $ 3,000）には、翻訳を合理化するために翻訳サービス（月額$ 140USDから$ 240USD）を使用する費用が含まれています。 Github;ウェブサイトホスティングと翻訳に必要なサーバー。
+
+この資金は、翻訳パイプラインの設定とテストにのみ関係します。 CatalystまたはEasternTownhallの活動に資金を提供する他の手段のいずれかを通じて、3か月を超えて作業を継続するために追加の資金が要求されます。
+
+### チーム
+
+共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：
+
+**Yuta Yuta** （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。
+
+**Yan Tirta** （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。
+
+**Mie Tran** （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。
+
+**Andy Sibuea** （@zicozibu）-インドネシア：暗号通貨を超えてインドネシア全体でブロックチェーン教育をリードしています。
+
+**ティムオブライエン**（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。
+
+**Greg Bell** （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。
+
+**Seomon Blub** （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。
+
+**Robert O'Brien** （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。
+
+**Stephen Whitenstall** （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。
+
+**Felix Weber** （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。
+
+チームは、最初のイースタンタウンホールの**信頼できるシードを**代表しています。役割もリーダーもありません。むしろ、人々は参加を通じて、時間をかけて自分自身を確立します。私たちは、Catalyst Swarm [1]、Catalyst School [2]、およびアジア全体の他のコミュニティグループと重複して協力しています。
 
 ## References
 
