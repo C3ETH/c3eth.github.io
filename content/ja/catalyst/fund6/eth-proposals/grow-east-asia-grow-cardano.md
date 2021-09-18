@@ -4,14 +4,13 @@ linkTitle: Grow East Asia, Grow Cardano(東アジアを育て、カルダノを�
 type: docs
 hide_feedback: 'true'
 weight: '10'
-description: |2-
-
+description: >
   東アジアのカルダノエコシステムを包括的で多様かつ支援的な方法でどのように成長させるのでしょうか。私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブと実装！
 ---
 
-**チャレンジ：** [ファンド7チャレンジ設定]（{{&lt;relref "../ challenges / fund7-challenge-setting / campaign-brief.md"&gt;}}）
+**チャレンジ：** [ファンド7チャレンジ設定]（{{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}}）
 
-[](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 **要求額（USD）：** $ 250,000
 
