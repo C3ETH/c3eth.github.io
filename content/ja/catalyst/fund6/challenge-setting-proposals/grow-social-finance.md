@@ -1,70 +1,71 @@
 ---
-title: "Grow Social & Environmental Finance"
-linkTitle: "Grow Social & Environmental Finance"
+title: Grow Social & Environmental Finance
+linkTitle: Grow Social & Environmental Finance
 type: docs
-hide_feedback: true
-weight: 20
-description: > 
-   To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
+hide_feedback: 'true'
+weight: '20'
+description: |2
 
+  To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
 ---
-**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+**Challenge:** [Fund 7 Challenge Setting]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+
+[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **Requested Amount (USD):** $250,000
 
-## Challenge question
+## チャレンジクエッション：
 
-What solutions can we build on Cardano to finance social and environmental innovation?
+社会的および環境的イノベーションに資金を提供するために、Cardano上にどのようなソリューションを構築できますか？
 
-## Why is it important?
+## なぜ重要なのか？
 
-To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change.
+気候の緊急事態とそれに関連する経済的課題に対処するには、変化を推進するための回復力のある金融ソリューションを構築する必要があります。
 
-## How does success look like?
+## 成功するとどのような未来が見えますか？
 
-Impact investors, NGOs, and grassroots communities make Cardano the default choice to help transparently deliver the greatest impact.
+インパクト投資家、NGO、草の根コミュニティは、Cardanoを、最大のインパクトを透過的に提供できるデフォルトの選択肢にします。
 
-## Key Metrics to measure
+## 測定する主要なメトリック
 
-At the end of this challenge, we will be asking ourselves some guiding questions about the quality of developed solutions:
+この課題の最後に、開発されたソリューションのクオリティに関するいくつかの指針となる問いを、自問します。
 
-* Are we on track to improve the lives of people using them?
-* How much financial capital is deployed to grassroots community efforts?
-* How many gaps are filled along the impact investing value chain?
-* Have we increased capital efficiency and lowered financing costs compared with current approaches?
-* Are the solutions using Cardano's technical features to the fullest?
-* Do teams adopt high-assurance engineering practices to develop code we can trust?
-* How decentralised is the solution and where are the points of control?
+- それらを使用する人々の生活を改善するために順調に進んでいますか？
+- 草の根のコミュニティの取り組みにどのくらいの資金が投入されていますか？
+- インパクト投資のバリューチェーンに沿っていくつのギャップが埋められますか？
+- 現在のアプローチと比較して、資本効率を高め、資金調達コストを削減しましたか？
+- Cardanoの技術的機能を最大限に活用したソリューションはありますか？
+- チームは、信頼できるコードを開発するために、高保証のエンジニアリング手法を採用していますか？
+- ソリューションはどの程度分散化されており、制御のポイントはどこにありますか？
 
-At the moment there are very few usage metrics addressing Social & Environmental Finance (SoFi) scenarios. This challenge, therefore, will determine uptake by adopting some metrics from Decentralised Finance (DeFi) markets as a guide.
+現時点では、Social＆Environmental Finance（SoFi）シナリオに対応する使用指標はほとんどありません。したがって、この課題は、分散型ファイナンス（DeFi）市場からのいくつかの指標をガイドとして採用します。
 
-* Daily/Monthly Active Wallets (DAW/MAW) - Measure of momentum and engagement
-* Average Order Value - Measures who are using services, how much and how often.
-* Total Value Locked (TLV) - Measure of confidence in DeFi market protocols. 
-* Take Rate (Rake) - Measure of efficiency
-* Gross Merchandise Volume (GMV) - Total value of services transacted.
+- 日次/月次アクティブウォレット（DAW / MAW）-勢いとエンゲージメントの測定
+- 平均注文額-サービスを使用しているユーザー、量、頻度を測定します。
+- Total Value Locked（TLV）-DeFi市場プロトコルの信頼度の尺度。
+- Take Rate（Rake）-効率の測定
+- Gross Merchandise Volume (GMV-取引されたサービスの合計値。
 
-We will also be asking some specific questions about the proposals.
+また、提案についていくつか具体的な質問をします。
 
-* What is the sustainability of proposals beyond the scope of Catalyst?
-* Was social and environmental impact evaluation used to measure proposal performance?
+- Catalystの範囲を超えた提案の持続可能性とは何ですか？
+- 提案のパフォーマンスを測定するために、社会的および環境的影響評価が使用されましたか？
 
-## Challenge brief
+## チャレンジブリーフ
 
-This challenge is about the ways we can spark a fire under impact investing using the Cardano ecosystem.
+この課題は、Cardanoエコシステムを使用したインパクト投資に火をつける方法です。
 
-Impact investments are made with the intention to generate positive, measurable social and environmental impact alongside financial returns. While a variety of projects push for the adoption of DeFi on Cardano, can we bring to market the potential of DeFi mechanisms as a vehicle for social good?
+インパクト投資は、経済的利益とともに、ポジティブで測定可能な社会的および環境的影響を生み出すことを目的として行われます。さまざまなプロジェクトがCardanoでのDeFiの採用を推進していますが、社会的利益の手段としてのDeFiメカニズムの可能性を市場にもたらすことができますか？
 
-Delivering an outcome that has an impact is a lot harder than just delivering a financial Return-on-Investment, even a small one. Impact investing (according to the World Economic Forum) is hindered by:
+影響力のある結果を提供することは、たとえ小さな投資収益率であっても、単に投資収益率を提供することよりもはるかに困難です。 （世界経済フォーラムによると）インパクト投資は以下によって妨げられています：
 
-* The lack and/or high cost of trustworthy data on the social or environmental results of investment, making credible accounting of impacts difficult.
-* Challenges around the “attribution” of impact – meaning the allocation of an impact-related claim to an investor risks “double-counting.”
-* Roadblocks in monetizing impacts – illiquid impact markets, uncertain returns, high transaction costs.
+- 投資の社会的または環境的結果に関する信頼できるデータの欠如/高コスト。影響の信頼できる会計処理を困難にします。
+- 影響の「帰属」に関する課題–投資家への影響関連の請求の割り当ては、「二重計算」のリスクを伴います。
+- 影響を収益化する上での障害–非流動的な影響市場、不確実な収益、高い取引コスト。
 
-Propose market solutions, financial mechanisms, or means of measuring impact. Think about how these can be deployed at scale to affect positively millions of people. Think about how the results of your proposal can be embedded or reused in different market contexts, or integrated with existing providers. 
+市場ソリューション、財務メカニズム、または影響を測定する手段を提案します。これらを大規模に展開して、何百万もの人々にプラスの影響を与える方法を考えてください。提案の結果をさまざまな市場の状況に埋め込んだり再利用したり、既存のプロバイダーと統合したりする方法を考えてください。
 
-Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education. 
+Cardanoへのインパクト投資に火をつけることで、持続可能な農業、再生可能エネルギー、保全、マイクロファイナンス、住宅、ヘルスケア、教育などの手頃でアクセス可能な基本サービスなどの分野で世界で最も差し迫った課題に対処するための資本が提供されます。
 
-To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst? 
+インパクトを実現するには、協力とコラボレーションが必要です。これは、Cardanoが可能にするものです。世界の資源をより適切に管理するための答えは、政府や大規模な投資家ではなく、ピアツーピアの支援を強化するテクノロジーにあるのでしょうか？たとえば、コミュニティベースのファイナンスやデータ駆動型のクラウドファンディング。Cardanoエコシステムの素晴らしい力をどのように活用して、その触媒になることができますか？
