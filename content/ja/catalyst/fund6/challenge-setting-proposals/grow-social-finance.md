@@ -1,11 +1,10 @@
 ---
-title: Grow Social & Environmental Finance
-linkTitle: Grow Social & Environmental Finance
+title: Grow Social & Environmental Finance(社会・環境の金融を育てよう)
+linkTitle: Grow Social & Environmental Finance(社会・環境の金融を育てよう)
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: >
-  To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
+description: 気候に関する緊急の課題とそれに関連する経済的課題に対処するには、変化を推進し回復力のある金融ソリューションが必要です。社会的および環境的なイノベーションに資金を提供するために、Cardano上にどのようなソリューションを構築できますか？
 ---
 
 **Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
