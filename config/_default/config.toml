@@ -192,9 +192,9 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-	name = "Zoom"
-	url = "https://tinyurl.com/Eastern-Townhall-Zoom"
-	icon = "fas fa-video"
+	name = "Meetup"
+	url = "https://www.meetup.com/Catalyst-Swarm-Sessions/events/qrlmpsyccmbxb/"
+	icon = "fab fa-meetup"
   desc = "Register for our weekly townhalls."
 
 [[params.links.user]]
