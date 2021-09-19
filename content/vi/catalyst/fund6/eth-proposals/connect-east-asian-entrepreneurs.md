@@ -4,16 +4,15 @@ linkTitle: Kết nối người khởi nghiệp Đông Á
 type: docs
 hide_feedback: 'true'
 weight: '30'
-description: |2-
-
+description: >
   Không có sáng kiến nào của Cardano để thu hút và thu hút các doanh nhân Đông Á ở bất kỳ đâu, bằng ngôn ngữ địa phương của họ. Chúng tôi đề xuất sử dụng Tòa thị chính phía Đông và các sự kiện ảo được nhắm mục tiêu để thiết lập và hỗ trợ mạng lưới các doanh nhân Đông Á.
 ---
 
-{{&lt; youtube Ibm36IXxnYA &gt;}}
+{{< youtube Ibm36IXxnYA >}}
 
-**Thách thức:** [Proposer Outreach] ({{&lt;relref "../challenges/proposer-outreach/campaign-brief.md"&gt;}})
+**Thách thức:** [Proposer Outreach]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
 **Số tiền yêu cầu (USD):** 20.000 đô la
 
