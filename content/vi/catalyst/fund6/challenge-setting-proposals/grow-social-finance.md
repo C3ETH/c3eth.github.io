@@ -1,6 +1,6 @@
 ---
-title: Grow Social & Environmental Finance
-linkTitle: Grow Social & Environmental Finance
+title: Phát triển tài chính xã hội và môi trường
+linkTitle: Phát triển tài chính xã hội và môi trường
 type: docs
 hide_feedback: 'true'
 weight: '20'
