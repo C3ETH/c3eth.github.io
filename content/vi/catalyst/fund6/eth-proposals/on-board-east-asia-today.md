@@ -4,14 +4,13 @@ linkTitle: Xây dựng Đông Á  tương lai ngay hôm nay!
 type: docs
 hide_feedback: 'true'
 weight: '50'
-description: |2-
-
+description: >
   Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa. Chúng tôi đề xuất thiết lập một hệ thống dịch thuật sẽ dịch các tài liệu và Catalyst qua nhiều ngôn ngữ nhất có thể ở Đông Á.
 ---
 
-**Challenge:** [Multilingual resources]({{&lt; relref "../challenges/multilingual-resources/campaign-brief.md" &gt;}})
+**Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **Số tiền yêu cầu (USD):** $12,500
 
