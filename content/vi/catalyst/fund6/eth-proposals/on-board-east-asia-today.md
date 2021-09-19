@@ -1,126 +1,141 @@
 ---
-title: "On-boarding East Asia Today!"
-linkTitle: "On-boarding East Asia Today!"
+title: Xây dựng Đông Á tương lai ngay hôm nay!
+linkTitle: Xây dựng Đông Á  tương lai ngay hôm nay!
 type: docs
-hide_feedback: true
-weight: 50
-description: >
-    Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content. We propose to setup a translation pipeline that will translate catalyst documentation & proposals across as many languages in East Asia as possible.
+hide_feedback: 'true'
+weight: '50'
+description: |2-
+
+  Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa. Chúng tôi đề xuất thiết lập một hệ thống dịch thuật sẽ dịch các tài liệu và Catalyst qua nhiều ngôn ngữ nhất có thể ở Đông Á.
 ---
-**Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
+**Challenge:** [Multilingual resources]({{&lt; relref "../challenges/multilingual-resources/campaign-brief.md" &gt;}})
 
-**Requested Amount (USD):** $12,500
+[](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
+
+**Số tiền yêu cầu (USD):** $12,500
 
 ![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
-## Problem statement
-Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content.
 
-## Describe your solution to the problem
-Setup a translation pipeline that will translate catalyst documentation & proposals across as many languages in East Asia as possible.
+## Mô tả vấn đề
 
-## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
-## Detailed plan
-East Asia and Southeast Asia region unites culturally and linguistically diverse countries. People in these communities are excited about getting involved in the Cardano ecosystem. Despite having a population of 1.6 Billion, Catalyst has seen very few proposals from East Asia and Southeast Asian regions. 
+Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa.
 
-### Current Problems and Limitation
-Across East Asia and Southeast Asian regions, English is not routinely spoken and a web of regional languages are used [1].
+## Mô tả giải pháp giải quyết vấn đề
 
-Language barriers reduce participation in Catalyst. It limits the potential growth of Cardano adoption and utility in this region. We experience this, we hear this from our communities. We know Cardano is missing our stories, our energy, and our perspectives of how to use Cardano to increase economic wellbeing.
-### Proposed Solution: Translation Pipeline and Automation
+Thiết lập một hệ thống dịch thuật sẽ dịch các tài liệu và dự án đề xuất qua nhiều ngôn ngữ nhất có thể ở Đông Á.
 
-Our objective is to build and document a streamlined process for content translation and start the development of localised content. We have already set up a simple translation pipeline[2] using Git, Hugo, and Github Actions. We've tested several translation services such as Crowdin[3], Lokalize[4], PoEditor[5], and GitLozalise[6] for the Eastern Townhall to help us organise and gain some experience.
+## Kinh nghiệm liên quan
 
-Our initial objective is simple: to get a lot of existing Cardano and Catalyst material translated into as many languages of the East and Southeast Asian regions using a semi-automated system. Gaining experience and building community. Documenting what we do and how.
+Các thành viên là các nhà đồng sáng lập Catalyst Swarm, Eastern Townhall, Catalyst School. CNTT &amp; Kỹ thuật phần mềm. các nhà giáo dục và kế toán ở Đông Á và Nhật Bản.
 
-By semi-automated system, we do not mean machine translation. While Machine translation is helpful as a starting point, it has difficulty with specialised terms and does not read naturally. Human translations will always have a slight advantage. A semi-automated system refers to an ability to queue a piece of work for translation, which may include feeding it through a machine translation service, have it worked on by someone, reviewed, and then published.
+## Kế hoạch chi tiết
 
-We will start to embrace and extend the excellent localisation documentation processes established by Kubernetes SIG Docs group[7] to help us. Adapting the processes to accommodate the varying technical skills and future directions we want to take. 
-### Work Streams
+Khu vực Đông Á và Đông Nam Á hợp nhất các quốc gia đa dạng về văn hóa và ngôn ngữ. Mọi người trong các cộng đồng này rất hào hứng với việc tham gia vào hệ sinh thái Cardano. Mặc dù có dân số 1,6 tỷ, nhưng lại có rất ít các dự án đề xuất trên Catalyst từ các khu vực Đông Á và Đông Nam Á.
 
-To establish a functioning and sustainable translation pipeline, we are seeking initial funding to help develop the work we have already started. The funding will cover five workstreams:
+### Các vấn đề hiện tại và giới hạn
 
-1. Evaluation of translation services and their integration:
-with Git, Github, Ideascale, and the Markdown-based documentation efforts of the Cardano Foundation.
-2. Design, configuration, testing of a translation pipeline:
-The goal is to have a small scale process in place that is easy enough to follow and requires minimal supervision.
-3. Documenting translation process & development of tutorial material: 
-Embrace and extend the Kubernettes SIG Doc[7] processes to help with our own needs. Developing localised tutorial content to onboard future translators. 
-4. Train the trainers:
-Run training sessions with Eastern Townhall members to a level of competence in the process such that they can train others.
-5. Translations:
-Getting up to speed on our workflow is going to require some hands-on tinkering and experience. We aim to translate a selection of Catalyst Guides, Community Advisor, voter education and our own material. That takes time and effort for each language.
+Trên khắp các khu vực Đông Á và Đông Nam Á, tiếng Anh không được sử dụng thường xuyên và các ngôn ngữ khu vực được sử dụng [1].
 
-### Getting Scale: Earn-to-Learn
+Rào cản ngôn ngữ làm giảm sự tham gia Catalyst. Nó hạn chế sự tăng trưởng tiềm năng của việc áp dụng và tiện ích Cardano trong khu vực này. Chúng tôi trải nghiệm điều này, chúng tôi nghe điều này từ cộng đồng của chúng tôi. Chúng tôi biết Cardano đang thiếu những câu chuyện của chúng tôi, năng lượng của chúng tôi và quan điểm của chúng tôi về cách sử dụng Cardano để tăng cường phúc lợi kinh tế.
 
-To get true scale, translations and localisation standards, automation, and skills need to be developed so we can outsource localisation to the wider Cardano community. Doing translation and localisation work as a way to get more involved in Cardano and the different communities. Doing translation and localisation work; learning and earning. Doing translation and localisation work to build a reputation and earn Ada. We see a future that leverages Metadata, Native Assets, Non-Fungible Tokens (NFT), Machine-Learning, and Atala Prism on the Cardano blockchain to give us language and cultural reach. However, starting simply first.
-### Collaboration
+### Giải pháp đề xuất: Dịch đồng thời và Tự động hóa
+
+Mục tiêu của chúng tôi là xây dựng và ghi lại một quy trình hợp lý để dịch nội dung và bắt đầu phát triển nội dung được bản địa hóa. Chúng tôi đã thiết lập một đường dẫn dịch đơn giản [2] bằng Git, Hugo và Github Actions. Chúng tôi đã thử nghiệm một số dịch vụ dịch thuật như Crowdin [3], Lokalize [4], PoEditor [5] và GitLozalise [6] cho Tòa thị chính phía Đông để giúp chúng tôi tổ chức và có nhiều trải nghiệm.
+
+Mục tiêu ban đầu của chúng tôi rất đơn giản: nhận được nhiều tài liệu Cardano và Catalyst hiện có được dịch sang nhiều ngôn ngữ của khu vực Đông và Đông Nam Á bằng hệ thống bán tự động. Tích lũy kinh nghiệm và xây dựng cộng đồng. Ghi lại những gì chúng tôi làm và làm như thế nào.
+
+Bằng hệ thống bán tự động, chúng tôi không có nghĩa là dịch máy. Mặc dù dịch máy hữu ích như một điểm khởi đầu, nhưng nó gặp khó khăn với các thuật ngữ chuyên ngành và không đọc tự nhiên. Bản dịch của con người sẽ luôn có lợi thế hơn một. Hệ thống bán tự động sẽ sử dụng để xếp hàng đợi một phần tác phẩm để dịch, có thể bao gồm việc cung cấp cho nó thông qua một dịch vụ dịch máy, nhờ ai đó làm việc, xem xét và sau đó xuất bản.
+
+Chúng tôi  bắt đầu nắm bắt và mở rộng các quy trình tài liệu với ngôn ngữ bản địa từ nhóm Kubernetes SIG Docs [7] thiết lập để giúp chúng tôi. Điều chỉnh các quy trình để phù hợp với các kỹ năng kỹ thuật khác nhau và các hướng đi trong tương lai mà chúng tôi muốn thực hiện.
+
+### Luồng công việc
+
+Để thiết lập một hệ thống dịch thuật bền vững và hoạt động, chúng tôi đang tìm kiếm nguồn tài trợ ban đầu để giúp phát triển công việc mà chúng tôi đã bắt đầu. Kinh phí chi cho năm đầu công việc:
+
+1. Đánh giá các dịch vụ dịch thuật và sự tích hợp của chúng: với Git, Github, Ideascale và các nỗ lực tài liệu dựa trên Markdown của Cardano Foundation.
+2. Thiết kế, cấu hình, thử nghiệm một đường dẫn dịch: Mục tiêu là để có một quy trình quy mô nhỏ, đủ dễ theo dõi và yêu cầu giám sát tối thiểu.
+3. Tài liệu hóa lại quy trình dịch thuật và phát triển tài liệu hướng dẫn: Tận dụng và mở rộng quy trình Kubernettes SIG Doc [7] để đáp ứng nhu cầu của chính chúng ta. Phát triển nội dung hướng dẫn được bản địa hóa cho các dịch giả trong tương lai.
+4. Đào tạo các huấn luyện viên: Thực hiện các buổi đào tạo với các thành viên của Eastern Townhall để nâng cao năng lực trong quá trình này để họ có thể đào tạo những người khác.
+5. Dịch: Để bắt kịp quy trình làm việc của chúng tôi sẽ đòi hỏi một số kinh nghiệm và mày mò thực hành. Chúng tôi mong muốn dịch tuyển tập các Hướng dẫn viên Catalyst, Cố vấn Cộng đồng, giáo dục cử tri và tài liệu của riêng chúng tôi. Điều đó cần thời gian và công sức cho mỗi ngôn ngữ.
+
+### Mở rộng quy mô: Kiếm tiền để học
+
+Để có được quy mô thực sự, các bản dịch và tiêu chuẩn bản địa hóa, tự động hóa và các kỹ năng cần được phát triển để chúng tôi có thể thuê ngoài bản địa hóa cho cộng đồng Cardano rộng lớn hơn. Thực hiện dịch thuật và bản địa hóa là một cách để bạn tham gia nhiều hơn vào Cardano và các cộng đồng khác nhau. Làm công việc dịch thuật và bản địa hóa; học tập và kiếm tiền. Công việc dịch thuật và bản địa hóa nhằm tạo dựng danh tiếng và kiếm Ada. Chúng tôi nhìn thấy một tương lai tận dụng Siêu dữ liệu, Tài sản gốc, Mã (NFT), Máy học và Atala Prism trên chuỗi khối Cardano để mang lại cho chúng ta khả năng tiếp cận ngôn ngữ và văn hóa. Tuy nhiên, hãy bắt đầu từ đơn giản
+
+### Hợp tác
 
 Translation and localisation of content is a general issue across many groups working in Cardano and Catalyst. We do not plan to do this work alone or exclusively. In the Eastern Town Hall, we are at the forefront of managing many languages and cultures, our plan is to develop practices and automated processes for our own purposes, and share them widely. Everything we learn and do, we hope will inform the Cardano ecosystem at large.
-## What Success Looks Like
 
-Near-term the Eastern Townhall is able to translate and host Catalyst Proposals as they are finalised. Translated for our four initial languages in the Asian region. Funded project reports are integrated and translated too. We have also translated, and maintain those translations, of key Cardano and Catalyst documents and guides. 
+## Thành công sẽ như thế nào
 
-Mid-term we would like to expand the languages translated, and we are actively working with other groups across the Cardano Ecosystem to do this work.
+Trong thời gian ngắn, Tòa thị chính phía Đông có thể dịch và lưu trữ các Đề xuất Catalyst khi chúng được hoàn thiện. Dịch sang bốn ngôn ngữ ban đầu ở khu vực Châu Á. Các báo cáo dự án được tài trợ cũng được tích hợp và dịch. Chúng tôi cũng đã dịch và duy trì các bản dịch đó với các tài liệu và hướng dẫn chính của Cardano và Catalyst.
 
-Longer-term success means we've established a whole decentralised workflow for translation and interpretation of any document, video, podcast etc. using the Cardano Network as the coordinating backbone. Where one of the simplest ways to onboard and earn ADA in the Cardano ecosystem system is to help translate, transcribe or interpret material (no harm in dreaming big!).
+Trong trung hạn, chúng tôi muốn mở rộng các ngôn ngữ được dịch và chúng tôi đang tích cực làm việc với các nhóm khác trên Hệ sinh thái Cardano để thực hiện công việc này.
+
+Thành công về dài hạn là chúng tôi đã thiết lập toàn bộ quy trình làm việc phi tập trung để dịch và thông dịch bất kỳ tài liệu, video, podcast nào, v.v. bằng cách sử dụng Mạng Cardano làm xương sống điều phối. Trong đó, một trong những cách đơn giản nhất để tham gia và kiếm ADA trong hệ thống sinh thái Cardano là giúp dịch, phiên âm hoặc giải thích tài liệu (không có hại gì khi mơ lớn!).
+
 ### Key Performance Indicators
 
-Since we are using Git, and Github for the Eastern Townhall planning, organisation, documentation, metrics are derived from Github activity and engagement.
+Vì chúng tôi đang sử dụng Git và Github  nên thông tin về việc lập kế hoạch, tổ chức, tài liệu, chỉ số của Tòa thị chính phía Đông có thể lấy từ hoạt động và mức độ tương tác của Github.
 
-**Key Metric**: Project Velocity[8], defined as a combination of base activity metric of commits and pull-requests taken from Github.
+**Chỉ số chính** : Vận tốc dự án [8], được định nghĩa là sự kết hợp của chỉ số hoạt động cơ sở của các cam kết và yêu cầu kéo được lấy từ Github.
 
-**Activity Metrics**: captured as project activity in Github and cadence documents added and the speed of translation.
+**Chỉ số hoạt động** : được ghi lại dưới dạng hoạt động của dự án trong Github và tài liệu nhịp được thêm vào và tốc độ dịch.
 
-**Community Metrics**: engagement behaviours broken down into four categories[9] for the Eastern Townhall website, to measure how our work is being spread and used in the Cardano ecosystem.
+**Chỉ số cộng đồng** : hành vi tham gia được chia thành bốn loại [9] cho trang web của Tòa thị chính phía Đông, để đo lường cách công việc của chúng tôi đang được lan truyền và sử dụng trong hệ sinh thái Cardano.
 
-### After One Month:
+### Sau một tháng:
 
-* Eastern Townhall website information architecture has been developed.
-* Primary content for the initial website has been identified and ported to Markdown.
-* The entire Eastern Townhall website is translated.
-### After Three Months: 
+- Kiến trúc thông tin trang web của Tòa thị chính Đông đã được phát triển.
+- Nội dung chính cho trang web ban đầu đã được xác định và chuyển sang Markdown.
+- Toàn bộ trang web của Tòa thị chính phía Đông được dịch.
 
-* We have established a semi-automated translation pipeline driven by Git Pull requests.
-* Evaluated and tested different translations services as a means to simplify translation.
-* Documented our initial translation process and trained the trainers.
-* Expanded formats for translations to include video subtitles.
-* Issuing NFTs for skills, language, and attribution/contribution tracking. 
-### After Six Months: 
+### Sau ba tháng:
 
-* On-boarding more members of the Cardano Community to do translations.
-* Added two more Eastern hemisphere languages to our core set.
-* Tutorial material (documentation and videos) is developed and translated to help onboard new contributors and languages.
-### After Twelve Months:
+- Chúng tôi đã thiết lập một đường dẫn dịch bán tự động theo yêu cầu của Git Pull.
+- Đã đánh giá và thử nghiệm các dịch vụ dịch thuật khác nhau như một phương tiện để đơn giản hóa việc dịch thuật.
+- Ghi lại quá trình dịch ban đầu của chúng tôi và đào tạo các giảng viên.
+- Các định dạng mở rộng cho bản dịch để bao gồm phụ đề video.
+- Phát hành NFT cho kỹ năng, ngôn ngữ và theo dõi ghi nhận / đóng góp.
 
-* All Catalyst Proposals and Funded Projects are translated and published within days of being produced.
-* We have expanded our core language set to include the ten languages from the Eastern hemisphere.
-* The translation project is self-sustaining because projects/teams/businesses want to reach our audience in their native language.
-* The Cardano ecosystem coalesce around similar standards for document management and their translations.
-### Licensing
+### Sau sáu tháng:
 
-All our source code will be licensed under a free and open-source (OSI) license e.g. MIT, and contributions must be contributed patent-free. Contributors will be required to agree to a Contributor Covernant[10].
+- Thêm các thành viên của Cộng đồng Cardano để làm công việc dịch thuật.
+- Đã thêm thêm hai ngôn ngữ bán cầu Đông vào bộ cốt lõi của chúng tôi.
+- Tài liệu hướng dẫn (tài liệu và video) được phát triển và dịch để trợ giúp những người đóng góp và ngôn ngữ mới.
 
-Published content will be licensed under the Creative Attribution-Non-Commercial-ShareAlike International (CC BY-NC-SA) License v4.0. Any meta-data specifications will be published under a Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license. Where and when applicable metadata specifications for document identification and provenance will be submitted as Cardano Improvement Proposals. 
+### Sau mười hai tháng:
 
-Code, documentation, project activity is made available on Github or in the future a similar service.
-## Budget
+- Tất cả các Đề xuất của Catalyst và các Dự án được Tài trợ đều được dịch và xuất bản trong vòng vài ngày kể từ khi hoàn thành.
+- Chúng tôi đã mở rộng bộ ngôn ngữ cốt lõi của mình để bao gồm mười ngôn ngữ từ Đông bán cầu.
+- Dự án dịch có thể tự duy trì bởi vì các dự án / nhóm / doanh nghiệp muốn tiếp cận khán giả của chúng tôi bằng ngôn ngữ mẹ đẻ của họ.
+- Hệ sinh thái Cardano liên kết theo các tiêu chuẩn tương tự để quản lý tài liệu và bản dịch của chúng.
 
-The requested Fund 6 budget is for wages for three months and six months of expenses. Fifty per cent of funds will be used retrospectively to cover work and expenses we are already undertaking. 
+### Bản quyền
 
-* Evaluation/Integration of Translation services: $1200 USD
-* Workflow Automation: $3000 USD
-* Process Documentation: $2200 USD
-* Train the Trainers: $850 USD
-* Translations: $1250 USD
-* Project Management (%8): $1000 USD
-* Software Services & Servers: $3000 USD
+Tất cả mã nguồn của chúng tôi sẽ được cấp phép theo giấy phép mã nguồn mở và miễn phí (OSI), ví dụ như MIT, và các đóng góp phải được đóng góp không có bằng sáng chế. Người đóng góp sẽ được yêu cầu đồng ý với Người bao che cho Người đóng góp [10].
 
-Software Services & Servers fees ($500 x 6 months = $3,000) includes the expenses of using a translation service (anywhere from $140USD to $240USD a month) to help streamline translations; Github; website hosting and any servers needed for translation. 
+Nội dung đã xuất bản sẽ được cấp phép theo Giấy phép Creative Attribution-Non-Commercial-ShareAlike International (CC BY-NC-SA) v4.0. Mọi thông số kỹ thuật siêu dữ liệu sẽ được xuất bản theo giấy phép Creative Commons Attribution-NoDeriuct 4.0 International (CC BY-ND 4.0). Các thông số kỹ thuật siêu dữ liệu áp dụng cho việc xác định và xuất xứ tài liệu sẽ được đệ trình ở đâu và khi nào sẽ được đệ trình dưới dạng Đề xuất Cải tiến Cardano.
 
-This funding only concerns setting up and testing a translation pipeline. Further funds will be requested to continue any work beyond the three month period, either through Catalyst or other means of funding the Eastern Townhall activity.
+Mã, tài liệu, hoạt động dự án được cung cấp trên Github hoặc trong tương lai một dịch vụ tương tự.
+
+## Ngân sách
+
+Ngân sách Quỹ 6 được yêu cầu dành cho tiền lương cho ba tháng và sáu tháng. Năm mươi phần trăm quỹ sẽ được sử dụng để trang trải cho công việc và chi phí mà chúng tôi đang thực hiện.
+
+- Đánh giá / Tích hợp dịch vụ dịch thuật: $ 1200 USD
+- Tự động hóa quy trình làm việc: $ 3000 USD
+- Tài liệu Quy trình: $ 2200 USD
+- Đào tạo nhà Đào tạo: $ 850 USD
+- Dịch thuật: $ 1250 USD
+- Quản lý dự án (% 8): $ 1000 USD
+- Dịch vụ  phần mềm&amp; Máy chủ: $ 3000 USD
+
+Phí Dịch vụ &amp; Máy chủ Phần mềm ($ 500 x 6 tháng = $ 3.000) bao gồm chi phí sử dụng dịch vụ dịch thuật (từ $ 140USD đến $ 240USD một tháng) để giúp sắp xếp hợp lý các bản dịch; Github; lưu trữ trang web và bất kỳ máy chủ nào cần thiết cho việc dịch thuật.
+
+Khoản quỹ này chỉ liên quan đến việc thiết lập và thử nghiệm một đường dẫn dịch. Các quỹ khác sẽ được yêu cầu để tiếp tục bất kỳ công việc nào sau khoảng thời gian ba tháng, thông qua Catalyst hoặc các phương thức tài trợ khác cho hoạt động của Tòa thị chính phía Đông.
+
 ### The Team
 
 A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
@@ -143,11 +158,11 @@ A collaborative effort, the team bring a wealth of cultural and technical experi
 
 **Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
+**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&amp;M Catalyst Circle/Swarm/School.
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. The exteded team includes professional interpreters and translators.
+**Nhóm đại diện cho hạt giống tin cậy khởi đầu** của Tòa Thị Chính Miền Đông. Không có vai trò, không có nhà lãnh đạo. Thay vào đó mọi người tự thành lậ, thông qua sự tham gia theo thời gian. Đội ngũ mở rộng bao gồm các thông dịch viên và biên dịch viên chuyên nghiệp.
 
-## References
+## Tham chiếu
 
 [1] [English Proficiency Index](https://www.ef.com/wwen/epi/)
 
