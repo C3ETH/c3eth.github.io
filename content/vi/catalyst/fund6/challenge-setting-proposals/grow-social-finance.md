@@ -7,9 +7,9 @@ weight: '20'
 description: Để giải quyết các tình trạng khẩn cấp liên quan về khí hậu và các thách thức kinh tế, chúng ta cần xây dựng các giải pháp tài chính phù hợp để thúc đẩy sự thay đổi. Chúng ta có thể xây dựng những giải pháp nào trên Cardano để tài trợ cho sự đổi mới xã hội và môi trường?
 ---
 
-**Thử thách:** [Fund 7 Challenge Setting]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+**Thử thách:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **Số tiền yêu cầu (USD):** 250.000 USD
 
