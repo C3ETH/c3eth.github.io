@@ -1,134 +1,150 @@
 ---
-title: "Connect East Asian Entrepreneurs"
-linkTitle: "Connect East Asian Entrepreneurs"
+title: Kết nối người khởi nghiệp Đông Á
+linkTitle: Kết nối người khởi nghiệp Đông Á
 type: docs
-hide_feedback: true
-weight: 30
+hide_feedback: 'true'
+weight: '30'
 description: >
-    There are no Cardano initiatives to attract and engage East Asian entrepreneurs where they are, in their local language. We propose to use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
+  Không có sáng kiến nào của Cardano để thu hút và thu hút các doanh nhân Đông Á ở bất kỳ đâu, bằng ngôn ngữ địa phương của họ. Chúng tôi đề xuất sử dụng Tòa thị chính phía Đông và các sự kiện ảo được nhắm mục tiêu để thiết lập và hỗ trợ mạng lưới các doanh nhân Đông Á.
 ---
+
 {{< youtube Ibm36IXxnYA >}}
 
-**Challenge:** [Proposer Outreach]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
+**Thách thức:** [Proposer Outreach]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
-**Requested Amount (USD):** $20,000
+**Số tiền yêu cầu (USD):** 20.000 đô la
 
-## Problem statement
-There are no initiatives to attract and engage East Asian entrepreneurs where they are, in their local language.
+## Mô tả vấn đề
 
-## Describe your solution to the problem
-Use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
-## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
-## Detailed plan
-We want to reach the massive untapped potential of East Asian entrepreneurs. Meet them where they are, in their country, their language and their culture. The Eastern Townhall wants to establish a growing network of East Asian entrepreneurs. Where they can build knowledge, share information, connect and support each other. Thinking global, acting local.
-### Current Problems and Limitation
+Không có sáng kiến nào để thu hút và thu hút các nhà khởi nghiệp Đông Á ở bất kỳ đâu, bằng ngôn ngữ địa phương của họ.
 
-Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way of governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, to poke, to push, and to mould new ways of doing.
+## Mô tả giải pháp giải quyết vấn đề
 
-Reaching Entrepreneurs is difficult when language and cultural barriers exist. Local context may also have undeveloped startup funding programmes too. This can result in unrealized startup funding opportunities. Few East Asian entrepreneurs are aware of the opportunities and the technical, economic benefits of Cardano; Nor is there a full understanding of how to apply Cardano technology within local communities to address local market opportunities. We want to change that.
-### Proposed Solution: Cardano StartUp Month
+Sử dụng Tòa thị chính phía Đông và các sự kiện ảo được nhắm mục tiêu để thiết lập và hỗ trợ mạng lưới khởi nghiệp ở Đông Á.
 
-This proposal is about running virtual events in January/February 2022 to develop entrepreneurs in Vietnam and Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano. 
+## Kinh nghiệm liên quan
 
-**The purpose of the event is to build startup founders and Distributed Autonomous Organisation (DAO) collaborators.** We are not building startups! Our intent is to educate. Focusing on experience-based learning by providing a soft way for the general public to access entrepreneurship and blockchain technology without risk.
+Thành viên của tổ dự án là nhà đồng sáng lập Catalyst Swarm, Eastern Townhall, Catalyst School. CNTT &amp; Kỹ thuật phần mềm. các nhà giáo dục và kế toán ở Đông Á và Nhật Bản.
 
-The event will happen over four weeks:
+## Kế hoạch chi tiết
 
-**Virtual Networking (Week 1 & 2):** The first two weeks of the event is about Networking. Getting registered participants to meet each other, discuss their ideas and aspirations. Tutorial sessions will be held to help upskill and familiarise people with business design tools.
+Chúng tôi muốn tiếp cận tiềm năng to lớn chưa được khai thác của các nhà khởi nghiệp ở Đông Á. Gặp gỡ họ ở nơi họ đang ở, đất nước của họ, với ngôn ngữ của họ và văn hóa của họ. Tòa thị chính phía Đông muốn thiết lập một mạng lưới các nhà khởi nghiệp Đông Á đang phát triển. Nơi họ có thể xây dựng kiến thức, chia sẻ thông tin, kết nối và hỗ trợ lẫn nhau. Suy nghĩ toàn cầu, hành động cục bộ.
 
-**Pitch and Team-Up (Start of Week 3):** All participants come together for the opening event where individual participants can give a 60-second pitch of a project idea they want to pursue. People vote with their feet by choosing to join a team.
+### Các vấn đề hiện tại và hạn chế
 
-**Learn and Work (Week 3 & 4)**: Over the next two weeks, teams start working together. Mentors are assigned. Special sessions are run with experts. Teams are encouraged to validate their ideas with potential customers. Throughout the two weeks, each team will have four 30min pitch sessions with a panel of mentors that help them refine their pitch and Catalyst Proposal.
+Nhớ lại khoảnh khắc khi bạn nhận ra rằng nếu bạn ép hoặc bị thúc đẩy làm gì đó thì một một thứ gì đó mới và thú vị sẽ xuất hiện. Chúng tôi lại ở đây và lần này trên quy mô toàn cầu. Chúng tôi, cộng đồng Cardano Catalyst là những người tiên phong trong một tư duy mới. Một cách quản lý và cấp vốn mới. Nhưng để tạo được dấu ấn trong vũ trụ, chúng ta cần những nhà khởi nghiệp. những người sẵn sàng chấp nhận rủi ro, chịu sức ép, bị thúc đẩy và tạo ra những cách làm mới.
 
-**Pitch (End of Week 4)**: All participants come together for the closing event. The pitch! Each team is given five minutes to present their market problem and their solution to a panellist that ask questions. To pitch every team must have submitted their proposal to Catalyst. When all presentations are given the audience will pick the winning teams. Prizes will be awarded. We all celebrate! At the conclusion of Fund 8, Catalyst Voters choose who to fund.
+Tiếp cận người khởi nghiệp rất khó khi khác ngôn ngữ và văn hóa. Tại địa phương cũng có thể có các chương trình tài trợ khởi nghiệp chưa phát triển. Điều này có thể dẫn đến các cơ hội tài trợ cho đơn vị khởi nghiệp không được thực hiện. Rất ít doanh nhân Đông Á nhận thức được các cơ hội và lợi ích kinh tế, kỹ thuật từ Cardano; Cũng không có hiểu biết đầy đủ về cách áp dụng công nghệ Cardano trong các cộng đồng địa phương để giải quyết các cơ hội thị trường địa phương. Chúng tôi muốn thay đổi điều đó.
 
-The event will focus on Cardano Blockchain solutions and place emphasis on using Business Model Generation, Customer Development approaches and the use of analytical tools like Lean Startup, the Platform Design Toolkit, and Wardley Mapping.
+### Giải pháp đề xuất: Tháng khởi động Cardano
 
-By the time proposals are submitted in Fund 8, entrepreneurial teams will have formed, worked together, finished customer testing, and developed robust business models.
-### What Success Looks Like
+Đề xuất này là tổ chức các sự kiện ảo vào tháng 1 / tháng 2 năm 2022 để phát triển doanh nhân ở Việt Nam và Indonesia. Sự kiện này nhằm mục đích nâng cao kỹ năng kinh doanh của các doanh nhân để phát triển các cơ hội thị trường dựa trên Cardano.
 
-The event is planned to finish on conclusion of the second week of Catalyst fund 8, Feburary 2022. Teams will be submitting proposals to Catalyst Fund 8 as part of their work.
+**Mục đích của sự kiện là xây dựng các nhà sáng lập khởi nghiệp và các cộng tác viên của Tổ chức Tự trị Phân tán (DAO).** Chúng tôi không xây dựng các công ty khởi nghiệp! Mục đích của chúng tôi là giáo dục. Tập trung vào việc học tập dựa trên kinh nghiệm bằng cách cung cấp một phương thức mềm để công chúng tiếp cận với tinh thần kinh doanh và công nghệ blockchain mà không gặp rủi ro.
 
-At the end of the event, at least 15 teams have managed to complete the process and submitted proposals to Catalyst Fund 8. Individuals complete the event with new skills, connections, and inspiration to continue their Cardano journey.
-#### Key Performance Indicators
+Sự kiện sẽ diễn ra trong bốn tuần:
 
-For Entrepreneurs Startup Month, participation:
+**Mạng ảo (Tuần 1 &amp; 2):** Hai tuần đầu tiên của sự kiện là về Kết nối mạng. Yêu cầu những người tham gia đã đăng ký gặp gỡ nhau, thảo luận về ý tưởng và nguyện vọng của họ. Các buổi hướng dẫn sẽ được tổ chức để giúp mọi người nâng cao kỹ năng và làm quen với các công cụ thiết kế kinh doanh.
 
-* Reaches 100 individuals that form into at least 20 teams.
-* At least 15 teams submit proposals.
-* At least 3 proposals that are funded in Catalyts Fund 8/9
+**Giới thiệu và lập nhóm (Bắt đầu tuần 3):** Tất cả những người tham gia cùng nhau tham dự sự kiện khai mạc, nơi những người tham gia cá nhân có thể đưa ra lời giới thiệu dài 60 giây về ý tưởng dự án mà họ muốn theo đuổi. Mọi người bỏ phiếu  bằng cách chọn tham gia một đội phù hợp
 
-At the end of the event:
+**Học và Làm việc (Tuần 3 &amp; 4)** : Trong hai tuần tới, các nhóm bắt đầu làm việc cùng nhau. Mỗi nhóm sẽ có Cố vấn riêng. Các phiên đặc biệt được điều hành với các chuyên gia. Khuyến khích các nhóm được đánh giá ý tưởng của họ với khách hàng tiềm năng. Trong suốt hai tuần, mỗi đội sẽ có bốn phiên trình bày 30 phút với một nhóm cố vấn giúp họ tinh chỉnh bài trình bày và hồ sơ đề án.
 
-* We have increased our social media presense by 1000 followers.
-* The event is covered by four major media outlets.
-#### After One Month: 
+**Ra sân (Cuối tuần 4)** : Tất cả người tham gia cùng đến với sự kiện bế mạc. Ra sân! Mỗi nhóm có năm phút để trình bày vấn đề và giải pháp của họ trước một hội đồng với nhiều câu hỏi. Để chào sân, Các đội phải gửi đề xuất của họ cho Catalyst. Khi tất cả các bài thuyết trình được đưa ra, khán giả sẽ chọn ra các đội chiến thắng. Giải thưởng sẽ được trao. Tất cả chúng ta ăn mừng! Khi kết thúc Quỹ 8, Người bầu chọn sẽ chọn các dự án tương ứng.
 
-* Event Team formed, project plans and budgets finalised.
-* Event Website and Social Media Accounts established.
-* Event Online registration setup.
-* Event Promotional content (blogs/video) developed.
-* PR and promotion of the event started.
-#### After Two Months: 
+Sự kiện sẽ tập trung vào các giải pháp Cardano Blockchain và nhấn mạnh vào việc sử dụng Phương pháp tạo mô hình kinh doanh, phát triển khách hàng và sử dụng các công cụ phân tích như Lean Startup, Platform Design Toolkit và Wardley Mapping.
 
-* Mentors, Judges and Registrations all confirmed
-* Event underway and is being run. 
-#### After Six Months: 
+Vào thời điểm các đề xuất được đệ trình trong Quỹ 8, các nhóm khởi nghiệp sẽ được thành lập, làm việc cùng nhau, hoàn thành thử nghiệm với khách hàng và phát triển các mô hình kinh doanh .
 
-* First event successfully completed and we are planning another improved event.
-* Three teams have turned into three funded projects that are activily building on Cardano.
-#### After Twelve Months:
+### Thành công sẽ như thế nào
 
-* The Cardano Start Month/Week is an established event on the Asian Cardano Calendar.
-### Intellectual Property
+Sự kiện được lên kế hoạch kết thúc vào cuối tuần thứ hai của quỹ Catalyst 8, tháng 2 năm 2022. Các nhóm sẽ gửi đề xuất cho Catalyst Fund 8 như một phần công việc của họ.
 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details. Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-### Budget
+Vào cuối sự kiện, ít nhất 15 đội đã hoàn thành quy trình và gửi đề xuất đến Catalyst Fund 8. Các cá nhân hoàn thành sự kiện với các kỹ năng, kết nối mới và nguồn cảm hứng để tiếp tục hành trình Cardano của họ.
 
-Please see attached proposed plan for a detailed budget breakdown with planned activities.
+#### Các chỉ số đo lường hiệu suất
 
-* Core Team **$10,500 USD:**
-including project management, content production, comunity management, and adminstration. 
-* Supporting Team **$3,500 USD:**
-Mentors, judges, special guests.
-* Marketing and Communication **$5000 USD:**
-Media Visit, Influencer collaboration, Google/IG ads 
-* Contingency (%5): **$1,000 USD**
-### The Team
+Đối với Tháng Khởi nghiệp, đo lường sự tham gia:
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+- Đạt được 100 cá nhân thành ít nhất 20 đội.
+- Ít nhất 15 đội gửi đề xuất.
+- Ít nhất 3 đề xuất được tài trợ trong Quỹ Catalyts 8/9
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+Vào cuối sự kiện:
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+- Chúng tôi đã tăng 1000 người theo dõi trên mạng xã hội của mình.
+- Sự kiện được đưa tin bởi bốn hãng truyền thông lớn.
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+#### Sau một tháng:
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+- Nhóm sự kiện được thành lập, kế hoạch dự án và ngân sách đã được hoàn thiện.
+- Trang web sự kiện và tài khoản mạng xã hội được thành lập.
+- Thiết lập đăng ký sự kiện trực tuyến.
+- Nội dung quảng cáo sự kiện (blog / video) được phát triển.
+- Bắt đầu PR và quảng bá sự kiện.
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+#### Sau hai tháng:
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+- Cố vấn, Giám khảo và đơn đăng ký đều đã được xác nhận.
+- Sự kiện diễn ra và đang được chạy.
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+#### Sau sáu tháng:
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+- Sự kiện đầu tiên đã hoàn tất thành công và chúng tôi lên kế hoạch cho một sự kiện cải tiến khác.
+- Ba nhóm đã có ba dự án được tài trợ đang hoạt động xây dựng trên Cardano.
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+#### Sau mười hai tháng:
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
+-  Sự kiện Tháng/Tuần được thiết lập trên Lịch Cardano Châu Á.
 
-We are working with Venture Centre[1], IdeaFest[2], and Catalyst School[3]; as part of the proposal, we aim to work with Enterprenerdy[4], Emurgo[5], local Universities, and IOG's Catalyst Team.
-## References
+### Sở hữu trí tuệ
+
+Tất cả mã nguồn của chúng tôi đều được cấp phép theo Giấy phép Apache 2.0 - hãy xem [tệp LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) của chúng tôi để biết chi tiết. Nội dung đã xuất bản của chúng tôi được cấp phép theo [Giấy phép Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+### Ngân sách
+
+Vui lòng xem kế hoạch đề xuất đính kèm để biết phân tích ngân sách chi tiết với các hoạt động đã lên kế hoạch.
+
+- Nhóm nòng cốt **$ 10,500 USD:** Bao gồm quản lý dự án, sản xuất nội dung, quản lý cộng đồng và quản trị viên.
+- Đội hỗ trợ **$ 3.500 USD:** Cố vấn, giám khảo, khách mời đặc biệt.
+- Tiếp thị và Truyền thông **$ 5000 USD:** Lượt truy cập truyền thông, cộng tác với người ảnh hưởng, quảng cáo Google / IG
+- Dự phòng (% 5): **$ 1,000 USD**
+
+### Về Đội Nhóm
+
+Với nỗ lực hợp tác, nhóm mang lại nhiều kinh nghiệm về văn hóa và kỹ thuật cho Cardano. Tất cả chúng tôi đều hoặt động rất tích cực trong Catalyst và các nhóm cộng đồng trong hệ sinh thái của chúng tôi. Chúng tôi là một nhóm đa dạng được thống nhất bởi lời hứa của Cardano:
+
+**Yuta Yuta** (@yutazz) - Nhật Bản: Đại sứ chính thức của Cardano, Người đồng tổ chức cộng đồng, Người nhận Quỹ Catalyst 2, kế toán.
+
+**Yan Tirta** (@yantirta) - Indonesia: Hỗ trợ cộng đồng Cardano ở Indonesia, khuyến khích cộng đồng địa phương phát triển bằng giáo dục và sự khích lệ.
+
+**Mie Tran** (@ mie.tran.0407) - Việt Nam: Chuyên ngành Ngôn ngữ Anh và Kinh doanh Quốc tế, có kinh nghiệm làm việc với các doanh nghiệp phương Tây và phiên dịch.
+
+**Andy Sibuea** (@zicozibu) - Indonesia: Tiên phong trong viêc giáo dục blockchain trên nền tảng tiền điện tử trên phạm vi rộng khắp Indonesia.
+
+**Tim O'Brien** (@tobrien) - Việt Nam: Tiên phong trong công nghệ No-code. Người chủ trị tại phòng họp phía Đông Phi (EATH).
+
+**Greg Bell** (@grebel) - Úc: Chuyên gia tư vấn CNTT, người tạo ra những chellenge cho dự án Catalyst.
+
+**Seomon Blub** (@seomon) - Áo: Chuyên gia tư vấn CNTT tập trung vào cơ sở hạ tầng con người cho cộng đồng bền vững.
+
+**Robert O'Brien** (@wolstaeb) - New Zealand: Kỹ sư phần mềm hệ thống tài chính, Nhà đồng tổ chức và Doanh nhân cộng đồng.
+
+**Stephen Whitenstall** (@swhitenstall) - Anh: Theo dõi và soạn thảo tài liệu Catalyst. Giúp tổ chức các cộng đồng như Catalyst Circle và Catalyst Swarm.
+
+**Felix Weber** (@felixweber) - Pháp: Quản lý cộng đồng, xây dựng cầu nối giữa mọi người. Thành viên của T&amp;M Catalyst Circle / Swarm / School.
+
+Chúng tôi đang làm việc với  Venture Centre [1], IdeaFest [2], và Trường Catalyst [3]; là một phần của đề xuất, chúng tôi mong muốn hợp tác với Enterprenerdy [4], Emurgo [5], các trường Đại học địa phương và Nhóm xúc tác của IOG.
+
+## Tham chiếu
 
 [1] [Venture Centre](https://www.venturecentre.nz/)
 
 [2] [IdeaFest](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021)
 
-[3] [Catalyst School](https://linktr.ee/CatalystSchool) 
+[3] [Catalyst School](https://linktr.ee/CatalystSchool)
 
 [4] [Enterprenerdy](https://entreprenerdy.com/)
 
