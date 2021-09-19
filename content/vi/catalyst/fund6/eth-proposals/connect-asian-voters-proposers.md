@@ -114,31 +114,31 @@ Vui lòng xem kế hoạch đề xuất đính kèm để biết phân tích ng�
 
 Chi phí lao động thấp hơn rất nhiều ở Việt Nam và Indonesia, chúng tôi có thể làm được nhiều việc hơn nữa. Tuy nhiên, những chi phí này cần được bình thường hóa thành mức trung bình toàn cầu đối với công việc / kỹ năng. Không phải ai cũng sống ở Việt Nam / Indonesia.
 
-### The Team
+### Về Đội Nhóm
 
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+Với nỗ lực hợp tác, nhóm mang lại nhiều kinh nghiệm về văn hóa và kỹ thuật cho Cardano. Tất cả chúng tôi đều hoặt động rất tích cực trong Catalyst và các nhóm cộng đồng trong hệ sinh thái của chúng tôi. Chúng tôi là một nhóm đa dạng được thống nhất bởi lời hứa của Cardano:
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+**Yuta Yuta** (@yutazz) - Nhật Bản: Đại sứ chính thức của Cardano, Người đồng tổ chức cộng đồng, Người nhận Quỹ Catalyst 2, kế toán.
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+**Yan Tirta** (@yantirta) - Indonesia: Hỗ trợ cộng đồng Cardano ở Indonesia, khuyến khích cộng đồng địa phương phát triển bằng giáo dục và sự khích lệ.
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+**Mie Tran** (@ mie.tran.0407) - Việt Nam: Chuyên ngành Ngôn ngữ Anh và Kinh doanh Quốc tế, có kinh nghiệm làm việc với các doanh nghiệp phương Tây và phiên dịch.
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+**Andy Sibuea** (@zicozibu) - Indonesia: Tiên phong trong viêc giáo dục blockchain trên nền tảng tiền điện tử trên phạm vi rộng khắp Indonesia.
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+**Tim O'Brien** (@tobrien) - Việt Nam: Tiên phong trong công nghệ No-code. Người chủ trị tại phòng họp phía Đông Phi (EATH).
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+**Greg Bell** (@grebel) - Úc: Chuyên gia tư vấn CNTT, người tạo ra những chellenge cho dự án Catalyst.
 
 **Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+**Robert O'Brien** (@wolstaeb) - New Zealand: Kỹ sư phần mềm hệ thống tài chính, Nhà đồng tổ chức và Doanh nhân cộng đồng.
 
 **Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
 
 **Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&amp;M Catalyst Circle/Swarm/School.
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[2], and Catalyst School[3] and other community groups across Asia.
+**Đội đại diện tiên phong đáng tin cậy** của Eastern Townhall. Không chia vai trò, không có nhà lãnh đạo. Đúng hơn là chúng tôi tự thành lập và phát triển theo thời gian, thông qua sự tham gia. Chúng tôi hợp tác và cộng tác với Catalyst Swarm [1], Catalyst School [2] và các nhóm cộng đồng khác trên khắp Châu Á.
 
 ## Tham chiếu
 
