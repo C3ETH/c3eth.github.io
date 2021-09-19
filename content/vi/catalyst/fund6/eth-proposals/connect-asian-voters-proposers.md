@@ -1,12 +1,10 @@
 ---
-title: Connecting Asian Voters and Proposers
+title: Kết nối cử tri và người đề xuất dự án ở châu Á
 linkTitle: Kết nối cử tri và người đề xuất dự án ở châu Á
 type: docs
 hide_feedback: 'true'
 weight: '40'
-description: |2
-
-  There are barriers, such as a lack of trusted information to voting caused by language differences & cultural exclusivity. We propose to provide trusted information by meeting people where they are, in their local language and culture.
+description: Có những rào cản, như thiếu thông tin đáng tin cậy để bỏ phiếu do khác biệt ngôn ngữ và đặc thù văn hóa. Chúng tôi đề xuất cung cấp thông tin đáng tin cậy bằng cách gặp gỡ mọi người ở nơi họ đang sống, bằng ngôn ngữ và văn hóa địa phương của họ.
 ---
 
 {{&lt; youtube BT2-0tnZnzc &gt;}}
@@ -19,40 +17,40 @@ description: |2
 
 ## Hoạch định vấn đề
 
-There are barriers, such as a lack of trusted information to voting caused by language differences &amp; cultural exclusivity.
+Có những rào cản, chẳng hạn như thiếu thông tin đáng tin cậy để bỏ phiếu do khác biệt ngôn ngữ và đặc thù văn hóa.
 
-## Describe your solution to the problem
+## Mô tả giải pháp giải quyết vấn đề
 
-Provide trusted information by meeting people where they are, in their local language and culture.
+Cung cấp thông tin đáng tin cậy bằng cách gặp gỡ mọi người ở nơi họ đang ở, bằng ngôn ngữ và văn hóa địa phương của họ.
 
-## Relevant experience
+## Kinh nghiệm liên quan
 
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT &amp; Software Engineering. educators and accountant in East Asia &amp; Japan.
+Thành viên của tổ dự án là nhà đồng sáng lập Catalyst Swarm, Eastern Townhall, Catalyst School. CNTT &amp; Kỹ thuật phần mềm. các nhà giáo dục và kế toán ở Đông Á và Nhật Bản.
 
-## Detailed plan
+## Kế hoạch chi tiết
 
-Voting on how Catalyst spends the treasury creates long-term value to ADA, but with so many proposals, with so many new concepts, how do we make any voting decision? Now imagine how difficult it must be when you do not speak English. All Ada holders benefit if we develop better more inclusive and diverse governance processes and strategies. Unless the Catalyst Community and Ada holders level up our collective cognition, a random voting strategy is just as valid as a well researched one.
+Bỏ phiếu về cách Catalyst chi tiêu ngân quỹ tạo ra giá trị lâu dài cho ADA, nhưng với rất nhiều đề xuất, với rất nhiều khái niệm mới, làm thế nào để chúng tôi đưa ra bất kỳ quyết định bỏ phiếu nào? Bây giờ hãy tưởng tượng nó sẽ khó khăn như thế nào khi bạn không nói được tiếng Anh. Tất cả chủ sở hữu Ada đều được hưởng lợi nếu chúng tôi phát triển các quy trình và chiến lược quản trị đa dạng và toàn diện hơn. Trừ khi Cộng đồng Catalyst và những người nắm giữ Ada nâng cao nhận thức chung của chúng tôi, chiến lược bỏ phiếu ngẫu nhiên cũng hợp lệ như một chiến lược đã được nghiên cứu kỹ lưỡng.
 
-### Current Problems and Limitation
+### Các vấn đề hiện tại và giới hạn
 
-Language differences and cultural exclusivity prevents governance initiatives from scaling globally. The constant experimentation of Catalyst means we need to be mindful to include different languages and cultures. Avoiding one culture dominating the narrative.
+Sự khác biệt về ngôn ngữ và đặc thù về văn hóa ngăn cản các sáng kiến quản trị mở rộng quy mô toàn cầu. Việc liên tục thử nghiệm Catalyst có nghĩa là chúng ta cần lưu tâm đến việc đưa vào các ngôn ngữ và nền văn hóa khác nhau. Tránh một nền văn hóa thống trị.
 
-Misaligned incentives, scams and information overload prevent Ada holders from voting. In Asia and other non-native English speaking cultures, language barriers compound this. Language barriers are evident at every Catalyst stage. Survey results showed in the Japanese community biggest problem of Catalyst voting was the lack of Japanese support (45.61%). Over %37 of respondents highlighted issues with understanding the process- "I didn't understand the meaning because it was in English, so I voted randomly". The weariness of scams and lack of trust between proposals and voters were highlighted too. Another %16 mentioned incentive misalignment issues.
+Các ưu đãi nghi ngờ, lừa đảo và quá tải thông tin ngăn cản những người nắm giữ Ada bỏ phiếu. Ở châu Á và các nền văn hóa mà tiếng Anh không phải là ngôn ngữ bản địa, rào cản ngôn ngữ tạo nên điều này. Rào cản ngôn ngữ là điều hiển nhiên ở mọi giai đoạn của Catalyst. Kết quả khảo sát cho thấy trong cộng đồng Nhật Bản vấn đề lớn nhất của cuộc bỏ phiếu Catalyst là thiếu sự ủng hộ của người Nhật (45,61%). Hơn% 37 người được hỏi nêu bật các vấn đề liên quan đến việc hiểu quy trình - "Tôi không hiểu nghĩa vì nó bằng tiếng Anh, vì vậy tôi đã bỏ phiếu ngẫu nhiên". Sự mệt mỏi của những trò gian lận và sự thiếu tin tưởng giữa các đề xuất và cử tri cũng đã được nhấn mạnh. 16 % khác đề cập đến các ưu đãi có sự nghi ngờ
 
-### Our solution: Eastern Townhall Goverance Forum
+### Giải pháp của chúng tôi: Diễn đàn Thị trấn phía Đông
 
-Our goal is to establish a process, format, and event stage for voter and proposer onboarding. To bring voters, proposers, and proposals closer together. To establish trust between them. The focus is on six mutually reinforcing areas:
+Mục tiêu của chúng tôi là thiết lập một quy trình, định dạng và giai đoạn sự kiện cho việc giới thiệu người bình chọn và người đề xuất. Để đưa cử tri, người đề xuất và đề xuất đến gần nhau hơn. Để thiết lập niềm tin giữa họ. Trọng tâm là sáu lĩnh vực củng cố lẫn nhau:
 
-1. **Content production**: Help Ada holders understanding why it is important to vote on proposals.
-2. **Eastern Hemisphere Language-specific events** focused on voter education and discussion.
-3. A proposal **language translation pipeline** to help proposers reach the wider East Asian community.
-4. **Language-specific Catalyst Swarm Ideafests** as a stage for building voter awareness, engagement, and trust.
-5. **Social Media Marketing**: socialise voter content and messaging across our social media channels; and
-6. Conduct **routine surveys and user research** to help understand individual attitudes to Catalyst and proposal formats.
+1. **Sản xuất nội dung** : Giúp chủ sở hữu Ada hiểu lý do tại sao việc bỏ phiếu cho các đề xuất lại quan trọng.
+2. **Các sự kiện dành riêng cho ngôn ngữ ở Đông bán cầu** tập trung vào giáo dục và thảo luận cử tri.
+3. **Đề xuất giải pháp dịch song song** đề xuất để giúp những người đề xuất tiếp cận với cộng đồng Đông Á rộng lớn hơn.
+4. **Ý tưởng về Catalyst Swarm** là nơi xây dựng nhận thức, sự tương tác và lòng tin của cử tri.
+5. **Truyền thông trên mạng xã hội** : xã hội hóa nội dung và tin nhắn của cử tri trên các kênh truyền thông xã hội của chúng tôi; và
+6. Thực hiện **các cuộc khảo sát định kỳ và nghiên cứu người dùng** để giúp hiểu thái độ của từng cá nhân đối với Catalyst và các định dạng đề xuất.
 
-The proposal is seeking funds to help develop a programme specifically designed to help connect voters with proposals and proposers.
+Đề xuất đang tìm kiếm nguồn vốn để giúp phát triển một chương trình được thiết kế đặc biệt để giúp kết nối cử tri với các đề xuất và người đề xuất.
 
-Together these activities form a programme we call the **Eastern Townhall Forum**. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more. We are doing translations, building community, sharing knowledge, educating, enabling entrepreneurs, and growing Cardano.
+Các hoạt động này cùng nhau tạo thành một chương trình mà chúng tôi gọi là **Diễn đàn Thị trấn phía Đông** . Sự kiện nền tảng của chúng tôi là các  chương trình của Thị trấn phía Đông hàng tuần. Nhưng chúng tôi đang làm nhiều hơn thế. Chúng tôi đang thực hiện các công việc dịch thuật, xây dựng cộng đồng, chia sẻ kiến thức, giáo dục, tạo điều kiện cho các doanh nhân và Cardano đang phát triển.
 
 Hạt giống đáng tin cậy của Eastern Townhall là một phần tích cực trong hệ sinh thái Cardano của chúng tôi. Lắng nghe và tương tác với các thành viên của cộng đồng. Chia sẻ những gì chúng ta học được. Ví dụ, **Yuta Yuta** gần đây đã hoàn thành một trong nhiều cuộc khảo sát của mình về cộng đồng Nhật Bản [1] dựa trên đề xuất này. Chúng tôi muốn thực hiện nhiều hoạt động này hơn trên tất cả các cộng đồng. Chúng tôi muốn giúp cải thiện trải nghiệm của người dùng cho người bình chọn. Cung cấp lại thông tin chi tiết chung của chúng tôi về Project Catalyst.
 
@@ -142,7 +140,7 @@ A collaborative effort, the team bring a wealth of cultural and technical experi
 
 The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[2], and Catalyst School[3] and other community groups across Asia.
 
-## References
+## Tham chiếu
 
 [1] [Japanese community Survey August 2021](https://t.me/ProjectCatalystChat/53776)
 
