@@ -7,11 +7,11 @@ weight: '40'
 description: Có những rào cản, như thiếu thông tin đáng tin cậy để bỏ phiếu do khác biệt ngôn ngữ và đặc thù văn hóa. Chúng tôi đề xuất cung cấp thông tin đáng tin cậy bằng cách gặp gỡ mọi người ở nơi họ đang sống, bằng ngôn ngữ và văn hóa địa phương của họ.
 ---
 
-{{&lt; youtube BT2-0tnZnzc &gt;}}
+{{< youtube xtfa15Wl11E >}}
 
-**Thử thách:** [Distributed decision making]({{&lt; relref "../challenges/distributed-decision/campaign-brief.md" &gt;}})
+**Thử thách:** [Distributed decision making]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
 
 **Requested Amount (USD):** $15,000
 
