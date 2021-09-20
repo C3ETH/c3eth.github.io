@@ -193,7 +193,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "Meetup"
-	url = "https://www.meetup.com/Catalyst-Swarm-Sessions/events/qrlmpsyccmbxb/"
+	url = "https://www.meetup.com/Catalyst-Swarm-Sessions"
 	icon = "fab fa-meetup"
   desc = "Register for our weekly townhalls."
 

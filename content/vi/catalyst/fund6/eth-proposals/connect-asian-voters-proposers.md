@@ -7,7 +7,7 @@ weight: '40'
 description: Có những rào cản, như thiếu thông tin đáng tin cậy để bỏ phiếu do khác biệt ngôn ngữ và đặc thù văn hóa. Chúng tôi đề xuất cung cấp thông tin đáng tin cậy bằng cách gặp gỡ mọi người ở nơi họ đang sống, bằng ngôn ngữ và văn hóa địa phương của họ.
 ---
 
-{{< youtube xtfa15Wl11E >}}
+{{< youtube M9w1I5nv1GU >}}
 
 **Thử thách:** [Distributed decision making]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
