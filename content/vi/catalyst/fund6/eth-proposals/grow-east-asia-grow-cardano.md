@@ -8,6 +8,7 @@ description: |2-
 
   Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở khu vực Đông Á theo một cách toàn diện, đa dạng và theo hướng khuyến khích và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến và việc triển khai!
 ---
+{{< youtube CeZynbrO-ak >}}
 
 **Thử thách:** [Thiết lập thử thách của Quỹ 7]({{<relref "../challenges/fund7-challenge-setting/campaign-brief.md">}})
 

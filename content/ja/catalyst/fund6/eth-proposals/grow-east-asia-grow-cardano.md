@@ -7,6 +7,7 @@ weight: '10'
 description: >
   東アジアのカルダノエコシステムを包括的で多様かつ支援的な方法でどのように成長させるのでしょうか。私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブと実装！
 ---
+{{< youtube CeZynbrO-ak >}}
 
 **チャレンジ：** [ファンド7チャレンジ設定]（{{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}}）
 

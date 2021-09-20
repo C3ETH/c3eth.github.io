@@ -7,6 +7,8 @@ weight: 10
 description: >
     How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
 ---
+{{< youtube CeZynbrO-ak >}}
+
 **Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
