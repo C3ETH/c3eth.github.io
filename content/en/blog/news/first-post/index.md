@@ -1,21 +1,17 @@
 ---
-date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+date: 2021-18-09
+title: "Eastern Hemisphere Townhall Meeting #8"
+linkTitle: "Eastern Hemisphere Townhall Meeting 8"
+description: "A great meetup where we started off talking about the upcoming Ideafest, Cardano Summit and Hackathons."
+author: Robert & Stephen
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+    byline: "Photo: Eastern Hemisphere Townhall / CC-BY-CA"
 ---
 
-**This is a typical blog post that includes images.**
-
-The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
-
-## Including images
+A great meetup where we started off talking about the upcoming Ideafest, Cardano Summit and Hackathons. A lot of familiar faces joined into an insightful discussion about Scams and Scam detection. Lead by Peter Bui. We also discussed trading bots, Social and Environmental applications and touched on Stable Coins.
 
 Here's an image (`featured-sunset-get.jpg`) that includes a byline and a caption.
 
