@@ -13,8 +13,6 @@ resources:
 
 A great meetup where we started off talking about the upcoming Ideafest, Cardano Summit and Hackathons. A lot of familiar faces joined into an insightful discussion about Scams and Scam detection. Lead by Peter Bui. We also discussed trading bots, Social and Environmental applications and touched on Stable Coins.
 
-Here's an image (`featured-sunset-get.jpg`) that includes a byline and a caption.
-
 {{< imgproc sunset Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
