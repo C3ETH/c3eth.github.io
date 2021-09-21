@@ -1,76 +1,84 @@
 ---
-title: "Grow East Asia, Grow Cardano"
-linkTitle: "Grow East Asia, Grow Cardano"
+title: 동아시아를 육성하고, 카르다노를 성장시킴
+linkTitle: Grow East Asia, Grow Cardano(동아시아를 육성하고, 카르다노를 성장시킴)
 type: docs
-hide_feedback: true
-weight: 10
-description: >
-    How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
+hide_feedback: 'true'
+weight: '10'
+description: |2-
+
+  포괄적이고 다양하며 지원적인 방식으로 동아시아에서 Cardano 생태계를 성장시키는 방법은 무엇일까요? 우리가 아프리카에서 하는 것과 같은 방식으로 이니셔티브와 구현에 집중했습니다!
 ---
-{{< youtube CeZynbrO-ak >}}
 
-**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
+{{&lt; youtube CeZynbrO-ak &gt;}}
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+**챌린지:** [펀드7 챌린지 설정]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
 
-**Requested Amount (USD):** $250,000
+[](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
-## Challenge question:
-How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
+**요청 금액(USD):** $250,000
 
-## Why is it important?
-The Cardano community leans heavily toward North America and Europe. Growth elsewhere requires our support and initiative as a community.
+## 도전 질문:
 
-## How does success look like?
-A broad spectrum of people across Asia and connected to Asia, coming together and forming teams to grow our ecosystem.
+포괄적이고 지원적인 방식으로 동아시아에서 Cardano 생태계를 성장시키는 방법은 무엇일까요? 우리가 아프리카에서 하는 것과 같은 방식으로 이니셔티브에 집중했습니다!
 
-## Key Metrics to measure
+## 왜 그것이 중요한가?
 
-At the end of this challenge, we will be asking ourselves some questions about the quality of participation:
+Cardano 커뮤니티는 북미와 유럽에 크게 의존하고 있습니다. 다른 곳에서 성장하려면 커뮤니티로서 우리의 지원과 이니셔티브가 필요합니다.
 
-* The number of proposals originating from East Asian participants in Project Catalyst
-* The quantity and quality of funded proposals originating from East Asian teams.
-* The observed impact of funded projects (meeting their KPIs).
-* Did we increase the participation of the Cardano community and Catalyst teams with East Asian residents?
-* Was there an increase in Daily/Monthly Active Wallets (DAW/MAW) as a proxy measure of momentum and engagement
-* Did we increase the number of Stake Pools and Stake Pool Operators based in East Asia?
+## 성공하면 어떤 미래가 될까요?
 
-We will also be asking some specific questions about the quality of the proposals.
+아시아 전역의 광범위한 사람들이 아시아와 연결되어 함께 모여 우리 생태계를 성장시키는 팀을 구성합니다.
 
-* Is there good feedback on funded project progress, failure or success, that help us understand the nuances of deploying Cardano solutions across East Asia?
-* What is the novelty and appropriateness of solutions?
-* Are we on track to improve the lives of people using Cardano in East Asia?
-* Was social and environmental impact evaluation used to measure proposal performance?
-* What is the sustainability of proposals beyond the scope of Catalyst?
+## 측정할 주요 지표
 
-## Challenge brief
+이 챌린지가 끝나면 참여의 질에 대해 몇 가지 질문을 스스로에게 할 것입니다.
 
-As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
+- Project Catalyst의 동아시아 참가자들이 제안한 제안 수
+- 동아시아 팀에서 시작된 자금 지원 제안의 양과 질.
+- 자금 지원 프로젝트의 관찰된 영향(해당 KPI 충족).
+- Cardano 커뮤니티 및 동아시아 거주자와 함께 Catalyst 팀의 참여를 늘렸습니까?
+- 모멘텀과 참여를 나타내는 지표로 일간/월간 활성 지갑(DAW/MAW)이 증가했습니까?
+- 동아시아에 기반을 둔 스테이크 풀 및 스테이크 풀 운영자의 수를 늘렸습니까?
 
-The nature of the proposals for this challenge is open-ended. Their only requirement is to originate or focus on East Asia and include east Asian team members or focus on East Asian participants.
+또한 제안서의 품질에 대해 몇 가지 구체적인 질문을 할 것입니다.
 
-For instance, the overwhelming majority of Stake Pools reside in North America and Europe. The Cardano network will be more resilient when Stake Pools are evenly distributed across the globe. The Catalyst community needs to step up and intentionally make that happen.
+- 동아시아 전역에 Cardano 솔루션을 배포하는 뉘앙스를 이해하는 데 도움이 되는 자금 지원 프로젝트 진행, 실패 또는 성공에 대한 좋은 피드백이 있습니까?
+- 솔루션의 참신함과 적절성은 무엇입니까?
+- 우리는 동아시아에서 Cardano를 사용하는 사람들의 삶을 개선하고 있습니까?
+- 제안 성과를 측정하기 위해 사회 및 환경 영향 평가가 사용되었습니까?
+- Catalyst의 범위를 벗어난 제안의 지속 가능성은 무엇입니까?
 
-Cardano started life in East Asia (Japan and Hong Kong), and Emurgo focuses on East Asia. Let's build upon that.
-## What this is:
+## 챌린지 개요
 
-A call to action; Activate the Cardano community's ability to recognise, reward the opportunity to make the world a better place. East Asia is fertile ground for the adoption of Cardano. The return on intention (ROI) is likely to be high because projects in young and developing economies face less economic inertia.
+아프리카와 마찬가지로 동아시아 일반 사람들의 블록체인과 카르다노 네트워크에 대한 인식 수준을 높이는 것이 Catalyst 커뮤니티의 우선 순위가 되어야 합니다. 이 챌린지에서 우리는 Cardano에 대해 배운 사람들이 커뮤니티의 지원을 활용하고 Cardano 네트워크를 구축하거나 사용할 수 있도록 자금을 제공합니다.
 
-Addressing different parts of the world directly and intentionally through funding challenges makes our community more accessible. It makes us more resilient. It helps us learn and understand the needs of communities that make up our ecosystem.
+이 도전에 대한 제안의 성격은 끝이 없습니다. 그들의 유일한 요구 사항은 동아시아에서 시작하거나 동아시아에 초점을 맞추고 동아시아 팀 구성원을 포함하거나 동아시아 참가자에 초점을 맞추는 것입니다.
 
-It is a vision that needs votes to become an achievement. When the challenge succeeds, the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the benefits many of us were born with—allowing others with fewer privileged circumstances to rise and succeed. 
-## Challenge Team
+예를 들어, 스테이크 풀의 압도적 다수는 북미와 유럽에 있습니다. 카르다노 네트워크는 스테이크 풀이 전 세계에 고르게 분포되어 있을 때 더 탄력적일 것입니다. Catalyst 커뮤니티는 한 단계 더 나아가 의도적으로 그렇게 해야 합니다.
 
-This proposal seeks to include a challenge team. Unfortunately, the proposer's have not had time to fully form a challenge team before the proposal goes into review. If possible, we intend to help form that team before voting commences.
+Cardano는 동아시아(일본 및 홍콩)에서 시작했으며 Emurgo는 동아시아에 중점을 둡니다. 이를 기반으로 구축해 보겠습니다.
 
-The following individuals have offered to be on the challenge team.
+## 이 프로젝트는 어떤 것입니까:
 
-- Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?)) 
+행동 촉구; 세상을 더 나은 곳으로 만들 수 있는 기회를 인식하고 보상하는 Cardano 커뮤니티의 능력을 활성화할 것입니다. 동아시아는 Cardano의 채택을 위한 비옥한 땅입니다. 젊고 개발 도상국의 프로젝트가 경제적 관성(타성)에 덜 직면하기 때문에 투자수익율(ROI)이 높을 가능성이 높습니다.
+
+자금 조달 문제를 통해 직접적이고 의도적으로 세계의 다른 지역에 접근하면 커뮤니티에 더 쉽게 접근할 수 있습니다. 그것은 우리를 더 탄력적으로 만듭니다. 우리 생태계를 구성하는 커뮤니티의 요구 사항을 배우고 이해하는 데 도움이 됩니다.
+
+그것은 성과를 달성하기 위해서 투표가 필요한 비전입니다. 도전이 성공하면 수혜자는 전체 카르다노 커뮤니티입니다. 그것은 우리 중 많은 사람들이 타고난 혜택이 없는 선한 사람들에게 편견을 버리고 눈과 마음과 생각을 열어서 특권이 더 적은 환경에 있는 다른 사람들이 일어나 성공할 수 있도록 하는 부름입니다.
+
+## 도전팀
+
+이 제안은 챌린지 팀을 포함하려고 합니다. 불행히도 제안자는 제안이 검토되기 전에 챌린지 팀을 완전히 구성할 시간이 없었습니다. 가능하면 투표가 시작되기 전에 해당 팀을 구성하는 데 도움이 될 것입니다.
+
+다음 개인이 챌린지 팀에 제안되었습니다.
+
+- Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?))
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
 
-The role of Challenge Teams is to steward the challenges in Catalyst - to present the challenge, track the progress, and report back to the community their perspective on whether the challenges were addressed. 
+Challenge Teams의 역할은 Catalyst에서 과제를 관리하는 것입니다. 과제를 제시하고, 진행 상황을 추적하고, 과제가 해결되었는지 여부에 대한 관점을 커뮤니티에 다시 보고하는 것입니다.
 
-If you are interested in being part of that team, please let us know in the comments.
-## Acknowledgements
+해당 팀의 일원이 되고 싶다면 댓글로 알려주세요.
 
-This proposal is a copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108).
+## 감사의 말
+
+이 제안은 @grebel과 @archangelbob이 제안한 [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088)의 사본이며 현재 많은  [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108) 중 하나입니다.
