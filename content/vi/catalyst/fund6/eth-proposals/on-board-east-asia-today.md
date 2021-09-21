@@ -7,15 +7,13 @@ weight: '50'
 description: >
   Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa. Chúng tôi đề xuất thiết lập một hệ thống dịch thuật sẽ dịch các tài liệu và Catalyst qua nhiều ngôn ngữ nhất có thể ở Đông Á.
 ---
+{{< youtube TR37P2F7QNk >}}
 
 **Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **Số tiền yêu cầu (USD):** $12,500
-
-![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
-
 ## Mô tả vấn đề
 
 Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa.
@@ -35,6 +33,8 @@ Khu vực Đông Á và Đông Nam Á hợp nhất các quốc gia đa dạng v�
 ### Các vấn đề hiện tại và giới hạn
 
 Trên khắp các khu vực Đông Á và Đông Nam Á, tiếng Anh không được sử dụng thường xuyên và các ngôn ngữ khu vực được sử dụng [1].
+
+![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 
 Rào cản ngôn ngữ làm giảm sự tham gia Catalyst. Nó hạn chế sự tăng trưởng tiềm năng của việc áp dụng và tiện ích Cardano trong khu vực này. Chúng tôi trải nghiệm điều này, chúng tôi nghe điều này từ cộng đồng của chúng tôi. Chúng tôi biết Cardano đang thiếu những câu chuyện của chúng tôi, năng lượng của chúng tôi và quan điểm của chúng tôi về cách sử dụng Cardano để tăng cường phúc lợi kinh tế.
 

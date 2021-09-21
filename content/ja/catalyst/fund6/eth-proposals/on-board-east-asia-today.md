@@ -7,15 +7,13 @@ weight: '50'
 description: >
   数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。私たちは、東アジアのできるだけ多くの言語でCatalystのドキュメントと提案を翻訳する翻訳パイプラインを設定することを提案します。
 ---
+{{< youtube TR37P2F7QNk >}}
 
 **Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **予算 (USD):** $12,500
-
-![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
-
 ## 問題点
 
 数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。
@@ -35,6 +33,8 @@ Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソ
 ### 現在の問題と制限
 
 東アジアと東南アジアの地域では、英語は日常的に話されておらず、地域の言語のウェブが使用されています[1]。
+
+![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 
 言語の壁はCatalystへの参加を減らします。これは、この地域でのカルダノの採用と有用性の潜在的な成長を制限します。私たちはこれを経験し、私たちのコミュニティからこれを聞いています。Cardanoには、私たちのストーリー、エネルギー、そしてCardanoを使用して経済的幸福を高める方法についての見方が欠けていることを私たちは知っています。
 

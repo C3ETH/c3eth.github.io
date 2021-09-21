@@ -7,13 +7,13 @@ weight: 50
 description: >
     Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content. We propose to setup a translation pipeline that will translate catalyst documentation & proposals across as many languages in East Asia as possible.
 ---
+{{< youtube TR37P2F7QNk >}}
+
 **Challenge:** [Multilingual resources]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **Requested Amount (USD):** $12,500
-
-![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 ## Problem statement
 Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content.
 
@@ -24,9 +24,10 @@ Setup a translation pipeline that will translate catalyst documentation & propos
 Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
 ## Detailed plan
 East Asia and Southeast Asia region unites culturally and linguistically diverse countries. People in these communities are excited about getting involved in the Cardano ecosystem. Despite having a population of 1.6 Billion, Catalyst has seen very few proposals from East Asia and Southeast Asian regions. 
-
 ### Current Problems and Limitation
 Across East Asia and Southeast Asian regions, English is not routinely spoken and a web of regional languages are used [1].
+
+![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 
 Language barriers reduce participation in Catalyst. It limits the potential growth of Cardano adoption and utility in this region. We experience this, we hear this from our communities. We know Cardano is missing our stories, our energy, and our perspectives of how to use Cardano to increase economic wellbeing.
 ### Proposed Solution: Translation Pipeline and Automation

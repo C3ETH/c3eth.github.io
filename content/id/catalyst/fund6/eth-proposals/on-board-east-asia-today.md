@@ -4,19 +4,16 @@ linkTitle: On-boarding Asia Timur Hari Ini!
 type: docs
 hide_feedback: 'true'
 weight: '50'
-description: |2-
-
+description: >
   Meskipun populasinya miliaran, orang Asia Timur kurang terwakili di Catalyst karena kurangnya konten lokal. Kami mengusulkan untuk menyiapkan saluran terjemahan yang akan menerjemahkan dokumentasi & proposal katalis di sebanyak mungkin bahasa di Asia Timur.
 ---
+{{< youtube TR37P2F7QNk >}}
 
 **Tantangan:** [Sumber daya multibahasa]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **Jumlah yang Diminta (USD):** $12,500
-
-![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
-
 ## Pernyataan masalah
 
 Meskipun populasinya miliaran, orang Asia Timur kurang terwakili di Catalyst karena kurangnya konten lokal.
@@ -36,6 +33,8 @@ Kawasan Asia Timur dan Asia Tenggara menyatukan negara-negara yang beragam secar
 ### Masalah dan Keterbatasan Saat Ini
 
 Di kawasan Asia Timur dan Asia Tenggara, bahasa Inggris tidak digunakan secara rutin dan sebuah jaringan luas dari berbagai bahasa daerah digunakan [1].
+
+![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 
 Hambatan bahasa mengurangi partisipasi dalam Catalyst. Ini membatasi potensi pertumbuhan adopsi dan utilitas Cardano di wilayah ini. Kami mengalami ini, kami mendengar ini dari komunitas kami. Kami tahu Cardano kehilangan cerita kami, energi kami, dan perspektif kami tentang bagaimana menggunakan Cardano untuk meningkatkan kesejahteraan ekonomi.
 
