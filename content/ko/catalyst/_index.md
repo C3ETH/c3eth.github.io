@@ -10,7 +10,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+이 템플릿 사이트를 사용하는 방법을 보여주는 자리 표시자 페이지입니다.
 {{% /pageinfo %}}
 
 

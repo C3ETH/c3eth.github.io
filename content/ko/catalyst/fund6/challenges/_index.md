@@ -9,5 +9,4 @@ description: >
     TODO - Customize site navigation and search here.  
 ---
 
-This index page is yet to be udated. 
-This is the **Catalyst Proposals for fund 6** section. It will update for each fund.
+이 색인 페이지는 아직 업데이트되지 않았습니다. 펀드 6에 대한 Catalyst 제안 은 이러한 상태에서 날짜 x에서 날짜 y까지 실행됩니다.
