@@ -1,146 +1,151 @@
 ---
-title: "Connecting Asian Voters and Proposers"
-linkTitle: "Connecting Asian Voters and Proposers"
+title: Connecting Asian Voters and Proposers(아시아 유권자와 제안자를 연결)
+linkTitle: Connecting Asian Voters and Proposers(아시아 유권자와 제안자를 연결)
 type: docs
-hide_feedback: true
-weight: 40
-description: >
-    There are barriers, such as a lack of trusted information to voting caused by language differences & cultural exclusivity. We propose to provide trusted information by meeting people where they are, in their local language and culture.
+hide_feedback: 'true'
+weight: '40'
+description: |2-
+
+  언어 차이 및 문화적 배타성으로 인한 투표에 대한 신뢰할 수 있는 정보 부족과 같은 장벽이 있습니다. 사람들이 있는 곳에서 현지 언어와 문화로 만나 신뢰할 수 있는 정보를 제공할 것을 제안합니다.
 ---
-{{< youtube BT2-0tnZnzc >}}
 
-**Challenge:** [Distributed decision making]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
+{{&lt; 유튜브 BT2-0tnZnzc &gt;}}
 
-[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
+**과제:** [분산 의사 결정]({{&lt; relref "../challenges/distributed-decision/campaign-brief.md" &gt;}})
 
-**Requested Amount (USD):** $15,000
+[](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
 
-## Problem statement
-There are barriers, such as a lack of trusted information to voting caused by language differences & cultural exclusivity.
+**요청 금액(USD):** $15,000
 
-## Describe your solution to the problem
-Provide trusted information by meeting people where they are, in their local language and culture.
+## 문제점
 
-## Relevant experience
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
+언어 차이 및 문화적 배타성으로 인한 투표에 대한 신뢰할 수 있는 정보 부족과 같은 장벽이 있습니다.
 
-## Detailed plan
-Voting on how Catalyst spends the treasury creates long-term value to ADA, but with so many proposals, with so many new concepts, how do we make any voting decision? Now imagine how difficult it must be when you do not speak English. All Ada holders benefit if we develop better more inclusive and diverse governance processes and strategies. Unless the Catalyst Community and Ada holders level up our collective cognition, a random voting strategy is just as valid as a well researched one.  
+## 해결책
 
-### Current Problems and Limitation
-Language differences and cultural exclusivity prevents governance initiatives from scaling globally. The constant experimentation of Catalyst means we need to be mindful to include different languages and cultures. Avoiding one culture dominating the narrative. 
+사람들이 있는 곳에서 현지 언어와 문화로 만나 신뢰할 수 있는 정보를 제공할 것입니다.
 
-Misaligned incentives, scams and information overload prevent Ada holders from voting. In Asia and other non-native English speaking cultures, language barriers compound this. Language barriers are evident at every Catalyst stage. Survey results showed in the Japanese community biggest problem of Catalyst voting was the lack of Japanese support (45.61%). Over %37 of respondents highlighted issues with understanding the process- "I didn't understand the meaning because it was in English, so I voted randomly". The weariness of scams and lack of trust between proposals and voters were highlighted too. Another %16 mentioned incentive misalignment issues. 
+## 관련 경험
 
-### Our solution: Eastern Townhall Goverance Forum
-Our goal is to establish a process, format, and event stage for voter and proposer onboarding. To bring voters, proposers, and proposals closer together. To establish trust between them. The focus is on six mutually reinforcing areas:
+Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 소프트웨어 공학. 동아시아 및 일본의 교육자 및 회계사.
 
-1. **Content production**: Help Ada holders understanding why it is important to vote on proposals.
-2. **Eastern Hemisphere Language-specific events** focused on voter education and discussion.
-3. A proposal **language translation pipeline** to help proposers reach the wider East Asian community.
-4. **Language-specific Catalyst Swarm Ideafests** as a stage for building voter awareness, engagement, and trust.
-5. **Social Media Marketing**: socialise voter content and messaging across our social media channels; and
-6. Conduct **routine surveys and user research** to help understand individual attitudes to Catalyst and proposal formats.
+## 세부 계획
 
-The proposal is seeking funds to help develop a programme specifically designed to help connect voters with proposals and proposers.
+Catalyst가 자금을 어떻게 사용하는지에 대한 투표는 ADA에 장기적인 가치를 제공하지만, 제안이 너무 많고 새로운 개념이 너무 많기 때문에 투표 결정을 내리는 방법은 무엇일까요? 여러분이 영어를 할 수 없을 때 얼마나 어려울지 상상해 보십시오. 보다 포괄적이고 다양한 거버넌스 프로세스 및 전략을 개발하면 모든 Ada 보유자에게 이익이 될 것입니다. Catalyst Community와 Ada 보유자가 우리의 집단 인지도를 높이지 않는 한 무작위 투표 전략은 잘 연구된 전략만큼이나 유효합니다.
 
-Together these activities form a programme we call the **Eastern Townhall Forum**. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more. We are doing translations, building community, sharing knowledge, educating, enabling entrepreneurs, and growing Cardano. 
+### 현재의 문제점과 한계
 
-The Eastern Townhall trusted seed are an active part of our Cardano ecosystem. Listening and engaging with members of the community. Sharing what we learn. For instance **Yuta Yuta** recently completed one of his many surveys of the Japanese community[1] that this proposal draws upon. We want to do more of this across all the communities. We would like to help improve the user experience for voters. Feeding our collective insights back into Project Catalyst.
+언어 차이와 문화적 배타성은 거버넌스 이니셔티브가 전 세계적으로 확장되는 것을 방해합니다. Catalyst의 끊임없는 실험은 우리가 다른 언어와 문화를 포함하는 데 주의를 기울여야 함을 의미합니다. 하나의 문화가 지배하는 것을 지양합니다.
 
-Help us improve decision making across the Eastern Hemisphere by making Catalyst voting more accessible.
+잘못된 인센티브, 사기 및 정보 과부하로 인해 Ada 보유자가 투표할 수 없습니다. 아시아 및 기타 영어가 모국어가 아닌 문화권에서는 언어 장벽이 이를 더욱 복잡하게 만듭니다. 언어 장벽은 모든 Catalyst 단계에서 분명합니다. 설문 조사 결과 일본 커뮤니티에서 Catalyst 투표의 가장 큰 문제는 일본어 지원 부족(45.61%)으로 나타났습니다. 응답자의 37% 이상이 "영어로 되어 있어서 의미를 이해하지 못해서 무작위로 투표했습니다"라는 프로세스 이해와 관련된 문제를 강조했습니다. 사기에 대한 피로와 제안과 유권자 간의 신뢰 부족도 강조되었습니다. 또 다른 16%는 인센티브 불일치 문제를 언급했습니다.
 
-## What Success Looks Like
+### 우리들의 솔루션: 동부 타운홀 거버넌스 포럼
 
-Participation in Eastern Townhall events has increased and maintains the vibrancy of the new and regular community members. More Catalyst proposers engage with the Asian community. Even if that is just translation of proposals, content, or DApps for the Asian markets. Additionally, Asian proposers find their crowd. They are able to be funded because there is a strong body of Asian voters participating in Catalyst. Survey results show an increase in voter engagement with proposers, the Catalyst process, and deliberations before voting.
+우리의 목표는 유권자 및 제안자 온보딩을 위한 프로세스, 형식 및 이벤트 단계를 설정하는 것입니다. 유권자, 제안자 및 제안을 더 가깝게 만듭니다. 그들 사이에 신뢰를 구축하기 위해. 초점은 6가지 상호 강화 영역에 있습니다.
 
-### Key Performance Indicators
+1. **콘텐츠 제작** : Ada 보유자가 제안에 투표하는 것이 중요한 이유를 이해하도록 돕습니다.
+2. 유권자 교육 및 토론에 중점을 둔 **동반구 언어 관련 이벤트.**
+3. 제안자가 더 넓은 동아시아 커뮤니티에 도달할 수 있도록 지원하는 제안 **언어 번역 파이프라인.**
+4. 유권자 인식, 참여 및 신뢰 구축을 위한 무대로서 **언어별 Catalyst Swarm Ideafest**.
+5. **소셜 미디어 마케팅** : 소셜 미디어 채널을 통해 유권자 콘텐츠 및 메시지를 소셜화합니다. 그리고
+6. Catalyst 및 제안 형식에 대한 개인의 태도를 이해하는 데 도움이 되도록 **일상적인 설문조사 및 사용자 조사를 수행합니다.**
 
-Our primary tool for measuring performance is our voter survey. We will conduct these on a regular basis across Asian countries. Based on the surveys during and after a fund we expect to:
+이 제안은 유권자와 제안 및 제안자를 연결하도록 특별히 설계된 프로그램을 개발하는 데 도움이 되는 기금을 찾고 있습니다.
 
-* Increase Asian voter participation by 30% from the previous funds.
-* Increase Asian participation in Catalyst by 20% from the previous fund.
-* Uncertainty around Catalyst and voting decreases 25% from the previous fund.
+이러한 활동은 함께 우리가 **동부 타운홀 포럼** 이라고 부르는 프로그램을 형성합니다. 우리의 기본적인 이벤트는 매주 개최되는 동부 타운홀입니다. 하지만 우리는 더 많은 일을 하고 있습니다. 우리는 번역을 하고, 커뮤니티를 구축하고, 지식을 공유하고, 교육하고, 기업가를 지원하고, Cardano를 성장시키고 있습니다.
 
-The Eastern Townhall Meetup is our primary stage where Ada holders and people interested in Cardano can come and meet community members. Through that platform and social media, people learn and feel comfortable going further. Therefore key engagement metrics indicate our success in bridging voters and proposers together:
+동부 타운홀이 신뢰하는 종자는 Cardano 생태계의 활동적인 부분입니다. 커뮤니티 구성원의 의견을 경청하고 참여합니다. 우리가 배운 것을 공유합니다. 예를 들어 **Yuta**는 최근 이 제안이 기반으로 하는 일본 커뮤니티[1]에 대한 많은 설문 조사 중 하나를 완료했습니다. 우리는 모든 커뮤니티에서 더 많은 일을 하고자 합니다. 유권자의 사용자 경험을 개선하는 데 도움이 되었으면 합니다. 우리의 집단적 통찰력을 Project Catalyst에 다시 제공할 것입니다.
 
-* The Easter Townhall meetup average weekly numbers increase 25% for each fund.
-* Catalyst Proposals available in four languages *(ID, JP, KR, VN)* increase 50% for each fund.
-* Eastern Townhall Social Media accounts increase followers by 1000 new followers in six months.
+Catalyst 투표를 보다 쉽게 액세스할 수 있도록 하여 동반구 전체에서 의사 결정을 개선할 수 있도록 도와주세요.
 
+## 성공하면 어떻게 될까요?
 
-#### After One Month: 
+동부 타운홀이벤트 참여가 증가하고, 신규 및 일반 커뮤니티 구성원의 활기가 유지될 것입니다. 더 많은 Catalyst 제안자가 아시아 커뮤니티에 참여합니다. 그것이 아시아 시장을 위한 제안, 콘텐츠 또는 DApp의 번역일지라도. 또한 아시아 제안자는 대중을 찾습니다. 그들은 Catalyst에 참여하는 강력한 아시아 유권자들이 있기 때문에 자금을 조달할 수 있습니다. 설문 조사 결과에 따르면 제안자와의 유권자 참여, Catalyst 프로세스 및 투표 전 심의가 증가했습니다.
 
-* Completed our first pan-Asia voter survey across four Asian countries *(ID, JP, KR, VN)*
-* Language-Specific events – Voter Education & Catalyst Swarm
+### 핵심 성과 지표
 
-#### After Three Months: 
+성과 측정을 위한 주요 도구는 유권자 설문조사입니다. 우리는 아시아 국가에서 정기적으로 이를 수행할 것입니다. 펀드 기간과 이후의 설문 조사를 바탕으로 다음을 기대합니다.
 
-* Produced our Voter Education videos
-* Translated Catalyst voter materials in four Asian languages *(ID, JP, KR, VN)*
-* Held the first formal language specific Eastern Townhall - Catalyst Swarm IdeaFests. (A test run for Fund 6 is being done to find our feet).
+- 이전 기금에서 아시아 유권자 참여를 30% 늘릴 것입니다.
+- Catalyst에 대한 아시아인 참여를 이전 기금에서 20% 늘릴 것입니다.
+- Catalyst 및 투표에 대한 불확실성은 이전 펀드보다 25% 감소할 것입니다.
 
-#### After Six Months: 
+Eastern Townhall Meetup은 Ada 보유자와 Cardano에 관심이 있는 사람들이 와서 커뮤니티 구성원을 만날 수 있는 주요 무대입니다. 그 플랫폼과 소셜 미디어를 통해 사람들은 배우고 편안하게 더 나아갑니다. 따라서 주요 참여 지표는 유권자와 제안자를 함께 연결하는 데 있어 우리의 성공을 나타냅니다.
 
-* Completed six voter surveys across four Asian countries *(ID, JP, KR, VN)*
-* Completed a retrospective on our activities.
+- 동부 타운홀 밋업 평균 주간 숫자는 각 기금에 대해 25% 증가할 것입니다.
+- *4개 언어(ID, JP, KR, VN)* 로 제공되는 Catalyst 제안은 각 펀드에 대해 50% 증가할 것입니다.
+- Eastern Townhall 소셜 미디어 계정은 팔로워를 6개월 만에 1000명의 새로운 팔로워로 늘렸습니다.
 
-#### After Twelve Months:
+#### 한 달 후:
 
-* We have incorporated the content and practices need to engage with Asian voters and proposers.
-* Our monthly surveys continue and show forward momentum.
-* Our content continues to engage members of the community
-* We have translated our content and Catalyst material to more languages across Asia.
+- *아시아 4개국(ID, JP, KR, VN)* 최초 범아시아 유권자 설문조사 완료
+- 언어별 이벤트 – 유권자 교육 및 Catalyst Swarm
 
-## Intellectual Property
+#### 3개월 후:
 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
- 
-Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- 유권자 교육 비디오 제작
+- *4개의 아시아 언어(ID, JP, KR, VN)로* 번역된 Catalyst 유권자 자료
+- 최초의 공식 언어별 동부 타운홀 - Catalyst Swarm IdeaFests. (펀드6에 대한 테스트 실행은 우리의 돌파구를 찾기 위해 수행되고 있습니다).
 
-## Budget
+#### 6개월 후:
 
-Please see the attached proposed plan for a detailed budget breakdown with planned activities. 
+- *아시아 4개국(ID, JP, KR, VN)* 6개 유권자 설문조사 완료
+- 우리의 활동에 대한 회고를 완료했습니다.
 
-* Core Team **$4,000 USD:**
-Including project management and adminstration. 
-* Supporting Team **$5,000 USD:**
-Community Managers/Leaders, Moderators, and Interpreters
-* Graphics and Video Content Production **$4500 USD:**
-Educational videos, social media posters/video, and translations 
-* Contingency (%10): **$1,500 USD**
+#### 12개월 후:
 
-Labour costs are a lot lower in Vietnam and Indonesia we are able to do more. However, these costs need to be normalised to a global median for kind work/skill. Not everyone lives in Vietnam/Indonesia.
+- 우리는 아시아 유권자 및 제안자들과 소통하는 데 필요한 내용과 관행을 통합했습니다.
+- 우리의 월간 설문 조사는 계속되고 앞으로의 추진력을 보여줍니다.
+- 우리의 콘텐츠는 계속해서 커뮤니티 구성원을 참여시킵니다.
+- 콘텐츠와 Catalyst 자료를 아시아 전역의 더 많은 언어로 번역했습니다.
 
-### The Team
-A collaborative effort, the team bring a wealth of cultural and technical experience to Cardano. We are all very active in Catalyst, and community groups across our ecosystem. We are a diverse bunch united by the promise of Cardano:
+## 지적 재산권
 
-**Yuta Yuta** (@yutazz) - Japan: Cardano official ambassador, Community Co-Organiser, Catalyst Fund 2 Recipient, certified public accountant.
+우리의 모든 소스 코드는 Apache License 2.0에 따라 사용이 허가되었습니다. 자세한 내용은 [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) 파일을 참조하십시오.
 
-**Yan Tirta** (@yantirta) - Indonesia: Cardano Indonesia community wrangler empowering his local community with education and encouragement.
+게시된 콘텐츠는 [Creative Attribution-Non-Commercial-ShareAlike(CC BY-NC-SA) 라이선스 v4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)에 따라 라이선스가 부여됩니다.
 
-**Mie Tran** (@mie.tran.0407) - Vietnam: English and International Business major with experience working with western businesses and translation.
+## 예산
 
-**Andy Sibuea** (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.
+계획된 활동에 대한 자세한 예산 내역은 첨부된 제안된 계획을 참조하십시오.
 
-**Tim O’Brien** (@tobrien) - Vietnam: No-code pioneer. Facilitator in East African Townhall (EATH).
+- 핵심 팀 **$4,000 USD:** 프로젝트 관리 및 관리 포함.
+- 지원 팀 **$5,000 USD:** 커뮤니티 관리자/리더, 중재자 및 통역사
+- 그래픽 및 비디오 콘텐츠 제작 **$4500 USD:** 교육용 비디오, 소셜 미디어 포스터/비디오 및 번역
+- 비상 사태(%10): **$1,500 USD**
 
-**Greg Bell** (@grebel) - Australia: IT consultant, writing Catalyst Challenges.
+베트남과 인도네시아에서는 인건비가 훨씬 저렴하여 더 많은 일을 할 수 있습니다. 그러나 이러한 비용은 친절한 작업/기술에 대한 글로벌 중앙값으로 정규화되어야 합니다. 모든 사람이 베트남/인도네시아에 사는 것은 아닙니다.
 
-**Seomon Blub** (@seomon) - Austria: IT consultant focused on the people-ware infrastructure for sustainable communities.
+### 팀
 
-**Robert O’Brien** (@wolstaeb) - New Zealand: Financial systems Software Engineer, Community Co-Organiser and Entrepreneur.
+협업을 통해 팀은 풍부한 문화적, 기술적 경험을 Cardano에 제공합니다. 우리 모두는 생태계 전반에 걸쳐 Catalyst 및 커뮤니티 그룹에서 매우 활동적입니다. 우리는 Cardano의 약속으로 뭉친 다양한 그룹입니다.
 
-**Stephen Whitenstall** (@swhitenstall) - England: Tracks and documents Catalyst. Helping communities like Catalyst Circle and Catalyst Swarm organise.
+**Yuta Yuta** (@yutazz) - 일본: Cardano 공식 대사, 커뮤니티 공동 주최자, Catalyst Fund 2 수혜자, 공인 회계사.
 
-**Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
+**Yan Tirta** (@yantirta) - 인도네시아: 교육과 격려로 지역 사회에 힘을 실어주는 카르다노 인도네시아 커뮤니티 격려자.
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[2], and Catalyst School[3] and other community groups across Asia. 
+**Mie Tran** (@mie.tran.0407) - 베트남: 영어 및 국제 비즈니스 전공으로 서양 비즈니스 및 번역 업무 경험이 있습니다.
 
-## References
+**Andy Sibuea** (@zicozibu) - 인도네시아: 암호화폐를 넘어 인도네시아 전역에서 블록체인 교육을 선도하고 있습니다.
+
+**Tim O'Brien** (@tobrien) - 베트남: 코드 없는 개척자. 동아프리카 시청(EATH)의 진행자.
+
+**Greg Bell** (@grebel) - 호주: IT 컨설턴트, Catalyst Challenges 작성.
+
+**Seomon Blub** (@seomon) - 오스트리아: 지속 가능한 커뮤니티를 위한 피플웨어 인프라에 중점을 둔 IT 컨설턴트입니다.
+
+**Robert O'Brien** (@wolstaeb) - 뉴질랜드: 금융 시스템 소프트웨어 엔지니어, 커뮤니티 공동 주최자 및 기업가입니다.
+
+**Stephen Whitenstall** (@swhitenstall) - 영국: Catalyst를 추적하고 문서화합니다. Catalyst Circle 및 Catalyst Swarm과 같은 커뮤니티 조직을 돕습니다.
+
+**Felix Weber** (@felixweber) - 프랑스: 커뮤니티 관리자가 사람들 사이의 다리를 만들고 있습니다. T&amp;M Catalyst Circle/Swarm/School의 회원.
+
+팀은 초기 동부 타운홀이 **신뢰할 수 있는 종자**를 대표합니다. 역할도 없고 리더도 없습니다. 오히려 사람들은 참여를 통해 시간이 지남에 따라 자신을 확립합니다. 우리는 Catalyst Swarm[2], Catalyst School[3] 및 아시아 전역의 기타 커뮤니티 그룹과 겹치고 협력하고 있습니다.
+
+## 참고
 
 [1] [Japanese community Survey August 2021](https://t.me/ProjectCatalystChat/53776)
 
 [2] [Catalyst Swarm](http://catalystswarm.com/)
 
-[3] [Catalyst School](https://linktr.ee/CatalystSchool) 
+[3] [Catalyst School](https://linktr.ee/CatalystSchool)
