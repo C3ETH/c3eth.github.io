@@ -1,296 +1,238 @@
 ---
-title: "Challenge and Proposal Guide"
-linkTitle: "Challenge and Proposal Guide"
-hide_feedback: true
-weight: 4
+title: Challenge and Proposal Guide(도전과 제안 가이드)
+linkTitle: Challenge and Proposal Guide(도전과 제안 가이드)
+hide_feedback: 'true'
+weight: '4'
 description: >
-  Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. 
+  Project Catalyst가 진행 중이며 우리는 광범위한 개인의 놀라운 참여를 보고 있습니다. 이것은 전세계 커뮤니티 혁신 프로젝트를 만들기 위한 협업 프로세스입니다.
 ---
-Project Catalyst is underway and we’re seeing some incredible participation from a wide
-spectrum of individuals. This is a collaborative process to create a worldwide community
-innovation project. The problem statement, solution, relevant experience, and funds requested
-will be displayed in the voting application. This will allow everyone to learn about the initiatives
-before voting on them.
+Project Catalyst가 진행 중이며 우리는 광범위한 개인의 놀라운 참여를 보고 있습니다. 이것은 전세계 커뮤니티 혁신 프로젝트를 만들기 위한 협업 프로세스입니다. 문제점, 해결책, 관련 경험 및 요청한 자금이 투표 애플리케이션에 표시됩니다. 이렇게 하면 모든 사람이 투표하기 전에 이니셔티브에 대해 알 수 있습니다.
 
-The proposal plans and attachments can be viewed on our innovation platform, hosted by
-Ideascale, in order to gain an understanding of the details. This all means that we want everyone
-to feel confident in contributing to the discussion as a whole.
+제안 계획 및 첨부 파일은 세부 사항을 이해하기 위해 Ideascale이 호스팅하는 혁신 플랫폼에서 볼 수 있습니다. 이것은 모두가 전체 토론에 기여하는 데 자신감을 느끼기를 원한다는 것을 의미합니다.
 
-The quality of the output is dependent on the community’s ability to create and engage with new
-ideas. To that end, we would like to share a quick guide to writing successful proposals:
+성과물의 품질은 커뮤니티가 새로운 아이디어를 만들고 참여하는 능력에 달려 있습니다. 이를 위해 성공적인 제안서를 작성하기 위한 빠른 가이드를 공유하고자 합니다.
 
-### Proposing a title* (35 char limit) +
+### 제목 제안* (35자 제한) +
 
-The proposal name should give an indication of the innovation that you are trying to achieve
-while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell
-your audience what it does and who it is for as clearly as possible. Keep it simple and
-informative and keep your audience in mind.
+제안 제목은 사람들의 관심을 끌면서 달성하려는 혁신을 나타내야 합니다. 그러나 우리는 매끄러운 마케팅 연설을 피하고 싶습니다. 대중에게 그것이 무엇이고 누구를 위한 것인지 가능한 한 명확하게 서술해 주세요. 간단하고 유익한 정보를 유지하고 대중을 염두에 두세요.
 
-**Example Title:** 
+**Example Title(제목 예시):**
 
-> Stake pool operator vlog network
+> 스테이크 풀 운영자 vlog 네트워크
 
-### How To Write a Problem Statement (140 Char limit)
+### 문제점 작성 방법(140자 제한)
 
-#### Rising to the challenge
+#### 도전에 맞서다
 
-Each fund will have a specific challenge which proposals will attempt to solve. Challenges will
-originally be set by the Project Catalyst team and then opportunities will arise for the community
-to develop their own. It is crucial that proposals address the challenge directly. Here is an
-example of a challenge and some problem statements which address it.
+각 펀드에는 제안이 해결하려고 시도할 특정 문제가 있습니다. 문제는 원래 Project Catalyst 팀에서 설정한 다음 커뮤니티가 자체 개발할 수 있는 기회가 생깁니다. 제안서가 문제를 직접 해결하는 것이 중요합니다. 다음은 도전 과제와 이를 해결하는 몇 가지 문제점에 대한 설명의 예시입니다.
 
-#### Challenge 
+#### 도전
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses
-on top of Cardano in the next 6 months?
+> 개발자와 기업가가 향후 6개월 동안 Cardano를 기반으로 Dapp 및 비즈니스를 구축하도록 어떻게 장려할 수 있습니까?
 
-**Problem statements**
+**문제점**
 
-> Builders don’t want to deal with the red tape\time cost of securing funding.
-How do we help Cardano builders streamline proposals?
+> 구축자는 자금 확보에 소요되는 형식적인 시간 비용을 처리하기를 원하지 않습니다. Cardano빌더가 제안을 간소화하도록 어떻게 도울 수 있습니까?
 
-> I am trying to solve the problem of bootstrapping decentralized\open
-finance movement on Cardano before Plutus and Marlowe hit mainnet.
+> 나는 Plutus와 Marlowe가 메인넷에 등장하기전에 Cardano에서 탈중앙화/개방형 금융 무브먼트(운동)을 일으키는 문제를 해결하려고 노력하고 있습니다.
 
-In both of these examples the relationship between the problem statements and the challenge
-is apparent. This is what voters will be looking for. However, while the content of the problem 
-statements is clear and effective, these problem statements can be improved.
+이 두 가지 예에서 문제점과 도전 과제 사이의 관계가 분명합니다. 이것이 유권자들이 찾는 것입니다. 그러나 문제점의 내용이 명확하고 효과적이지만 이러한 문제점은 개선될 수 있습니다.
 
-### Making great problem statements (140 char. limit)
+### 훌륭한 문제 진술 만들기(140자 제한)
 
-The problem statement identifies the issue related to the challenge, and offers a solution. It is
-important to focus on common problems, urgent problems, expensive problems, and frequent
-problems. Explaining your problem in these terms is crucial to a good proposal so it should be
-the first thing seen by voters. A good problem statement has four components: the desired
-outcome, blocking problem, costs of the problem, and the evidence.
+문제점은 도전과 관련된 문제를 식별하고 해결책을 제공합니다. 일반적인 문제, 긴급한 문제, 값비싼 문제, 자주 발생하는 문제에 초점을 맞추는 것이 중요합니다. 이러한 용어로 문제를 설명하는 것은 좋은 제안에 있어 매우 중요하므로 유권자가 가장 먼저 볼 수 있어야 합니다. 좋은 문제 진술에는 요망되는 결과, 차단된 문제, 문제 비용, 근거라는 네 가지 구성 요소가 있습니다.
 
-### Structure of the problem statement
+### 문제점 설명의 구조
 
-**Desired outcome:** This paints a picture of the ideal set of circumstances once your
-solution is accepted.
+**요망되는 결과:** 여러분의 해결책이 승인되면 이상적인 상황 설정을 묘사합니다.
 
-**Blocking problem:** A concise explanation of the problem preventing this set of circumstances from occurring.
+**직면 문제:** 이러한 상황이 발생하지 않도록 방지하기 위한 문제에 대한 간략한 설명입니다.
 
-**Costs of the problem:** A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
+**문제 비용:** 주요 이해 관계자에 대한 문제의 기회 및 재정적 비용의 합계입니다. 이것은 유권자들이 문제가 얼마나 많은 영향을 미치는지 평가하는 데 도움이 됩니다.
 
-**Evidence:** Support for your position laid out in a detailed plan. Here's an example:
+**근거:** 상세한 계획에 명시된 여러분의 입장을 지지합니다. 다음은 예시입니다.
 
-Statement Component | Description
-------------------- | -----------
-*Desired Outcome* | We want to make it affordable to transfer money to workers living in the Philippines.
-*Blocking problem* | 11% of the population of the Philippines lose money on transaction fees.
-*Costs of the problem* | Around $1 billion is paid in transfer fees annually.
-*Evidence* | Link(s) to data which proves this.
+명령문 구성 요소 | 설명
+--- | ---
+*요망되는 결과* | 우리는 필리핀에 거주하는 노동자들에게 돈을 송금할 수 있도록 저렴하게 만들고자 합니다.
+*직면 문제* | 필리핀 인구의 11%가 거래 수수료로 돈을 잃습니다.
+*문제 비용* | 매년 약 10억 달러가 이적료로 지불됩니다.
+*근거* | 이를 증명하는 데이터에 대한 링크.
 
-Here’s the complete problem statement which condenses the information above:
+위의 정보를 요약한 완성된 문제 설명은 다음과 같습니다.
 
-> Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
+> 필리핀 근로자에게 송금하는 비용은 저렴해야 합니다. 그러나 인구의 11%가 연간 거래 수수료로 10억 달러를 잃고 있습니다. 연구 링크 [1],[2]"
 >
-> *In Conclusion*
-> - State your desired outcome and the problem blocking it
-> - Define the cost of the problem
-> - Give evidence for your findings
+> *결론적으로*
 >
+> - 요망되는 결과와 그것을 막는 문제를 진술하세요.
+> - 문제 비용을  정의하세요.
+> - 여러분이 발견한 근거를 제시하세요.
 
-### Solution (140 Char limit)
+### 해결책(140자 제한)
 
-#### Structuring the Solution
+#### 해결책 구성
 
-So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
+따라서 많은 중요한 정보를 제공하기 위해 140자만 사용할 수 있습니다. 모든 문자가 계산되기 때문에 프롬프트를 정확하게 처리하는 것이 중요합니다.
 
-It may sound obvious, but your solution must be based on a known problem. It has to actually
-solve the problem laid out in the problem statement. A solution in search of a problem is rarely
-an attractive option because it is less efficient than filling a distinct need. So remember: start
-with solving a problem and then lay out the vision of your solution in the *Plan in Detail* section.
-Your 140 characters should address the problem, solve it, and give some insight into how your
-solution is different from others.
+당연하게 들릴 수 있지만 해결책은 알려진 문제를 기반으로 해야 합니다. 문제 설명(문제점)에 나와 있는 문제를 실제로 해결해야 합니다. 문제를 찾는 해결책은 뚜렷한 필요를 채우는 것보다 덜 효율적이기 때문에 거의 매력적인 옵션이 아닙니다. 따라서 기억하세요. 문제 해결부터 시작한 다음 *세부 계획* 섹션에서 해결책의 비전을 제시하세요. 140자는 문제를 해결하고 그 해결책이 다른 솔루션과 어떻게 다른지에 대한 통찰력을 제공해야 합니다.
 
-*Example solution statement*
+*해결책 설명 예시*
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano 
-> in the next 6 months?
-> 
-> In Conclusion
-> - Address the problem directly to ensure that your solution rises to the challenge
-> - Make your project stand out through differentiation
-> - Create a solution that solves a problem instead of one looking for a problem.
-
-### Relevant Experience (140 Char limit)
-
-#### Find your edge
-
-Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into
-a couple of different categories. Your solution should include an explanation of as many of these
-competitive edges as possible. Remember, the people voting on these proposals want to see yours as a
-‘sure thing’. If you can clearly explain why you are different from any of the other projects in the 
-blockchain space, then you have a significant competitive advantage.
-
-#### Founders 
-
-The people who are working on your proposal can lend their personal expertise and work history to the
-project.
-
-*Example Experience:* 
-
-> John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
+> 개발자와 기업가가 향후 6개월 동안 Cardano를 기반으로 Dapp 및 비즈니스를 구축하도록 어떻게 장려할 수 있습니까?
 >
-> In Conclusion*
-> - Find your competitive edge and make sure that it is well known
-> - This might look different for different kinds of projects
-> - Remember that your audience is other people on the innovation platform
+> 결론적으로
+>
+> - 해결책이 문제를 해결할 수 있음을 보장하도록 문제를 직접 적시하세요.
+> - 차별화를 통해 프로젝트를 돋보이게 만드세요
+> - 문제를 찾는 대신 문제를 해결하는 해결책을 만드세요.
 
-### Plan In Detail
+### 관련 경험치(140자 제한)
 
-#### Differentiate through insight
+#### 여러분의 장점을 찾아보세요
 
-Now that we have outlined the problem and given a solid solution, let’s talk about execution. Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development.
+여러분의 '경쟁 우위'를 찾아 집으로 들고 오세요. 우리는 여러분의 경쟁력을 몇 가지 다른 범주로 나눌 수 있습니다. 해결책에는 이러한 경쟁 우위에 대한 설명이 가능한 한 많이 포함되어야 합니다. 이 제안에 투표하는 사람들은 여러분의 제안을 '확실한 것'임을 보고 싶어한다는 것을 기억하세요. 블록체인 공간의 다른 프로젝트와 왜 다른지 명확하게 설명할 수 있다면 상당한 경쟁 우위를 확보할 수 있습니다.
 
-You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
+#### 설립자
 
-#### Market
+여러분의 제안에 대해 작업하는 사람들은 그들의 개인적인 전문성과 작업 이력을 프로젝트에 공유할 수 있습니다.
 
-The market you have identified has not been previously accessed or prioritized. Markets should be identified that have 20 percent growth a year.
+*경험(경력)에 대한 예시:*
 
-> *Example:* Our hardware solution works with all proof-of-work blockchains.
+> John Do는 블록체인 재무 시스템에 대한 인센티브 계획에 중점을 두고 박사 학위를 마쳤습니다.
+>
+> 결론적으로*
+>
+> - 경쟁력을 찾고 그것이 잘 알려져 있는지 확인하세요.
+> - 프로젝트의 종류에 따라 다르게 보일 수 있습니다.
+> - 대중은 혁신 플랫폼의 다른 사람들임을 기억하십시오.
 
-#### Product
+### 세부 계획
 
-Your solution works in the market in a particularly impactful way.
+#### 통찰력을 통한 차별화
 
-> *Example:* This hardware addition reduces energy consumption of mining rigs by 20 percent.
+이제 문제를 설명하고 확실한 해결책을 제공했으므로 실행에 대해 이야기해 보겠습니다. 다른 문제에는 다른 해결책션이 필요합니다. 마케팅 캠페인 및 교육 리소스에서 개발자 인프라 개선 및 비즈니스 개발에 이르기까지 다양한 프로젝트 아이디어를 찾고 있습니다.
 
-#### Acquisition
+여러분의 계획을 로드맵 및 필요 분석으로 봐야 합니다. 우선, 해결책이 작동하는 이유는 무엇입니까? 여러분이 여러분의 문제를 가장 먼저 확인했을 수도 있지만, 여러분의 해결책이 가능한 옵션 분야에서 가장 성공적인 이유를 설명하는 것이 중요합니다.
 
-Your route to user and platform acquisition is clear and well thought out.
+#### 시장
 
-> *Example:* Access to network information drives user acquisition for no cost.
+여러분이 인식한 시장은 이전에 액세스하거나 우선 순위를 지정하지 않았습니다. 매년 20% 성장하는 시장을 식별해야 합니다.
 
-#### Monopoly
+> *예:* 우리의 하드웨어 솔루션은 모든 작업 증명 블록체인에서 작동합니다.
 
-As you grow in the field your company actually gets stronger.
+#### 제품
 
-> *Example:* Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
+여러분의 해결책은 시장에서 특히 영향력 있는 방식으로 작동합니다.
 
-#### Show us the money:
+> *예:* 이 하드웨어 추가는 채굴 장비의 에너지 소비를 20%까지 줄입니다.
 
-Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent.
+#### 인수
 
-Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent. It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
+사용자 및 플랫폼 획득 경로가 명확하고 잘 고려되었습니다.
 
-> *Example:* Creating a developer focused podcast will take $5k in the initial 6 months.
+> *예:* 네트워크 정보에 대한 액세스는 무료로 사용자 확보를 유도합니다.
 
-#### Getting on the road
+#### 독점
 
-When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your *one month, three month, and six month goals.*
+여러분이 그 분야에서 성장함에 따라 여러분의 회사는 실제로 더 강해집니다.
 
-In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
+> *예:* Ouroboros 프로토콜을 사용하면 탈중앙화가 증가함에 따라 시스템이 더욱 안전해집니다.
 
-- Users acquired
-- Product capability built
-- Performance benchmark reached
-- Network stability achieved for x amount of time
+#### 돈을 보여주세요:
 
-The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
+복잡한 문제를 해결하려면 충분한 자금이 필요한 경우가 많습니다. 이것은 Project Catalyst의 커뮤니티에서 이해됩니다. 그러나 이러한 제안에 투표하는 사람은 자금이 어떻게 사용되고 있는지 알 수 있어야 합니다.
 
-#### Intellectual Property
+예산이 어떻게 사용될 것인지에 대한 상세한 분석을 제공합니다. 이것은 다양한 방법으로 가능하지만 예산을 일련의 항목으로 추출하는 것은 주요 자금 조달 계획이 어떻게 사용될지 고려했음을 유권자에게 보여주는 분명한 방법입니다. 예산이 달성하려는 프로젝트의 요구 사항을 충족해야 함을 기억하는 것도 중요합니다. 소규모 모임을 위한 자금을 확보하려는 경우 몇 백 달러면 충분합니다. 중요한 인프라의 개발을 조정하는 경우 더 많은 리소스가 필요합니다. 비전과 적절한 자금을 연결해야 합니다.
 
-Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc’) so they can assess if that is a good fit for the treasury.
+> *예:* 개발자 중심의 팟캐스트를 만드는 데 초기 6개월 동안 5,000달러가 소요됩니다.
 
-#### Defining Success
+#### 궤도에 오르다
 
-What does success look like for this particular project? While it might not be entirely complete after one round of funding, your proposal should give us an idea of what an end state looks like. This, like your KPIs should be an easily understood number that can be verified by anyone.
+제안서를 작성할 때 자금을 받는 것을 전제로 작성해야 합니다. 그러나 여러분의 제안을 읽는 모든 사람이 여러분이 기초를 다질 수 있다는 것을 이해하는 것이 중요합니다. 여기에 로드맵이 필요합니다. 로드맵은 자금이 지원되면 달성하고자 하는 모든 주요 이정표를 세분화해야 합니다. 이것은 몇 가지 다른 방법으로 수행할 수 있지만 좋은 로드맵은 *1개월, 3개월 및 6개월 목표*를 자세히 설명합니다.
 
-#### In Conclusion
+로드맵에서 핵심 성과 지표(KPI)를 식별하는 것도 중요합니다. 이것들은 당신이 성공했음을 보여주는 여러분이 달성한 목표입니다. 다음은 KPI의 몇 가지 예입니다.
 
-- Suit the budget and the roadmap to the needs of your project.
-- Establish reachable key performance indicators that show good progress towards your
-goal.
-- Establish intellectual property rights so that everyone knows who owns what.
-- Define success for your project.
+- 획득한 사용자
+- 구축된 제품 기능
+- 도달한 벤치마크의 성능
+- x 시간 동안 네트워크 안정성 달성
 
-### Attachments/links
+KPI에 대해 기억해야 할 중요한 점은 KPI에 번호가 붙어 있어야 한다는 것입니다. 초기 15명의 사용자를 확보하는 것은 달성 가능한 목표입니다. '많은' 사용자를 확보한다는 것은 상당히 모호하고 누구도 판단하기 어렵습니다. 커뮤니티에 이러한 아이디어를 제시하고 의도를 명확하게 하고 목표를 달성했는지 확인하는 것이 더 쉬울수록 훌륭한 도전으로 보일 가능성이 높다는 것을 기억하세요.
 
-It is important for everyone to be able to share additional necessary information. That is why
-PDFs, images and additional URLs can be sent through the Ideascale where they can be viewed
-by everyone.
+#### 지적 재산권
 
-### FeedBack
+여러분의 IP(지적재산) 정책(특허, 상표, 저작권, 라이선스 등)이 재무부에 적합한지 평가할 수 있도록 검토자와 공유하세요.
 
-#### Community support
+#### 성공 정의
 
-In order to make each individual proposal as strong as possible we encourage everyone to use
-the innovation platform to discuss each idea. In fact, we’ve created reviewer guidelines to help
-you direct your critique. For a productive and informative conversation we encourage everyone
-to focus their feedback on the following areas:
+이 특정 프로젝트의 성공은 어떻습니까? 한 번의 자금 조달 후에 완전히 완료되지 않을 수도 있지만 여러분의 제안은 최종 상태가 어떤 모습일 지에 대한 아이디어를 제공해야 합니다. 이것은 KPI와 마찬가지로 누구나 확인할 수 있는 이해하기 쉬운 숫자여야 합니다.
 
-*Auditability:* What details are missing from the proposal to help reviewers
-accurately assess the project?
+#### 결론적으로
 
-*Impact:* How can the proposal better address the challenge? How can we
-encourage people to build dApps on Cardano in the next 6 months?
+- 프로젝트의 요구 사항에 맞게 예산과 로드맵을 조정하세요.
+- 목표를 향한 좋은 진행 상황을 보여주는 도달 가능한 핵심 성과 지표를 설정하세요.
+- 누가 무엇을 소유하고 있는지 모든 사람이 알 수 있도록 지적 재산권을 설정하세요.
+- 프로젝트의 성공을 정의하세요.
 
-*Feasibility:* What are ways that the proposal’s budget, plan, and scope can be
-modified in order to make it more achievable.
+### 첨부 파일/링크
 
-**Example**
+모든 사람이 필요한 추가 정보를 공유할 수 있는 것이 중요합니다. 이것이 PDF, 이미지 및 추가 URL을 모두가 볼 수 있는 Ideascale을 통해 전송될 수 있는 이유입니다.
 
-> If your marketing initiative gave the exact number of users it was attempting to
-onboard as a KPI then it would be much easier to track its success.
+### 피드백
 
-#### In conclusion*
+#### 커뮤니티 지원
 
-- Make other proposals stronger by giving good feedback
-- Incorporate useful feedback into your own proposal
-- Participate actively in the innovation process to make sure it continues to grow
+각 개별 제안을 가능한 한 강력하게 만들기 위해 모든 사람이 혁신 플랫폼을 사용하여 각 아이디어를 논의할 것을 권장합니다. 사실, 우리는 여러분의 비판을 지시하는 데 도움이 되는 리뷰어 가이드라인을 만들었습니다. 생산적이고 유익한 대화를 위해 모든 사람이 다음 영역에 피드백을 집중할 것을 권장합니다.
 
-### How To Write a Community Choice Proposal
+*감사 가능성:* 검토자가 프로젝트를 정확하게 평가하는 데 도움이 되도록 제안서에서 누락된 세부 정보는 무엇입니까?
 
-#### Emancipating the community
+*영향:* 제안이 문제를 더 잘 해결할 수 있는 방법은 무엇입니까? 사람들이 향후 6개월 동안 Cardano에서 dApp을 구축하도록 어떻게 장려할 수 있습니까?
 
-The purpose of having the Project Catalyst community write their own challenge is to
-emancipate the platform from the Project Catalyst team. Eventually, the Cardano community will
-control the innovation and collaboration process from inception to delivery. With that in mind, it
-is crucial that we understand what an impactful challenge looks like.
+*실행 가능성:* 제안의 예산, 계획 및 범위를 수정하여 더 달성할 수 있도록 하는 방법은 무엇입니까?
 
-#### Focus on advancement
+**예시**
 
-The challenge is a question which helps the community focus its creativity on advancing the
-Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The
-key to writing an impactful challenge question is balance. It must be broad enough to be
-addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
+> 마케팅 이니셔티브가 KPI로 온보딩을 시도하는 정확한 사용자 수를 제공했다면 성공을 추적하는 것이 훨씬 쉬울 것입니다.
 
-#### Challenge question examples
+#### 결론적으로*
 
-Below are a couple examples of challenge questions:
+- 좋은 피드백을 제공하여 다른 제안을 더 강력하게 만드세요.
+- 유용한 피드백을 자신의 제안에 통합하세요.
+- 혁신 프로세스에 적극적으로 참여하여 지속적으로 성장할 수 있도록 하세요.
 
-*Too Specific*
+### 커뮤니티 선택 제안서를 작성하는 방법
 
-> How can stake pool operators based in southern Europe make their pool more
-attractive delegators in the next 2 months?
+#### 커뮤니티의 자율성
 
-This challenge question addresses only stake pool operators in Southern Europe. Cardano is a
-global ecosystem which allows participation in many different ways. The challenge question
-should help everyone.
+Project Catalyst 커뮤니티가 자체 문제를 작성하게 하는 목적은 Project Catalyst 팀에서 플랫폼을 자율화하는 것입니다. 결국 Cardano 커뮤니티는 시작부터 제공에 이르기까지 혁신과 협업 프로세스를 제어하게 됩니다. 이를 염두에 두고 영향력 있는 도전이 무엇인지 이해하는 것이 중요합니다.
 
-*Too Broad*
+#### 발전에 초점
 
-> How can we make Cardano more useful?
+도전은 커뮤니티가 Cardano 생태계 발전에 창의성을 집중하는 데 도움이 되는 질문입니다. 물론 '진보'는 사람마다 의미가 다릅니다. 영향력 있는 도전 질문을 작성하는 핵심은 균형입니다. 다양한 방식으로 다룰 수 있을 만큼 충분히 광범위해야 하지만 모든 사람을 위한 Cardano의 가치를 높일 수 있을 만큼 구체적이어야 합니다.
 
-Of course, we want Cardano to be more useful but this challenge doesn’t give the participants
-any parameters to spark their creativity. Constraints are necessary to help the community
-address the direct needs of the ecosystem.
+#### 도전 질문 예시
 
-*Just Right*
+다음은 도전 질문의 몇 가지 예시입니다.
 
-> How can we encourage entrepreneurs to develop businesses on Cardano in the
-next six months?
+*너무 구체적인 경우*
 
-This challenge has a time frame and addresses a community which is important to the entire
-Cardano community. Furthemore, it can be addressed in many different ways through both
-technical and non-technical contributions. However, writing challenge questions is only one
-important part of Project Catalyst. Addressing those challenges in a clear and concise manner
-is also necessary to identifying the most impactful ideas for Project Catalyst.
+> 남부 유럽에 기반을 둔 스테이크 풀 운영자가 향후 2개월 동안 어떻게 자신의 풀을 보다 매력적인 위임자로 만들 수 있습니까?
 
-### Tags
+이 도전 질문은 남부 유럽의 스테이크 풀 운영자에게만 해당됩니다. Cardano는 다양한 방식으로 참여할 수 있는 글로벌 생태계입니다. 도전 질문은 모두에게 도움이 되어야 합니다.
 
-Please add tags to your proposal if you are looking for collaborators/advice/implementers.
+*너무 광범위한 경우*
+
+> Cardano를 어떻게 더 유용하게 만들 수 있습니까?
+
+물론 우리는 Cardano가 더 유용하기를 원하지만 이 도전은 참가자들에게 창의성을 불러일으킬 매개변수를 제공하지 않습니다. 커뮤니티가 생태계의 직접적인 요구를 해결하는 데 도움이 되도록 제약 조건이 필요합니다.
+
+*적절한 경우*
+
+> 개발자와 기업가가 향후 6개월 동안 Cardano를 기반으로 Dapp 및 비즈니스를 구축하도록 어떻게 장려할 수 있습니까?
+
+이 도전에는 일정 기간이 있으며 전체 Cardano 커뮤니티에 있어 중요한 커뮤니티를 대상으로 합니다. 또한 기술 및 비기술적 기여를 통해 다양한 방식으로 해결할 수 있습니다. 그러나 도전 질문을 작성하는 것은 Project Catalyst의 중요한 부분 중 하나일 뿐입니다. Project Catalyst에 대한 가장 영향력 있는 아이디어를 식별하려면 명확하고 간결한 방식으로 이러한 문제를 해결해야 합니다.
+
+### 태그
+
+협력자/조언/구현자를 찾고 있다면 제안서에 태그를 추가하세요.
