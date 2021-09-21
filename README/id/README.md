@@ -1,106 +1,106 @@
-# Cardano Catalyst Community Eastern Townhall website
+# Situs web *Cardano Catalyst Community Eastern Townhall*
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+[](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Overview
+## Gambaran
 
 [English](/README/en/README.md) | [Tiếng Việt](/README/vi/README.md) | [Indonesia](/README/id/README.md) | [日本語](/README/ja/README.md) | [한국어](/README/ko/README.md)
 
-This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) updates and related documentation. C3ETH is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
+Repositori ini berisi pembaruan *Cardano Catalyst Community* (C3) *Eastern Town Hall* (ETH) dan dokumentasi terkait. C3ETH membantu memungkinkan anggota komunitas dari berbagai negara dan bahasa di zona waktu timur. Fokus khusus tim adalah untuk melokalisasi konten *Cardano Catalyst* dan memberi orientasi untuk memungkinkan partisipasi seluas mungkin.
 
-This repository contains C3ETH translations of Project Catalyst documentation, community-sourced documentation, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
+Repositori ini berisi terjemahan C3ETH dari dokumentasi *Project Catalyst*, dokumentasi yang bersumber dari komunitas, dan proposal terkait. Konten tersebut diterjemahkan ke dalam banyak bahasa di belahan bumi timur, dengan fokus khusus pada bahasa-bahasa di Asia Timur.
 
-[Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
+[Project Catalyst](https://cardano.ideascale.com/) adalah **awal** dari membawa tata kelola *on-chain* ke dalam Cardano. Ini adalah serangkaian eksperimen yang memanfaatkan kecerdasan kolektif Komunitas Catalyst untuk menentukan arah masa depan dan pengembangan ekosistem Cardano. Melalui serangkaian dana inovasi, komunitas memutuskan ide mana yang akan dibiayai atau didanai. Mengambil sumber ide terbaik untuk membangun blockchain global.
 
-## Building with Docker
+## Membangun dengan Docker
 
-The website and documentation is compiled and developed using [Hugo](https://gohugo.io/) and the [Docsy Theme](https://www.docsy.dev/). To build the site requires [Node](https://nodejs.org/en/), [Npm](https://www.npmjs.com/), and [PostCSS](https://postcss.org/). Instead of having to locally install these tools, you can build the site using [Docker](https://docs.docker.com/get-started/overview/). This has the advantage of providing a uniform development environment.
+Situs web dan dokumentasi dikompilasi dan dikembangkan menggunakan [Hugo](https://gohugo.io/) dan [Docsy Theme](https://www.docsy.dev/) . Untuk membangun situs membutuhkan [Node](https://nodejs.org/en/) , [Npm](https://www.npmjs.com/) , dan [PostCSS](https://postcss.org/) . Daripada harus menginstal alat ini secara lokal, Anda dapat membangun situs menggunakan [Docker](https://docs.docker.com/get-started/overview/) . Ini memiliki keuntungan menyediakan lingkungan pengembangan yang seragam.
 
-- Docker: To install docker, please refer to the documentation at [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/).
+- Docker: Untuk menginstal docker, silakan lihat dokumentasi di [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/) .
 
-- Once you've made your working copy (see below) of the site repo, from the repo root folder, running the hugo serve container with docker:
+- Setelah Anda membuat salinan pekerjaan Anda (lihat di bawah) dari repo situs, dari folder root repo, jalankan Hugo memberikan *container* dengan bantuan Docker:
 
-  ```
-  $ make container-serve
-  ```
+    ```
+    $ make container-serve
+    ```
 
-Then visit http://localhost:1313 to view the documentation site
+Kemudian kunjungi http://localhost:1313 untuk melihat situs dokumentasi
 
-## Building with a local development environment 
+## Membangun dengan *local development environment*
 
-The Website is built using [Docsy](https://www.docsy.dev/) which is a [Hugo](https://gohugo.io/) theme for technical documentation sets, providing simple navigation, site structure, and more.
+Situs web ini dibangun menggunakan [Docsy](https://www.docsy.dev/) yang merupakan [tema Hugo](https://gohugo.io/) untuk kumpulan dokumentasi teknis, menyediakan navigasi sederhana, struktur situs, dan banyak lagi.
 
-### Prerequisites
+### Prasyarat
 
-Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io). The following are basic prerequisites building this site:
+Membangun dan menjalankan situs secara lokal memerlukan versi <a>Hugo</a> <code>extended</code> . Berikut ini adalah prasyarat dasar membangun situs ini:
 
-- Install a recent release of the Hugo "extended" version (we recommend version 0.53 or later). If you install from the 
-  [release page](https://github.com/gohugoio/hugo/releases), make sure you download the `_extended` version 
-  which supports SCSS.
+- Instal rilis terbaru dari Hugo versi "extended" (kami merekomendasikan versi 0.53 atau yang lebih baru). Jika Anda menginstal dari [halaman rilis](https://github.com/gohugoio/hugo/releases) , pastikan Anda mengunduh versi `_extended` yang mendukung SCSS.
 
-- Install `PostCSS` so that the site build can create the final CSS assets. You can install it locally by running 
-  the following commands from the root directory of your project:
+- Instal `PostCSS` sehingga pembuatan situs dapat membuat aset CSS akhir. Anda dapat menginstalnya secara lokal dengan menjalankan perintah berikut dari direktori root proyek Anda:
 
-  ```
-  sudo npm install -D --save autoprefixer
-  sudo npm install -D --save postcss-cli
-  ```
+    ```
+    sudo npm install -D --save autoprefixer
+    sudo npm install -D --save postcss-cli
+    ```
 
-- Once you've made your working copy (see below) of the site repo, from the repo root folder, run:
+- Setelah Anda membuat copy pekerjaan Anda (lihat di bawah) dari repo situs, dari folder root repo, jalankan:
 
-  ```
-  hugo server
-  ```
+    ```
+    hugo server
+    ```
 
-## Cloning the Website
+## Mengkloning Situs Web
 
 ```bash
 $ git clone --recurse-submodules --depth 1 https://github.com/c3eth/ce3th.github.io
 $ cd c3eth.github.io
 ```
 
-The site is build on the [Docsy theme](https://www.docsy.dev/) as a submodule. To update the submodule run:
+Situs ini dibangun di atas [tema Docsy](https://www.docsy.dev/) sebagai submodul. Untuk memperbarui submodul, jalankan:
 
 ```bash
 $ git submodule update --recursive
 $ git pull --recurse-submodules
 ```
-## Edit Website Documents
 
-The documents are in the ```content/{en,vn,in,jp,ko}``` directories, select the desired section to edit or add, for content organization please refer to: https://gohugo.io/content-management/organization/.
+## Edit Dokumen Situs Web
 
-## Change Log
+Dokumen ada di `content/{en,vn,in,jp,ko}` , pilih bagian yang diinginkan untuk diedit atau ditambahkan, untuk organisasi konten silakan merujuk ke: https://gohugo.io/content-management/organization/ .
 
-See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
+## Ubah Log
 
-## Acknowledgements
+Lihat [CHANGELOG.md](CHANGELOG.md) untuk perubahan penting dan versi.
 
-* [Project Catalyst](https://cardano.ideascale.com/)
-* [Cardano Foundation](https://cardanofoundation.org/)
-* [IOHK Project Catalyst Team](https://iohk.io/) 
-* [Hugo](https://gohugo.io/)
-* [Docsy](https://www.docsy.dev/)
+## Ucapan Terima Kasih
 
+- [Project Catalyst](https://cardano.ideascale.com/)
+- [Cardano Foundation](https://cardanofoundation.org/)
+- [Tim Project Catalyst IOHK](https://iohk.io/)
+- [Hugo](https://gohugo.io/)
+- [Docsy](https://www.docsy.dev/)
 
-## Contributing ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
+## Berkontribusi ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-Please read [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Silakan baca [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md) untuk detail tentang kode etik kami, dan proses pengajuan pull request kepada kami.
 
-See also the list of [contributors](https://github.com/c3eth/c3eth.github.io/graphs/contributors) who participated in this project.
+Lihat juga daftar [kontributor](https://github.com/c3eth/c3eth.github.io/graphs/contributors) yang berpartisipasi dalam proyek ini.
 
-Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Terima kasih kepada kontributor yang luar biasa ini (lihat [tabel emoji](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Proyek ini mengikuti spesifikasi [all-contributors](https://github.com/all-contributors/all-contributors). Kontribusi dalam bentuk apa pun diterima!
 
-## License ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
+## Lisensi ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
 
-The published source code in the repository `c3eth/c3eth.github.io` is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+Kode sumber yang diterbitkan dalam repositori `c3eth/c3eth.github.io` dilisensikan di bawah Lisensi Apache 2.0 - lihat [file LISENSI](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) untuk detailnya.
 
-The published content in the repository `c3eth/c3eth.github.io` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Konten yang diterbitkan dalam repositori `c3eth/c3eth.github.io` dilisensikan di bawah [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-You are free to Share (copy and redistribute) the material in any medium or format
-adapt, remix, transform, and build upon the material. You may not use the material for commercial purposes.  If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+Anda bebas untuk Membagikan (menyalin dan mendistribusikan ulang) materi dalam media atau format apa pun, mengadaptasi, me-remix, mengubah, dan membangun materi tersebut. Anda tidak boleh menggunakan materi untuk tujuan komersial. Jika Anda me-remix, mengubah, atau membangun materi, Anda harus mendistribusikan kontribusi Anda di bawah lisensi yang sama seperti aslinya. Tidak ada jaminan yang diberikan. Lisensi mungkin tidak memberi Anda semua izin yang diperlukan untuk tujuan penggunaan Anda.
