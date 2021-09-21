@@ -4,16 +4,14 @@ linkTitle: Connect East Asian Entrepreneurs(동아시아 기업가를 연결)
 type: docs
 hide_feedback: 'true'
 weight: '30'
-description: |2-
-
+description: >
   그들의 현지 언어로 동아시아 기업가를 유치하고 참여시키기 위한 Cardano 이니셔티브는 없습니다. 우리는 동아시아 기업가 네트워크를 구축하고 지원하기 위해 동부 타운홀 및 대상을 정한 가상 이벤트를 개최할 것을 제안합니다.
 ---
+{{< youtube Ibm36IXxnYA >}}
 
-{{&lt; 유튜브 Ibm36IXxnYA &gt;}}
+**도전 과제:** [제안자 지원]({{< relref "../challenges/proposer-outreach/campaign-brief.md" >}})
 
-**도전 과제:** [제안자 지원]({{&lt; relref "../challenges/proposer-outreach/campaign-brief.md" &gt;}})
-
-[](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
 **요청 금액(USD):** $20,000
 

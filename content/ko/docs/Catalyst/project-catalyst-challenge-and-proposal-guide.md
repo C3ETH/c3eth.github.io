@@ -3,11 +3,9 @@ title: Challenge and Proposal Guide(도전과 제안 가이드)
 linkTitle: Challenge and Proposal Guide(도전과 제안 가이드)
 hide_feedback: 'true'
 weight: '4'
-description: |2-
-
+description: >
   Project Catalyst가 진행 중이며 우리는 광범위한 개인의 놀라운 참여를 보고 있습니다. 이것은 전세계 커뮤니티 혁신 프로젝트를 만들기 위한 협업 프로세스입니다.
 ---
-
 Project Catalyst가 진행 중이며 우리는 광범위한 개인의 놀라운 참여를 보고 있습니다. 이것은 전세계 커뮤니티 혁신 프로젝트를 만들기 위한 협업 프로세스입니다. 문제점, 해결책, 관련 경험 및 요청한 자금이 투표 애플리케이션에 표시됩니다. 이렇게 하면 모든 사람이 투표하기 전에 이니셔티브에 대해 알 수 있습니다.
 
 제안 계획 및 첨부 파일은 세부 사항을 이해하기 위해 Ideascale이 호스팅하는 혁신 플랫폼에서 볼 수 있습니다. 이것은 모두가 전체 토론에 기여하는 데 자신감을 느끼기를 원한다는 것을 의미합니다.

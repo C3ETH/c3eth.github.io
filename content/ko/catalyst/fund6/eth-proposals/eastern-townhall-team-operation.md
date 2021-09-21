@@ -4,16 +4,15 @@ linkTitle: Eastern Townhall Team Operation(동부 타운홀 운영)
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2-
-
+description: >
   동부 시간대에 거주하고 언어가 영어가 아닌 경우 Catalyst에 참여하기가 어렵습니다. 우리는 이벤트와 콘텐츠 번역을 통해 동부 국가를 지원하기 위해 동부 타운홀이 자금을 지원받을 것을 제안합니다. 목표는 각 기금에 대해 참가자를 20% 늘리는 것입니다.
 ---
 
-{{&lt; 유튜브 MzemrlXpqnY &gt;}}
+{{< youtube MzemrlXpqnY >}}
 
 **과제:** [가치 온보딩 챌린지]({{&lt; relref "../challenges/catalyst-value-onboarding/campaign-brief.md" &gt;}})
 
-[](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
 **요청 금액(USD):** $10,000
 

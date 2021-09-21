@@ -4,16 +4,15 @@ linkTitle: Grow East Asia, Grow Cardano(동아시아를 육성하고, 카르다�
 type: docs
 hide_feedback: 'true'
 weight: '10'
-description: |2-
-
+description: >
   포괄적이고 다양하며 지원적인 방식으로 동아시아에서 Cardano 생태계를 성장시키는 방법은 무엇일까요? 우리가 아프리카에서 하는 것과 같은 방식으로 이니셔티브와 구현에 집중했습니다!
 ---
 
-{{&lt; youtube CeZynbrO-ak &gt;}}
+{{< youtube CeZynbrO-ak >}}
 
-**챌린지:** [펀드7 챌린지 설정]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+**챌린지:** [펀드7 챌린지 설정]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 **요청 금액(USD):** $250,000
 

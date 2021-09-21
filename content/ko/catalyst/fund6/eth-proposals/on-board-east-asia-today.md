@@ -4,19 +4,16 @@ linkTitle: On-boarding East Asia Today!(동아시아의 사람들을 오늘 탑�
 type: docs
 hide_feedback: 'true'
 weight: '50'
-description: |2-
-
+description: >
   수십억의 인구에도 불구하고 동아시아인은 현지화된 콘텐츠 부족으로 인해 Catalyst에서 과소 평가되고 있습니다. 우리는 카탈리스트 문서와 제안을 동아시아의 가능한 한 많은 언어로 번역할 번역 파이프라인을 설정할 것을 제안합니다.
 ---
+{{< youtube TR37P2F7QNk >}}
 
-**과제:** [다국어 리소스]({{&lt; relref "../challenges/multilingual-resources/campaign-brief.md" &gt;}})
+**과제:** [다국어 리소스]({{< relref "../challenges/multilingual-resources/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?)
 
 **요청 금액(USD):** $12,500
-
-![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
-
 ## 문제점
 
 수십억의 인구에도 불구하고 동아시아인은 현지화된 콘텐츠 부족으로 인해 Catalyst에서 과소평가되고 있습니다.
@@ -36,6 +33,8 @@ Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 �
 ### 현재의 문제점과 한계
 
 동아시아와 동남아시아 지역에서 영어는 일상적으로 사용되지 않으며 지역 언어의 웹이 사용됩니다[1].
+
+![English Proficiency Index: www.ef.com/epi](https://i.imgur.com/JFsp5WD.png)
 
 언어 장벽은 Catalyst 참여를 줄입니다. 이는 이 지역에서 Cardano 채택 및 유틸리티의 잠재적 성장을 제한합니다. 우리는 이것을 경험하고 커뮤니티에서 이것을 듣습니다. 우리는 Cardano가 우리의 이야기, 에너지, Cardano를 사용하여 경제적 웰빙을 높이는 방법에 대한 관점을 놓치고 있다는 것을 알고 있습니다.
 

@@ -4,14 +4,13 @@ linkTitle: Grow Social & Environmental Finance(사회/환경의 금융 육성)
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2-
-
+description: >
   기후 비상 사태 및 이와 관련된 경제적 문제를 해결하려면 변화를 주도할 수 있는 탄력적인 금융 솔루션을 구축해야 합니다. 사회 및 환경 혁신에 자금을 지원하기 위해 Cardano를 기반으로 어떤 솔루션을 구축할 수 있습니까?
 ---
 
-**챌린지:** [펀드7 챌린지 설정]({{&lt; relref "../challenges/fund7-challenge-setting/campaign-brief.md" &gt;}})
+**챌린지:** [펀드7 챌린지 설정]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
-[](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **요청 금액(USD):** $250,000
 

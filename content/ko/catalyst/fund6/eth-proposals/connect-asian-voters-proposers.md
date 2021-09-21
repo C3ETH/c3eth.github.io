@@ -4,14 +4,13 @@ linkTitle: Connecting Asian Voters and Proposers(아시아 유권자와 제안�
 type: docs
 hide_feedback: 'true'
 weight: '40'
-description: |2-
-
+description: >
   언어 차이 및 문화적 배타성으로 인한 투표에 대한 신뢰할 수 있는 정보 부족과 같은 장벽이 있습니다. 사람들이 있는 곳에서 현지 언어와 문화로 만나 신뢰할 수 있는 정보를 제공할 것을 제안합니다.
 ---
 
-{{&lt; 유튜브 BT2-0tnZnzc &gt;}}
+{{< youtube BT2-0tnZnzc >}}
 
-**과제:** [분산 의사 결정]({{&lt; relref "../challenges/distributed-decision/campaign-brief.md" &gt;}})
+**과제:** [분산 의사 결정]({{< relref "../challenges/distributed-decision/campaign-brief.md" >}})
 
 [](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
 
