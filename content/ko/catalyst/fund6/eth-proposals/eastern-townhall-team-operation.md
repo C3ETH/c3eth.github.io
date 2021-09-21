@@ -1,15 +1,15 @@
 ---
-title: Eastern Townhall Team Operation
-linkTitle: Eastern Townhall Team Operation
+title: Eastern Townhall Team Operation(동부 타운홀 운영)
+linkTitle: Eastern Townhall Team Operation(동부 타운홀 운영)
 type: docs
 hide_feedback: 'true'
 weight: '20'
-description: |2
+description: |2-
 
-  Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English. We propose that the Eastern TownHall is funded to support eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
+  동부 시간대에 거주하고 언어가 영어가 아닌 경우 Catalyst에 참여하기가 어렵습니다. 우리는 이벤트와 콘텐츠 번역을 통해 동부 국가를 지원하기 위해 동부 타운홀이 자금을 지원받을 것을 제안합니다. 목표는 각 기금에 대해 참가자를 20% 늘리는 것입니다.
 ---
 
-{{&lt; youtube MzemrlXpqnY &gt;}}
+{{&lt; 유튜브 MzemrlXpqnY &gt;}}
 
 **과제:** [가치 온보딩 챌린지]({{&lt; relref "../challenges/catalyst-value-onboarding/campaign-brief.md" &gt;}})
 
@@ -17,21 +17,21 @@ description: |2
 
 **요청 금액(USD):** $10,000
 
-## Problem statement
+## 문제점
 
 동부 시간대에 거주하고 언어가 영어가 아닌 경우 Catalyst에 참여하기가 어렵습니다.
 
-## Describe your solution to the problem
+## 해결책
 
-Eastern TownHall supports eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
+동부 타운홀은 이벤트 및 콘텐츠 번역을 통해 동부 국가를 지원합니다. 목표는 각 기금에 대해 참가자를 20% 늘리는 것입니다.
 
 ## 관련 경험
 
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT &amp; Software Engineering. educators and accountant in East Asia &amp; Japan.
+Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 소프트웨어 공학. 동아시아 및 일본의 교육자 및 회계사.
 
 ## 세부 계획
 
-The Eastern Townhall is a community-driven initiative growing Cardano in the Eastern Hemisphere and across Asia. We want to build a truly global economy and society. Our focus is on making the hard, possible. A place, a time, and a space where:
+동부 타운홀은 동반구와 아시아 전역에서 Cardano를 성장시키는 커뮤니티 주도 이니셔티브입니다. 진정한 글로벌 경제와 사회를 만들고자 합니다. 우리의 초점은 어려운 것을 가능하게 만드는 것입니다. 장소, 시간 및 공간:
 
 - 우리는 지식을 쌓고, 정보를 공유하고, 서로 연결하고 지원할 수 있습니다.
 - 언어와 문화는 참여의 장벽이 아닙니다.
@@ -43,37 +43,37 @@ The Eastern Townhall is a community-driven initiative growing Cardano in the Eas
 
 ### 현재의 문제점과 한계
 
-The Eastern Townhall is the result of individuals and groups working together. Each bringing a unique quality. We interact in and around the Cardano Community, focused on linking individuals and projects to Project Catalyst. But this takes time, effort, and incurs expenses. Having no pool of funds to draw upon limits what we can achieve.
+동부 타운홀은 개인과 그룹이 함께 작업한 결과입니다. 각각 고유한 품질을 제공합니다. 우리는 개인과 프로젝트를 Project Catalyst에 연결하는 데 중점을 둔 Cardano 커뮤니티 안팎에서 상호 작용합니다. 그러나 이것은 시간과 노력이 필요하고 비용이 발생합니다. 우리가 달성할 수 있는 것을 제한할 자금 풀이 없습니다.
 
 ### 제안된 솔루션: 자금 풀
 
-To reach a global audience means meeting people where they are, in their country, their language and their culture.
+전 세계 대중에게 다가간다는 것은 그들이 속한 국가, 언어 및 문화에서 사람들을 만나는 것을 의미합니다.
 
-We are an active part of our Cardano ecosystem. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more, so much more:
+우리는 Cardano 생태계의 적극적인 일원입니다. 우리의 기본 이벤트는 매주 개최되는 동부 타운홀입니다. 하지만 우리는 더 많은 일을 하고 있습니다.
 
 - 우리는 가능한 한 많은 문화권에서 지식과 콘텐츠에 접근할 수 있도록 합니다.
 - 커뮤니티 회원들이 함께 모이는 다양한 이벤트를 개최합니다.
 - 우리는 과소 대표되는 그룹에 다리를 놓습니다.
 - 우리는 지역적 관점을 통합하여 촉매 커뮤니티를 풍요롭게 합니다. 그리고
-- We listen! Gathering opinions and data to help us all understand.
+- 우리는 듣습니다! 우리 모두가 이해할 수 있도록 의견과 데이터를 수집합니다.
 
 **우리는 번역을 하고, 커뮤니티를 구축하고, 지식을 공유하고, 기업가를 지원하고, Cardano를 성장시키고 있습니다.**
 
-Doing all that has costs, so if we are to sustain the Eastern Townhall efforts, then we need to secure funding in a way that does not add extra effort to what we are already doing.
+비용이 드는 모든 일을 하려면 동부 타운홀의 노력을 지속하려면 이미 하고 있는 일에 추가 노력을 추가하지 않는 방식으로 자금을 확보해야 합니다.
 
-This proposal is about forming and maintain a pool of funds (a treasury) that is managed by the Eastern Townhall Trusted Seed. A pool of funds to spend at our discretion. The treasury will be used to cover expenses, to grow and sustain the efforts of the Eastern Townhall. Expenses like translation bounties; production of content; paying for online service subscriptions such as Zoom, Github, HackMD, Statbot and others; paying for activities related to organising the Eastern Town Hall.
+이 제안은 Eastern Townhall Trusted Seed에서 관리하는 자금 풀(재무부)을 형성하고 유지하는 것에 관한 것입니다. 우리의 재량에 따라 지출할 자금 풀. 이 재무부는 비용을 충당하고 동부 타운홀의 노력을 성장 및 유지하는 데 사용될 것입니다. 번역 포상금과 같은 비용; 콘텐츠 생산; Zoom, Github, HackMD, Statbot 등과 같은 온라인 서비스 구독 비용 지불, 그리고 동부 타운홀 조직과 관련된 활동 비용 지불.
 
 간단히 말해서 이 제안은 커뮤니티 그룹을 조직하기 위한 자금에 관한 것입니다. 특정 Catalyst 제안의 오버헤드 없이 온디맨드로 필요한 자금을 제공하는 리소스 및 분산 지원 구조를 구축합니다.
 
 그 대가로 우리는 우리의 활동과 비용에 대한 재무제표를 보고할 것을 약속합니다. 협력자를 찾을 수 있는 한 많은 언어로 번역되었습니다. 우리의 의도는 DAO 재무 관리[3] 보고를 개척하고 프로토타입하는 것입니다. 이는 작은 문제가 아니며 공유된 자금 풀을 관리하는 데는 많은 규정 준수 문제가 있습니다. 보고 노력은 원칙적으로 index.coop[4] 및 FWB[5]가 수행하는 작업과 유사합니다. 대부분의 DAO는 여전히 이것을 파악하고 있으며 모범 사례는 초안도 아니므로 이 문제를 해결하는 데 도움을 주세요.
 
-Learning how the Eastern Town Hall is spending and allocating funds will help us attract future funding. Help collaborators identify opportunities to work with us.
+동부 타운홀이 어떻게 지출하고 자금을 할당하는지 알게 되면 미래의 자금을 유치하는 데 도움이 될 것입니다. 공동 작업자가 우리와 함께 일할 기회를 식별하도록 도와주세요.
 
 규모를 확장하고 동반구 전역의 더 많은 사람들에게 다가갈 수 있도록 도와주세요.
 
 ### KPI 측정 방법 및 목표
 
-A questionnaire on the number of proposers / voters / advisors is conducted for each **fund** in the community of the target country. The goal is to grow participation by 20% for each fund in the next 6 months. See our work on Catalyst Fund6 submission phase analysis[6] as a base line example.
+제안자/투표자/고문 수에 대한 설문은 대상 국가의 커뮤니티에서 각  **펀드**에 대해 수행됩니다. 목표는 향후 6개월 동안 각 펀드에 대한 참여를 20% 증가시키는 것입니다. 기본 예제로 Catalyst Fund6 제출 단계 분석[6]에 대한 작업을 참조하십시오.
 
 ### KPI 달성을 위한 활동
 
@@ -105,13 +105,13 @@ A questionnaire on the number of proposers / voters / advisors is conducted for 
 
 **참고** : 동반구 동아시아 기업가 행사, 밋업, 번역 활동, 테마 설정 및 관리 등 각 활동에 직접 필요한 자금은 본 제안서에 필요한 자금 범주에 포함되지 않습니다.
 
-### Intellectual Property
+### 지적 재산권
 
 커뮤니티 참여는 [기여자 약정](https://www.contributor-covenant.org/)에 의해 보호됩니다. 기여자 라이선스는 우리 프로젝트에 대한 기여를 수반합니다. 누군가의 기여에 대한 저작권은 유지됩니다. 이 계약은 단순히 프로젝트의 일부로 기여를 사용하고 재배포할 수 있는 권한을 부여합니다.
 
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+우리의 모든 소스 코드는 Apache License 2.0에 따라 사용이 허가되었습니다. 자세한 내용은 [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) 파일을 참조하십시오.
 
-Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+게시된 콘텐츠는 [Creative Attribution-Non-Commercial-ShareAlike(CC BY-NC-SA) 라이선스 v4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)에 따라 라이선스가 부여됩니다.
 
 ### 6개월 후
 
@@ -143,7 +143,7 @@ Our published content is licensed under the [Creative Attribution-Non-Commercial
 
 팀은 초기 동부 시청이 **신뢰하는 종자를** 대표합니다. 역할도 없고 리더도 없습니다. 오히려 사람들은 참여를 통해 시간이 지남에 따라 자신을 확립합니다. 우리는 Catalyst Swarm[1], Catalyst School[2] 및 아시아 전역의 기타 커뮤니티 그룹과 겹치고 협력합니다.
 
-## References
+## 참고
 
 [1] [Catalyst Swarm](http://catalystswarm.com/)
 
