@@ -1,52 +1,35 @@
-This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) updates and related documentation. C3ETH is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
+Repositori ini berisi pembaruan *Cardano Catalyst Community* (C3) *Eastern Town Hall* (ETH) dan dokumentasi terkait. C3ETH membantu memungkinkan anggota komunitas dari berbagai negara dan bahasa di zona waktu timur. Fokus khusus tim adalah untuk melokalisasi konten *Cardano Catalyst* dan memberi orientasi untuk memungkinkan partisipasi seluas mungkin.
 
 [English](/README/en/CONTRIBUTING.md) | [Tiếng Việt](/README/vi/CONTRIBUTING.md) | [Indonesia](/README/id/CONTRIBUTING.md) | [日本語](/README/ja/CONTRIBUTING.md) | [한국어](/README/ko/CONTRIBUTING.md)
 
-This repository contains C3ETH translations of Project Catalyst documentation, community-sourced documentation, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
+Repositori ini berisi terjemahan C3ETH dari dokumentasi *Project Catalyst*, dokumentasi yang bersumber dari komunitas, dan proposal terkait. Konten tersebut diterjemahkan ke dalam banyak bahasa di belahan bumi timur, dengan fokus khusus pada bahasa-bahasa di Asia Timur.
 
-[Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
+[Project Catalyst](https://cardano.ideascale.com/) adalah **awal** dari membawa tata kelola *on-chain* ke dalam Cardano. Ini adalah serangkaian eksperimen yang memanfaatkan kecerdasan kolektif Komunitas Catalyst untuk menentukan arah masa depan dan pengembangan ekosistem Cardano. Melalui serangkaian dana inovasi, komunitas memutuskan ide mana yang akan dibiayai atau didanai. Mengambil sumber ide terbaik untuk membangun blockchain global.
 
-# How to Contribute
+# Bagaimana Berkontribusi
 
-We'd love to accept your translations, patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+Kami ingin menerima terjemahan, patch, dan kontribusi Anda untuk proyek ini. Hanya ada beberapa panduan kecil yang perlu Anda ikuti.
 
-See the [contribution
-guidelines](https://c3eth.github.io/docs/contribution-guidelines/)
-in the Eastern Townhall user guide.
-## Contributor License Agreement
+Lihat [panduan kontribusi](https://c3eth.github.io/docs/contribution-guidelines/) di panduan pengguna *Eastern Town Hall*.
 
-Contributions to this project must be accompanied by a Contributor License
-Agreement. You (or your employer) retain the copyright to your contribution;
-this simply gives us permission to use and redistribute your contributions as
-part of the project. Head over to <https://cla.developers.google.com/> to see
-your current agreements on file or to sign a new one.
+## Perjanjian Lisensi Kontributor
 
-You generally only need to submit a CLA once, so if you've already submitted one
-(even if it was for a different project), you probably don't need to do it
-again.
-## License ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
+Kontribusi untuk proyek ini harus disertai dengan Perjanjian Lisensi Kontributor. Anda (atau pemberi kerja Anda) memegang hak cipta atas kontribusi Anda; ini hanya memberi kami izin untuk menggunakan dan mendistribusikan kembali kontribusi Anda sebagai bagian dari proyek. Buka [https://cla.developers.google.com/](https://cla.developers.google.com/) untuk melihat perjanjian Anda saat ini di file atau untuk menandatangani yang baru.
 
-The published source code in the repository `c3eth/c3eth.github.io` is licensed under 
-the Apache License 2.0 - see the [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) 
-file for details.
+Biasanya Anda hanya perlu mengirimkan CLA sekali, jadi jika Anda sudah mengirimkannya (walaupun untuk proyek yang berbeda), Anda mungkin tidak perlu melakukannya lagi.
 
-The published content in the repository `c3eth/c3eth.github.io` is licensed under 
-the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Lisensi ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
 
-You are free to Share (copy and redistribute) the material in any medium or format
-adapt, remix, transform, and build upon the material. You may not use the material
-for commercial purposes.  If you remix, transform, or build upon the material, you 
-must distribute your contributions under the same license as the original. No 
-warranties are given. The license may not give you all of the permissions necessary 
-for your intended use.
-## Code and Tranlsation reviews
+Kode sumber yang diterbitkan dalam repositori `c3eth/c3eth.github.io` dilisensikan di bawah Lisensi Apache 2.0 - lihat [file LISENSI](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) untuk detailnya.
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
-## Community Guidelines
+Konten yang diterbitkan dalam repositori `c3eth/c3eth.github.io` dilisensikan di bawah [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This project follows
-[Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+Anda bebas untuk Membagikan (menyalin dan mendistribusikan ulang) materi dalam media atau format apa pun, mengadaptasi, me-remix, mengubah, dan membangun materi tersebut. Anda tidak boleh menggunakan materi untuk tujuan komersial. Jika Anda me-remix, mengubah, atau membangun materi, Anda harus mendistribusikan kontribusi Anda di bawah lisensi yang sama seperti aslinya. Tidak ada jaminan yang diberikan. Lisensi mungkin tidak memberi Anda semua izin yang diperlukan untuk tujuan penggunaan Anda.
+
+## Ulasan Kode dan Terjemahan
+
+Semua kiriman, termasuk kiriman oleh anggota proyek, memerlukan tinjauan. Kami menggunakan permintaan tarik GitHub untuk tujuan ini. Konsultasikan [Bantuan GitHub](https://help.github.com/articles/about-pull-requests/) untuk informasi lebih lanjut tentang menggunakan permintaan tarik.
+
+## Pedoman Komunitas
+
+Proyek ini mengikuti [Pedoman Komunitas Sumber Terbuka Google](https://opensource.google.com/conduct/) .
