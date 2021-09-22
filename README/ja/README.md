@@ -1,9 +1,7 @@
 # Cardano Catalyst Community Eastern Townhall website
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 概要
@@ -85,7 +83,7 @@ $ git pull --recurse-submodules
 
 ## 貢献する方法![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-当社の行動規範の詳細、およびプルリクエストを送信するプロセスについては、 [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md)をお読みください。
+当社の行動規範の詳細、およびプルリクエストを送信するプロセスについては、 [CONTRIBUTING.md](/README/ja/CONTRIBUTING.md)をお読みください。
 
 このプロジェクトに参加した[貢献者](https://github.com/c3eth/c3eth.github.io/graphs/contributors)のリストも参照してください。
 

@@ -85,7 +85,7 @@ See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
 
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-Please read [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](/README/id/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 See also the list of [contributors](https://github.com/c3eth/c3eth.github.io/graphs/contributors) who participated in this project.
 

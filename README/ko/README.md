@@ -82,7 +82,7 @@ $ git pull --recurse-submodules
 
 ## 기여 ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-행동 강령과 풀 리퀘스트 제출 절차에 대한 자세한 내용은 [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md)를 참조하십시오.
+행동 강령과 풀 리퀘스트 제출 절차에 대한 자세한 내용은 [CONTRIBUTING.md](/README/ko/CONTRIBUTING.md)를 참조하십시오.
 
 이 프로젝트에 참여한 [기여자](https://github.com/c3eth/c3eth.github.io/graphs/contributors)목록도 참조하십시오.
 

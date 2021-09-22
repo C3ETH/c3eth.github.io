@@ -1,11 +1,8 @@
 # Situs web *Cardano Catalyst Community Eastern Townhall*
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 ## Gambaran
 
 [English](/README/en/README.md) | [Tiếng Việt](/README/vi/README.md) | [Indonesia](/README/id/README.md) | [日本語](/README/ja/README.md) | [한국어](/README/ko/README.md)
@@ -85,7 +82,7 @@ Lihat [CHANGELOG.md](CHANGELOG.md) untuk perubahan penting dan versi.
 
 ## Berkontribusi ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-Silakan baca [CONTRIBUTING.md](https://github.com/c3eth/c3eth.github.io/blob/main/CONTRIBUTING.md) untuk detail tentang kode etik kami, dan proses pengajuan pull request kepada kami.
+Silakan baca [CONTRIBUTING.md](/README/id/CONTRIBUTING.md) untuk detail tentang kode etik kami, dan proses pengajuan pull request kepada kami.
 
 Lihat juga daftar [kontributor](https://github.com/c3eth/c3eth.github.io/graphs/contributors) yang berpartisipasi dalam proyek ini.
 

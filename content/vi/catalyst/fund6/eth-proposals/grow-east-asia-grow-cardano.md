@@ -4,8 +4,7 @@ linkTitle: Phát triển Đông Á, Phát triển Cardano
 type: docs
 hide_feedback: 'true'
 weight: '10'
-description: |2-
-
+description: >
   Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở khu vực Đông Á theo một cách toàn diện, đa dạng và theo hướng khuyến khích và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến và việc triển khai!
 ---
 {{< youtube CeZynbrO-ak >}}
