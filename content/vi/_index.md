@@ -27,7 +27,7 @@ linkTitle: Cardano Catalyst Community Eastern Town Hall
         </div>
       </div>
       <div class="col-lg-6 mb-5 mb-lg-0">
-        {{< youtube id="Pbtg8lB-iCo" title="Eastern Townhall Team" autoplay="false"  >}}
+        {{< youtube id="PobRWs8emlc" title="Eastern Townhall Team" autoplay="false"  >}}
       </div>
     </div>
 
