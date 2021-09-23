@@ -9,7 +9,7 @@ description: >
 ---
 {{< youtube CeZynbrO-ak >}}
 
-**チャレンジ：** [ファンド7チャレンジ設定]（{{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}}）
+**チャレンジ：** [ファンド7チャレンジ設定]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 

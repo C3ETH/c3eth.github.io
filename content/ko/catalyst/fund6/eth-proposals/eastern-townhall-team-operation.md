@@ -10,7 +10,7 @@ description: >
 
 {{< youtube MzemrlXpqnY >}}
 
-**과제:** [가치 온보딩 챌린지]({{&lt; relref "../challenges/catalyst-value-onboarding/campaign-brief.md" &gt;}})
+**과제:** [가치 온보딩 챌린지]({{< relref "../challenges/catalyst-value-onboarding/campaign-brief.md" >}})
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
