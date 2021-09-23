@@ -32,7 +32,7 @@ body:
     id: add-or-change
     attributes:
       label: Is your suggestion and addition, or a change?
-      description: "Please tell us if this a new page or just a change to an existing one. If your suggestion is to translate an existing page, please raise a *Translation Issues* for that, this issue type is only for adding new pages or documents, or updating the content on existing pages."
+      description: "Please tell us if this is a new page or just a change to an existing one. If your suggestion is to translate an existing page, please raise a *Translation Issues* for that, this issue type is only for adding new pages or documents, or updating the content on existing pages."
       options:
         - Add a new page
         - Change to exisitng page
@@ -42,8 +42,8 @@ body:
   - type: checkboxes
     id: language
     attributes:
-      label: "Which language does the change effect?"
-      description: "Please check each language that your sugguestion effects. If you just want to update a tranlsation of an existing page then check that language. If you think it applies to all of the supported langauges then check them all. For new language support not shown here please raise a separate issue for *new language support*."
+      label: "Which language does the change affect?"
+      description: "Please check each language that your suggestion affects. If you just want to update a translation of an existing page then check that language. If you think it applies to all of the supported languages then check them all. For new language support not shown here please raise a separate issue for *new language support*."
       options:
         - label: "**English**"
         - label: "**Indonesian**"
@@ -57,7 +57,7 @@ body:
     id: page-section
     attributes:
       label: "Which section of the website should the change be made?"
-      description: "Please select which section of the website your change should be made. The sections are constantly evolving so if what you want to see is not reflected in the sections available please select other and add a note in the additional information below."
+      description: "Please select which section of the website your change should be made. The sections are constantly evolving so if what you want to see is not reflected in the sections available please select another and add a note in the additional information below."
       options:
         - Catalyst Guides
         - Blog Post
@@ -88,7 +88,7 @@ body:
     id: source-url
     attributes:
       label: Source Document URL
-      description: "One objective for the Eastern Townhall is to translate existing Cardano documentation into the languages of the Eastern Hemisphere. Often that means taking an existing document and translating it, and hosting it. If your suggestion is to add a document or webpage from the Cardano community please specify the URL."
+      description: "One objective for the Eastern Townhall is to translate existing Cardano documentation into the languages of the Eastern Hemisphere. Often that means taking an existing document and translating it and hosting it. If your suggestion is to add a document or webpage from the Cardano community please specify the URL."
       placeholder: Please specify the URL for the source document.
     validations:
       required: false
@@ -97,7 +97,7 @@ body:
     id: additional-info
     attributes:
       label: Additional Information
-      description: Please add any other additional information that might help in us determine if your suggestion be progressed, or helps us write the content. References, images, and other documents can be attached.
+      description: Please add any other additional information that might help us determine if your suggestion be progressed, or helps us write the content. References, images, and other documents can be attached.
       placeholder: Add/Update the website with the following changes...
     validations:
       required: false
