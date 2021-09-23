@@ -1,0 +1,112 @@
+name: Add or Update C3 ETH Page
+description: "Add or update a page/document to the C3 ETH Website."
+title: ":page_facing_up: Add new page/document for <TITLE>"
+labels: ["documentation", "help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Thank you for contributing to our project!"
+  - type: markdown
+    attributes:
+      value: We welcome contributions and suggestions from our community. Any improvements help. Please fill out the details of your suggestion for adding or updating content on the Cardano Catalyst Community (C3) Eastern Townhall website.
+
+  - type: input
+    id: page-title
+    attributes:
+      label: Page Title
+      description: "The first thing to do is to replace the text *<TITLE>* in the issue title above with a very short description of the change you want. Add a longer title here."
+      placeholder: "<DOCUMENT TITLE>"
+    validations:
+      required: true
+
+  - type: textarea
+    id: short-description
+    attributes:
+      label: Description of change
+      description: Please write a short outline of the change you want to see.
+      placeholder: Add/Update the website with the following changes...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: add-or-change
+    attributes:
+      label: Is your suggestion and addition, or a change?
+      description: "Please tell us if this a new page or just a change to an existing one. If your suggestion is to translate an existing page, please raise a *Translation Issues* for that, this issue type is only for adding new pages or documents, or updating the content on existing pages."
+      options:
+        - Add a new page
+        - Change to exisitng page
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: language
+    attributes:
+      label: "Which language does the change effect?"
+      description: "Please check each language that your sugguestion effects. If you just want to update a tranlsation of an existing page then check that language. If you think it applies to all of the supported langauges then check them all. For new language support not shown here please raise a separate issue for *new language support*."
+      options:
+        - label: "**English**"
+        - label: "**Indonesian**"
+        - label: "**Japanese**"
+        - label: "**Korean**"
+        - label: "**Vietnamese**"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: page-section
+    attributes:
+      label: "Which section of the website should the change be made?"
+      description: "Please select which section of the website your change should be made. The sections are constantly evolving so if what you want to see is not reflected in the sections available please select other and add a note in the additional information below."
+      options:
+        - Catalyst Guides
+        - Blog Post
+        - Catalyst Proposals
+        - Catalyst Challenges        
+        - Cardano Documentation
+        - Tutorials
+        - Getting Started
+        - Contribution Guidelines
+        - Technical Documentation
+        - About
+        - Home Page
+        - Catalyst ETH Proposal
+        - Other
+    validations:
+      required: true
+  
+  - type: input
+    id: webpage-url
+    attributes:
+      label: Website URL
+      description: "If this is a change to an existing page on our website, what is page's URL?"
+      placeholder: "https://c3eth.github.io/"
+    validations:
+      required: false
+
+  - type: input
+    id: source-url
+    attributes:
+      label: Source Document URL
+      description: "One objective for the Eastern Townhall is to translate existing Cardano documentation into the languages of the Eastern Hemisphere. Often that means taking an existing document and translating it, and hosting it. If your suggestion is to add a document or webpage from the Cardano community please specify the URL."
+      placeholder: Please specify the URL for the source document.
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Please add any other additional information that might help in us determine if your suggestion be progressed, or helps us write the content. References, images, and other documents can be attached.
+      placeholder: Add/Update the website with the following changes...
+    validations:
+      required: false
+
+  - type: input
+    id: contact-details
+    attributes:
+      label: Wanting to help?
+      description: "Can you help progress your suggestion? If so please add a way to contact you. GitHub, Email, or Discord id will do."
+      placeholder: How do we contact you?
+    validations:
+      required: false
