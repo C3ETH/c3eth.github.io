@@ -1,6 +1,6 @@
 ---
 date: 2021-18-09
-title: "Eastern Hemisphere Townhall Meeting #8"
+title: "Eastern Hemisphere Townhall Meeting 8"
 linkTitle: "Eastern Hemisphere Townhall Meeting 8"
 description: "A great meetup where we started off talking about the upcoming Ideafest, Cardano Summit and Hackathons."
 author: Robert & Stephen
