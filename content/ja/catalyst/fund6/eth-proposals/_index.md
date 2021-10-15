@@ -10,3 +10,5 @@ description: >
 ---
 
 このインデックスページはまだ更新されていません。これはファンド6セクションのCatalyst提案です。ファンドごとに更新されます。
+
+{{< youtube id="ndcHY5UEDd4" title="Eastern Townhall Proposals" autoplay="false"  >}}

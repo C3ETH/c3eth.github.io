@@ -11,3 +11,5 @@ description: >
 
 This index page is yet to be udated. 
 This is the **Catalyst Proposals for fund 6** section. It will update for each fund.
+
+{{< youtube id="kVNZapy0jbU" title="Eastern Townhall Proposals" autoplay="false"  >}}
