@@ -1,5 +1,5 @@
 ---
-date: 2021-18-09
+date: 2021-09-18 
 title: "Eastern Hemisphere Townhall Meeting 8"
 linkTitle: "Eastern Hemisphere Townhall Meeting 8"
 description: "A great meetup where we started off talking about the upcoming Ideafest, Cardano Summit and Hackathons."
