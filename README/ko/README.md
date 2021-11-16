@@ -22,7 +22,7 @@
 - 사이트 repo의 작업 복사본(아래 참조)을 만든 후에는 repo 루트 폴더에서 도커로 휴고 서브 컨테이너를 실행합니다.
 
     ```
-    $ make container-serve
+    $ docker-compose up -d
     ```
 
 그런 다음 <a>http://localhost:1313</a>을 방문하여 설명서 사이트를 봅니다.

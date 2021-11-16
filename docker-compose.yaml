@@ -1,13 +1,11 @@
-version: "3.3"
-
+version: "3.9"
 services:
-
   site:
-    image: docsy/docsy-example
+    image: klakegg/hugo:0.89.3-ext-alpine
     build:
       context: .
     command: server
+    volumes:
+      - ".:/src"
     ports:
       - "1313:1313"
-    volumes:
-      - .:/src
