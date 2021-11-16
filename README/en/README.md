@@ -22,7 +22,7 @@ The website and documentation is compiled and developed using [Hugo](https://goh
 - Once you've made your working copy (see below) of the site repo, from the repo root folder, running the hugo serve container with docker:
 
   ```
-  $ make container-serve
+  $ docker-compose up -d
   ```
 
 Then visit http://localhost:1313 to view the documentation site

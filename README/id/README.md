@@ -22,7 +22,7 @@ Situs web dan dokumentasi dikompilasi dan dikembangkan menggunakan [Hugo](https:
 - Setelah Anda membuat salinan pekerjaan Anda (lihat di bawah) dari repo situs, dari folder root repo, jalankan Hugo memberikan *container* dengan bantuan Docker:
 
     ```
-    $ make container-serve
+    $ docker-compose up -d
     ```
 
 Kemudian kunjungi http://localhost:1313 untuk melihat situs dokumentasi

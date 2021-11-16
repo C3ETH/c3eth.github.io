@@ -23,7 +23,7 @@
 - サイトリポジトリの作業コピー（以下を参照）を作成したら、リポジトリルートフォルダーから、dockerを使用してhugoserveコンテナーを実行します。
 
     ```
-    $ make container-serve
+    $ docker-compose up -d
     ```
 
 次に、http:// localhost:1313にアクセスして、ドキュメントサイトを表示します。
