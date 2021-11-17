@@ -56,7 +56,7 @@ Building and running the site locally requires a recent `extended` version of [H
 ## Cloning the Website
 
 ```bash
-$ git clone --recurse-submodules --depth 1 https://github.com/c3eth/ce3th.github.io
+$ git clone --recurse-submodules --depth 1 https://github.com/C3ETH/c3eth.github.io.git
 $ cd c3eth.github.io
 ```
 
