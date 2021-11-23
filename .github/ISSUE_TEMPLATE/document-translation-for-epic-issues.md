@@ -2,7 +2,7 @@
 name: Document Translation for Epic Issues
 about: Describe this issue template's purpose here.
 title: 'Challenge: <active campagn title here>'
-labels: English, Indonesian, Issues, Japanese, Korean, Translation, Vietnamese
+labels: English, Indonesian, Japanese, Korean, Translation, Vietnamese
 assignees: ''
 
 ---
@@ -19,7 +19,8 @@ The **<Challenge name>** needs to go up and be translated. Can you please transl
 
 ### Languages
 
-*NOTE* @PardusEidolon will put in the document links to the English file when the file has been created and committed to the main repository.
+*NOTE* An English document will be put in with links to the file when the file has been created and committed to the main repository.
+
 
 - [ ] Indonesian 
 - [ ] Japanese
