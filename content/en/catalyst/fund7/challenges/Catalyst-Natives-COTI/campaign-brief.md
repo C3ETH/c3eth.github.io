@@ -38,6 +38,12 @@ Be creative; the fewer clicks needed to complete a transaction, the better.
 - Scalability of the plug-in without compromising the quality of the service.
 - Number of merchants that can be integrated with the plug-in.
 
+## Guiding Questions:
+We would like you to consider the following and provide rationales about the planned approach in your proposals.
+
+- How will you test the plug-in's quality, and how easy is it to implement it into the software platforms?
+- Is the plug-in able to process big amounts of transactions per second from different websites without problems?
+- How do you intend to design for the user's needs and incorporate Merchant's feedback regarding the plug-in performance?
 ## Funding Parameters
 
 COTI are providing the funding for all challenge rewards.
