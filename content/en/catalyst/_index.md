@@ -10,7 +10,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-We are no longer updating this site
+Updates to this website are a continuing mission, thank you for you patience
 {{% /pageinfo %}}
 
 
