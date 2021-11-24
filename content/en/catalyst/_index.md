@@ -10,7 +10,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+We are no longer updating this site
 {{% /pageinfo %}}
 
 
