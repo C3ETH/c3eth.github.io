@@ -4,7 +4,7 @@ linkTitle: " Boosting Cardano's DeFi"
 type: docs
 hide_feedback: true
 ---
-What will drive mass-scale adoption of decentralized IDs on Cardano?
+How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
 
 Fund Size: **$500,000 USD paid in Ada**
 
