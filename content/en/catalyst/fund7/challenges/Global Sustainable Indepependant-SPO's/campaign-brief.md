@@ -5,6 +5,7 @@ type: docs
 hide_feedback: true
 ---
 How can we promote a decentralised, globally distributed and sustainable pool of operators to run the Cardano network
+
 Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified).
