@@ -15,7 +15,7 @@ The idea behind this challenge is to fund specialists in regulation, lawyers and
 
 Through this challenge, we can fund proposals that seek the adoption of Cardano in certain jurisdictions, as happened recently with Bitcoin in El Salvador.
 
-https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first/
+- [Bitcoin Now Legal Tender in El Salvador, Marking World First](https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first/)
 
 Lobby and educate rational politicians so that it becomes possible to plead for the creation of more favorable rules on taxation, use of cryptocurrencies and greater privacy for cryptocurrency users.
 
