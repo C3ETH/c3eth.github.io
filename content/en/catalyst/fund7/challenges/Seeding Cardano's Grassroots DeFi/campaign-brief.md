@@ -27,7 +27,7 @@ It has become clear over the year that bugs, hacks and vulnerabilities are not u
 
 - [Hackers stole at least $600M in Poly exploit across three chains](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
 
-https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix
+- [Thorchain suffers $5 million exploit, developers have put out a fix](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
 
 Cardano arrives to change this paradigm and bring security to users.
 
