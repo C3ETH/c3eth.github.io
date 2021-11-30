@@ -4,7 +4,7 @@ linkTitle: "Catalyst - Rapid Funding Mechanisms"
 type: docs
 hide_feedback: true
 ---
-How can we distribute Cardano Treasury funds more rapidly in a transparent, accountable, and safe manner?
+How can we distribute Cardano treasury funds more rapidly in a transparent, accountable, and safe manner?
 
 Fund Size: **$250,000 USD paid in Ada**
 
