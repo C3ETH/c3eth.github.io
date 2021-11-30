@@ -38,5 +38,5 @@ Knowledge is power and enabling project's to tap into to a distributed network o
 ## Key Metrics to measure
 - Number of projects that can be accelerated in the scope of the funding
 - Number of mentors and investors that can be onboarded into the ecosystem
-- Number of mentors and investors that can be onboarded into the ecosystem
+- Distribution of programmes across the world to serve different audiences
 - Quality and strength of opportunities that each accelerator programme brings
