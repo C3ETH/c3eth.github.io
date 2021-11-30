@@ -70,7 +70,7 @@ For the supply chain challenge, we want to address two significant challenges:
 
 How can we create transparency as the bottom-up process meets the industrialized supply chains, cuts through the centralized distribution markets, and connects directly to the consumer?
 
-For example, small producers like a family ranch in Wyoming have no way to get information about the value of their product through these global aggregation and distribution networks. Currently, a solution such as the BeefChain project is supporting small ranchers.
+For example, small producers like a family ranch in Wyoming have no way to get information about the value of their product through these global aggregation and distribution networks. Currently, a solution such as the [BeefChain project](https://beefchain.com/) is supporting small ranchers.
 
 There are multiple issues to overcome. For example, packaging plants are the entry point to the aggregation, so there is little or no incentive to deal with the small producer. We want to address this problem by building general-purpose tooling to assist communities in self-organizing and self-governing production according to agreed standards. We propose that if these communities can connect and grow, they will either:
 
