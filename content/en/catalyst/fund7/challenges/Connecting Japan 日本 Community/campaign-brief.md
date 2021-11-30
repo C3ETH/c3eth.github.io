@@ -20,3 +20,11 @@ There has been an interest in Cardano in Japan from the start and the country ha
 Recently an Eastern Town Hall was started by community members and participation in the Japanese breakout room has been among the highest consistently. In the fund 6 challenges there are several proposals coming from the Japanese community as well. With the current momentum a challenge in fund 7 would likely see good participation and can solidify the community.
 
 At the moment most of Ideascale & Catalyst operates in english. This creates a barrier for all non-english communities. If solutions from this challenge prove successful in bridging that gap, they can function as an example for other communities.
+
+## Possible directions:
+
+- Translating key documentation
+- Creating educational content about Cardano & Catalyst in Japanese
+- Organising interpreters for Catalyst events
+- Organising workshops for new members, CA's, SPO's, proposers
+- Setting up community hubs
