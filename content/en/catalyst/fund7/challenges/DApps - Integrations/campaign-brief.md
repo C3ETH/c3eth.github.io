@@ -29,7 +29,7 @@ Let an "application output" and an "application transaction" be an outputs and t
 - Total/growth of resource usage by applications
 - Number/growth of distinct addresses mentioned in application transactions
 
-### If the application uses tokens:
+If the application uses tokens:
 1. Number/growth of application tokens
 2. Number/growth of distinct addresses holding application tokens
 
