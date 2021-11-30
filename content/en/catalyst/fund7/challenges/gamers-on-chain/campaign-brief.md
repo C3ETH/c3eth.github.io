@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?"
 ---
-What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?
-
 Fund Size: **$250,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26241) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26241/stage/unspecified).

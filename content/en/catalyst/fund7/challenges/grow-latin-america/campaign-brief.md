@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How do we grow the Cardano ecosystem in Latin America?"
 ---
-How do we grow the Cardano ecosystem in Latin America?
-
 Fund Size: **$500,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26242) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified).

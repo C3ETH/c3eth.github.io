@@ -5,9 +5,6 @@ type: docs
 hide_feedback: true
 description: "What will drive mass-scale adoption of decentralized IDs on Cardano?"
 ---
-
-What will drive mass-scale adoption of decentralized IDs on Cardano?
-
 Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26256) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified).

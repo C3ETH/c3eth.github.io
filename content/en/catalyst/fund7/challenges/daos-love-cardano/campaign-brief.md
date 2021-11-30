@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How can we make Cardano the go-to choice for DAOs to manage themselves?"
 ---
-How can we make Cardano the go-to choice for DAOs to manage themselves?
-
 Fund Size: **$500,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26237) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified).

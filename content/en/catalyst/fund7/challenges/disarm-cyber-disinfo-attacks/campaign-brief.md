@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?"
 ---
-How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?
-
 Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26239) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified).

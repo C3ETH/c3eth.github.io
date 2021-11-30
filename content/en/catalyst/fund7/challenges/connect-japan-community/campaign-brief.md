@@ -5,7 +5,6 @@ type: docs
 hide_feedback: true
 description: "How can we increase meaningful participation among the community in the next 6 months?"
 ---
-How can we help the Japanese community to adopt Cardano and connect with the Catalyst community?
 Fund Size: **$50,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26238) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26238/stage/unspecified).

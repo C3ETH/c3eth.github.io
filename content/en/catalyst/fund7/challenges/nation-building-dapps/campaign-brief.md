@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "What core Dapp solutions can be provided for widespread governments adoption in the developing world?"
 ---
-What core Dapp solutions can be provided for widespread governments adoption in the developing world?
-
 Fund Size: **$600,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26249) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26249/stage/unspecified).

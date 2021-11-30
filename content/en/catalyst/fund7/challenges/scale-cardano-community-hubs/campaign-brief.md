@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?"
 ---
-How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
-
 {{< youtube nJkH2MtPhX8 >}}
 
 Fund Size: **$350,000 USD paid in Ada**

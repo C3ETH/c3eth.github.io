@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "What Challenges should the community prioritize to address in Fund8?"
 ---
-What Challenges should the community prioritize to address in Fund8?
-
 Fund Size: **$12,800,000 in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26257) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified).

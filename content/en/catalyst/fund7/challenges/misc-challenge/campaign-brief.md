@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How do we create a space for ideas and projects that do not fit any of the other current Challenges?"
 ---
-How do we create a space for ideas and projects that do not fit any of the other current Challenges?
-
 Fund Size: **$200,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26248) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified).

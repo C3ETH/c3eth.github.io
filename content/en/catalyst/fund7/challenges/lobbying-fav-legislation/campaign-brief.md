@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How can we defend ourselves from attacks by authoritarian governments and compromising legislation and unfair tax policies?"
 ---
-How can we defend ourselves from attacks by authoritarian governments and compromising legislation and unfair tax policies?
-
 Fund Size: **$75,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26235) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26235/stage/unspecified).

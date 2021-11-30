@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?"
 ---
-How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?
-
 Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26252) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26252/stage/unspecified).

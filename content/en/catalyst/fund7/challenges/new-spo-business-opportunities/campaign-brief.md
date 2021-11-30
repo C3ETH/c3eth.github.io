@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "Stake Pool Operators are a key-success-factor of Cardano. With their infrastructure and capabilities, important new services can be created"
 ---
-Stake Pool Operators are a key-success-factor of Cardano. With their infrastructure and capabilities, important new services can be created
-
 Fund Size: **$250,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26245) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified).

@@ -5,8 +5,6 @@ type: docs
 hide_feedback: true
 description: "How to make the auditing process of funded proposals efficient, distributed and transparent?"
 ---
-How to make the auditing process of funded proposals efficient, distributed and transparent?
-
 Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26253) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified).
