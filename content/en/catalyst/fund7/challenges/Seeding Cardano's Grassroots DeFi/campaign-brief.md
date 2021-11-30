@@ -58,7 +58,7 @@ So that new teams can have a kickstart in their projects without having to resor
 
 
 ## How does success look like?
-At least 4 new teams deploying DeFi dapps on Cardano in 2022 + Managing to form a community in order to gain competitiveness/susteinability
+At least 4 new teams deploying DeFi Dapps on Cardano in 2022 + Managing to form a community in order to gain competitiveness/sustainability
 
 ## Key Metrics to measure
 - How many DeFi dapps were launched on Cardano mainnet within 3, 6 and 12 months after funding.
