@@ -20,7 +20,6 @@ When you drive adoption at the ground level, you are doing more than just 'build
 
 https://imgur.com/a/zK5ralU
 
-https://imgur.com/a/feXUVDF
 
 ## Why is it Important?
 Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
