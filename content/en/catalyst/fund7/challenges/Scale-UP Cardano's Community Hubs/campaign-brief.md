@@ -21,7 +21,6 @@ Let's consider it now and start to build an ecosystem that is truly global, allo
 
 When you drive adoption at the ground level, you are doing more than just 'building cool products', you are empowering people to change their lives in ways they could have never imagined by themselves.
 
-https://imgur.com/a/zK5ralU
 
 
 ## Why is it Important?
