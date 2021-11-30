@@ -19,7 +19,7 @@ Proposers to review IOHK/ EMURGO Atala solutions before hand along with referenc
 
 It is further advised Proposers to obtain a knowledge base over research done in the past three decades unraveling the "mysterious" causes of poverty in third world countries by the economist Hernando de Soto. The attached book "The Mystery of Capital" is a great reference to get into context for anyone involved in developing proposals for this challenge.
 
-Introduction video:
+[Introduction video](https://archive.org/details/Hernando_De_Soto_The_Mystery_Of_Capital_Why_Capitalism_TriumphsIn_The_West_And_Fails_Everywhere_Else)
 
 https://archive.org/details/Hernando_De_Soto_The_Mystery_Of_Capital_Why_Capitalism_TriumphsIn_The_West_And_Fails_Everywhere_Else
 
