@@ -3,6 +3,7 @@ title: "Scale-UP Cardano's Community Hubs"
 linkTitle: "Scale-UP Cardano's Community Hubs"
 type: docs
 hide_feedback: true
+description: "How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?"
 ---
 How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
 

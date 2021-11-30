@@ -3,6 +3,7 @@ title: "New SPO Business Opportunities"
 linkTitle: "New SPO Business Opportunities"
 type: docs
 hide_feedback: true
+description: "Stake Pool Operators are a key-success-factor of Cardano. With their infrastructure and capabilities, important new services can be created"
 ---
 Stake Pool Operators are a key-success-factor of Cardano. With their infrastructure and capabilities, important new services can be created
 

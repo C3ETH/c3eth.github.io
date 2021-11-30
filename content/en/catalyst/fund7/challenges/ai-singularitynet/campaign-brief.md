@@ -3,6 +3,7 @@ title: "A.I. & SingularityNet a $5T market"
 linkTitle: "A.I. & SingularityNet a $5T market"
 type: docs
 hide_feedback: true
+description: "How can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?"
 ---
 How can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
 

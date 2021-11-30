@@ -3,6 +3,7 @@ title: "Global Sustainable Indep. SPO's"
 linkTitle: "Global Sustainable Indep. SPO's"
 type: docs
 hide_feedback: true
+description: "How can we promote a decentralised, globally distributed and sustainable pool of operators to run the Cardano network"
 ---
 How can we promote a decentralised, globally distributed and sustainable pool of operators to run the Cardano network
 

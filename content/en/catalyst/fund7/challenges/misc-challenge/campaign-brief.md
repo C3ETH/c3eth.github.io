@@ -3,6 +3,7 @@ title: "Miscellaneous Challenge"
 linkTitle: "Miscellaneous Challenge"
 type: docs
 hide_feedback: true
+description: "How do we create a space for ideas and projects that do not fit any of the other current Challenges?"
 ---
 How do we create a space for ideas and projects that do not fit any of the other current Challenges?
 

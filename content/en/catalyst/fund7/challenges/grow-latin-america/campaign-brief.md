@@ -3,6 +3,7 @@ title: "Grow Latin America, Grow Cardano"
 linkTitle: "Grow Latin America, Grow Cardano"
 type: docs
 hide_feedback: true
+description: "How do we grow the Cardano ecosystem in Latin America?"
 ---
 How do we grow the Cardano ecosystem in Latin America?
 

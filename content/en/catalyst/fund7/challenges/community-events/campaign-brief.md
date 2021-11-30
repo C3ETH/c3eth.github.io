@@ -3,6 +3,7 @@ title: "Community Events"
 linkTitle: "Community Events"
 type: docs
 hide_feedback: true
+description: "How can we increase meaningful participation among the community in the next 6 months?"
 ---
 How can we increase meaningful participation among the community in the next 6 months?
 

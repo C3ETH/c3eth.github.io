@@ -3,6 +3,7 @@ title: "Multilingual resources"
 linkTitle: "Multilingual resources"
 type: docs
 hide_feedback: true
+description: "How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?"
 ---
 How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?
 

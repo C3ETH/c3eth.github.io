@@ -3,6 +3,7 @@ title: "DApps - Integrations"
 linkTitle: "DApps - Integrations"
 type: docs
 hide_feedback: true
+description: "What applications will provide the most value for end users in 2022?"
 ---
 What applications will provide the most value for end users in 2022?
 

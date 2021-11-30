@@ -3,6 +3,7 @@ title: "Seeding Cardano's Grassroots DeFi"
 linkTitle: "Seeding Cardano's Grassroots DeFi"
 type: docs
 hide_feedback: true
+description: "How to encourage new teams to Deploy Defi Solutions on Cardano?"
 ---
 How to encourage new teams to Deploy Defi Solutions on Cardano?
 

@@ -3,6 +3,7 @@ title: "Gamers On-Chained"
 linkTitle: "Gamers On-Chained"
 type: docs
 hide_feedback: true
+description: "What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?"
 ---
 What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?
 

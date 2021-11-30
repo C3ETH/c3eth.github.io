@@ -3,6 +3,7 @@ title: "Catalyst Natives COTI: Pay with ADA Plug-in"
 linkTitle: " Catalyst Natives COTI: Pay with ADA Plug-in"
 type: docs
 hide_feedback: true
+description: "What will drive mass-scale adoption of decentralized IDs on Cardano?"
 ---
 
 What will drive mass-scale adoption of decentralized IDs on Cardano?

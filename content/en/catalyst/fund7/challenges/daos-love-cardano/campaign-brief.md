@@ -3,6 +3,7 @@ title: "DAOs ❤ Cardano"
 linkTitle: "DAOs ❤ Cardano"
 type: docs
 hide_feedback: true
+description: "How can we make Cardano the go-to choice for DAOs to manage themselves?"
 ---
 How can we make Cardano the go-to choice for DAOs to manage themselves?
 

@@ -3,6 +3,7 @@ title: "Connecting Japan/日本 Community"
 linkTitle: "Connecting Japan/日本 Community"
 type: docs
 hide_feedback: true
+description: "How can we increase meaningful participation among the community in the next 6 months?"
 ---
 How can we help the Japanese community to adopt Cardano and connect with the Catalyst community?
 Fund Size: **$50,000 USD paid in Ada**

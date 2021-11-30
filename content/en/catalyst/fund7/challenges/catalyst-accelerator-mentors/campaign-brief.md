@@ -3,6 +3,7 @@ title: " Catalyst Accelerator & Mentors"
 linkTitle: " Catalyst Accelerator & Mentors"
 type: docs
 hide_feedback: true
+description: "How can Catalyst harness professional firepower to bootstrap an accelerator environment that amplifies and commercializes funded projects?"
 ---
 How can Catalyst harness professional firepower to bootstrap an accelerator environment that amplifies and commercializes funded projects?
 

@@ -3,6 +3,7 @@ title: "Catalyst - Rapid Funding Mechanisms"
 linkTitle: "Catalyst - Rapid Funding Mechanisms"
 type: docs
 hide_feedback: true
+description: "How can we distribute Cardano treasury funds more rapidly in a transparent, accountable, and safe manner?"
 ---
 How can we distribute Cardano treasury funds more rapidly in a transparent, accountable, and safe manner?
 

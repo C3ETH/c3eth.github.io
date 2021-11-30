@@ -3,6 +3,7 @@ title: "Improve and Grow Auditability"
 linkTitle: "Improve and Grow Auditability"
 type: docs
 hide_feedback: true
+description: "How to make the auditing process of funded proposals efficient, distributed and transparent?"
 ---
 How to make the auditing process of funded proposals efficient, distributed and transparent?
 

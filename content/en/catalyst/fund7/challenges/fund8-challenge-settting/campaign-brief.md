@@ -3,6 +3,7 @@ title: "Fund8 challenge setting"
 linkTitle: "Fund8 challenge setting"
 type: docs
 hide_feedback: true
+description: "What Challenges should the community prioritize to address in Fund8?"
 ---
 What Challenges should the community prioritize to address in Fund8?
 

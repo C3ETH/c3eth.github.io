@@ -3,6 +3,7 @@ title: "Disarm cyber disinformation attacks"
 linkTitle: "Disarm cyber disinformation attacks"
 type: docs
 hide_feedback: true
+description: "How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?"
 ---
 How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?
 

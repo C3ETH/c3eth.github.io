@@ -3,6 +3,7 @@ title: "Boosting Cardano's DeFi"
 linkTitle: "Boosting Cardano's DeFi"
 type: docs
 hide_feedback: true
+description: "How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?"
 ---
 How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
 

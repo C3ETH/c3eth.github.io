@@ -3,6 +3,7 @@ title: "Open Source Developer Ecosystem"
 linkTitle: "Open Source Developer Ecosystem"
 type: docs
 hide_feedback: true
+description: "How can we ensure that the cardano ecosystem is build on a framework which is owned by the community and equally accessible to all?"
 ---
 How can we ensure that the cardano ecosystem is build on a framework which is owned by the community and equally accessible to all?
 

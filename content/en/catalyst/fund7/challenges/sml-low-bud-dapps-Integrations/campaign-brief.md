@@ -3,6 +3,7 @@ title: "Mini/Low-Budget Dapps & Integrations"
 linkTitle: "Mini/Low-Budget Dapps & Integrations"
 type: docs
 hide_feedback: true
+description: "What Low Budget / Mini Decentralized Applications will provide the most value for end users in the next 3 months?"
 ---
 What Low Budget / Mini Decentralized Applications will provide the most value for end users in the next 3 months?
 

@@ -3,6 +3,7 @@ title: "Nation Building Dapps"
 linkTitle: "Nation Building Dapps"
 type: docs
 hide_feedback: true
+description: "What core Dapp solutions can be provided for widespread governments adoption in the developing world?"
 ---
 What core Dapp solutions can be provided for widespread governments adoption in the developing world?
 

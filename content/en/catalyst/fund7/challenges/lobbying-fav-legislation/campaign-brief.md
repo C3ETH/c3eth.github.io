@@ -3,6 +3,7 @@ title: "Lobbying for favorable legislation"
 linkTitle: "Lobbying for favorable legislation"
 type: docs
 hide_feedback: true
+description: "How can we defend ourselves from attacks by authoritarian governments and compromising legislation and unfair tax policies?"
 ---
 How can we defend ourselves from attacks by authoritarian governments and compromising legislation and unfair tax policies?
 
