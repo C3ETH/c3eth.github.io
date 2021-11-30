@@ -1,16 +1,12 @@
 ---
-name: "Document Translation"
-about: Translate a document, page, or blog post into the core languages of the Eastern Townhall.
+name: Document Translation General
+about: Translate a document, page, or blog post into the core languages of the Eastern
+  Townhall.
 title: ":globe_with_meridians: Document translation of <DOCUMENT TITLE>"
-labels: Translation, Japanese, Indonesian, Korean, Vietnamese, English
-assignees:
-  - haskellcoding29
-  - cardanoz
-  - andreassosilo
-  - YanTirta
-  - Mietran0407
-  - tienna
-  - zicozibu
+labels: English, Indonesian, Japanese, Korean, Translation, Vietnamese
+assignees: andreassosilo, cardanoz, haskellcoding29, Mietran0407, tienna, YanTirta,
+  zicozibu
+
 ---
 
 The page [DOCUMENT TITLE](<c3eth website link>) is up and needs to be translated. Can you please translate it into your language for us. 

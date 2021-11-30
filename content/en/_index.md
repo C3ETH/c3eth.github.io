@@ -18,7 +18,7 @@ linkTitle: Cardano Catalyst Community Eastern Town Hall
     <div class="row p-0">
       <div class="col-lg-6 mb-5 mb-lg-0">
         <div class="text-left">
-          <p class="h3 text-dark d-inline">Cardano is a global decentralised open-source </p>
+          <p class="h3 text-dark d-inline">Cardano is a global decentralised open-source</p>
           <p class="h3 text-light d-inline">Proof-of-Stake blockchain</p>
           <p class="h3 text-dark d-inline">network, allowing people all over the world to </p>
           <p class="h3 text-light d-inline">cooperate, collaborate, propose, fund, and deploy </p>
