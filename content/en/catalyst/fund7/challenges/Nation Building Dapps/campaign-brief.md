@@ -21,7 +21,6 @@ It is further advised Proposers to obtain a knowledge base over research done in
 
 [Introduction video](https://archive.org/details/Hernando_De_Soto_The_Mystery_Of_Capital_Why_Capitalism_TriumphsIn_The_West_And_Fails_Everywhere_Else)
 
-https://archive.org/details/Hernando_De_Soto_The_Mystery_Of_Capital_Why_Capitalism_TriumphsIn_The_West_And_Fails_Everywhere_Else
 
 ## Why is it Important?
 For the poor nations with no foundations to stand on, Government Dapp solutions will be the building blocks enabling sustainable prosperity
