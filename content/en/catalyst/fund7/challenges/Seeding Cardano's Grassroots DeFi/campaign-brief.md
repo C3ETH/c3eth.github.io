@@ -25,7 +25,7 @@ The DeFi ecosystem today is taken over by projects full of vulnerabilities, hack
 
 It has become clear over the year that bugs, hacks and vulnerabilities are not unique to smart contracts on Ethereum. Dapps running on Binance Smart Chain and Cosmos suffered from vulnerabilities as well.
 
-https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains
+- [Hackers stole at least $600M in Poly exploit across three chains](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
 
 https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix
 
