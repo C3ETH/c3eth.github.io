@@ -5,6 +5,7 @@ type: docs
 hide_feedback: true
 ---
 What Low Budget / Mini Decentralized Applications will provide the most value for end users in the next 3 months?
+
 Fund Size: **$200,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26250) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified).
