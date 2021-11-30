@@ -6,7 +6,7 @@ hide_feedback: true
 ---
 How can we increase meaningful participation among the community in the next 6 months?
 
-Fund Size: **$500,000 USD paid in Ada**
+Fund Size: **$200,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified).
 
