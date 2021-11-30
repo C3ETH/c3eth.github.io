@@ -1,6 +1,6 @@
 ---
 title: "Boosting Cardano's DeFi"
-linkTitle: " Boosting Cardano's DeFi"
+linkTitle: "Boosting Cardano's DeFi"
 type: docs
 hide_feedback: true
 ---
