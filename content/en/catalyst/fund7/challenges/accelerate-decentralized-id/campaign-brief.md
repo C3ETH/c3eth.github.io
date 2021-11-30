@@ -6,7 +6,7 @@ hide_feedback: true
 description: >
 What solutions can we develop and implement with Atala PRISM and Cardano today to have the most positive impact and open up opportunities for the rapid growth of the Cardano network?
 ---
-What solutions can we develop and implement with Atala PRISM and Cardano today to have the most positive impact and open up opportunities for rapid growth of the Cardano network
+What solutions can we develop and implement with Atala PRISM and Cardano today to have the most positive impact and open up opportunities for the rapid growth of the Cardano network?
 
 Fund Size: **$425,000 USD paid in Ada**
 
