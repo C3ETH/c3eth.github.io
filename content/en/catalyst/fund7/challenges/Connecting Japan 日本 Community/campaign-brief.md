@@ -7,7 +7,7 @@ hide_feedback: true
 How can we help the Japanese community to adopt Cardano and connect with the Catalyst community?
 Fund Size: **$50,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26238) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26238/stage/unspecified).
 
 ## Campaign Brief
 The goal of this challenge is to find ways to further engage the Japanese community and to help create ways for the Japanese and English speaking community to connect. Proposers are encouraged to propose in Japanese and the Challenge team will help promote the CA role in the Eastern Town hall or equivalent event.
