@@ -21,7 +21,7 @@ Lobby and educate rational politicians so that it becomes possible to plead for 
 
 In August 2021, the US Senate voted for unforgiving legislation on the crypto ecosystem. We have few voices to defend the our community in the political class. Initiatives like the Coin Center are important to defend our community. How can we defend ourselves from attacks by authoritarian governments and compromising legislation?
 
-https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what
+- [Cryptocurrency Lost Big In Senate Infrastructure Bill Provision. Now What?](https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what)
 
 ## why is it Important?
 So that we have favorable legislation, privacy, tax reduction and a positive environment for mass adoption of cryptocurrencies.
