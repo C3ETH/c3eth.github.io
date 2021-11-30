@@ -23,7 +23,7 @@ These DDoT attack scenarios may emerge as a combined outside/inside attack and s
 
 "Right now everybody is implicitly assuming that the only possible victim is an election," says David Perlman, a former Twitter Inc. data scientist who is now developing ways for corporations to counter disinformation at the computer security company Leviathan Security Group Inc. "There's no reason that a company couldn't be a victim," he says.*
 
-https://www.wsj.com/articles/brands-face-a-new-online-threat-disinformation-attacks-11602187365
+- [Brands Face a New Online Threat: Disinformation Attacks](https://www.wsj.com/articles/brands-face-a-new-online-threat-disinformation-attacks-11602187365)
 
 A bad faith player may secretly prepare for this scenario out of particular interests that are not publicly visible initially. This can be done with the help of some major holders/exchanges/rival coins/investors and/or media personalities.
 
