@@ -36,7 +36,7 @@ The proposal should consider setting aside funds for legal expenses to establish
 
 ##### Patterns of Commoning
 
-We draw inspiration from the work of the Trust Over IP Foundation and the principles from 'Patterns of Commoning.' We see the potential for innovation by linking communities with shared interests under these principles.
+We draw inspiration from the work of the [Trust Over IP Foundation](https://wiki.trustoverip.org/display/HOME/YOMA+Ecosystem+Task+Force) and the principles from 'Patterns of Commoning.' We see the potential for innovation by linking communities with shared interests under these principles.
 
 How can these principles become plug-and-play code as technological primitives that other communities can leverage and unlock exponential growth and adoption?
 
