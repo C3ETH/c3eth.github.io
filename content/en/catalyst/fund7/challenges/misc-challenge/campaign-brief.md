@@ -7,7 +7,7 @@ description: "How do we create a space for ideas and projects that do not fit an
 ---
 Fund Size: **$200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26248) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26248) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Miscellaneous-Challenge) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/miscellaneous-challenges)
 
 ## Campaign Brief
 This challenge is designed to capture interesting and valuable projects that do not currently fit into other challenges.

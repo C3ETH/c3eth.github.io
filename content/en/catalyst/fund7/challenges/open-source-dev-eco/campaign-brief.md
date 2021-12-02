@@ -7,7 +7,7 @@ description: "How can we ensure that the cardano ecosystem is build on a framewo
 ---
 Fund Size: **$200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26251) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26251/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26251) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26251/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Open-Source-Developer-Ecosystem) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/open-source-developer-ecosystem)
 
 ## Campaign Brief
 This challenges aims too support the development of common tools needed for projects to make use of the cardano blockchain.

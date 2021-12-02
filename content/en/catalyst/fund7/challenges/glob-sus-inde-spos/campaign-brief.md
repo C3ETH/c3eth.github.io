@@ -7,7 +7,7 @@ description: "How can we promote a decentralised, globally distributed and susta
 ---
 Fund Size: **$100,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
 
 ## Campaign Brief
 Security of the network relies on a decentralised pool of SPO's to run it. Without proper support, smaller SPO's will struggle against big players moving in and pushing them out untill they have a majority market share. If these organizations use the same hosting providers for all their infrastructure, this adds additional risk.

@@ -7,8 +7,7 @@ description: "What will drive mass-scale adoption of decentralized IDs on Cardan
 ---
 Fund Size: **$100,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26256) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified).
-
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26256) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified)
 ## Campaign Brief
 
 COTI has developed, together with a very productive and successful partnership with Cardano, a very user-friendly and scalable ADA payment solution for the community. As a result, different online merchants, from a small hotel in Europe to a big e-commerce website in Asia, can easily accept hundreds or thousands of ADA transactions when integrating ADA Pay into their site.

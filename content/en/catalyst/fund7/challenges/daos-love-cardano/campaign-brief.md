@@ -7,7 +7,7 @@ description: "How can we make Cardano the go-to choice for DAOs to manage themse
 ---
 Fund Size: **$500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26237) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26237) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 
 ## Campaign Brief
 Currently if a DAO (even one that is aimed to build products and services around Cardano) wants to setup their DAO infrastructure, the current options are all based on, mostly, the Ethereum blockchain.
