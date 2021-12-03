@@ -7,7 +7,7 @@ description: "What Challenges should the community prioritize to address in Fund
 ---
 Fund Size: **$12,800,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26257) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26257) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting)
 
 ## Campaign Brief
 Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano's mission.

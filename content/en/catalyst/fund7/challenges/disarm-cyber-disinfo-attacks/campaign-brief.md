@@ -7,7 +7,7 @@ description: "How can we prevent attempts to destabilize Cardano through Distrib
 ---
 Fund Size: **$100,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26239) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26239) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Disarm-cyber-disinformation-attacks) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/disarm-cyber-disinformation-attacks)
 
 ## Campaign Brief
 In a proof of stake system with distributed governance a common understanding of truth and reliance on authentic sources of correct and provable information can be crucial for avoiding a splitting of the community into two or more feuding camps.

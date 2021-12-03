@@ -7,7 +7,7 @@ description: "What core Dapp solutions can be provided for widespread government
 ---
 Fund Size: **$600,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26249) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26249/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26249) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26249/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Nation-Building-Dapps) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/nation-building-dapps)
 
 ## Campaign Brief
 Dapp proposals should cover foundational Registry solutions, namely:

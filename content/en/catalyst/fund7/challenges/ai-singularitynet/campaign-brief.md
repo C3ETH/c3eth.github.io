@@ -7,7 +7,7 @@ description: "How can we create a mutually beneficial partnership with Singulari
 ---
 Fund Size: **$500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26247) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26247) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market)
 
 ## Campaign Brief
 Artificial Intelligence will be a driving force this century. It will be at least as big as cryptocurrencies and blockchains.

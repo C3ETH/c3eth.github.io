@@ -7,7 +7,7 @@ description: "How can we defend ourselves from attacks by authoritarian governme
 ---
 Fund Size: **$75,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26235) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26235/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26235) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26235/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Lobbying-for-favourable-legislation) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/lobbying-for-favourable-legislation)
 
 ## Campaign Brief
 The idea behind this challenge is to fund specialists in regulation, lawyers and politicians who can promote the creation of an environment of laws that are more favorable or less harmful to the crypto space, with a focus on PoS and on Cardano's particularities.

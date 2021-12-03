@@ -7,7 +7,8 @@ description: "How can we increase meaningful participation among the community i
 ---
 Fund Size: **$200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Community-Events) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/community-events)
+
 
 ## Campaign Brief
 

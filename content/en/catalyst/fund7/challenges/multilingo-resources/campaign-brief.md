@@ -7,7 +7,7 @@ description: "How can we motivate non english speakers to learn and grow Cardano
 ---
 Fund Size: **$100,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26252) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26252/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26252) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26252/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Multilingual-resources) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/multilingual-resources)
 
 ## Campaign Brief
 The English language could be a barrier for a lot of people around the world when they try to learn about Cardano and blockchain technology.

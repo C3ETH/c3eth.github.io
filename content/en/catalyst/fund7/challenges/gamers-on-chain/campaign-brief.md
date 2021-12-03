@@ -7,7 +7,7 @@ description: "What Blockchain gaming applications should be developed to achieve
 ---
 Fund Size: **$250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26241) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26241/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26241) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26241/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Gamers-On-Chained) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/gamers-on-chained)
 
 ## Campaign Brief
 We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.

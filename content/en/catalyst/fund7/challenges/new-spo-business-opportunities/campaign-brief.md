@@ -7,7 +7,7 @@ description: "Stake Pool Operators are a key-success-factor of Cardano. With the
 ---
 Fund Size: **$250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26245) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26245) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-New-SPO-Business-Opportunities) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/new-spo-business-opportunities)
 
 ## Campaign Brief
 Our SPOs are a most-valuable foundation of Cardano. They have invested in important infrastructure and are establishing important capabilities. This is of high value in the still very much hype-driven general Crypto space. With SPOs, the CARDANO Community can get both: Even more decentralization AND stability and professionalism at the same time.

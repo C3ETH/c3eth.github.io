@@ -9,7 +9,7 @@ description: "How do we encourage Local Community Hubs to drive adoption and awa
 
 Fund Size: **$350,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26244) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26244) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Scale-UP-Cardanos-Community-Hubs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/scale-up-cardanos-community-hubs)
 
 ## Campaign Brief
 Out of the world's approximately 7.8 billion inhabitants, 6.45 billion do not speak English.

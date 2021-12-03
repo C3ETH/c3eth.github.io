@@ -7,11 +7,11 @@ description: "What applications will provide the most value for end users in 202
 ---
 Fund Size: **$250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26240) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26240/stage/unspecified).
+[Campaign page](https://github.com/Catalyst-Challenges/F7-DApps-and-Integrations) and [browse ideas](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/dapps-and-integrations).
 
 
 ## Why is it Important?
-Quality Dapps and integrations will increase utility & adoption of Cardano.
+Quality Dapps and integrations will increase utility & adoption of Cardano. 
 
 ## How does success look like?
 Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
