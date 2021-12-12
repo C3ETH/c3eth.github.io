@@ -3,7 +3,7 @@ title: 分散型アイデンティティを加速する
 linkTitle: 分散型アイデンティティを加速する
 type: docs
 hide_feedback: 'true'
-description: What solutions can we develop and implement with Atala PRISM and Cardano today to have the most positive impact and open up opportunities for the rapid growth of the Cardano network?
+description: 最もプラスの影響を与え、Cardanoネットワークの急速な成長の機会を開くことができるAtala PRISMとCardanoを使用して開発および実装できるソリューションは何ですか？
 ---
 
 ファンドサイズ： **Adaで支払われた425,000米ドル**
@@ -129,8 +129,8 @@ Cardano分散型インフラストラクチャを活用する能力を解き放�
 - コミュニティメンバーの認識とオンボーディングプロセス
 - 個人の評判を確立する
 - グループ全体としてのコミュニティ外部関係者との相互作用
-- Community member as an individual interaction with an external party
-- Community medium of exchange
+- 外部関係者との個別のやり取りをするコミュニティメンバー
+- 取引所のコミュニティ媒体
 - 外部の信頼レジストリの認識
 - 外部ガバナンスフレームワークの認識
 - 外部関係者によるガバナンスフレームワークの受け入れ
