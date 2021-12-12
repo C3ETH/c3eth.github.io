@@ -7,7 +7,7 @@ description: "What Low Budget / Mini Decentralized Applications will provide the
 ---
 Fund Size: **$200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26250) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26250) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Mini-Low-Budget-Dapps-and-Integrations) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/mini-low-budget-dapps-and-integrations)
 
 ## Campaign Brief
 This challenge is designed to create a parallel challenge for "Dapps and Integrations" reserved to small projects that can deliver finalized products with a limited amount of budget in a short time horizon.

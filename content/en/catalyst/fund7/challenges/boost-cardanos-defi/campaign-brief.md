@@ -7,7 +7,7 @@ description: "How can we encourage DeFi teams to build/deploy open finance solut
 ---
 Fund Size: **$500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26233) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26233) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi)
 
 ## Campaign Brief
 

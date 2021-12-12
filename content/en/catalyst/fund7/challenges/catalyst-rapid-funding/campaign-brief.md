@@ -7,7 +7,8 @@ description: "How can we distribute Cardano treasury funds more rapidly in a tra
 ---
 Fund Size: **$250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26236) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26236) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms)
+
 
 ## Campaign Brief
 Increasing the speed of funding is critically important to allow important projects to move rapidly from volunteers to paid professionals. While volunteerism is strong in our community (and a strength), the ability to pay people for their time will accelerate and dramatically improve the time and energy people will be able to devote to Catalyst.

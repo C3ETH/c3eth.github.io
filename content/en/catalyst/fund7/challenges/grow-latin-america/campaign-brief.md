@@ -7,7 +7,7 @@ description: "How do we grow the Cardano ecosystem in Latin America?"
 ---
 Fund Size: **$500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26242) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified).
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26242) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Grow-Latin-America-Grow-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/grow-latin-america-grow-cardano)
 
 ## Campaign Brief
 As in Africa, raising the awareness levels of regular people in Latin America about blockchain technology and the Cardano protocol should be a priority for the Catalyst community. Providing the funding for those people who learn about our protocol to take advantage of the protocol and the support the community offers seems to be why we work together, doesn't it?
