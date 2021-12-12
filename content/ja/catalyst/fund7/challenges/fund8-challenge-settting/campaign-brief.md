@@ -1,48 +1,48 @@
 ---
-title: Fund8 challenge setting
-linkTitle: Fund8 challenge setting
-type: docs
-hide_feedback: 'true'
-description: What Challenges should the community prioritize to address in Fund8?
+title: Fund8チャレンジ設定
+linkTitle: Fund8チャレンジ設定
+type: ドキュメント
+hide_feedback: NS
+description: Fund8で取り組むためにコミュニティが優先すべき課題は何ですか？
 ---
 
 ファンドサイズ：**&nbsp;ADAで支払われる$ 12,800,000米ドル <br> **
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26257) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting)
 
-## Campaign Brief
+## キャンペーン概要
 
-Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano's mission.
+コミュニティ定義の課題は、カルダノコミュニティの自治にとって重要であり、カルダノの使命を達成するための独自の方法を生み出します。
 
-Challenge setting is different from other challenges as it's about proposing new challenges, whether regular challenges are about proposing initiatives to address challenges.
+課題の設定は、通常の課題が課題に対処するためのイニシアチブを提案することであるかどうかにかかわらず、新しい課題を提案することに関するものであるため、他の課題とは異なります。
 
-Once a proposal is accepted by the community, the proposing team has an opportunity to receive a "Challenge team" incentive of $2,500 worth of ada, if the following conditions are met:
+提案がコミュニティに受け入れられると、次の条件が満たされた場合、提案チームは2,500ドル相当のadaの「チャレンジチーム」インセンティブを受け取る機会があります。
 
-- The challenge team presents the challenge to the community at the start of the following fund.
-- The challenge team facilitates a challenge-focused breakout session in one of the after townhalls.
-- The challenge team leads a challenge retrospective session during the next fund's "retrospective week".
-- The challenge team facilitates a session with the proposing teams that received funding for the challenge.
+- チャレンジチームは、次の基金の開始時にコミュニティにチャレンジを提示します。
+- チャレンジチームは、アフタータウンホールの1つでチャレンジに焦点を当てたブレイクアウトセッションを促進します。
+- チャレンジチームは、次のファンドの「回顧週間」中にチャレンジ回顧セッションを主導します。
+- チャレンジチームは、チャレンジの資金を受け取った提案チームとのセッションを促進します。
 
-The challenge team tracks the key metrics as reported by funded proposals, 3 months after receiving funding and presents their reflection on whether the Challenge is getting addressed and highlight teams that are making significant headway in their approach.
+チャレンジチームは、資金提供を受けてから3か月後に、資金提供された提案によって報告された主要な指標を追跡し、チャレンジが解決されているかどうかについての考察を示し、アプローチで大きな前進を遂げているチームを強調します。
 
-These activities might seem complicated, but you will receive guidelines, training and support from the Catalyst team and community. All you need is a willingness to represent the challenge in a fair and balanced way and a desire to participate. Once the conditions are met, your team will be eligible to receive the reward.
+これらのアクティビティは複雑に見えるかもしれませんが、Catalystチームとコミュニティからガイドライン、トレーニング、サポートを受けられます。必要なのは、公平でバランスの取れた方法で挑戦を表現する意欲と参加したいという願望だけです。条件が満たされると、チームは報酬を受け取る資格があります。
 
-## Guiding Questions
+## ガイドの質問
 
-- What challenges will engage the highest number of voters?
-- Which challenges, if addressed, will provide a springboard for Cardano adoption?
-- Which challenges, if addressed, will advance Cardano's mission?
+- 最も多くの有権者を引き付ける課題は何ですか？
+- 対処した場合、どの課題がカルダノ採用の出発点になりますか？
+- 対処された場合、どの課題がカルダノの使命を前進させるでしょうか？
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-The community votes to include important and engaging challenges that inspire impactful and original proposals.
+コミュニティは、影響力のある独創的な提案を刺激する重要で魅力的な課題を含めることに投票します。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-To assess ROI of this challenge we will ask ourselves:
+この課題のROIを評価するために、次のことを自問します。
 
-- How well did the selected challenges perform in terms of proposal quality and community engagement?
-- What is the average Community Advisor score for the top 10% proposed Challenges?
-- What is the average Community Advisor score for the top 10% proposals generated to address the challenge?
-- How much voter engagement did the challenge generate?
-- How many proposals in the challenge were approved by the community, compared to the overall budget of the challenge? (Challenge overage)
+- 選択した課題は、提案の質とコミュニティの関与の観点からどの程度うまく機能しましたか？
+- 提案された上位10％のチャレンジのコミュニティアドバイザーの平均スコアはどれくらいですか？
+- 課題に対処するために生成された上位10％の提案の平均コミュニティアドバイザースコアはどれくらいですか？
+- チャレンジはどのくらいの投票者の関与を生み出しましたか？
+- チャレンジの全体的な予算と比較して、チャレンジで承認された提案はいくつありますか？ （チャレンジオーバーエイジ）
