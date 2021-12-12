@@ -1,7 +1,7 @@
 ---
-title: Catalyst   - Rapid Funding Mechanisms
-linkTitle: Catalyst   - Rapid Funding Mechanisms
-type: docs
+title: Catalyst-迅速な資金調達メカニズム
+linkTitle: Catalyst-迅速な資金調達メカニズム
+type: ドキュメント
 hide_feedback: 'true'
 description: Cardanoの財務資金を、透明性があり、説明責任があり、安全な方法でより迅速に分配するにはどうすればよいでしょうか。
 ---
@@ -10,24 +10,24 @@ description: Cardanoの財務資金を、透明性があり、説明責任があ
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26236) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms)
 
-## Campaign Brief
+## キャンペーン概要
 
-Increasing the speed of funding is critically important to allow important projects to move rapidly from volunteers to paid professionals. While volunteerism is strong in our community (and a strength), the ability to pay people for their time will accelerate and dramatically improve the time and energy people will be able to devote to Catalyst.
+重要なプロジェクトをボランティアから有給の専門家に迅速に移行させるには、資金調達のスピードを上げることが非常に重要です。ボランティア活動は私たちのコミュニティでは強力ですが（そして強み）、人々に時間の支払いをする能力は加速し、人々がCatalystに費やすことができる時間とエネルギーを劇的に改善します。
 
-We need to explore alternative ways of scaling how we fairly distribute the treasury to grow the Cardano ecosystem. We should be willing to experiment and try different models in parallel and compare and contrast them. Paramount to our success is scaling how our community functions and decides on fair and just allocation of our treasury, measuring its impact, and continuously evolving and improving.
+カルダノの生態系を成長させるために、財務を公平に配分する方法をスケーリングする別の方法を模索する必要があります。さまざまなモデルを並行して実験および試行し、それらを比較および対比することをいとわないはずです。私たちの成功にとって最も重要なのは、私たちのコミュニティがどのように機能するかを拡大し、私たちの財務の公正かつ公正な配分を決定し、その影響を測定し、継続的に進化し、改善することです。
 
-## why is it Important?
+## どうしてそれが重要ですか？
 
-Catalyst relies on continuous work by the community to progress and grow, rapid funding can support a wider array of work and personal needs
+Catalystは、コミュニティによる継続的な作業に依存して進歩と成長を遂げています。迅速な資金提供により、さまざまな作業と個人的なニーズをサポートできます。
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-Implemented rapid Catalyst funding mechanisms that provide sustainable economic value to proposers within Project Catalyst guidelines.
+ProjectCatalystガイドラインの範囲内で提案者に持続可能な経済的価値を提供する迅速なCatalyst資金調達メカニズムを実装しました。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-- Are submitted solutions of funding mechanisms faster than Catalyst?
-- How Scalable is this proposal? How would it scale to 10x? 100x? 1000x? More?
-- How Transparent is this proposal? Is it open, auditable, and enables transparency of decisions, funding, and results?
-- How Accountable is this proposal? What is the reporting requirement? Are funds disbursed over time based on performance?
-- How impactful is this proposal? Are disbursed funds creating net positive results? Does this proposal see a greater return on intent compared to Catalyst?
+- 提出された資金調達メカニズムのソリューションは、Catalystよりも高速ですか？
+- この提案はどの程度スケーラブルですか？ 10倍にどのようにスケーリングしますか？ 100倍？ 1000倍？もっと？
+- この提案はどの程度透明ですか？それはオープンで監査可能であり、意思決定、資金調達、および結果の透明性を可能にしますか？
+- この提案はどの程度説明責任がありますか？レポート要件は何ですか？資金はパフォーマンスに基づいて時間の経過とともに支払われますか？
+- この提案はどの程度影響力がありますか？支払われた資金は正味のプラスの結果を生み出していますか？この提案では、Catalystと比較してより大きな意図の見返りが見られますか？
