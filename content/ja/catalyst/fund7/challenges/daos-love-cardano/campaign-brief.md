@@ -1,7 +1,7 @@
 ---
-title: DAOs ❤ Cardano
-linkTitle: DAOs ❤ Cardano
-type: docs
+title: DAOs❤カルダノ
+linkTitle: DAOs❤カルダノ
+type: ドキュメント
 hide_feedback: 'true'
 description: どうすれば、CardanoがDAO管理の良い選択肢になりますか？
 ---
@@ -10,11 +10,11 @@ description: どうすれば、CardanoがDAO管理の良い選択肢になりま
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26237) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 
-## Campaign Brief
+## キャンペーン概要
 
-Currently if a DAO (even one that is aimed to build products and services around Cardano) wants to setup their DAO infrastructure, the current options are all based on, mostly, the Ethereum blockchain.
+現在、DAO（Cardanoを中心に製品やサービスを構築することを目的としたものでも）がDAOインフラストラクチャをセットアップしたい場合、現在のオプションはすべて、主にイーサリアムブロックチェーンに基づいています。
 
-These dApps range from basic Treasury management, to Decision making in DAOs and even supporting services like Decentralized Justice. Some of them are:
+これらのdAppは、基本的な財務管理から、DAOでの意思決定、さらには分散型正義のようなサポートサービスにまで及びます。それらのいくつかは次のとおりです。
 
 - https://aragon.org
 - https://daostack.io
@@ -23,21 +23,21 @@ These dApps range from basic Treasury management, to Decision making in DAOs and
 - https://abridged.io
 - https://kleros.io
 
-### Cardano needs:
+### カルダノのニーズ：
 
-1. Similar tools to offer competitive alternative to other chains.
-2. Additional not yet existing tools to put the blockchain in an advantage when new DAOs needs to evaluate which chain to use for their platforms.
+1. 他のチェーンに競争力のある代替手段を提供するための同様のツール。
+2. 新しいDAOがプラットフォームに使用するチェーンを評価する必要がある場合に、ブロックチェーンを有利にするための追加のまだ存在しないツール。
 
-## why is it Important?
+## どうしてそれが重要ですか？
 
-Blockchain applications have moved from trading to DeFi, to NFT. DAOs is what follows. Cardano needs to be ready for when that happens.
+ブロックチェーンアプリケーションは、取引からDeFi、NFTに移行しました。 DAOは次のとおりです。カルダノはそれが起こったときに備えておく必要があります。
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-There are more and better solutions to manage your DAO with Cardano than with any other blockchain.
+カルダノを使用してDAOを管理するためのソリューションは、他のどのブロックチェーンよりも多く、優れています。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-- Amount of ADA coming from DAOs transaction fees after the solutions on this challenge get implemented (&gt; than the challenge's allocated fund amount)
-- Number of DAOs that use Cardano as governance/management chain in 6 months.
-- Number of DAO toolset/frameworks available for DAO Ops (&gt;1).
+- このチャレンジのソリューションが実装された後のDAOのトランザクション料金から発生するADAの量（&gt;チャレンジの割り当てられた資金額よりも）
+- 6か月間にCardanoをガバナンス/管理チェーンとして使用するDAOの数。
+- DAO Opsで使用可能なDAOツールセット/フレームワークの数（&gt; 1）。
