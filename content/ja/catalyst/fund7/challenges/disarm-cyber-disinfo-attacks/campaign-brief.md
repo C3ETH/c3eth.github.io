@@ -1,12 +1,12 @@
 ---
 title: サイバー偽情報攻撃を武装解除する
 linkTitle: サイバー偽情報攻撃を武装解除する
-type: ドキュメント
-hide_feedback: NS
+type: docs
+hide_feedback: true
 description: 分散型真実否定（DDoT）攻撃シナリオを通じて、カルダノを不安定化させる試みをどのように防ぐことができますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 100,000 USD <br> **
+ファンドサイズ： **Adaで支払われる$ 100,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26239) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Disarm-cyber-disinformation-attacks) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/disarm-cyber-disinformation-attacks)
 

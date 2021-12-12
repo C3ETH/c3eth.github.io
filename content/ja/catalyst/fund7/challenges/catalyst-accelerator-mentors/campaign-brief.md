@@ -1,12 +1,12 @@
 ---
 title: " Catalystアクセラレータとメンター"
 linkTitle: " Catalystアクセラレータとメンター"
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: Catalystは、資金提供されたプロジェクトを増幅して商業化するアクセラレータ環境をブートストラップするために、プロの力をどのように活用できますか？
 ---
 
-ファンドサイズ：  **&nbsp;Adaで支払われる$ 500,000 USD **
+ファンドサイズ：  **Adaで支払われる$ 500,000 USD**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26255)と[アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26255/stage/unspecified)。
 

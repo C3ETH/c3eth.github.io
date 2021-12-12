@@ -1,12 +1,12 @@
 ---
 title: 日本/日本コミュニティをつなぐ
 linkTitle: 日本コミュニティをつなぐ
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 今後6か月で、コミュニティの有意義な参加をどのように増やすことができますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 50,000 USD <br> **
+ファンドサイズ： **Adaで支払われる$ 50,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26238) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26238/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Connecting-Japan-Community) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 

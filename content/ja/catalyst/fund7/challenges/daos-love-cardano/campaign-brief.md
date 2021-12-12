@@ -1,12 +1,12 @@
 ---
 title: DAOs❤カルダノ
 linkTitle: DAOs❤カルダノ
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: どうすれば、CardanoがDAO管理の良い選択肢になりますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 500,000 USD <br> **
+ファンドサイズ： **Adaで支払われる$ 500,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26237) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 

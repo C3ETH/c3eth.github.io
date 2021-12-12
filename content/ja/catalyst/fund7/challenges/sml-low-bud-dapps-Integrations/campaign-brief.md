@@ -1,12 +1,12 @@
 ---
 title: ミニ/低予算のDappsと統合
 linkTitle: ミニ/低予算のDappsと統合
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 今後3か月でエンドユーザーに最大の価値を提供する低予算/ミニ分散型アプリケーションはどれですか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 200,000  USD **
+ファンドサイズ： **Adaで支払われる$ 200,000  USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26250) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Mini-Low-Budget-Dapps-and-Integrations) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/mini-low-budget-dapps-and-integrations)
 

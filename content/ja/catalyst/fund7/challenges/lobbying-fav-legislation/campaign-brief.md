@@ -1,12 +1,12 @@
 ---
 title: 有利な立法のためのロビー活動
 linkTitle: 有利な立法のためのロビー活動
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 権威主義的な政府による攻撃や、立法や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。
 ---
 
-ファンドサイズ：**&nbsp;ADAで支払われる75,000米ドル **
+ファンドサイズ：**ADAで支払われる75,000米ドル**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26235) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26235/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Lobbying-for-favourable-legislation) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/lobbying-for-favourable-legislation)
 

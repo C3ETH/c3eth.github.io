@@ -1,12 +1,12 @@
 ---
 title: Catalyst Natives COTI：ADAプラグイン支払
 linkTitle: " Catalyst Natives COTI：ADAプラグインで支払う"
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: ShopifyやWooCommerceなどのストアに簡単に統合できるADAPayAPIを使用してADA支払いプラグインを作成します
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 100,000 USD **
+ファンドサイズ： **Adaで支払われる$ 100,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26256) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified)
 

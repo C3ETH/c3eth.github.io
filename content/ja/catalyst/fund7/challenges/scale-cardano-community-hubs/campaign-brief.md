@@ -1,14 +1,14 @@
 ---
 title: スケールアップCardanoのコミュニティハブ
 linkTitle: スケールアップCardanoのコミュニティハブ
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 今後6か月でCardanoの採用と認識を促進するようにローカルコミュニティハブをどのように奨励しますか？
 ---
 
 {{&lt;youtubenJkH2MtPhX8&gt;}}
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 350,000  USD **
+ファンドサイズ： **Adaで支払われる$ 350,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26244) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Scale-UP-Cardanos-Community-Hubs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/scale-up-cardanos-community-hubs)
 

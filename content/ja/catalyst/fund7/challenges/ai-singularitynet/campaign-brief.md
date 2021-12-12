@@ -1,8 +1,8 @@
 ---
 title: A.I. ＆SingularityNetは$ 5Tの市場
 linkTitle: A.I. ＆SingularityNetは$ 5Tの市場
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: SingularityNetや他のA.Iの開発者と研究者と相互に有益なパートナーシップを構築するにはどうすればよいですか？
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: 新しいSPOビジネスチャンス
 linkTitle: 新しいSPOビジネスチャンス
-type: ドキュメント
-hide_feedback: NS
+type: docs
+hide_feedback: true
 description: ステークプールオペレーターは、Cardanoの重要な成功要因です。それらのインフラストラクチャと機能により、重要な新しいサービスを作成できます
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 250,000  USD **<br>
+ファンドサイズ： **Adaで支払われる$ 250,000  USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26245) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-New-SPO-Business-Opportunities) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/new-spo-business-opportunities)
 

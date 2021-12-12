@@ -1,12 +1,12 @@
 ---
 title: ラテンアメリカを育て、Cardanoを育てる
 linkTitle: ラテンアメリカを育て、カルダノを育てる
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: ラテンアメリカでCardanoエコシステムをどのように成長させますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 500,000 USD **
+ファンドサイズ： **Adaで支払われる$ 500,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26242) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Grow-Latin-America-Grow-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/grow-latin-america-grow-cardano)
 

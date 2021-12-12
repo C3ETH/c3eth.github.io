@@ -1,12 +1,12 @@
 ---
 title: Catalyst-迅速な資金調達メカニズム
 linkTitle: Catalyst-迅速な資金調達メカニズム
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: Cardanoの財務資金を、透明性があり、説明責任があり、安全な方法でより迅速に分配するにはどうすればよいでしょうか。
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 250,000 USD **
+ファンドサイズ： **Adaで支払われる$ 250,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26236) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms)
 

@@ -1,12 +1,12 @@
 ---
 title: 監査可能性の向上と成長
 linkTitle: 監査可能性の向上と成長
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 100,000  USD**
+ファンドサイズ： **Adaで支払われる$ 100,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26253) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Improve-and-Grow-Auditability) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/improve-and-grow-auditability)
 

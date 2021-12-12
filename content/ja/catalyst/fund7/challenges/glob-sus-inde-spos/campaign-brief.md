@@ -1,12 +1,12 @@
 ---
 title: SPOのグローバルな持続可能な独立
 linkTitle: SPOのグローバルな持続可能な独立
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: カルダノネットワークを運営するために、分散型でグローバルに分散された持続可能なオペレーターのプールをどのように促進できますか
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 100,000  USD **
+ファンドサイズ： **Adaで支払われる$ 100,000  USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
 

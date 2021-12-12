@@ -1,12 +1,12 @@
 ---
 title: 国家建設のためのDapps
 linkTitle: 国家建設のためのDapps
-type: ドキュメント
-hide_feedback: NS
+type: docs
+hide_feedback: true
 description: 発展途上国で政府が広く採用するために提供できるコアDappソリューションは何ですか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 600,000  USD **
+ファンドサイズ： **Adaで支払われる$ 600,000  USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26249) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26249/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Nation-Building-Dapps) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/nation-building-dapps)
 

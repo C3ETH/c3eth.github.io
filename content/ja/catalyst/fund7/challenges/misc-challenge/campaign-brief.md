@@ -1,12 +1,12 @@
 ---
 title: その他の課題
 linkTitle: その他の課題
-type: ドキュメント
-hide_feedback: NS
+type: docs
+hide_feedback: true
 description: 他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 200,000  USD **<br>
+ファンドサイズ： **Adaで支払われる$ 200,000  USD **
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26248) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Miscellaneous-Challenge) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/miscellaneous-challenges)
 

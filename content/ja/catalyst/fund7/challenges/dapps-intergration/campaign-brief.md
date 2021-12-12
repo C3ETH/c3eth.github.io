@@ -1,12 +1,12 @@
 ---
 title: DApps-統合
 linkTitle: DApps-統合
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 250,000 USD <br> **
+ファンドサイズ： **Adaで支払われる$ 250,000 USD**
 
 [Campaign page](https://github.com/Catalyst-Challenges/F7-DApps-and-Integrations) and [browse ideas](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/dapps-and-integrations).
 

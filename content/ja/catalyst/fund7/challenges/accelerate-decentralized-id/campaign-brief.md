@@ -2,7 +2,7 @@
 title: 分散型アイデンティティを加速する
 linkTitle: 分散型アイデンティティを加速する
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 description: 最もプラスの影響を与え、Cardanoネットワークの急速な成長の機会を開くことができるAtala PRISMとCardanoを使用して開発および実装できるソリューションは何ですか？
 ---
 

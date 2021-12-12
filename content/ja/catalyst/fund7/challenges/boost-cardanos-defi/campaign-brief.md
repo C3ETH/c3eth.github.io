@@ -1,8 +1,8 @@
 ---
 title: CardanoのDeFiを後押し
 linkTitle: CardanoのDeFiを後押し
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: DeFiチームが今後6か月以内にCardanoでオープンファイナンスソリューションを構築/展開するようにどのように奨励できますか？
 ---
 

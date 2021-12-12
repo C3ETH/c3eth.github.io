@@ -1,12 +1,12 @@
 ---
 title: ゲーマーオンチェーン
 linkTitle: ゲーマーオンチェーン
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 250,000 米ドル <br> **
+ファンドサイズ： **Adaで支払われる$ 250,000 米ドル**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26241) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26241/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Gamers-On-Chained) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/gamers-on-chained)
 

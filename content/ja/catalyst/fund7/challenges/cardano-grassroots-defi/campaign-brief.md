@@ -1,12 +1,12 @@
 ---
 title: Cardanoの草の根DeFiのシード
 linkTitle: Cardanoの草の根DeFiのシード
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 新しいチームにカルダノにDefiソリューションを展開するように促すにはどうすればよいですか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 200,000 USD **
+ファンドサイズ： **Adaで支払われる$ 200,000 USD**
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26243)と[アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26243/stage/unspecified)。
 

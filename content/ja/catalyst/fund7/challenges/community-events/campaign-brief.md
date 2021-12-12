@@ -1,12 +1,12 @@
 ---
 title: コミュニティイベント
 linkTitle: コミュニティイベント
-type: ドキュメント
-hide_feedback: 'true'
+type: docs
+hide_feedback: true
 description: 今後6か月で、コミュニティの有意義な参加をどのように増やすことができますか？
 ---
 
-ファンドサイズ： **&nbsp;Adaで支払われる$ 200,000 USD **
+ファンドサイズ： **Adaで支払われる$ 200,000 USD**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Community-Events) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/community-events)
 

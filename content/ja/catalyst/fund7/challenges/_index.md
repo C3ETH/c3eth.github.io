@@ -3,7 +3,7 @@ title: Fund 7 Challenges
 linkTitle: Challenges
 type: docs
 weight: '100'
-hide_feedback: 'true'
+hide_feedback: true
 icon: fas fa-tools
 description: |2-
 
