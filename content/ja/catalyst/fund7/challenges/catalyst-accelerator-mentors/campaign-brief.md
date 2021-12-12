@@ -1,43 +1,43 @@
 ---
-title: " Catalyst Accelerator & Mentors"
-linkTitle: " Catalyst Accelerator & Mentors"
-type: docs
+title: " Catalystアクセラレータとメンター"
+linkTitle: " Catalystアクセラレータとメンター"
+type: ドキュメント
 hide_feedback: 'true'
 description: Catalystは、資金提供されたプロジェクトを増幅して商業化するアクセラレータ環境をブートストラップするために、プロの力をどのように活用できますか？
 ---
 
 ファンドサイズ：  **&nbsp;Adaで支払われる$ 500,000 USD **
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26255) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26255/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26255)と[アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26255/stage/unspecified)。
 
-## Campaign Brief
+## キャンペーン概要
 
-Startup innovation and co-creation is the lifeblood of Cardano. Many early stage ventures are now launching into the Cardano ecosystem and Catalyst wants to fuel many pioneering successes.
+スタートアップの革新と共創は、カルダノの生命線です。現在、多くの初期段階のベンチャーがカルダノエコシステムに参入しており、Catalystは多くの先駆的な成功を後押ししたいと考えています。
 
-More needs to be done to accelerate best of breed Catalyst-funded projects by providing pathways into professional business support, investment, and mentoring programmes.
+専門的なビジネスサポート、投資、およびメンタリングプログラムへの経路を提供することにより、Catalystが資金提供する最高のプロジェクトを加速するために、さらに多くのことを行う必要があります。
 
-This is important to Catalyst because great ideas need to be nurtured and small teams need access to timely expertise and tools beyond those that they have in-house.
+これはCatalystにとって重要です。優れたアイデアを育む必要があり、小規模なチームは社内にあるものを超えたタイムリーな専門知識とツールにアクセスする必要があるからです。
 
-This challenge seeks professional-grade Accelerator programmes and Business Incubators to step up, co-develop, and deliver venture building programmes with Catalyst. The objective is to help catalyse early successes of Catalyst-funded projects and turn them into highly investable ventures. This helps projects funded by the community to get a fast track to resources and expertise that will help teams build invaluable know-how and strategy by plugging gaps in their current capabilities.
+この課題は、Catalystを使用してベンチャー構築プログラムを強化、共同開発、および提供するためのプロフェッショナルグレードのアクセラレータープログラムとビジネスインキュベーターを求めています。目的は、Catalystが資金提供するプロジェクトの初期の成功を促進し、それらを投資性の高いベンチャーに変えることです。これは、コミュニティによって資金提供されたプロジェクトが、チームが現在の機能のギャップを埋めることによって貴重なノウハウと戦略を構築するのに役立つリソースと専門知識への迅速な追跡を取得するのに役立ちます。
 
-Key to this challenge is the alignment of the proposal to the challenge? And how will success be measured during the scope of the project and beyond?
+この課題の鍵は、提案と課題の整合性です。そして、プロジェクトの範囲内およびそれ以降の成功はどのように測定されますか？
 
-Proposers should give strong consideration to providing evidence of their experience and history of success and also provide Catalyst voters and reviewers supporting information about the project's operational approach to delivering the objectives previously stated. The more detail the better.
+提案者は、彼らの経験と成功の歴史の証拠を提供することを強く考慮し、また、前述の目的を達成するためのプロジェクトの運用アプローチに関する情報をサポートするCatalystの有権者とレビューアを提供する必要があります。詳細が多いほど良いです。
 
 この課題に対処する多くの提案がFund7で資金提供されることを期待しており、コミュニティがポートフォリオアプローチを採用して、世界のさまざまな地域からプロジェクトを選択したり、カルダノベースのプロジェクトの採用に関連するさまざまなテーマを採用したりすることを望んでいます。
 
-## why is it Important?
+## どうしてそれが重要ですか？
 
 知識は力であり、プロジェクトがプロのメンターとサポーターの分散ネットワークを利用できるようにすることで、ベンチャーはより強く、より速く成長することができます。 Catalystは、ビジネスのインキュベーションと加速の実績を持つ組織やグループに適用したいと考えています。
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-- Access to financial, human, and intellectual capital to fuel the success of Catalyst-funded projects
-- Programmes that share in the spirit of co-creation, willing to collaborate with us at Catalyst, Cardano stakeholders, and the Catalyst cohorts.
+- Catalystが資金提供するプロジェクトの成功を促進するための、財政的、人的、および知的資本へのアクセス
+- 共創の精神を共有し、Catalyst、Cardanoの利害関係者、およびCatalystコホートで私たちと協力してくれるプログラム。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-- Number of projects that can be accelerated in the scope of the funding
-- Number of mentors and investors that can be onboarded into the ecosystem
-- Distribution of programmes across the world to serve different audiences
-- Quality and strength of opportunities that each accelerator programme brings
+- 資金提供の範囲内で加速できるプロジェクトの数
+- エコシステムに参加できるメンターと投資家の数
+- さまざまな視聴者にサービスを提供するためのプログラムの世界中への配布
+- 各アクセラレータプログラムがもたらす機会の質と強さ
