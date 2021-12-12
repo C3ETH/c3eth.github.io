@@ -1,63 +1,63 @@
 ---
-title: Community Events
-linkTitle: Community Events
-type: docs
+title: コミュニティイベント
+linkTitle: コミュニティイベント
+type: ドキュメント
 hide_feedback: 'true'
-description: How can we increase meaningful participation among the community in the next 6 months?
+description: 今後6か月で、コミュニティの有意義な参加をどのように増やすことができますか？
 ---
 
 ファンドサイズ： **&nbsp;Adaで支払われる$ 200,000 USD **
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Community-Events) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/community-events)
 
-## Campaign Brief
+## キャンペーン概要
 
-There are already many community-driven events taking place in the wider Catalyst community and this challenge will ensure that these efforts remain sustainable. Since most of the fund distribution for Fund 7 is decided by the community, we as a community have to create this challenge for ourselves.
+より広いCatalystコミュニティでは、すでに多くのコミュニティ主導のイベントが行われており、この課題により、これらの取り組みが持続可能であり続けることが保証されます。ファンド7の資金配分のほとんどはコミュニティによって決定されるため、コミュニティとしての私たち自身がこの課題を作成する必要があります。
 
-These events are important and critical for the success of Catalyst because they are bringing the community together and they introduce and onboard new people to our ecosystem. Furthermore the community has used these sessions for collaborative problems sensing and also new teams and initiatives were established. Overall, community events give our community its face and personal touch.
+これらのイベントは、コミュニティをまとめ、新しい人々を私たちのエコシステムに紹介し、参加させるため、Catalystの成功にとって重要かつ重要です。さらに、コミュニティはこれらのセッションを共同の問題検知に使用し、新しいチームとイニシアチブが確立されました。全体として、コミュニティイベントは、私たちのコミュニティにその顔と個人的なタッチを与えます。
 
-## Guiding Questions
+## ガイドの質問
 
-- How can we increase meaningful participation in Project Catalyst among all stakeholders?
-- How can we increase voter-proposer interaction?
-- How can we onboard and integrate new people into Project Catalyst?
-- How can we use events to build new teams?
-- How can workshops increase collaboration in Project Catalyst?
-- How can active participation in events be increased?
-- How can the number of participants in events be increased? -How can events help keep the community together?
+- すべての利害関係者の間でProjectCatalystへの有意義な参加をどのように増やすことができますか？
+- どうすれば有権者と提案者の相互作用を増やすことができますか？
+- どうすれば新しい人をProjectCatalystに参加させて統合できますか？
+- イベントを使用して新しいチームを構築するにはどうすればよいですか？
+- ワークショップはどのようにしてProjectCatalystのコラボレーションを強化できますか？
+- イベントへの積極的な参加をどのように増やすことができますか？
+- イベントの参加者数を増やすにはどうすればよいですか？ -イベントはどのようにコミュニティをまとめるのに役立ちますか？
 
-## why is it Important?
+## どうしてそれが重要ですか？
 
-Community-driven projects like Catalyst need organized events to connect, discuss ideas, solve problems together and initiate collaboration.
+Catalystのようなコミュニティ主導のプロジェクトでは、つながり、アイデアについて話し合い、問題を一緒に解決し、コラボレーションを開始するための組織的なイベントが必要です。
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-A diverse community characterized by high engagement, collaborative problem sensing and strong execution teams.
+高い関与、協調的な問題検知、強力な実行チームを特徴とする多様なコミュニティ。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-Increase active participation in Project Catalyst among all stakeholders:
+すべての利害関係者の間でProjectCatalystへの積極的な参加を増やします。
 
-### Proposers
+### 提案者
 
-- Number of proposals
-- Quality of proposals (CA rating)
-- Number of successfully implemented proposals
+- 提案数
+- 提案の質（CA評価）
+- 成功裏に実施された提案の数
 
-### Voters
+### 有権者
 
-- Number of registered wallets
-- Amount of registered ADA
-- Number of votes
+- 登録ウォレット数
+- 登録されたADAの量
+- 投票数
 
-### Community Advisors
+### コミュニティアドバイザー
 
-- Number of active CAs/vCAs
-- Number of assessments
-- Number of high quality assessments
+- アクティブなCA / vCAの数
+- 評価の数
+- 高品質評価の数
 
-### Increase active participation in community events:
+### コミュニティイベントへの積極的な参加を増やす：
 
-- Number of community events
-- Number of participants
-- Diversity of participants
+- コミュニティイベントの数
+- 参加者の数
+- 参加者の多様性
