@@ -1,8 +1,8 @@
 ---
-title: New SPO Business Opportunities
-linkTitle: New SPO Business Opportunities
-type: docs
-hide_feedback: 'true'
+title: 新しいSPOビジネスチャンス
+linkTitle: 新しいSPOビジネスチャンス
+type: ドキュメント
+hide_feedback: NS
 description: ステークプールオペレーターは、Cardanoの重要な成功要因です。それらのインフラストラクチャと機能により、重要な新しいサービスを作成できます
 ---
 
@@ -10,28 +10,28 @@ description: ステークプールオペレーターは、Cardanoの重要な成
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26245) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-New-SPO-Business-Opportunities) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/new-spo-business-opportunities)
 
-## Campaign Brief
+## キャンペーン概要
 
-Our SPOs are a most-valuable foundation of Cardano. They have invested in important infrastructure and are establishing important capabilities. This is of high value in the still very much hype-driven general Crypto space. With SPOs, the CARDANO Community can get both: Even more decentralization AND stability and professionalism at the same time.
+当社のSPOは、カルダノの最も価値のある基盤です。彼らは重要なインフラストラクチャに投資し、重要な機能を確立しています。これは、まだ非常に誇大宣伝に駆り立てられている一般的な暗号空間で高い価値があります。 SPOを使用すると、CARDANOコミュニティは次の両方を実現できます。さらに分散化と安定性、そしてプロ意識を同時に実現できます。
 
-On this bases, many new ideas and service can emerge, such as
+この基盤に基づいて、次のような多くの新しいアイデアやサービスが生まれます。
 
-- Secure and censorship-resilient data storage
-- KYC related service and access hubs
-- Well, for sure many, many more ideas and opportunities
+- 安全で検閲に強いデータストレージ
+- KYC関連のサービスおよびアクセスハブ
+- まあ、確かにもっとたくさんのアイデアや機会があります
 
-In case of success, I can also see this as a recurring challenge setting, driving and optimising the economic well-being of our SPO's and utilizing all their today's and future capabilities in a most creative way.
+成功した場合、これは、SPOの経済的幸福を推進および最適化し、現在および将来のすべての機能を最も創造的な方法で活用する、繰り返し発生する課題の設定と見なすこともできます。
 
-## Why is it Important?
+## どうしてそれが重要ですか？
 
-Being an SPO shall be economically attractive. In addition to this, there are great opportunities for adding new ideas &amp; services
+SPOであることは経済的に魅力的でなければなりません。これに加えて、新しいアイデアやサービスを追加する絶好の機会があります
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-The overall business model of SPO's can become even more attractive and we can add new features and services for driving decentralization
+SPOの全体的なビジネスモデルはさらに魅力的になり、分散化を推進するための新しい機能やサービスを追加できます。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-- Number of new business ideas for SPOs
-- Overall SPO-related business-value of such optional new services
-- Impact of essential new services for making the world of Cardano even more decentralized, distributed and censorship resilient
+- SPOの新しいビジネスアイデアの数
+- そのようなオプションの新しいサービスの全体的なSPO関連のビジネス価値
+- カルダノの世界をさらに分散化、分散化、検閲に強いものにするための不可欠な新しいサービスの影響
