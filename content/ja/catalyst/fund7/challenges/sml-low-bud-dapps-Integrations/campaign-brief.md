@@ -1,66 +1,66 @@
 ---
-title: Mini/Low-Budget Dapps & Integrations
-linkTitle: Mini/Low-Budget Dapps & Integrations
-type: docs
+title: ミニ/低予算のDappsと統合
+linkTitle: ミニ/低予算のDappsと統合
+type: ドキュメント
 hide_feedback: 'true'
-description: What Low Budget / Mini Decentralized Applications will provide the most value for end users in the next 3 months?
+description: 今後3か月でエンドユーザーに最大の価値を提供する低予算/ミニ分散型アプリケーションはどれですか？
 ---
 
 ファンドサイズ： **&nbsp;Adaで支払われる$ 200,000  USD **
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26250) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Mini-Low-Budget-Dapps-and-Integrations) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/mini-low-budget-dapps-and-integrations)
 
-## Campaign Brief
+## キャンペーン概要
 
 このチャレンジは、限られた予算で短期間で完成した製品を提供できる小規模なプロジェクトに限定された「Dapps and Integrations」の並行チャレンジを作成するように設計されています。
 
-Therefore, some specific guidelines are introduced, in addition to those of the traditional "Dapps &amp; Integrations", for the submission of a proposal in this challenge:
+したがって、この課題で提案を提出するために、従来の「Dapps＆Integrations」のガイドラインに加えて、いくつかの特定のガイドラインが導入されています。
 
-- The budget should not exceed $10000
-- They should be complete projects, usable by end users on delivery
-- The delivery should take place within 3 months from funding
+- 予算は$ 10000を超えてはなりません
+- それらは完全なプロジェクトであり、納品時にエンドユーザーが使用できる必要があります
+- 納品は、資金提供から3か月以内に行う必要があります
 
-As the release of smart contracts is imminent, it may make sense to create a specific challenge that will ensure at least 20 new applications to attract new users to Cardano in the next 3 months.
+スマートコントラクトのリリースが差し迫っているため、今後3か月で新しいユーザーをCardanoに引き付けるために、少なくとも20の新しいアプリケーションを確保する特定の課題を作成することは理にかなっています。
 
-## Guiding Questions
+## ガイドの質問
 
-- What are the key applications that underpin the application ecosystem on other platforms?
-- What are the most profitable or most used applications on other ecosystems?
-- What needs do users of Cardano have that could be solved by new applications?
-- What applications deliver the highest amount of value with the least amount of technical sophistication?
-- Potential directions
-- Swaps, simple variants (multi-party etc.)
-- Escrow, simple variants
-- Integrations with existing products
+- 他のプラットフォームのアプリケーションエコシステムを支える主要なアプリケーションは何ですか？
+- 他のエコシステムで最も収益性の高い、または最も使用されているアプリケーションは何ですか？
+- Cardanoのユーザーには、新しいアプリケーションで解決できるニーズは何ですか？
+- どのアプリケーションが、最小限の技術的洗練度で最高の価値を提供しますか？
+- 考えられる方向
+- スワップ、単純なバリアント（マルチパーティなど）
+- エスクロー、単純なバリアント
+- 既存製品との統合
 
-## Why is it Important?
+## どうしてそれが重要ですか？
 
-In recent funds many small Dapps haven't been funded (but approved), as proposals with high budgets requests exhausted funds.
+最近の資金では、高予算の提案が使い果たされた資金を要求するため、多くの小さなDappsは資金提供されていません（しかし承認されていません）。
 
-## How does success look like?
+## 成功はどのように見えますか？
 
-At least 20 novel and viable small decentralized applications get built of top of Cardano in a short time horizon, attracting new users.
+少なくとも20の斬新で実行可能な小さな分散型アプリケーションが、短期間でカルダノの上に構築され、新しいユーザーを引き付けます。
 
-## Key Metrics to measure
+## 測定する主要な指標
 
-To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
+課題を評価するために、私たちは自分自身に問いかけます。私たちの努力は、ユーザーをプラットフォームに引き付けることに成功しましたか？私たちの努力の結果、Cardano上に構築された新しい実行可能なアプリケーションが生まれましたか？
 
-Let an "application output" and an "application transaction" be an outputs and transactions that use the applications' script addresses; and an "application token" be a token that's issued by the application.
+「アプリケーション出力」と「アプリケーショントランザクション」を、アプリケーションのスクリプトアドレスを使用する出力とトランザクションとします。 「アプリケーショントークン」は、アプリケーションによって発行されるトークンです。
 
-Usage of applications developed during the challenge:
+チャレンジ中に開発されたアプリケーションの使用法：
 
-- Number/growth of application output
-- Number/growth of application transactions
-- Total volume of Ada involved in application transactions
-- Total/growth of resource usage by applications
-- Number/growth of distinct addresses mentioned in application transactions
+- アプリケーション出力の数/成長
+- アプリケーショントランザクションの数/成長
+- アプリケーショントランザクションに関与するAdaの総量
+- アプリケーションによるリソース使用量の合計/増加
+- アプリケーショントランザクションで言及されている個別のアドレスの数/増加
 
-If the application uses tokens:
+アプリケーションがトークンを使用する場合：
 
-- Number/growth of application tokens
-- Number/growth of distinct addresses holding application tokens
-- Viability of applications developed during the challenge:
-- How many of the applications are still being developed in the next 3 months?
-- How many of the applications made a profit for their creators?
-- How many of the teams which built the applications grew in the next 3 months?
-- How many of the teams which built the applications built (or plan to build) another application?
+- アプリケーショントークンの数/成長
+- アプリケーショントークンを保持する個別のアドレスの数/増加
+- チャレンジ中に開発されたアプリケーションの実行可能性：
+- 今後3か月でまだ開発中のアプリケーションはいくつありますか？
+- 作成者に利益をもたらしたアプリケーションはいくつありますか？
+- アプリケーションを構築したチームのうち、今後3か月で何チームが成長しましたか？
+- アプリケーションを構築した（または構築を計画している）チームのうち、別のアプリケーションを構築したチームはいくつありますか？
