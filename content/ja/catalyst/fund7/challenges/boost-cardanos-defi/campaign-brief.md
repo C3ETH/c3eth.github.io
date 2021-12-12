@@ -1,6 +1,6 @@
 ---
-title: "Boosting Cardano's DeFi"
-linkTitle: "Boosting Cardano's DeFi"
+title: CardanoのDeFiを後押し
+linkTitle: CardanoのDeFiを後押し
 type: ドキュメント
 hide_feedback: 'true'
 description: DeFiチームが今後6か月以内にCardanoでオープンファイナンスソリューションを構築/展開するようにどのように奨励できますか？
@@ -12,7 +12,7 @@ description: DeFiチームが今後6か月以内にCardanoでオープンファ�
 
 ## キャンペーン概要
 
-The previous challenge(ScaleUP Cardano's DeFi Ecosystem) demonstrated success and allowed popular DeFi projects such as Liqwid Finance, Minswap and ErgoDEX to be funded by the treasury, without the participation of venture capitals and with fair launch models, allowing sustainable distribution of the supply among the community/userbase.
+前の課題（ScaleUP CardanoのDeFiエコシステム）は成功を示し、Liqwid Finance、Minswap、ErgoDEXなどの人気のあるDeFiプロジェクトが、ベンチャーキャピタルの参加なしに、コミュニティ/ユーザーベースの公正な立ち上げモデルで財務省から資金提供されることを可能にしました。
 
 ERGODEXの提案が残余予算の中で2番目に投票された提案であったという事実は、Fund5で提示された提案の競争力を実証するための重要な指標です。
 
