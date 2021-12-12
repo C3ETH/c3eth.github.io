@@ -1,0 +1,77 @@
+---
+title: "Boosting Cardano's DeFi"
+linkTitle: "Boosting Cardano's DeFi"
+type: ドキュメント
+hide_feedback: 'true'
+description: DeFiチームが今後6か月以内にCardanoでオープンファイナンスソリューションを構築/展開するようにどのように奨励できますか？
+---
+
+ファンドサイズ： **Adaで支払われた$ 500,000 USD**
+
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26233) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi)
+
+## キャンペーン概要
+
+The previous challenge(ScaleUP Cardano's DeFi Ecosystem) demonstrated success and allowed popular DeFi projects such as Liqwid Finance, Minswap and ErgoDEX to be funded by the treasury, without the participation of venture capitals and with fair launch models, allowing sustainable distribution of the supply among the community/userbase.
+
+ERGODEXの提案が残余予算の中で2番目に投票された提案であったという事実は、Fund5で提示された提案の競争力を実証するための重要な指標です。
+
+現在、DeFi dappsとアセットフローの大部分はEthereumブロックチェーンで発生しますが、混雑と取引手数料の増加により、DeFiの使用はますますエリート化され、DeFiから最も恩恵を受ける可能性のある人々、つまり銀行口座を持たない人々が除外されています。
+
+過去1年間で、Binance Smart Chain、Polkadot、Cosmos、Solanaなど、いくつかのDeFiプロジェクトがよりスケーラブルなブロックチェーンに移行しています。イーサリアムのメインチェーンの代替として第2層のソリューションも使用されており、Polygonはその好例です。
+
+この移行とブリッジの作成シナリオでは、一部のプロジェクトがCardanoを使用してDeFiプロジェクトを作成しています。
+
+Cardanoはついにスマートコントラクトを提供し、それがDeFiの多くの革新への扉を開きます。近い将来、スケーラブルなブロックチェーンだけでなく、安全なブロックチェーンと集約されたガバナンスレイヤーも提供できるようになります。この一連の特徴により、カルダノは目立つ場所に配置され、市場シェアを獲得してユーザーベースを拡大する絶好の機会があります。
+
+Catalystを使用すると、DeFiプロジェクトに資金を提供し、DeFiプロジェクトに不可欠な側面である分散化と回復力を高めることができます。多くのプロジェクトは、財源の不足のためにベンチャーキャピタルの参加を受け入れることになります。通常、VCがDeFiプロジェクトに参加すると、供給分配の大部分がVCに割り当てられ、分散化が損なわれ、その結果、これらのプロジェクトのセキュリティが損なわれます。
+
+今日のDeFiエコシステムは、脆弱性に満ちたプロジェクトに引き継がれ、ハッキングは一定であり、経済モデルは他のプロジェクトからコピーされ、分散化はもはや優先事項ではなく、ユーザーのことを考えて経済モデル/結合曲線/アルゴリズムを作成することに専念しているプロジェクトはほとんどありません。ニーズ。
+
+バグ、ハッキング、脆弱性はイーサリアムのスマートコントラクトに固有のものではないことが1年で明らかになりました。 Binance SmartChainとCosmosで実行されているDappも脆弱性に悩まされていました。
+
+- [ハッカーは、3つのチェーンにまたがるPolyエクスプロイトで少なくとも6億ドルを盗んだ](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
+
+[Thorchainは500万ドルのエクスプロイトに苦しんでおり、開発者は修正を出しました](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
+
+Cardanoは、このパラダイムを変更し、ユーザーにセキュリティをもたらすために到着しました。
+
+プライバシーと検閲への抵抗も重要ですが、助成金（収量農業）を支持して見過ごされがちです。 DeFiプロジェクトに、レジリエンス、安全性、研究ベースの経済モデル、批判的思考を求めるように促すにはどうすればよいですか？
+
+## 考えられる方向
+
+- DEX
+- オラクル
+- アルゴリズムの安定したコイン
+- dappsの借用/貸し出し
+- デリバティブ
+- オープンソースの新しい財務モデルの研究（結合曲線）
+
+## 予算配分の合理性
+
+資金提供を受けたチームと提案の多様性を促進するために、各チームは合計$ 500,000USDの予算または$ 100,000 USDの最大20％を要求できます。
+
+例-$ 50,000USDの2つの提案を持つチームA- $ 100,000USDの1つの提案を持つチームB- $ 80,000USDの1つの提案を持つチームC + $ 20,000USの1つの提案
+
+## どうしてそれが重要ですか？
+
+Defi dAppsは、グローバルユーザーに金融サービスへの信頼できないオンデマンドアクセスを提供するため、これは重要です。
+
+## 成功はどのように見えますか？
+
+クロスコラボレーションとプロトコル間での構成可能性の推進に重点を置いた、CardanoでのDeFiの競争環境。
+
+## 測定する主要な指標
+
+- 資金提供後3、6、12か月以内にCardanoメインネットで起動されたDeFidappの数。
+- 各dappが起動するのにかかる時間。
+- このコホートで資金提供されているDeFidappsは、毎日何人のアクティブユーザーを引き付けていますか。
+- 資金提供されたDeFidappは、リリース後3、6、および12か月でキャプチャできるTotal Value Locked（TVL）の量を示します。
+- 各dappで見つかったバグと脆弱性の数。
+- バグまたは脆弱性のために失われたリソースの量。
+- テストネットに参加しているユーザーの数。
+- トークンホルダー/一意のウォレットの数（dappにトークンがある場合）。
+- チームとコミュニティ間の供給の分配。
+- リストされたペアの数（DEXの場合）。
+- 上場資産の数（ローン+貸付ダップ、デリバティブ、合成資産の場合）。
+- コミュニティに提供された記事とオープンソースの財務モデル研究の数。
