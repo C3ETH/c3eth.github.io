@@ -3,7 +3,7 @@ title: A.I. ＆SingularityNetは$ 5Tの市場
 linkTitle: A.I. ＆SingularityNetは$ 5Tの市場
 type: ドキュメント
 hide_feedback: 'true'
-description: How can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
+description: SingularityNetや他のA.Iの開発者と研究者と相互に有益なパートナーシップを構築するにはどうすればよいですか？
 ---
 
 ファンドサイズ： **Adaで支払われた$ 500,000 USD**
