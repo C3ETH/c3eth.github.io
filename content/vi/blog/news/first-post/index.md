@@ -5,7 +5,7 @@ linkTitle: Buổi họp Thị trấn Đông bán cầu thứ 8
 description: Một buổi gặp mặt tuyệt vời, nơi chúng tôi bắt đầu nói về Ideafest, Cardano Summit và Hackathons sắp tới.
 author: Robert & Stephen
 resources:
-  - src: "**.{png,jpg}"
+- src: "**.{png,jpg}"
   title: 'Image #:counter'
   params:
     byline: 'Photo: Eastern Hemisphere Townhall / CC-BY-CA'
@@ -13,7 +13,7 @@ resources:
 
 Một buổi gặp mặt tuyệt vời, nơi chúng tôi bắt đầu nói về Ideafest, Cardano Summit và Hackathons sắp tới. Rất nhiều gương mặt quen thuộc đã tham gia vào một cuộc thảo luận sâu sắc về Lừa đảo và phát hiện Lừa đảo. Dẫn đầu bởi Peter Bùi. Chúng tôi cũng thảo luận về bot giao dịch, các ứng dụng Xã hội và Môi trường và đề cập đến Đồng ổn định.
 
-{{&lt;imgproc Sunset Fill "600x300"&gt;}} Tìm nạp và chia tỷ lệ hình ảnh trong Hugo 0.43 sắp tới. {{&lt;/ imgproc&gt;}}
+{{< imgproc Sunset Fill "600x300">}} Tìm nạp và chia tỷ lệ hình ảnh trong Hugo 0.43 sắp tới. {{< / imgproc >}}
 
 Vấn đề đầu tiên của bài đăng này chỉ định các thuộc tính được gán cho tất cả các tài nguyên hình ảnh:
 

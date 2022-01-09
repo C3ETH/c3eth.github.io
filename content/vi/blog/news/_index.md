@@ -1,3 +1,5 @@
 ---
-
-## title: "Tin tức về Docsy" linkTitle: "Tin tức" weight: 20
+title: "Tin tức về Docsy" 
+linkTitle: "Tin tức" 
+weight: 20
+---
