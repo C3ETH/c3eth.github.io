@@ -1,106 +1,106 @@
-# Cardano Catalyst Community Eastern Townhall website
+# Trang web của Cardano Catalyst Community Thị trấn phía Đông
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+[](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Overview
+## Tổng quan
 
 [English](/README/en/README.md) | [Tiếng Việt](/README/vi/README.md) | [Indonesia](/README/id/README.md) | [日本語](/README/ja/README.md) | [한국어](/README/ko/README.md)
 
-This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) updates and related documentation. C3ETH is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
+Kho lưu trữ này chứa các bản cập nhật của Cardano Catalyst Community (C3) Eastern Townhall (ETH) và tài liệu liên quan. C3ETH đang giúp hỗ trợ các thành viên cộng đồng từ nhiều quốc gia và ngôn ngữ khác nhau ở múi giờ phía đông. Trọng tâm cụ thể của nhóm là bản địa hóa nội dung của Cardano Catalyst và hướng dẫn nhập môn nhằm cho phép sự tham gia rộng rãi nhất có thể.
 
-This repository contains C3ETH translations of Project Catalyst documentation, community-sourced documentation, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
+Kho lưu trữ này chứa các bản dịch C3ETH của tài liệu Project Catalyst, tài liệu có nguồn gốc từ cộng đồng và các đề xuất liên quan. Nội dung được dịch sang nhiều ngôn ngữ của Đông bán cầu, đặc biệt tập trung vào các ngôn ngữ Đông Á.
 
-[Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
+[Dự án Catalyst](https://cardano.ideascale.com/) là **khởi đầu** của việc quản trị chuỗi cho Cardano. Đây là một loạt các thử nghiệm tận dụng trí tuệ tập thể của Cộng đồng Catalyst để xác định hướng phát triển và định hướng trong tương lai của hệ sinh thái Cardano. Thông qua một loạt các quỹ đổi mới, các nguồn ý tưởng của cộng đồng sẽ quyết định quỹ nào và tài trợ cho ai. Tìm kiếm những ý tưởng tốt nhất để xây dựng một chuỗi khối toàn cầu.
 
-## Building with Docker
+## Xây dựng với Docker
 
-The website and documentation is compiled and developed using [Hugo](https://gohugo.io/) and the [Docsy Theme](https://www.docsy.dev/). To build the site requires [Node](https://nodejs.org/en/), [Npm](https://www.npmjs.com/), and [PostCSS](https://postcss.org/). Instead of having to locally install these tools, you can build the site using [Docker](https://docs.docker.com/get-started/overview/). This has the advantage of providing a uniform development environment.
+Trang web và tài liệu được biên soạn và phát triển bằng [Hugo](https://gohugo.io/) và [Docsy](https://www.docsy.dev/) . Để xây dựng trang web cần có [Node](https://nodejs.org/en/) , [Npm](https://www.npmjs.com/) và [PostCSS](https://postcss.org/) . Thay vì phải cài đặt cục bộ các công cụ này, bạn có thể xây dựng trang web bằng [Docker](https://docs.docker.com/get-started/overview/) . Điều này có ưu điểm là cung cấp một môi trường phát triển đồng nhất.
 
-- Docker: To install docker, please refer to the documentation at [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/).
+- Docker: Để cài đặt docker, vui lòng tham khảo tài liệu tại [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/) .
 
-- Once you've made your working copy (see below) of the site repo, from the repo root folder, running the hugo serve container with docker:
+- Khi bạn đã tạo bản sao làm việc của mình (xem bên dưới) của repo trang web, từ thư mục gốc của repo, hãy chạy vùng chứa hugo serve với docker:
 
-  ```
-  $ docker-compose up -d
-  ```
+    ```
+    $ docker-compose up -d
+    ```
 
-Then visit http://localhost:1313 to view the documentation site
+Sau đó truy cập http: // localhost: 1313 để xem trang web tài liệu
 
-## Building with a local development environment 
+## Xây dựng với môi trường phát triển cục bộ
 
-The Website is built using [Docsy](https://www.docsy.dev/) which is a [Hugo](https://gohugo.io/) theme for technical documentation sets, providing simple navigation, site structure, and more.
+Trang web được xây dựng bằng [Docsy](https://www.docsy.dev/) , một [chủ đề Hugo](https://gohugo.io/) dành cho các bộ tài liệu kỹ thuật, cung cấp điều hướng đơn giản, cấu trúc trang web và hơn thế nữa.
 
-### Prerequisites
+### Điều kiện ban đầu
 
-Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io). The following are basic prerequisites building this site:
+Việc xây dựng và chạy trang web cục bộ yêu cầu phiên bản <a>Hugo</a> <code>extended</code> gần đây. Sau đây là các điều kiện tiên quyết cơ bản để xây dựng trang web này:
 
-- Install a recent release of the Hugo "extended" version (we recommend version 0.53 or later). If you install from the 
-  [release page](https://github.com/gohugoio/hugo/releases), make sure you download the `_extended` version 
-  which supports SCSS.
+- Cài đặt bản phát hành gần đây của Hugo "mở rộng" (chúng tôi khuyên bạn nên sử dụng phiên bản 0.53 trở lên). Nếu bạn cài đặt từ [trang phát hành](https://github.com/gohugoio/hugo/releases) , chắc chắn rằng bạn tải về `_extended` phiên bản hỗ trợ SCSS.
 
-- Install `PostCSS` so that the site build can create the final CSS assets. You can install it locally by running 
-  the following commands from the root directory of your project:
+- Cài đặt `PostCSS` để bản dựng trang web có thể tạo nội dung CSS cuối cùng. Bạn có thể cài đặt nó cục bộ bằng cách chạy các lệnh sau từ thư mục gốc của dự án của bạn:
 
-  ```
-  sudo npm install -D --save autoprefixer
-  sudo npm install -D --save postcss-cli
-  ```
+    ```
+    sudo npm install -D --save autoprefixer
+    sudo npm install -D --save postcss-cli
+    ```
 
-- Once you've made your working copy (see below) of the site repo, from the repo root folder, run:
+- Khi bạn đã tạo bản sao làm việc của mình (xem bên dưới) của repo trang web, từ thư mục gốc của repo, hãy chạy:
 
-  ```
-  hugo server
-  ```
+    ```
+    hugo server
+    ```
 
-## Cloning the Website
+## Nhân bản trang web
 
 ```bash
 $ git clone --recurse-submodules --depth 1 https://github.com/C3ETH/c3eth.github.io.git
 $ cd c3eth.github.io
 ```
 
-The site is build on the [Docsy theme](https://www.docsy.dev/) as a submodule. To update the submodule run:
+Trang web được xây dựng dựa trên [chủ đề Docsy](https://www.docsy.dev/) như một mô-đun con. Để cập nhật chạy mô-đun con:
 
 ```bash
 $ git submodule update --recursive
 $ git pull --recurse-submodules
 ```
-## Edit Website Documents
 
-The documents are in the ```content/{en,vn,in,jp,ko}``` directories, select the desired section to edit or add, for content organization please refer to: https://gohugo.io/content-management/organization/.
+## Chỉnh sửa tài liệu trang web
 
-## Change Log
+Các tài liệu nằm trong thư mục `content/{en,vn,in,jp,ko}` , chọn phần mong muốn để chỉnh sửa hoặc bổ sung, để tổ chức nội dung vui lòng tham khảo tại: https://gohugo.io/content-management/organization/ .
 
-See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
+## Thay đổi nhật ký
 
-## Acknowledgements
+Xem [CHANGELOG.md](CHANGELOG.md) để biết các thay đổi và phiên bản đáng chú ý.
 
-* [Project Catalyst](https://cardano.ideascale.com/)
-* [Cardano Foundation](https://cardanofoundation.org/)
-* [IOHK Project Catalyst Team](https://iohk.io/) 
-* [Hugo](https://gohugo.io/)
-* [Docsy](https://www.docsy.dev/)
+## Sự nhìn nhận
 
+- [Project Catalyst](https://cardano.ideascale.com/)
+- [Tổ chức Cardano](https://cardanofoundation.org/)
+- [Nhóm IOHK Project Catalyst Team](https://iohk.io/)
+- [Hugo](https://gohugo.io/)
+- [Docsy](https://www.docsy.dev/)
 
-## Contributing ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
+## Đóng góp ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-Please read [CONTRIBUTING.md](/README/vi/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Vui lòng đọc [CONTRIBUTING.md](/README/id/CONTRIBUTING.md) để biết chi tiết về quy tắc ứng xử của chúng tôi và quy trình gửi yêu cầu kéo cho chúng tôi.
 
-See also the list of [contributors](https://github.com/c3eth/c3eth.github.io/graphs/contributors) who participated in this project.
+Xem thêm danh sách [những người đóng góp](https://github.com/c3eth/c3eth.github.io/graphs/contributors) đã tham gia vào dự án này.
 
-Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Cảm ơn những người đóng góp tuyệt vời này (xem [phím biểu tượng cảm xúc](https://allcontributors.org/docs/en/emoji-key) ):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Dự án này tuân theo đặc điểm kỹ thuật của [tất cả những người đóng góp.](https://github.com/all-contributors/all-contributors) Những đóng góp của bất kỳ hình thức nào đều được chào đón!
 
-## License ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
+## Giấy phép ![GitHub](https://img.shields.io/github/license/c3eth/c3eth.github.io)
 
-The published source code in the repository `c3eth/c3eth.github.io` is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+Mã nguồn đã xuất bản trong kho lưu trữ `c3eth/c3eth.github.io` được cấp phép theo Giấy phép Apache 2.0 - xem [tệp LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) để biết chi tiết.
 
-The published content in the repository `c3eth/c3eth.github.io` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Nội dung đã xuất bản trong kho lưu trữ `c3eth/c3eth.github.io` được cấp phép theo [Giấy phép Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-You are free to Share (copy and redistribute) the material in any medium or format
-adapt, remix, transform, and build upon the material. You may not use the material for commercial purposes.  If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+Bạn có thể tự do Chia sẻ (sao chép và phân phối lại) tài liệu ở bất kỳ phương tiện hoặc định dạng nào thích ứng, phối lại, chuyển đổi và xây dựng dựa trên tài liệu đó. Bạn không được sử dụng tài liệu cho mục đích thương mại. Nếu bạn phối lại, chuyển đổi hoặc xây dựng dựa trên tài liệu, bạn phải phân phối các đóng góp của mình theo cùng một giấy phép như bản gốc. Không có bảo hành nào được đưa ra. Giấy phép có thể không cung cấp cho bạn tất cả các quyền cần thiết cho mục đích sử dụng của bạn.
