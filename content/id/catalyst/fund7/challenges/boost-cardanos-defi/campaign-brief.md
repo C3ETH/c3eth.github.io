@@ -12,17 +12,17 @@ Besaran Dana: 500.000 USD dibayarkan dalam bentuk ADA
 
 ## Ringkasan Kampanye
 
-The previous challenge(ScaleUP Cardano's DeFi Ecosystem) demonstrated success and allowed popular DeFi projects such as Liqwid Finance, Minswap and ErgoDEX to be funded by the treasury, without the participation of venture capitals and with fair launch models, allowing sustainable distribution of the supply among the community/userbase.
+Tantangan sebelumnya (Meningkatkan Ekosistem DeFi Cardano) telah menunjukkan keberhasilan dan memungkinkan proyek - proyek Desentralisasi Finansial (DeFi) populer seperti Liqwid Finance; Minswap; dan ErgoDEX mendapatkan pendanaan dari perbendaharaan, tanpa harus melalui pihak lain seperti Modal Ventura. Dengan peluncuran bermodel yang berazaskan pada prinsip keadilan yang merata, memungkinkan distribusi pendanaan yang lebih merata dan berkelanjutan bagi komunitas/pengguna.
 
-The fact that ERGODEX's proposal was the second best voted proposal in the Left-Over budget is an important indicator to demonstrate the competitiveness of the proposals presented in Fund5.
+Fakta bahwa proposal ERGODEX adalah proposal dengan suara terbanyak kedua dan di bagian surplus pendanaan, merupakan indikator penting yang menunjukkan daya saing proposal - proposal di Fund5.
 
 Saat ini, sebagian besar aplikasi terdesentralisasi beserta aset - asetnya berjalan di atas blockchain Ethereum. Namun, tingginya arus lalu lintas transaksi telah menyebabkan kemacetan dalam pemrosesan sehingga biaya transaksi pun ikut meningkat. Penggunaan dapps dalam DeFi menjadi semakin terbatas untuk kalangan elit saja, membuat pihak lain yang lebih berkebutuhan menjadi tidak terjangkau, seperti orang - orang yang tidak memiliki rekening bank.
 
 Selama beberapa tahun ke belakang, sebagian proyek DeFi telah pindah ke blockchain lain yang memiliki skalabilitas lebih baik, seperti Binance Smart Chain, Polkadot, Cosmos, Solana, dan lainnya. Solusi lapisan kedua (L2) juga digunakan sebagai alternatif di dalam blockchain Ethereum, salah satu contoh yang berhasil adalah Polygon.
 
-In this migration and bridges creation scenario, some projects are turning to Cardano to create their DeFi projects.
+Dalam hal migrasi dan membuat jembatan penghubung dengan blockchain lain, beberapa proyek mulai beralih ke Cardano untuk membuat proyek DeFi mereka.
 
-Cardano is finally delivering smart contracts and that opens a door to a lot of innovation in DeFi. We can offer not only a scalable blockchain, but also a secure blockchain and aggregated governance layer in the near future. This set of characteristics place Cardano in a prominent place and with a good opportunity to gain market share and expand the user base.
+Cardano pada akhirnya meluncurkan fitur smart contract dan hal ini membuka pintu yang luas bagi banyak inovasi di DeFi. Kami menawarkan bukan hanya blockchain dengan skalabilitas yang baik, tetapi juga aman serta memiliki lapisan tata kelola yang teragregasi dalam waktu dekat. Kumpulan karakteristik inilah yang menempatkan Cardano di tempat teratas, dengan peluang yang bagus untuk mendapatkan pangsa pasar dan memperluas basis pengguna.
 
 Dengan Catalyst, kami memiliki kesempatan untuk mendanai proyek - proyek DeFi secara terdesentralisasi untuk menjamin keberlangsungan semua proyek tersebut, dimana hal ini merupakan aspek penting dalam sebuah proyek DeFi. Walaupun tidak sedikit yang akhirnya menerima partisipasi dari Modal Ventura karena kurangnya sumber pendanaan, namun pada umumnya berakhir dengan kondisi dimana Modal Ventura menguasai proyek - proyek tersebut. Hal ini telah melenceng dari konsep desentralisasi sehingga jaminan keamanan dari proyek itu sendiri menjadi dipertanyakan.
 
