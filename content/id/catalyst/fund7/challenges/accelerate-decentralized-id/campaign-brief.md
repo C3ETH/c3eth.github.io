@@ -14,7 +14,7 @@ Besaran Dana: **425.000 USD dibayarkan dalam bentuk ADA**
 
 Tantangan kami saat ini, apa rencana selanjutnya dari tantangan adopsi identitas terdesentralisasi (DID) secara massal, yang telah didanai oleh Pendanaan Seri Keenam sebelumnya. Tujuannya, untuk menghubungkan segala sesuatu yang telah dipelajari dengan adanya kelompok pertama Program Atala Prism Pioneer.
 
-The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst Fund 7 is complete. Between now and then, any member of the Catalyst Community inspired to write a proposal will get access to the Atala PRISM Pioneer Program first cohort course materials on Canvas. Please submit your proposal on Ideascale, including your email address, to get an invitation to Canvas.
+Kelompok kedua program Atala PRISM Pioneer akan dimulai setelah Catalyst Fund 7 selesai. Dari sekarang hingga nanti, setiap anggota komunitas Catalyst yang terinspirasi untuk menulis proposal akan mendapatkan akses ke materi pembelajaran kelompok pertama program Atala PRISM Pioneer melalui platform Canvas tanpa batasan waktu. Harap kirimkan proposal Anda di Ideascale, termasuk alamat email Anda, untuk mendapatkan undangan akses ke platform Canvas.
 
 Dengan akses ini, Anda ikut bergabung dengan komunitas Atala PRISM yang sedang berkembang. Tim produk dan insinyur dari Atala PRISM akan siap membantu melalui saluran Discord yang telah disediakan. Hal lain yang Anda dapatkan adalah ikut serta dalam pembentukan kerangka tata kelola grup layanan profesional dan akses komunikasi dengan para pemimpin teratas di bidang sains dan riset dimana kita dapat membahas berbagai macam tren, studi kasus, dan masih banyak lagi. Selain itu, kami akan terus mendukung pengembangan kredensial yang berkualitas dan membantu para mitra mulai dari konsep, pengembangan, hingga komersialisasi.
 
@@ -52,8 +52,8 @@ Banyak Pioneer kami dan proyek - proyek yang didanai dari Catalyst mendukung pro
 
 Kami perlu komunitas kami memikirkan cara bagaimana mengembangkan teknologi dan tata kelola dasar untuk mendukung komunitas mana pun yang ingin membangun sistem pendidikan dan jalur karir baru dengan menyediakan solusi seperti:
 
-- For onboarding new experts and teachers
-- For people in the community to develop and grow
+- Untuk proses orientasi para ahli dan guru yang baru
+- Untuk orang - orang yang ada di komunitas dapat semakin berkembang dan bertumbuh.
 - Untuk menjaga reputasi sebagai karyawan yang terampil, pekerja, konsultan, pembimbing, guru, dll.
 
 Ketika standar reputasi diterapkan, maka kita membutuhkan cara untuk mengevaluasi dan memantau diri sendiri akan adanya aktor - aktor jahat, tindakan berbahaya, atau hasil yang buruk.
@@ -76,7 +76,7 @@ Untuk tantangan rantai pasokan ini, kami ingin menjawab dua tantangan yang signi
 
 Bagaimana kita bisa menciptakan proses yang transparan dari bawah hingga ke atas di rantai pasokan industri, memotong pasar distribusi yang terpusat, dan menghubungkan langsung ke konsumen?
 
-For example, small producers like a family ranch in Wyoming have no way to get information about the value of their product through these global aggregation and distribution networks. Currently, a solution such as the [BeefChain project](https://beefchain.com/) is supporting small ranchers.
+Sebagai contoh, produsen kecil seperti peternakan keluarga di Wyoming tidak memiliki cara untuk mendapatkan informasi mengenai nilai produk mereka melalui jaringan distribusi yang teragregasi global ini. Saat ini, ada solusi seperti [proyek BeefChain](https://beefchain.com/) yang mendukung para peternak kecil.
 
 Ada banyak masalah yang harus diatasi seperti pabrik pengemasan yang merupakan titik masuk ke proses agregasi, sehingga hanya ada sedikit atau bahkan tidak ada insentif sama sekali bagi produsen kecil. Kami ingin mengatasi masalah ini dengan mengembangkan alat serba guna yang membantu masyarakat dalam mengatur dan menata kelolakan produksi sendiri sesuai dengan standar yang disepakati. Kami berpendapat jika komunitas ini dapat terhubung dan bertumbuh, maka mereka akan:
 
