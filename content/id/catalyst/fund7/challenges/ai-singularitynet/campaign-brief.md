@@ -30,7 +30,7 @@ beberapa fakta:
 
 ### Microsoft
 
-- Is acquiring Nuance for $19.7 Billion - to deliver new cloud and AI capabilities across healthcare and other industries
+- Mengakuisi Nuance dengan nilai $19.7 Milyar - untuk memunculkan kemampuan-kemampuan Cloud (komputasi awan) dan AI di bidang kesehatan dan industri-industri lainnya
 
 ### **McKinsey** memperkirakan teknik-teknik AI memiliki potensi untuk:
 
