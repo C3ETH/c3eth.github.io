@@ -1,16 +1,16 @@
 ---
 title: Akselerasi Identitas Terdesentralisasi
 linkTitle: Akselerasi Identitas Terdesentralisasi
-type: docs
-hide_feedback: 'true'
+type: dokumen
+hide_feedback: benar
 description: Solusi apa yang dapat kami kembangkan dan terapkan dengan Atala PRISM dan Cardano hari ini untuk memberikan dampak paling positif dan membuka peluang pertumbuhan jaringan Cardano secara pesat?
 ---
 
 Besaran Dana: **425.000 USD dibayarkan dalam bentuk ADA**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26254) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26254/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26254) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26254/stage/unspecified) .
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 Tantangan kami saat ini, apa rencana selanjutnya dari tantangan adopsi identitas terdesentralisasi (DID) secara massal, yang telah didanai oleh Pendanaan Seri Keenam sebelumnya. Tujuannya, untuk menghubungkan segala sesuatu yang telah dipelajari dengan adanya kelompok pertama Program Atala Prism Pioneer.
 
@@ -20,7 +20,7 @@ Dengan akses ini, Anda ikut bergabung dengan komunitas Atala PRISM yang sedang b
 
 ### **Fokus Area**
 
-##### **Interoperability**
+##### **Interoperabilitas**
 
 Sebagian besar kredensial digital berjalan di atas Hyperledger Indy, termasuk yang diterbitkan oleh pemerintahan di Jerman, Kanada, dan Inggris.
 
@@ -72,7 +72,7 @@ Di sisi lain, distribusi atau perdagangan yang didorong oleh permintaan berpoten
 
 Untuk tantangan rantai pasokan ini, kami ingin menjawab dua tantangan yang signifikan:
 
-##### Small Producer Problem
+##### Masalah Produsen Kecil
 
 Bagaimana kita bisa menciptakan proses yang transparan dari bawah hingga ke atas di rantai pasokan industri, memotong pasar distribusi yang terpusat, dan menghubungkan langsung ke konsumen?
 
@@ -82,7 +82,7 @@ Ada banyak masalah yang harus diatasi seperti pabrik pengemasan yang merupakan t
 
 Menjangkau pasar melalui saluran distribusi alternatif ke rantai pasokan industri sehingga mampu bernegosiasi sebagai komunitas dengan persyaratan yang lebih baik agar nilai produk mereka diakui, kemudian produk didistribusikan dan dijual dengan nilai yang sesuai secara komersial dan memiliki reputasi.
 
-##### The Last-Mile Problem
+##### Masalah Mil Terakhir
 
 Bagaimana seorang distributor lokal di pasar lokal berinteraksi dengan rantai pasokan industri global dan diberi akses ke pasar yang selama ini tidak dapat diakses karena kurangnya identitas ekonomi atau modal untuk mengakses jumlah barang yang dibutuhkan untuk ukuran rantai pasokan industri?
 
@@ -109,33 +109,33 @@ Menemukan pola - pola yang berulang sehingga memampukan kami untuk memanfaatkan 
 - Jumlah penerbit, pemegang, dan verifikator
 - Jumlah verifikasi yang dilakukan pada kredensial dalam proses produksi
 
-#### **A Proposed Pattern Language Outline (example)**
+#### **Garis Besar Bahasa Pola yang Diusulkan (contoh)**
 
 ##### **Dasar - Dasar**
 
-- Digital Identity
-- Verifiable Credential (VC)
-- Verifiable Presentation Request
-- Verifiable Presentation Proof
+- Identitas Digital
+- Kredensial yang Dapat Diverifikasi (VC)
+- Permintaan Presentasi yang Dapat Diverifikasi
+- Bukti Presentasi yang Dapat Diverifikasi
 - Mata Uang Kripto
-- Non-fungible token (NFT)
+- Token yang tidak dapat dipertukarkan (NFT)
 - Kontrak Pintar
 
 ##### **Pola - Pola**
 
-- Trust Registry
-- Governance Framework
+- Registri Kepercayaan
+- Kerangka Tata Kelola
 - Registri Token yang Dikurasi
 - Pengakuan dari anggota komunitas dan proses orientasi
-- Establishing Individual Reputation
+- Membangun Reputasi Individu
 - Komunitas sebagai satu kesatuan grup yang berinteraksi dengan pihak eksternal
 - Anggota komunitas sebagai individu yang berinteraksi dengan pihak eksternal
 - Media penukaran di komunitas
 - Pengakuan Registri Kepercayaan eksternal
-- Recognition of external Governance Framework
-- Acceptance of Governance Framework by an external party
+- Pengakuan Kerangka Tata Kelola eksternal
+- Penerimaan Kerangka Tata Kelola oleh pihak eksternal
 
-With that as background, we are suggesting proposals in the following three areas:
+Dengan latar belakang tersebut, kami mengusulkan proposal dalam tiga bidang berikut:
 
 1. Interoperabilitas antara DID/VC pada Cardano dan Hyperledger Indy.
 2. Tata Kelola Mandiri dari Komunitas - Komunitas yang bermunculan
