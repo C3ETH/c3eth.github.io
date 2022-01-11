@@ -1,8 +1,8 @@
 ---
 title: Mendorong Desentralisasi Finansial di Cardano
 linkTitle: Mendorong Desentralisasi Finansial di Cardano
-type: docs
-hide_feedback: 'true'
+type: dokumen
+hide_feedback: benar
 description: Bagaimana kita dapat mendorong tim Desentralisasi Finansial untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?
 ---
 
@@ -10,7 +10,7 @@ Besaran Dana: 500.000 USD dibayarkan dalam bentuk ADA
 
 [Halaman Kampanye](https://cardano.ideascale.com/a/campaign-home/26233) dan [Jelajahi Ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi)
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 The previous challenge(ScaleUP Cardano's DeFi Ecosystem) demonstrated success and allowed popular DeFi projects such as Liqwid Finance, Minswap and ErgoDEX to be funded by the treasury, without the participation of venture capitals and with fair launch models, allowing sustainable distribution of the supply among the community/userbase.
 
@@ -38,13 +38,13 @@ Cardano hadir untuk mengubah paradigma ini dan menghadirkan keamanan bagi para p
 
 Privasi dan ketahanan terhadap penyensoran juga penting, namun sering diabaikan demi mengejar imbal hasil yang maksimal dalam berinvestasi (panen imbal hasil). Bagaimana mendorong proyek DeFi agar memiliki ketahanan, keamanan, serta model ekonomi yang sudah diteliti dengan pemikiran kritis?
 
-## Potential Directions
+## Arah Potensial
 
-- DEXs
-- Oracles
+- DEX
+- Oracle
 - Mata uang koin stabil algoritmik
 - Dapps pinjam/meminjam
-- Derivatives
+- Derivatif
 - Penelitian untuk model keuangan baru yang bersifat terbuka (bonding curves)
 
 ## Rasio Pembagian Anggaran
@@ -67,10 +67,10 @@ Lingkungan yang kompetitif untuk DeFi di Cardano dengan penekanan pada kolaboras
 - Berapa lama waktu yang dibutuhkan setiap dapp untuk diluncurkan?
 - Berapa banyak pengguna aktif harian dari dapps DeFi yang didanai dalam kelompok ini?
 - Berapa Total Dana Mengendap (TVL) yang didapat oleh dapps DeFi yang terdanai setelah 3, 6, dan 12 bulan peluncuran?
-- Number of bugs and vulnerabilities found in each dapp.
+- Jumlah bug dan kerentanan yang ditemukan di setiap dapp.
 - Jumlah kerugian karena bug atau kerentanan.
 - Jumlah pengguna yang berpartisipasi dalam jaringan testing.
-- Number of token holders/unique wallets(when dapp has a token).
+- Jumlah pemegang token/dompet unik (ketika dapp memiliki token).
 - Distribusi suplai token antara tim dan komunitas.
 - Jumlah pasangan mata uang koin/token yang terdaftar (dalam hal DEX).
 - Jumlah aset yang terdaftar (khusus untuk dapps pinjam/meminjam, derivatif, dan aset sintetik).
