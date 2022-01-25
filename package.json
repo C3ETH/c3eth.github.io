@@ -18,6 +18,6 @@
   "homepage": "https://github.com/c3eth/c3eth.github.io#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "postcss-cli": "^7.1.2"
+    "postcss-cli": "^9.1.0"
   }
 }
