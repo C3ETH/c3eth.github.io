@@ -16,9 +16,8 @@
     "url": "https://github.com/c3eth/c3eth.github.io/issues"
   },
   "homepage": "https://github.com/c3eth/c3eth.github.io#readme",
-  "dependencies": {},
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^9.8.8",
     "postcss-cli": "^7.1.2"
   }
 }

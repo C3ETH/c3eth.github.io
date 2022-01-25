@@ -104,6 +104,15 @@ time_format_blog = "02.01.2006"
       # Uncomment if you want your chosen highlight style used for code blocks without a specified language
       # guessSyntax = "true"
 
+# Below are menu items
+
+[menu]
+[[menu.main]]
+	name = "Catalyst TV"
+	weight = 25
+	  url = "/catalystTV/"
+	pre = "<i class='fas fa-tv'></i>"
+    post = "<span class='alert'>New!</span>" 
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
