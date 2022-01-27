@@ -2,7 +2,7 @@
 title: "Episode One - 2 Minute Review"
 linkTitle: "Episode One - 2 Minute Review"
 type: blog
-date: 2021-01-25
+date: 2022-01-25
 description: "Fund7 - 2MinReview (Integrated platform - Vietnamese voice - voice for busy voters"
 ---
 
