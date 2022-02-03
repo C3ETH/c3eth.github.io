@@ -23,7 +23,7 @@ Setelah proposal diterima oleh komunitas, tim pengusul memiliki kesempatan untuk
 - Tim tantangan memimpin sesi retrospektif tantangan selama "minggu retrospektif" dana berikutnya.
 - Tim tantangan memfasilitasi sesi dengan tim pengusul yang menerima dana untuk tantangan.
 
-The challenge team tracks the key metrics as reported by funded proposals, 3 months after receiving funding and presents their reflection on whether the Challenge is getting addressed and highlight teams that are making significant headway in their approach.
+Tim tantangan melacak metrik utama seperti yang dilaporkan oleh proposal yang didanai, 3 bulan setelah menerima dana dan mempresentasikan instrospeksi mereka tentang apakah tantangan ditangani dan menyoroti tim mana saja yang membuat kemajuan signifikan dalam pendekatan mereka.
 
 Aktivitas ini mungkin tampak rumit, tetapi Anda akan menerima panduan, pelatihan, dan dukungan dari tim dan komunitas Catalyst. Yang Anda butuhkan hanyalah kemauan untuk mewakili tantangan dengan cara yang adil dan seimbang dan keinginan untuk berpartisipasi. Setelah persyaratan terpenuhi, tim Anda akan memenuhi syarat untuk menerima hadiah.
 
@@ -33,16 +33,16 @@ Aktivitas ini mungkin tampak rumit, tetapi Anda akan menerima panduan, pelatihan
 - Tantangan mana, jika ditangani, akan memberikan batu loncatan untuk adopsi Cardano?
 - Tantangan apa, jika ditangani, yang akan memajukan misi Cardano?
 
-## How does success look like?
+## Seperti apa kesuksesan itu?
 
 Komunitas memilih untuk memasukkan tantangan penting dan menarik yang menginspirasi proposal yang berdampak dan orisinal.
 
-## Key Metrics to measure
+## Metrik Utama untuk diukur
 
 Untuk menilai ROI dari tantangan ini, kami akan bertanya pada diri sendiri:
 
 - Seberapa baik kinerja tantangan yang dipilih dalam hal kualitas proposal dan keterlibatan masyarakat?
-- What is the average Community Advisor score for the top 10% proposed Challenges?
-- What is the average Community Advisor score for the top 10% proposals generated to address the challenge?
+- Berapa skor rata-rata Community Advisor untuk 10% Tantangan teratas yang diusulkan?
+- Berapa skor rata-rata Community Advisor untuk 10% proposal teratas yang dihasilkan untuk mengatasi tantangan?
 - Berapa banyak keterlibatan pemilih yang dihasilkan oleh tantangan tersebut?
-- How many proposals in the challenge were approved by the community, compared to the overall budget of the challenge? (Challenge overage)
+- Berapa banyak proposal dalam tantangan yang disetujui oleh komunitas, dibandingkan dengan keseluruhan anggaran tantangan? (Proposal berlebih dalam Tantangan)
