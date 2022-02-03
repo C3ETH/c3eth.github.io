@@ -10,7 +10,7 @@ Besaran Dana: **500.000 USD dibayarkan dalam bentuk ADA**
 
 [Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26255) dan [jelajahi ide-ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26255/stage/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 Startup innovation and co-creation is the lifeblood of Cardano. Many early stage ventures are now launching into the Cardano ecosystem and Catalyst wants to fuel many pioneering successes.
 
@@ -22,9 +22,9 @@ Tantangan ini mencari program Akselerator dan Inkubator Bisnis kelas profesional
 
 Kunci dari tantangan ini adalah keselarasan proposal dengan tantangan? Dan bagaimana keberhasilan diukur dalam lingkup, durasi proyek dan seterusnya?
 
-Proposers should give strong consideration to providing evidence of their experience and history of success and also provide Catalyst voters and reviewers supporting information about the project's operational approach to delivering the objectives previously stated. The more detail the better.
+Pengusul harus memberikan pertimbangan yang kuat untuk memberikan bukti pengalaman dan sejarah keberhasilan mereka dan juga memberikan pemilih Catalyst dan pengulas informasi pendukung tentang pendekatan operasional proyek untuk mencapai tujuan yang dinyatakan sebelumnya. Semakin detail semakin baik.
 
-We anticipate that a number of proposals that address this challenge will be funded in Fund 7 and we hope the community takes a portfolio approach to select projects from different parts of the world or a variety of themes relevant to the adoption of Cardano-based projects and the Cardano ecosystem as a whole.
+Kami mengantisipasi bahwa sejumlah proposal yang menjawab tantangan ini akan didanai di Dana 7 dan kami berharap komunitas mengambil pendekatan portofolio untuk memilih proyek dari berbagai belahan dunia atau berbagai tema yang relevan dengan adopsi proyek berbasis Cardano dan ekosistem Cardano secara keseluruhan.
 
 ## Mengapa Hal Ini Penting?
 
@@ -37,7 +37,7 @@ Knowledge is power and enabling project's to tap into to a distributed network o
 
 ## Tolak Ukur Utama
 
-- Number of projects that can be accelerated in the scope of the funding
+- Jumlah proyek yang dapat dipercepat dalam lingkup pendanaan
 - Number of mentors and investors that can be onboarded into the ecosystem
 - Distribusi program di seluruh dunia untuk melayani audiensi yang berbeda
-- Quality and strength of opportunities that each accelerator programme brings
+- Kualitas dan kekuatan peluang yang dibawa oleh setiap program akselerator
