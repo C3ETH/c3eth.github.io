@@ -1,22 +1,22 @@
 ---
-title: Miscellaneous Challenge
-linkTitle: Miscellaneous Challenge
+title: Tantangan Lain-Lain
+linkTitle: Tantangan Lain-Lain
 type: docs
 hide_feedback: 'true'
-description: How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+description: Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?
 ---
 
 Alokasi Dana: **$200,000 USD dibayarkan di Ada**
 
 [Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26248) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-Miscellaneous-Challenge) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/miscellaneous-challenges)
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 Tantangan ini dirancang untuk menangkap proyek-proyek menarik dan berharga yang saat ini tidak sesuai dengan tantangan lainnya.
 
-The only constrain to submit a proposal in this challenge is that the proposal needs to be somehow related to Cardano.
+Satu-satunya kendala untuk mengajukan proposal dalam tantangan ini adalah bahwa proposal tersebut harus terkait dengan Cardano.
 
-## Defining the Challenge Alignment
+## Mendefinisikan Penyelarasan Tantangan
 
 During the assessment stage, Community Advisors should evaluate if proposals submitted in this challenge would be a good fit in any of the other existing challenges.
 
@@ -26,13 +26,13 @@ Jika ini masalahnya, ada tantangan lain di mana proposal akan selaras dengan tuj
 
 Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don't fit any other Challenge.
 
-## How does success look like?
+## Seperti apa kesuksesan itu?
 
-Funding great ideas that focus on problems that are not covered by any other Challenge.
+Mendanai ide-ide hebat yang berfokus pada masalah yang tidak tercakup oleh Tantangan lainnya.
 
-## Key Metrics to measure
+## Metrik Utama untuk diukur
 
-At the end of this challenge, we will be asking ourselves: was this challenge valuable to the community?
+Di akhir tantangan ini, kita akan bertanya pada diri sendiri: apakah tantangan ini berharga bagi masyarakat?
 
-- Successfully fund proposals, approved by the community, that don't fit well any other challenges.
+- Berhasil mendanai proposal, disetujui oleh komunitas, yang tidak cocok dengan tantangan lainnya.
 - Number of identified possible Challenges to be proposed in the following Funds based on proposals submitted in the Miscellaneous Challenge.
