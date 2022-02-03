@@ -16,7 +16,7 @@ COTI telah mengembangkan, bersama dengan kemitraan yang telah sangat produktif d
 
 Dengan Catalyst, kami menawarkan tantangan teknis inovatif kepada komunitas kami untuk memungkinkan cara baru dan kreatif bagi semua usaha kecil dan menengah yang saat ini menggunakan platform, seperti Shopify dan WooCommerce, untuk siap menerima Pembayaran ADA terintegrasi tanpa batas dengan menambahkan plug-in ke situs mereka.
 
-In a nutshell, ADA Pay currently provides the ability to send a separate payment request to each payment attempt, allowing merchants to effectively identify each client without requiring the customer's identity before completing the order. In other words, companies integrating ADA Pay enjoy the ability to send a unique address to a potential customer and be notified at every stage of the payment process via Webhook. Moreover, by registering the payment request on the client's backend, merchants can know who pays for what without disclosing the client's information to a third party.
+Singkatnya, ADA Pay saat ini menyediakan kemampuan untuk mengirim permintaan pembayaran terpisah untuk setiap upaya pembayaran, memungkinkan pedagang untuk secara efektif mengidentifikasi setiap klien tanpa memerlukan identitas pelanggan sebelum menyelesaikan pesanan. Dengan kata lain, perusahaan yang mengintegrasikan ADA Pay menikmati kemampuan untuk mengirim alamat unik ke calon pelanggan dan diberi notifikasi di setiap tahap proses pembayaran melalui Webhook. Selain itu, dengan mendaftarkan permintaan pembayaran di backend klien, pedagang dapat mengetahui siapa yang membayar untuk apa tanpa mengungkapkan informasi klien kepada pihak ketiga.
 
 Tim yang melanjutkan tantangan akan diberikan Kunci API ke sistem ADA Pay dan dokumentasi API lengkap dari solusi pembayaran. Kunci API akan memungkinkan Anda menerima dan mengirim pembayaran dengan ADA melalui testnet Cardano. Dokumentasi API juga mencakup titik akhir untuk membuat permintaan pembayaran, menarik dana Anda, dan webhook untuk memberi tahu Anda tentang aktivitas apa pun yang sedang berlangsung terkait permintaan pembayaran.
 
@@ -43,7 +43,7 @@ Kami ingin Anda mempertimbangkan hal berikut dan memberikan alasan tentang pende
 
 - Bagaimana Anda akan menguji kualitas plugin, dan seberapa mudah menerapkannya ke platform perangkat lunak?
 - Apakah plug-in dapat memproses transaksi dalam jumlah besar per detik dari situs web yang berbeda tanpa masalah?
-- How do you intend to design for the user's needs and incorporate Merchant's feedback regarding the plug-in performance?
+- Bagaimana keinginan Anda dalam merancang solusi untuk kebutuhan pengguna dan memasukkan umpan balik dari penjual mengenai kinerja plug-in?
 
 ## Parameter Pendanaan
 
