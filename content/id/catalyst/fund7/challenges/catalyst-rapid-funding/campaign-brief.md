@@ -3,7 +3,7 @@ title: Catalyst   - Mekanisme Pendanaan Cepat
 linkTitle: Catalyst   - Mekanisme Pendanaan Cepat
 type: docs
 hide_feedback: 'true'
-description: How can we distribute Cardano treasury funds more rapidly in a transparent, accountable, and safe manner?
+description: Bagaimana kita dapat mendistribusikan dana treasury Cardano lebih cepat secara transparan, dapat diauditl dan aman?
 ---
 
 Alokasi Dana: **$250,000 USD dibayarkan dalam ADA**
@@ -12,9 +12,9 @@ Alokasi Dana: **$250,000 USD dibayarkan dalam ADA**
 
 ## Ringkasan Kampanye
 
-Increasing the speed of funding is critically important to allow important projects to move rapidly from volunteers to paid professionals. While volunteerism is strong in our community (and a strength), the ability to pay people for their time will accelerate and dramatically improve the time and energy people will be able to devote to Catalyst.
+Meningkatkan kecepatan pendanaan sangat penting untuk memungkinkan proyek-proyek penting dapat bergerak cepat, dari sukarelawan menjadi profesional yang berbayar. Sementara kesukarelawanan kuat di komunitas kami (yang merupakan kelebihan tersendiri), kemampuan untuk membayar seseorang atas waktu mereka akan mempercepat dan secara dramatis meningkatkan waktu dan energi yang dapat dicurahkan seseorang untuk Catalyst.
 
-We need to explore alternative ways of scaling how we fairly distribute the treasury to grow the Cardano ecosystem. We should be willing to experiment and try different models in parallel and compare and contrast them. Paramount to our success is scaling how our community functions and decides on fair and just allocation of our treasury, measuring its impact, and continuously evolving and improving.
+Kita perlu mencari cara-cara alternatif untuk menumbuhkan bagaimana kita mendistribusikan dana treasury secara adil untuk menumbuhkan ekosistem Cardano. Kita harus mau bereksperimen dan mencoba beberapa model yang berbeda secara paralel dan membandingkan serta membedakannya. Kesuksesan yang terutama bagi kami adalah menumbuhkan bagaimana komunitas kami berfungsi dan memutuskan alokasi dana treasury kami yang adil, mengukur dampaknya, dan terus berkembang dan mengalami peningkatan.
 
 ## Kenapa Hal Ini Penting?
 
@@ -22,12 +22,12 @@ Catalyst bergantung pada kerja yang terus-menerus oleh komunitas untuk maju dan 
 
 ## Seperti apa kesuksesan itu?
 
-Implemented rapid Catalyst funding mechanisms that provide sustainable economic value to proposers within Project Catalyst guidelines.
+Menerapkan mekanisme pendanaan cepat Catalyst yang memberikan nilai ekonomi berkelanjutan kepada pengusul proposal yang sejalan dalam pedoman Project Catalyst.
 
 ## Metrik Utama untuk diukur
 
 - Apakah solusi mekanisme pendanaan yang diajukan lebih cepat dari Catalyst?
-- How Scalable is this proposal? How would it scale to 10x? 100x? 1000x? More?
-- How Transparent is this proposal? Is it open, auditable, and enables transparency of decisions, funding, and results?
+- Seberapa dapat tumbuh proposal ini? Bagaimana dapat tumbuh menjadi 10x? 100x? 1000x? Atau lebih?
+- Seberapa transparan proposal ini? Apakah terbuka, dapat diaudit, dan memungkinkan terjadi transparansi keputusan keputusan, pendanaan dan hasil?
 - Seberapa akuntabel proposal ini? Apa saja persyaratan pelaporan? Apakah dana dicairkan dari waktu ke waktu berdasarkan kinerja?
 - Seberapa berpengaruh proposal ini? Apakah dana yang dicairkan menghasilkan hasil yang positif? Apakah proposal ini menghasilkan keuntungan yang lebih besar dibandingkan dengan Catalyst?
