@@ -3,7 +3,7 @@ title: Menumbuhkan Partisipasi Akar Rumput dalam Cardano DeFi
 linkTitle: Menumbuhkan Partisipasi Akar Rumput dalam Cardano DeFi
 type: docs
 hide_feedback: 'true'
-description: How to encourage new teams to Deploy Defi Solutions on Cardano?
+description: Bagaimana mendorong tim baru dalam mewujudkan solusi DeFi di Cardano?
 ---
 
 Besaran Dana: **200.000 USD dibayarkan dalam ADA**
@@ -20,9 +20,9 @@ Dalam menjembatani perpindahan ini, beberapa proyek mulai beralih ke blockchain 
 
 Cardano pada akhirnya meluncurkan Smart Contracts dan hal ini membuka pintu inovasi yang luas bagi DeFi. Kita dapat menawarkan bukan hanya blockchain dengan skalabilitas yang baik, tetapi juga aman serta memiliki lapisan tata kelola yang menyeluruh dalam waktu dekat. Karakteristik inilah yang menempatkan Cardano pada tempat terdepan, dengan peluang yang bagus untuk mendapatkan pangsa pasar dan memperluas basis pengguna.
 
-With Catalyst, we have the opportunity to fund DeFi projects and allow them to have greater decentralization and resilience, which are essential aspects for DeFi projects. Many projects end up accepting the participation of Venture Capitals due to lack of financial resources. The participation of VCs in DeFi projects usually ends up causing a large part of the supply distribution to be alocated to VCs and this compromises the decentralization and consequently the security of these projects.
+Bersama Catalyst, kita memiliki kesempatan untuk mendanai proyek - proyek DeFi dan memastikan desentralisasi dan keberlanjutan semua proyek tersebut, dimana dua hal ini merupakan aspek penting dalam sebuah proyek DeFi. Banyak proyek yang pada akhirnya menerima keterlibatan Venture Capital karena kurangnya sumber pendanaan. Padahal, keterlibatan VCs dalam proyek DeFi seringkali menyebabkan sebagian besar supply distribution (token) menjadi teralokasikan untuk VCs, hal ini meruntuhkan konsep desentralisasi dan, sebagai konsekuensinya, juga melemahkan keamanan proyek-proyek tersebut.
 
-The DeFi ecosystem today is taken over by projects full of vulnerabilities, hacks are constant, economic models are copied from other projects, decentralization is no longer a priority and few projects are dedicated to create economic models/bonding curves/algorithms thinking about the users' needs.
+Ekosistem DeFi yang ada saat ini mayoritas diisi oleh proyek-proyek yang rentan, peretasan seringkali terjadi, bisnis model yang disalin dari proyek lain, dan desentralisasi tidak lagi menjadi prioritas. Hanya ada sebagian kecil proyek yang memang didedikasikan untuk merancang bisnis model/algoritma sesuai dengan kebutuhan para pengguna.
 
 Sudah jelas, dalam beberapa tahun belakangan ini, bahwa bugs, peretasan, dan kerentanan bukanlah hal yang baru untuk Smart Contracts di Ethereum. Dapps yang berjalan di Binance Smart Chain dan Cosmos pun juga mengalami kerentanan yang sama.
 
@@ -32,7 +32,7 @@ Sudah jelas, dalam beberapa tahun belakangan ini, bahwa bugs, peretasan, dan ker
 
 Cardano hadir untuk mengubah paradigma ini dan membawa keamanan bagi para pengguna.
 
-Privacy and resistance to censorship are also important but often overlooked in favor of subsidizing (yield farming). How to encourage DeFi projects to seek resilience, safety, research-based economic models and critical thinking?
+Privasi dan resistensi atas penyensoran juga merupakan hal yang sangat penting, namun sering diabaikan demi mengejar imbal hasil yang maksimal dalam investasi (yield farming). Bagaimana mendorong proyek DeFi agar memiliki ketahanan, keamanan, serta bisnis model yang berbasis pada penelitian dan pemikiran kritis?
 
 ## Potensi Tujuan
 
@@ -41,11 +41,11 @@ Privacy and resistance to censorship are also important but often overlooked in 
 - Algoritmik mata uang koin stabil
 - Dapps pinjam/meminjam
 - Derivatif
-- Research for open source new financial models (bonding curves)
+- Penelitian untuk model keuangan baru (bonding curves) yang bersifat open source
 
 ## Porsi Pembagian Anggaran
 
-New or less popular teams have difficulty competing with influential and popular teams in the Cardano community. Even ensuring a good score is difficult to get engagement in the voting stage to compete with consolidated and influential teams in the Cardano community.
+Tim-tim baru dan kurang populer selalu mengalami kesulitan dalam berkompetisi dengan tim-tim yang telah memiliki pengaruh dan populer dalam komunitas Cardano. Bahkan, memastikan telah mendapatkan rating yang bagus pun masih sangat sulit untuk mendapatkan engagement dalam tahap voting dibanding dengan tim berpengaruh dan matang di komunitas Cardano.
 
 Tantangan ini dimaksudkan untuk mendorong tim-tim baru, yang belum pernah menerima dana dari Catalyst sehingga mereka dapat memiliki kesempatan untuk menunjukkan nilai mereka kepada komunitas.
 
@@ -56,7 +56,7 @@ Contoh:
 - Tim A dengan 2 proposal senilai $25.000 USD setiap proposal
 - Tim B dengan 5 proposal senilai $10.000 USD setiap proposal
 - Tim C dengan 1 proposal senilai $50.000 USD
-- Team D with 1 proposal of $15,000 USD + 1 proposal of $35,000 US
+- Tim D dengan 1 proposal senilai $15.000 USD dan 1 proposal senilai $35.000 USD
 
 ## Mengapa hal ini penting?
 
@@ -68,15 +68,15 @@ Paling tidak, akan ada 4 tim baru yang mampu membangun DeFi Dapps di Cardano pad
 
 ## Tolak Ukur Utama
 
-- How many DeFi dapps were launched on Cardano mainnet within 3, 6 and 12 months after funding.
-- How many daily active users are the DeFi dapps funded in this cohort attracting.
-- How long does each dapp take to be launched.
-- How much Total Value Locked (TVL) are the funded DeFi dapps able to capture 3, 6 and 12 months after launch.
-- Number of bugs and vulnerabilities found in each dapp.
+- Seberapa banyak DeFi dapps yang diluncurkan di Mainnet Cardano dalam 3, 6, dan 12 bulan setelah pendanaan.
+- Seberapa banyak pengguna aktif harian yang dapat ditarik oleh DeFi dapps yang didanai dalam kelompok ini.
+- Seberapa lama waktu yang dibutuhkan setiap dapps untuk diluncurkan
+- Seberapa besar Total Value Locked (TVL) yang didapat oleh DeFi dapps yang didanai dalam kurun waktu 3, 6, dan 12 bulan setelah peluncuran.
+- Seberapa banyak jumlah bugs dan kerentanan sistem yang ditemukan dalam setiap dapps.
 - Jumlah sumber daya yang hilang disebabkan oleh bugs ataupun kerentanan sistem.
-- Number of users participating in testnets.
-- Number of token holders/unique wallet(when dapp has a token).
-- Distribution of supply between the team and the community.
+- Jumlah pengguna yang berpartisipasi dalan testnets.
+- Jumlah pemegang token/ unique wallet (jika dapps memiliki fitur token).
+- Distribusi jumlah token antara tim dan komunitas.
 - Jumlah listed-pairs (dalam hal proyek berupa DEXs).
-- Number of listed assets (cases of loan+lending dapps, derivatives and synthetic assets).
-- Number of articles and open source financial models research delivered to the community.
+- Jumlah daftar aset (dalam hal proyek berupa loan/lending dapps, derivatives, ataupun synthetic assets).
+- Jumlah artikel maupun penelitian kajian model keuangan open source yang dibagikan kepada komunitas.
