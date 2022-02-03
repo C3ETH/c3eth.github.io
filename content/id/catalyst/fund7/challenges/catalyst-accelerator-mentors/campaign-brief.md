@@ -12,7 +12,7 @@ Besaran Dana: **500.000 USD dibayarkan dalam bentuk ADA**
 
 ## Ringkasan Kampanye
 
-Startup innovation and co-creation is the lifeblood of Cardano. Many early stage ventures are now launching into the Cardano ecosystem and Catalyst wants to fuel many pioneering successes.
+Inovasi start-up dan kreasi bersama adalah sumber kehidupan Cardano. Banyak usaha tahap awal diluncurkan sekarang ke ekosistem Cardano dan Catalyst ingin mendorong lebih banyak perintis menuju keberhasilan.
 
 Lebih banyak yang harus dilakukan dalam percepatan proyek terbaik yang telah didanai Catalyst dengan menyediakan jalur ke dukungan bisnis profesional, investasi, dan program pendampingan.
 
@@ -28,16 +28,16 @@ Kami mengantisipasi bahwa sejumlah proposal yang menjawab tantangan ini akan did
 
 ## Mengapa Hal Ini Penting?
 
-Knowledge is power and enabling project's to tap into to a distributed network of professional mentors and supporters will enable ventures to grow stronger and faster. Catalyst wants organizations and groups who have a track record of business incubation and acceleration to apply.
+Pengetahuan adalah kekuatan dan memberikan suatu proyek kesemaptan masuk dalam memasuki jaringan terdistribusi dari mentor profesional dan pendukung akan memungkinkan usaha untuk tumbuh lebih kuat dan lebih cepat. Catalyst menginginkan organisasi dan kelompok yang memiliki rekam jejak inkubasi dan akselerasi bisnis untuk mengajukan usulan.
 
 ## Bagaimana Kesuksesan Ini Akan Terlihat?
 
-- Access to financial, human, and intellectual capital to fuel the success of Catalyst-funded projects
+- Akses ke kapital finansial, manusia, dan intelektual untuk mendorong keberhasilan proyek yang didanai Catalyst
 - Program yang berbagi dalam semangat kreasi bersama, bersedia berkolaborasi dengan kami di Catalyst, pemangku kepentingan Cardano, dan kelompok Catalyst.
 
 ## Tolak Ukur Utama
 
 - Jumlah proyek yang dapat dipercepat dalam lingkup pendanaan
-- Number of mentors and investors that can be onboarded into the ecosystem
+- Jumlah mentor dan investor yang dapat diajak bergabung ke dalam ekosistem
 - Distribusi program di seluruh dunia untuk melayani audiensi yang berbeda
 - Kualitas dan kekuatan peluang yang dibawa oleh setiap program akselerator
