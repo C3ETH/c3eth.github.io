@@ -20,7 +20,7 @@ Acara ini penting dan kritikal bagi keberhasilan Catalyst karena akan menyatukan
 
 - Bagaimana kita dapat meningkatkan partisipasi yang berarti dalam Project Catalyst di antara semua pemangku kepentingan?
 - Bagaimana kita dapat meningkatkan interaksi pemilih dan pengusul proposal?
-- How can we onboard and integrate new people into Project Catalyst?
+- Bagaimana kita bisa mengajak bergabung dan mengintegrasikan orang baru ke dalam Project Catalyst?
 - Bagaimana kita bisa menggunakan acara untuk membangun tim baru?
 - Bagaimana lokakarya dapat meningkatkan kolaborasi di Project Catalyst?
 - Bagaimana partisipasi aktif dalam acara dapat ditingkatkan?
