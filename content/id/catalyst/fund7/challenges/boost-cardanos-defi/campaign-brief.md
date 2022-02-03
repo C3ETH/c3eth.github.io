@@ -1,9 +1,9 @@
 ---
-title: Mendorong Desentralisasi Finansial di Cardano
-linkTitle: Mendorong Desentralisasi Finansial di Cardano
+title: Meningkatkan DeFI di Cardano
+linkTitle: Meningkatkan DeFI di Cardano
 type: docs
 hide_feedback: 'true'
-description: Bagaimana kita dapat mendorong tim Desentralisasi Finansial untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?
+description: Bagaimana kita dapat mendorong tim DeFI untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?
 ---
 
 Alokasi Dana: **$500.000 USD dibayarkan dalam ADA**
@@ -12,7 +12,7 @@ Alokasi Dana: **$500.000 USD dibayarkan dalam ADA**
 
 ## Ringkasan Kampanye
 
-Tantangan sebelumnya (Meningkatkan Ekosistem DeFi Cardano) telah menunjukkan keberhasilan dan memungkinkan proyek - proyek Desentralisasi Finansial (DeFi) populer seperti Liqwid Finance; Minswap; dan ErgoDEX mendapatkan pendanaan dari perbendaharaan, tanpa harus melalui pihak lain seperti Modal Ventura. Dengan peluncuran bermodel yang berazaskan pada prinsip keadilan yang merata, memungkinkan distribusi pendanaan yang lebih merata dan berkelanjutan bagi komunitas/pengguna.
+Tantangan sebelumnya (Meningkatkan Ekosistem DeFi Cardano) telah menunjukkan keberhasilan dan memungkinkan proyek - proyek Desentralisasi Finansial (DeFi) yang populer seperti Liqwid Finance, Minswap, dan ErgoDEX untuk mendapatkan pendanaan dari perbendaharaan, tanpa harus melalui pihak lain seperti Modal Ventura. Dengan peluncuran bermodel yang berazaskan pada prinsip keadilan yang merata, memungkinkan distribusi pendanaan yang lebih merata dan berkelanjutan bagi komunitas/pengguna.
 
 Fakta bahwa proposal ERGODEX adalah proposal dengan suara terbanyak kedua dan di bagian surplus pendanaan, merupakan indikator penting yang menunjukkan daya saing proposal - proposal di Fund5.
 
