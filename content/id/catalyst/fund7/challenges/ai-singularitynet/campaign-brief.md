@@ -14,7 +14,7 @@ Pendanaan: **500,000 USD dibayarkan dalam ADA**
 
 Artificial Intelligence akan menjadi kekuatan penentu di abad ini. Ini akan menjadi setidaknya sebesar cryptocurrency dan blockchain.
 
-Komunitas Singularity telah memberikan kepercayaan mereka kepada Cardano dengan cara memberikan suara (voting) secara besar-besaran dengan mengambil resiko di token-token AGI mereka dengan cara menerbitkan token-token AGI baru di atas Cardano dan berpindah dengan cepat dari Ethereum ke Cardano. Kita bisa menghargai kepercayaan itu dan resiko yang mereka ambil dengan cara mendedikasikan sebuah community challenge (tantangan komunitas) kepada mereka and bidang usaha mereka.
+Komunitas Singularity telah memberikan kepercayaan mereka kepada Cardano dengan cara memberikan suara (voting) secara besar-besaran dengan mengambil resiko membahayakan token-token AGI mereka dengan cara menerbitkan token-token AGI baru di atas Cardano dan berpindah dengan cepat dari Ethereum ke Cardano. Kita bisa menghargai kepercayaan itu dan resiko yang mereka ambil dengan cara mendedikasikan sebuah community challenge (tantangan komunitas) kepada mereka and bidang usaha mereka.
 
 Kecepatan dan efisiensi dari Cardano dikombinasikan dengan potensi dari SingularityNet akan menciptakan sebuah kemitraan hebat yang membedakan kedua komunitas dari cryptocurrency-cryptocurrency/token-token lain dan mendorong perkembangan dan nilai yang sangat besar.
 
@@ -30,7 +30,7 @@ beberapa fakta:
 
 ### Microsoft
 
-- Mengakuisi Nuance dengan nilai $19.7 Milyar - untuk memunculkan kemampuan-kemampuan Cloud (komputasi awan) dan AI di bidang kesehatan dan industri-industri lainnya
+- Mengakuisi Nuance dengan nilai $19.7 Milyar - untuk memunculkan kemampuan-kemampuan baru Cloud  (komputasi awan) dan AI di bidang kesehatan dan industri-industri lainnya
 
 ### **McKinsey** memperkirakan teknik-teknik AI memiliki potensi untuk:
 
@@ -45,7 +45,7 @@ beberapa fakta:
 
 ### **SingularityNET** dilahirkan dari sebuah niat bersama untuk menyebarkan kekuatan dari AI.
 
-- **Sebuah solusi AI full-stack (lengkap) yang ditenagai oleh sebuah protokol desentralisasi** dan platform terdesentralisasi pertama dan satu-satunya yang memungkinkan berbagai AI untuk bekerjasama dan berkoordinasi pada skala besar, menghilangkan salah satu faktor penghalang utama dari perkembangan AI saat ini — kurangnya interoperabilitas — yang membatasi sekali kemampuan untuk mengungkit kekuatan-kekuatan dan kemampuan-kemampuan dari setiap AI. -**Memampukan setiap orang untuk memanfaatkan sebuah jaringan global dari algoritma-algoritma, layanan-layanan, dan agen AI. ** Tidak harus lagi teknologi AI berada di silo-silo, hanya mampu untuk beroperasi di dalam sebuah perusahaan, infrastruktur, atau industri tertentu.
+- **Sebuah solusi AI full-stack (lengkap) yang ditenagai oleh sebuah protokol desentralisasi** dan platform terdesentralisasi pertama dan satu-satunya yang memungkinkan berbagai AI untuk bekerjasama dan berkoordinasi pada skala besar, menghilangkan salah satu faktor penghalang utama dari perkembangan AI saat ini — kurangnya interoperabilitas — yang membatasi sekali kemampuan untuk mengungkit kekuatan-kekuatan dan kemampuan-kemampuan dari setiap individu AI. -**Memampukan setiap orang untuk memanfaatkan sebuah jaringan global dari algoritma-algoritma, layanan-layanan, dan agen AI.** Tidak harus lagi teknologi AI berada di silo-silo, hanya mampu untuk beroperasi di dalam sebuah perusahaan, infrastruktur, atau industri tertentu.
 - **Sophia**, robot paling ekspresif di dunia, adalah salah satu penerapan kami.
 
 ## Seperti apa gambaran suksesnya?
