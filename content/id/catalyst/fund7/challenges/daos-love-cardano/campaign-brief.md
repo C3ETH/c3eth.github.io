@@ -1,18 +1,18 @@
 ---
-title: DAOs ❤ Cardano
-linkTitle: DAOs ❤ Cardano
+title: DAO ❤ Cardano
+linkTitle: DAO ❤ Cardano
 type: docs
 hide_feedback: 'true'
-description: How can we make Cardano the go-to choice for DAOs to manage themselves?
+description: Bagaimana kita dapat menjadikan Cardano sebagai pilihan utama bagi DAO untuk mengelola diri mereka sendiri?
 ---
 
 Alokasi Dana: **$500,000 USD dibayarkan di Ada**
 
 [Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26237) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-Currently if a DAO (even one that is aimed to build products and services around Cardano) wants to setup their DAO infrastructure, the current options are all based on, mostly, the Ethereum blockchain.
+Saat ini jika DAO (bahkan yang ditujukan untuk membangun produk dan layanan di sekitar Cardano) ingin menyiapkan infrastruktur DAO mereka, opsi saat ini semuanya didasarkan pada, sebagian besar, blockchain Ethereum.
 
 DApps ini berkisar dari manajemen Treasury dasar, hingga pengambilan keputusan di DAO dan bahkan layanan pendukung seperti Decentralized Justice. Beberapa dari mereka adalah:
 
@@ -32,12 +32,12 @@ DApps ini berkisar dari manajemen Treasury dasar, hingga pengambilan keputusan d
 
 Aplikasi Blockchain telah berpindah dari perdagangan ke DeFi, ke NFT. DAO adalah yang selanjutnya. Cardano harus siap ketika itu terjadi.
 
-## How does success look like?
+## Seperti apa kesuksesan itu?
 
 There are more and better solutions to manage your DAO with Cardano than with any other blockchain.
 
-## Key Metrics to measure
+## Metrik Utama untuk diukur
 
-- Amount of ADA coming from DAOs transaction fees after the solutions on this challenge get implemented (&gt; than the challenge's allocated fund amount)
+- Jumlah ADA yang berasal dari biaya transaksi DAO setelah solusi tantangan ini diterapkan (&gt; dari jumlah dana yang dialokasikan tantangan)
 - Number of DAOs that use Cardano as governance/management chain in 6 months.
 - Jumlah peralatan/kerangka kerja DAO yang tersedia untuk Operasi DAO (&gt;1).
