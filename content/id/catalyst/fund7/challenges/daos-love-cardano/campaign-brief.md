@@ -26,7 +26,7 @@ DApps ini berkisar dari manajemen Treasury dasar, hingga pengambilan keputusan d
 ### Cardano membutuhkan:
 
 1. Alat serupa untuk menawarkan alternatif yang kompetitif untuk blockchain lainnya.
-2. Additional not yet existing tools to put the blockchain in an advantage when new DAOs needs to evaluate which chain to use for their platforms.
+2. Alat tambahan yang belum ada untuk memberikan keunggulan ke blockchain ini ketika DAO baru perlu mengevaluasi blockchain mana yang akan digunakan untuk platform mereka.
 
 ## Kenapa Hal Ini Penting?
 
@@ -34,10 +34,10 @@ Aplikasi Blockchain telah berpindah dari perdagangan ke DeFi, ke NFT. DAO adalah
 
 ## Seperti apa kesuksesan itu?
 
-There are more and better solutions to manage your DAO with Cardano than with any other blockchain.
+Ada solusi yang lebih banyak dan lebih baik untuk mengelola DAO anda dengan Cardano daripada dengan blockchain lainnya.
 
 ## Metrik Utama untuk diukur
 
 - Jumlah ADA yang berasal dari biaya transaksi DAO setelah solusi tantangan ini diterapkan (&gt; dari jumlah dana yang dialokasikan tantangan)
-- Number of DAOs that use Cardano as governance/management chain in 6 months.
+- Jumlah DAO yang menggunakan Cardano sebagai sistem tata kelola/manajemen dalam 6 bulan.
 - Jumlah peralatan/kerangka kerja DAO yang tersedia untuk Operasi DAO (&gt;1).
