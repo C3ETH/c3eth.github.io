@@ -3,7 +3,7 @@ title: Mengatasi Serangan Disinformasi Dunia Maya
 linkTitle: Mengatasi Serangan Disinformasi Dunia Maya
 type: docs
 hide_feedback: 'true'
-description: How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?
+description: Bagaimana kita dapat mencegah upaya pengacauan Cardano melalui skenario Distributed Denial of Truth (DDoT)?
 ---
 
 Besaran Dana: **100.000 USD dibayarkan dalam bentuk ADA**
@@ -14,7 +14,7 @@ Besaran Dana: **100.000 USD dibayarkan dalam bentuk ADA**
 
 Dalam sistem proof of stake dengan tata kelola terdistribusi, pemahaman umum tentang kebenaran dan ketergantungan terhadap sumber otentik dari informasi yang benar dan dapat dipertanggungjawabkan bisa menjadi penting untuk menghindari perpecahan komunitas yang bertikai menjadi dua kubu atau lebih.
 
-A distributed denial-of-truth (DDoT) attack could be defined as a malicious attempt to disrupt the normal operations of a community, service or network by overwhelming the target, its surrounding infrastructure and community with a flood of disinformation and malinformation.
+Serangan distributed denial-of-truth (DDoT) dapat didefinisikan sebagai upaya jahat untuk mengganggu operasional normal dari komunitas, layanan atau jaringan dengan membanjiri target, infrastruktur dan komunitas di sekitarnya dengan disinformasi dan informasi yang salah.
 
 Disinformasi adalah rekayasa atau manipulasi konten audio/visual/teks dengan sengaja, teori konspirasi atau rumor yang sengaja dibuat, atau untuk menyebarkan ketidakpercayaan. Dengan disinformasi, informasi buruk disebarkan dengan maksud untuk menipu.
 
@@ -32,7 +32,7 @@ Kita semua sadar bagaimana satu orang (Elon Musk) sudah mampu menggerakkan pasar
 
 Pengusul dalam tantangan ini akan fokus pada peningkatan transparansi semua segmen transfer perbendaharaan moneter Cardano dan membuat tutorial "ramah-pemula" tentang cara memantau peristiwa keuangan sejak awal berdirinya Cardano dan entitas pendiri utamanya.
 
-Proposers would also focus on shining a powerful light on old and new attempts to game the system, further scams, fleece users, sow distrust, spread lies and destabilize the community.
+Pengusul juga akan fokus pada upaya lama dan baru dalam mempermainkan sistem, penipuan lebih lanjut, pengguna yang curang, penabur ketidakpercayaan, penyebaran kebohongan dan pengacau komunitas.
 
 Banyak skenario DDoT yang mungkin berkembang jika komunitas Cardano tidak bekerja secara proaktif dalam pencegahannya.
 
@@ -40,17 +40,17 @@ Salah satu contoh skenario DDoT yang ditemukan dalam menggambarkan bagaimana seg
 
 Contoh skenario yang melibatkan itikad buruk: Mantan/pimpinan atau pendiri atau peneliti/manajer terkemuka dari salah satu dari tiga entitas pendiri Cardano mengeluarkan pernyataan yang tidak benar yang mempertanyakan legitimasi upaya/niat entitas pendiri lain atau kemungkinan kejahatan keuangan.
 
-Several prominent community SPOs side with the accusing entity, as do several leading Youtube influencers and crypto media. Other side with the accused side. Some companies start distancing themselves.
+Beberapa SPO komunitas terkemuka berpihak pada entitas yang menuduh, seperti halnya beberapa influencer Youtube dan media kripto terkemuka. Kubu lain berpihak pada yang tertuduh. Beberapa perusahaan mulai menjauhkan diri.
 
-Rumors circulate that one founding entity allegedly secretly siphoned funds and that has been done behind the scenes. Another rumor circulates that one of the Cardano entities has installed a backdoor and several SPOs announce they have reduced their pledges out of fear. Panic spreads. The allegations are amplified through social media.
+Desas-desus beredar bahwa salah satu entitas pendiri diduga diam-diam menguras dana dan itu dilakukan di belakang layar. Desas-desus lain beredar bahwa salah satu entitas Cardano telah memasang portal rahasia dan beberapa SPO mengumumkan bahwa mereka telah mengurangi pledge mereka karena takut. Kepanikan akan menyebar. Tuduhan itu diperkuat melalui media sosial.
 
 Kebenaran sulit ditegakkan - referensi dibuat untuk pembicaraan dan diskusi pribadi, tuduhan publik sulit untuk diverifikasi.
 
-The general community has no way to verify the true merits of the claims - as they are undocumented. Two camps emerge. Cardano community splits along fault lines. This adds more fuel to the fire. ADA value plunges. The very sources of truth in the Cardano ecosystem come under question. The entire system teeters. A DDOT attack by a group of two dozen well organized distributed players is underway. Governance is rocked.
+Komunitas umum tidak memiliki cara untuk memverifikasi manfaat sebenarnya dari klaim tersebut - karena klaim tersebut tidak didokumentasikan. Dua kubu muncul. Komunitas Cardano terbelah menjadi dua. Hal ini menambahkan lebih banyak bahan bakar ke dalam kobaran api. Nilai ADA turun. Sumber kebenaran dalam ekosistem Cardano dipertanyakan. Seluruh sistem diambang kolaps. Serangan DDOT oleh sekelompok dua lusin pemain terdistribusi yang terorganisir dengan baik sedang berlangsung. Pemerintahan diguncang.
 
 ## Mengapa Hal Ini Penting?
 
-Legacy systems have been brought to the brink by the inability of stakeholders, participants and the public to agree on what is truth.
+Sistem-sistem lama telah dibawa ke tepi jurang oleh ketidakmampuan pemangku kepentingan, peserta dan publik dalam menyepakati apa itu kebenaran.
 
 ## Bagaimana Kesuksesan Ini Akan Terlihat?
 
@@ -59,10 +59,10 @@ Kebenaran tentang Cardano dan peristiwa yang sedang berlangsung maupun masa lalu
 ## Tolak Ukur Utama
 
 - Akses lebih mudah terhadap informasi tentang perbendaharaan Cardano dan dananya, pencairan perbendaharaan, kebijakan moneter masa lalu, saat ini dan masa depan
-- Historical transactions from the treasury and founding entities can be easily identified by any non-power user of Cardano with a couple of clicks
+- Transaksi historis dari perbendaharaan dan entitas pendiri dapat dengan mudah diidentifikasi oleh pengguna umum Cardano dengan beberapa klik
 - Sumber informasi Treasury 101 dibuat untuk menjelaskan dasar-dasar cara kerja Treasury dan bagaimana semua fakta terkait Treasury dapat diverifikasi secara independen - dengan panduan
 - Repositori penipuan lama/baru, upaya penipuan, teori dan kebohongan palsu yang dibantah dapat dengan mudah diperiksa dan diakses
 - Situs web yang dikelola komunitas diperluas untuk memasukkan lebih banyak konten ramah pemula tentang Treasury Cardano, tingkat inflasi ADA, kalkulator kebijakan moneter ADA di masa depan
 - Situs web yang dikelola komunitas diperluas untuk memasukkan konten historis dan terkini tentang berbagai jenis penipuan Cardano, pemain beritikad buruk, ketidakbenaran, dan penyebaran FUD.
-- New sources and repositories of information are developed containing timelines for Cardano project, FAQs and criticisms of Cardano as well as answers to criticisms.
+- Sumber dan penyimpanan informasi baru yang dikembangkan berisi jadwal dari proyek Cardano, daftar segala tanya jawab (FAQ) dan kritik terhadap Cardano serta jawaban atas kritik.
 - Alat yang lebih baik untuk mencari dan menyalin informasi dari acara Cardano 360 IOG, AMA Charles Hoskinson dan dari anggota komunitas terkemuka lainnya dikembangkan.
