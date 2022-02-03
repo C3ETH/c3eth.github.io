@@ -3,7 +3,7 @@ title: Ekosistem Pengembang "Open Source"
 linkTitle: Ekosistem Pengembang "Open Source"
 type: docs
 hide_feedback: 'true'
-description: How can we ensure that the cardano ecosystem is build on a framework which is owned by the community and equally accessible to all?
+description: Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun diatas kerangka yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?
 ---
 
 Ukuran Dana: **$200,000 USD dibayarkan dalam ADA**
@@ -12,9 +12,9 @@ Ukuran Dana: **$200,000 USD dibayarkan dalam ADA**
 
 ## Ringkasan Kampanye
 
-This challenges aims too support the development of common tools needed for projects to make use of the cardano blockchain.
+Tantangan ini bertujuan untuk mendukung pengembangan perangkat umum yang diperlukan suatu proyek agar dapat memanfaatkan blockchain Cardano.
 
-There are core functionalities that almost all Dapp projects need like querying the blockchain, managing wallets, creating transactions. These functionalities should be freely available to all and be owned by the community. Some of these solutions are currently only easily available as Software as a Service solution. If most Dapps are build on top of the same proprietary solutions to access the blockchain, however, this leads to centralization and introduces risk.
+Terdapat fungsi inti yang dibutuhkan di hampir semua proyek dapps, seperti meminta data (query) blockchain, mengelola dompet, membuat transaksi. Fungsi-fungsi ini harus tersedia secara bebas untuk semua dan dimiliki oleh komunitas. Beberapa dari solusi tersebut saat ini hanya tersedia dengan mudah sebagai solusi Software as a Service. Namun, jika sebagian besar dapps dibangun di atas solusi yang dimiliki oleh perorangan atau perusahaan yang sama yang kemudian digunakan untuk mengakses blockchain, ini mengarah pada sentralisasi dan menimbulkan risiko.
 
 Tujuan dari Cardano termasuk memasukkan mereka yang saat ini sedang tersisih. Jika alat terbaik yang dibangun dengan dana komunitas hanya dapat didapat dengan cara berbayar, ini menciptakan lapangan bermain yang tidak adil. Siapa pun yang ingin mulai membangun di atas cardano harus dapat dengan mudah mengonfigurasi node dengan utilitas yang mereka butuhkan. Siapa pun yang menghosting node (sebagai SPO atau lainnya) harus dapat dengan mudah menambahkan dan menawarkan layanan tambahan sesuai keinginan mereka.
 
@@ -40,7 +40,7 @@ Ada fungsionalitas inti yang dibutuhkan sebagian besar proyek, solusi "open sour
 
 ## Seperti apa kesuksesan itu?
 
-A healthy mix of both private and public groups build on top off, and contribute to, a solid and open foundation for development
+Perpaduan yang sehat antara kelompok swasta dan publik yang dibangun di atasnya, dan berkontribusi pada landasan yang kokoh dan terbuka untuk pengembangan
 
 ## Metrik Utama untuk diukur
 
@@ -53,4 +53,4 @@ Di akhir tantangan ini, pengembang juga akan lebih mudah menemukan alat yang ter
 
 Sudahkah kita berhasil membuat kesimpulan yang dapat dilihat publik tentang adanya alat-alat gratis dan "open source"?
 
-Other metrics could involve participating number of devs on open source projects, though this can be hard to track. We can track if events have been organised and seen participation to support open source projects
+Metrik lain adalah juga melibatkan sejumlah pengembang yang berpartisipasi pada proyek "open source", meskipun hal ini sulit dilacak. Kami dapat melacak jika acara ada penyelenggaranya dan partisipasi jelas untuk mendukung proyek "open source".
