@@ -1,6 +1,6 @@
 ---
-title: Lobbying for favorable legislation
-linkTitle: Lobbying for favorable legislation
+title: Melobi untuk perundang-undangan yang menguntungkan
+linkTitle: Melobi untuk perundang-undangan yang menguntungkan
 type: dokumen
 hide_feedback: 'true'
 description: Bagaimana kita bisa mempertahankan diri dari serangan oleh pemerintah otoriter dan mengkompromikan undang-undang dan kebijakan pajak yang tidak adil?
@@ -37,4 +37,4 @@ Kita berhasil menunda atau membalikkan undang-undang yang membahayakan adopsi kr
 - Jumlah yurisdiksi yang disukai melalui lobi
 - Jumlah undang-undang yang telah dimodifikasi
 - Jumlah ahli dalam regulasi, pengacara dan anggota lain yang terlibat
-- Number of partnerships and collaborations with organizations and non-profits that work in the same cause -Number of votes of politicians engaged
+- Jumlah kemitraan dan kolaborasi dengan organisasi dan nirlaba yang bekerja dalam tujuan yang sama -Jumlah suara politisi yang menjadi terlibat
