@@ -1,8 +1,8 @@
 ---
 title: A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar
 linkTitle: A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar
-type: dokumen
-hide_feedback: ya
+type: docs
+hide_feedback: 'true'
 description: Bagaimana kita dapat menciptakan kemitraan yang saling menguntungkan dengan SingularityNet dan pengembang dan peneliti A.I. lainnya?
 ---
 
