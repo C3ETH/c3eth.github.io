@@ -1,6 +1,6 @@
 ---
-title: Multilingual resources
-linkTitle: Multilingual resources
+title: Sumber Informasi Multibahasa
+linkTitle: Sumber Informasi Multibahasa
 type: docs
 hide_feedback: 'true'
 description: Bagaimana kita bisa memotivasi orang yang tidak berbahasa Inggris untuk belajar dan mengembangkan ekosistem Cardano dalam 3-6 bulan ke depan?
@@ -14,7 +14,7 @@ Alokasi Dana: **$100,000 USD dibayarkan di Ada**
 
 Bahasa Inggris bisa menjadi penghalang bagi banyak orang di seluruh dunia ketika mereka mencoba belajar tentang Cardano dan teknologi blockchain.
 
-At least in Spanish there are no resources for people who might want to learn how to code smart contracts with Plutus or Marlowe for example.
+Setidaknya dalam bahasa Spanyol tidak ada sumber informasi untuk orang yang mungkin ingin mempelajari cara membuat kode Smart Contracts dengan Plutus atau Marlowe misalnya.
 
 ## Mengapa Hal Ini Penting?
 
@@ -24,7 +24,7 @@ Platform multibahasa akan memungkinkan orang yang tidak berbahasa Inggris untuk 
 
 Peningkatan adopsi dan keterlibatan komunitas yang tidak berbahasa Inggris.
 
-Increased amount of resources in a variety of languages.
+Peningkatan jumlah sumber informasi dalam berbagai bahasa.
 
 ## Metrik Utama untuk diukur
 
