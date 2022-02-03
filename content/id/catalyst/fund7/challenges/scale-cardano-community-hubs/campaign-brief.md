@@ -1,6 +1,6 @@
 ---
-title: "Scale-UP Cardano's Community Hubs"
-linkTitle: "Scale-UP Cardano's Community Hubs"
+title: Menumbuhkan Pusat Kegiatan Komunitas Cardano
+linkTitle: Menumbuhkan Pusat Kegiatan Komunitas Cardano
 type: docs
 hide_feedback: 'true'
 description: Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi dan kesadaran Cardano dalam 6 bulan ke depan?
@@ -24,11 +24,11 @@ Saat Anda mendorong adopsi di tingkat dasar, Anda melakukan lebih dari sekadar '
 
 ## Mengapa Hal Ini Penting?
 
-Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
+Tanpa pengguna di tingkat dasar, kami sedang membangun produk khusus yang melayani sebagian besar hanya orang teknis dengan keahlian blockchain.
 
 ## Seperti apa kesuksesan itu?
 
-Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding
+Pusat Kegiatan Komunitas Lokal di seluruh dunia di mana orang pada umumnya dapat mengambil peran dalam bahasa mereka sendiri dan dengan pemahaman budaya mereka sendiri.
 
 ## Metrik Utama untuk diukur
 
