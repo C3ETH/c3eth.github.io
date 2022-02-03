@@ -1,7 +1,7 @@
 ---
 title: Gamer On-Chained
 linkTitle: Gamer On-Chained
-type: docs
+type: doc
 hide_feedback: 'true'
 description: Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?
 ---
@@ -24,12 +24,12 @@ Gamer siap memasuki dunia crypto. Mereka hanya membutuhkan blockchain yang jelas
 
 ## Seperti apa kesuksesan itu?
 
-Cardano becomes the go to blockchain to develop gaming applications due to its quality tooling and wide gamer centric user base.
+Cardano menjadi blockchain pilihan untuk mengembangkan aplikasi game karena peralatannya berkualitas dan basis pengguna yang luas yang berpusat pada gamer.
 
 ## Metrik Utama untuk diukur
 
 - Total pengguna aplikasi berbasis game yang dibangun di Cardano
-- Number of gaming based applications building/built on Cardano
+- Jumlah aplikasi berbasis game yang membangun/dibangun di atas Cardano
 - Jumlah nilai yang dibuat oleh gamer dalam aplikasi play-to-earn
 - Jumlah CNFT yang dibuat khusus untuk bermain game
 - Jumlah fungible token yang dibuat khusus untuk bermain game
