@@ -8,7 +8,7 @@ description: Tantangan apa yang harus diprioritaskan oleh komunitas untuk ditang
 
 Ukuran Dana: **$12.800.000 di Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26257) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting)
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26257) dan [jelajahi ide-ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting)
 
 ## Ringkasan Kampanye
 
