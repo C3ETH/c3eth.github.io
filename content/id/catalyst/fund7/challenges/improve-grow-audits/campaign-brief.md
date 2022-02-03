@@ -20,13 +20,13 @@ Tantangan Auditability bertujuan untuk memastikan transparansi dalam penggunaan 
 
 ### **Beberapa arah yang dapat diambil oleh tantangan ini**
 
-- Podcasts with teams from funded proposals.
-- Smart contract audits.
-- Platforms / Websites that perform:
-- Reporting on metrics, spending of financial resources.
-- Metrics on the development of Dapps (txs, volume, unique wallets, etc …)
-- Metrics on Number of onboarded developers, number of commits in funded proposal repositories.
-- Social media engagement indicators metrics.
+- Podcast dengan tim dari proposal yang didanai
+- Melakukan audit pada smart contracts
+- Platform / Situs web
+- Pelaporan metrik, pengeluaran finansial
+- Metrik pengembangan dapps (transaksi, volume, dompet unik, dll ...)
+- Metrik pada jumlah pengembang yang bergabung, jumlah komitmen dalam repositori proposal yang didanai
+- Metrik indikator keterlibatan media sosial
 
 ## Kenapa Hal Ini Penting?
 
@@ -44,11 +44,11 @@ Mempertimbangkan bahwa idenya adalah untuk mengaudit dan melaporkan perkembangan
 
 Jumlah laporan, artikel dan video/podcast di:
 
-- Performance
+- Kinerja
 - Prestasi
 - Keuangan
 - Jumlah pengembang yang bergabung
-- Number of commits in funded proposal repositories (Github)
+- Jumlah komitmen dalam repositori proposal yang didanai (GitHub)
 - Indikator: transaksi, volume, dan dompet unik yang berinteraksi dengan dapps
-- Number of smart contracts audited.
+- Jumlah smart contract yang diaudit
 - Indikator keterlibatan media sosial
