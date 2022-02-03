@@ -1,6 +1,6 @@
 ---
-title: Grow Latin America, Grow Cardano
-linkTitle: Grow Latin America, Grow Cardano
+title: Mengembangkan Amerika Latin, Mengembangkan Cardano
+linkTitle: Mengembangkan Amerika Latin, Mengembangkan Cardano
 type: docs
 hide_feedback: 'true'
 description: Bagaimana kita menumbuhkan ekosistem Cardano di Amerika Latin?
@@ -8,7 +8,7 @@ description: Bagaimana kita menumbuhkan ekosistem Cardano di Amerika Latin?
 
 Alokasi Dana: **$500,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26242) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Grow-Latin-America-Grow-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/grow-latin-america-grow-cardano)
+[Halaman Kampanye](https://cardano.ideascale.com/a/campaign-home/26242) dan [Jelajahi Ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-Grow-Latin-America-Grow-Cardano) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/grow-latin-america-grow-cardano)
 
 ## Ringkasan Kampanye
 
@@ -20,7 +20,7 @@ Sebagian besar kumpulan Stake Pool berbasis di Amerika Utara dan Eropa. Protokol
 
 Beberapa anggota asli komunitas Catalyst berasal dari Amerika Latin, mari manfaatkan inisiatif itu dan bawa lebih banyak orang dari bagian dunia yang indah ini ke dalam ekosistem Cardano.
 
-## Why is it Important?
+## Kenapa Hal Ini Penting?
 
 Komunitas Cardano berbasis kuat di Amerika Utara dan Eropa.
 
@@ -35,8 +35,8 @@ Berbagai macam orang dari Amerika Latin atau yang memiliki koneksi ke Amerika La
 Metrik dasar yang harus dicari untuk menentukan efektivitas tantangan ini akan mencakup:
 
 - Volume proposal yang berasal dari orang Amerika Latin yang berpartisipasi dalam Project Catalyst. -Kualitas proposal tersebut serta dampaknya terhadap komunitas lokal mereka.
-- Did we attract new members of the community from Latin American countries?
-- Will we see an increase in transactions processed (blocks minted) in Latin America? New SPOs forming?
+- Apakah kita menarik anggota komunitas baru dari negara-negara Amerika Latin?
+- Akankah kita melihat peningkatan transaksi yang diproses (blocks minted) di Amerika Latin? Akankah SPO baru terbentuk?
 - Apa yang dapat kita pelajari dari proposal yang didanai dalam hal membangun dari titik proposal awal yang berhasil didanai dari pengaturan tantangan ini?
 - Akankah aplikasi dikembangkan mungkin berguna di belahan dunia lain?
 - Akankah ada peningkatan terukur dalam kehidupan orang-orang yang tertarik pada ekosistem Cardano?
