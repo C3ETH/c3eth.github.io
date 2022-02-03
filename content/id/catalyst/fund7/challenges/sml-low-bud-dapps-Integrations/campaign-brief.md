@@ -1,9 +1,9 @@
 ---
-title: Mini/Low-Budget Dapps & Integrations
-linkTitle: Mini/Low-Budget Dapps & Integrations
+title: Dapps & Integrasi dengan Anggaran Mini/Rendah
+linkTitle: Dapps & Integrasi dengan Anggaran Mini/Rendah
 type: docs
 hide_feedback: 'true'
-description: What Low Budget / Mini Decentralized Applications will provide the most value for end users in the next 3 months?
+description: Aplikasi Terdesentralisasi dengan Anggaran Mini/Rendah apa yang akan memberikan nilai tertinggi bagi pengguna akhir dalam 3 bulan ke depan?
 ---
 
 Ukuran Dana: **$200,000 USD dibayarkan di Ada**
@@ -28,7 +28,7 @@ Karena rilis "smart contract" sudah dekat, mungkin masuk akal untuk membuat tant
 - Apa aplikasi yang paling menguntungkan atau paling banyak digunakan di ekosistem lain?
 - Kebutuhan apa yang dimiliki pengguna Cardano yang dapat diselesaikan dengan aplikasi baru?
 - Aplikasi apa yang memberikan nilai tertinggi dengan kecanggihan teknis paling sedikit?
-- Potential directions
+- Berbagai arah potensial :
 - Swap, varian sederhana (multi-partai, dll.)
 - Escrow, varian sederhana
 - Integrasi dengan produk yang ada
