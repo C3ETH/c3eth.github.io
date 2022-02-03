@@ -1,12 +1,12 @@
 ---
 title: Mendorong Desentralisasi Finansial di Cardano
 linkTitle: Mendorong Desentralisasi Finansial di Cardano
-type: dokumen
-hide_feedback: benar
+type: docs
+hide_feedback: 'true'
 description: Bagaimana kita dapat mendorong tim Desentralisasi Finansial untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?
 ---
 
-Besaran Dana: 500.000 USD dibayarkan dalam bentuk ADA
+Alokasi Dana: **$500.000 USD dibayarkan dalam ADA**
 
 [Halaman Kampanye](https://cardano.ideascale.com/a/campaign-home/26233) dan [Jelajahi Ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi)
 
@@ -30,9 +30,9 @@ Ekosistem DeFi yang ada saat ini mayoritas diisi oleh proyek-proyek yang rentan 
 
 Sudah jelas selama beberapa tahun belakangan ini bahwa bug, peretasan, dan kerentanan bukanlah hal yang unik untuk kontrak pintar di Ethereum. Dapps yang berjalan di Binance Smart Chain dan Cosmos pun juga mengalami kerentanan yang sama.
 
-- [Peretas mencuri setidaknya 600 juta USD saat mengekploitasi Poly yang terhubung ke tiga jenis blockchain](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
+- [Peretas mencuri setidaknya $600 juta USD saat mengekploitasi Poly yang terhubung ke tiga jenis blockchain](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
 
-[Thorchain menderita kerugian 5 juta USD setelah dieksploit, tim pengembang telah melakukan perbaikan](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
+[Thorchain menderita kerugian $5 juta USD setelah dieksploit, tim pengembang telah melakukan perbaikan](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
 
 Cardano hadir untuk mengubah paradigma ini dan menghadirkan keamanan bagi para pengguna.
 
@@ -49,9 +49,9 @@ Privasi dan ketahanan terhadap penyensoran juga penting, namun sering diabaikan 
 
 ## Rasio Pembagian Anggaran
 
-Untuk mendorong keberagaman yang lebih besar dari tim dan proposal yang akan didanai, setiap tim dapat meminta hingga 20% dari total anggaran sebesar 500.000 USD atau sebesar 100.000 USD.
+Untuk mendorong keberagaman yang lebih besar dari tim dan proposal yang akan didanai, setiap tim dapat meminta hingga 20% dari total anggaran sebesar $500.000 USD atau sebesar $100.000 USD.
 
-Contoh: Tim A dengan 2 proposal sebesar 50.000 USD - Tim B dengan 1 proposal sebesar 100.000 USD - Tim C dengan 1 proposal sebesar 80.000 USD + 1 proposal sebesar 20.000 USD.
+Contoh: Tim A dengan 2 proposal sebesar $50.000 USD - Tim B dengan 1 proposal sebesar $100.000 USD - Tim C dengan 1 proposal sebesar $80.000 USD + 1 proposal sebesar $20.000 USD.
 
 ## Mengapa Hal Ini Penting?
 
