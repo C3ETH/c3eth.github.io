@@ -10,7 +10,7 @@ Besaran Dana: **100.000 USD dibayarkan dalam bentuk ADA**
 
 [Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26256) dan [jelajahi ide-ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 COTI telah mengembangkan, bersama dengan kemitraan yang telah sangat produktif dan sukses dalam Cardano, solusi pembayaran ADA untuk komunitas yang sangat ramah pengguna dan berskala besar. Sebagai hasilnya, berbagai pedagang online, dari hotel kecil di Eropa hingga situs web e-niaga besar di Asia, dapat dengan mudah menerima ratusan atau ribuan transaksi ADA saat mengintegrasikan ADA Pay ke situs mereka.
 
@@ -18,7 +18,7 @@ Dengan Catalyst, kami menawarkan tantangan teknis inovatif kepada komunitas kami
 
 In a nutshell, ADA Pay currently provides the ability to send a separate payment request to each payment attempt, allowing merchants to effectively identify each client without requiring the customer's identity before completing the order. In other words, companies integrating ADA Pay enjoy the ability to send a unique address to a potential customer and be notified at every stage of the payment process via Webhook. Moreover, by registering the payment request on the client's backend, merchants can know who pays for what without disclosing the client's information to a third party.
 
-The teams proceeding with the challenge will be provided with an API Key to the ADA Pay system and complete API documentation of the payment solution. The API Key will allow you to receive and send payments with ADA over the Cardano testnet. The API documentation also includes endpoints to create payment requests, withdraw your funds, and a webhook to notify you of any ongoing activity regarding the payment request.
+Tim yang melanjutkan tantangan akan diberikan Kunci API ke sistem ADA Pay dan dokumentasi API lengkap dari solusi pembayaran. Kunci API akan memungkinkan Anda menerima dan mengirim pembayaran dengan ADA melalui testnet Cardano. Dokumentasi API juga mencakup titik akhir untuk membuat permintaan pembayaran, menarik dana Anda, dan webhook untuk memberi tahu Anda tentang aktivitas apa pun yang sedang berlangsung terkait permintaan pembayaran.
 
 Dengan alat yang dijelaskan di atas, kami berharap dari tim yang terlibat dalam tantangan untuk membuat plug-in inovatif yang akan terintegrasi dengan sistem ADA Pay kami saat ini di satu sisi dan mendukung semua perangkat lunak e-niaga berbeda yang telah disebutkan di atas (Shopify dan WooCommerce) di sisi lain.
 
@@ -28,29 +28,29 @@ Di akhir tantangan ini, kita akan bertanya pada diri sendiri: Apakah kita memili
 
 Apakah UI dan alur pembayaran dari plug-in mudah digunakan? Misalnya, apakah prosesnya lancar sejak pelanggan memasukkan barang ke keranjangnya hingga transaksi selesai?
 
-Be creative; the fewer clicks needed to complete a transaction, the better.
+Jadilah kreatif; semakin sedikit klik yang diperlukan untuk menyelesaikan transaksi, semakin baik.
 
 ## Tolak Ukur Utama
 
-- Total amount of e-commerce platforms that can be integrated into the new component.
-- Ratio of total transaction attempts and transactions completed, measuring the effectiveness of the payment flow proposed.
-- Scalability of the plug-in without compromising the quality of the service.
-- Number of merchants that can be integrated with the plug-in.
+- Jumlah total platform e-commerce yang dapat diintegrasikan ke dalam komponen baru.
+- Rasio total upaya transaksi dan transaksi yang diselesaikan, mengukur efektivitas aliran pembayaran yang diusulkan.
+- Skalabilitas plug-in tanpa mengurangi kualitas layanan.
+- Jumlah merchant yang dapat diintegrasikan dengan plug-in.
 
-## Guiding Questions:
+## Pertanyaan Panduan:
 
-We would like you to consider the following and provide rationales about the planned approach in your proposals.
+Kami ingin Anda mempertimbangkan hal berikut dan memberikan alasan tentang pendekatan yang direncanakan dalam proposal Anda.
 
-- How will you test the plug-in's quality, and how easy is it to implement it into the software platforms?
-- Is the plug-in able to process big amounts of transactions per second from different websites without problems?
+- Bagaimana Anda akan menguji kualitas plugin, dan seberapa mudah menerapkannya ke platform perangkat lunak?
+- Apakah plug-in dapat memproses transaksi dalam jumlah besar per detik dari situs web yang berbeda tanpa masalah?
 - How do you intend to design for the user's needs and incorporate Merchant's feedback regarding the plug-in performance?
 
-## Funding Parameters
+## Parameter Pendanaan
 
-COTI are providing the funding for all challenge rewards.
+COTI menyediakan dana untuk semua hadiah tantangan.
 
 Pengusul: Pengusul yang berhasil akan didanai dalam token COTI. Perlu diketahui bahwa Anda bertanggung jawab untuk memberikan alamat ERC20 yang valid yang dapat menerima token COTI. Saat mengajukan usulan, harap sebutkan alamat pengajuan proposal dengan alamat Anda yang kompatibel dengan ERC20.
 
-Community advisors: You will receive COTI for the eligible VCA and CA rewards and will be sent to your nominated ERC20 wallet address.
+Penasihat komunitas: Anda akan menerima COTI untuk hadiah VCA dan CA yang memenuhi syarat dan akan dikirim ke alamat dompet ERC20 yang Anda nominasikan.
 
-Referrers: You will receive COTI for the eligible referral rewards that will be sent to your nominated ERC20 wallet address. 1% of the COTI challenge fund will be shared between eligible referrers.
+Perujuk: Anda akan menerima COTI untuk hadiah rujukan yang memenuhi syarat yang akan dikirim ke alamat dompet ERC20 yang Anda nominasikan. 1% dari dana tantangan COTI akan dibagikan di antara perujuk yang memenuhi syarat.
