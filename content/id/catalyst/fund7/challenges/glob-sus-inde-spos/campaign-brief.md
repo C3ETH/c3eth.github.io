@@ -8,41 +8,41 @@ description: Bagaimana kita dapat mendorong desentralisasi, distribusi operator 
 
 Besaran Dana: **$100.000 USD dibayarkan dalam bentuk ADA**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26246) and [jelajahi ide-ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified) dan [Git Repository](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-Security of the network relies on a decentralised pool of SPO's to run it. Without proper support, smaller SPO's will struggle against big players moving in and pushing them out untill they have a majority market share. If these organizations use the same hosting providers for all their infrastructure, this adds additional risk.
+Keamanan jaringan bergantung pada kumpulan SPO terdesentralisasi untuk menjalankannya. Tanpa dukungan yang tepat, SPO yang lebih kecil akan berjuang melawan pemain besar yang masuk dan mendorong mereka keluar sampai mereka menguasai pangsa pasar mayoritas. Jika organisasi ini menggunakan penyedia hosting yang sama untuk semua infrastruktur mereka, hal ini akan menambah risiko tambahan.
 
-On the other hand, running nodes and participating in the network can be a great way for community initiatives to support their projects. By supporting and promoting smaller mission focussed SPO's the security of the whole network benefits. Larger hosting providers are also notorious for caring little for their environmental footprint. By promoting SPO's which run on sustainable energy sources we are achieving two goals: A lower ecological footprint of the Cardano network and a more distributed and secure network in terms of infrastructure used.
+Di sisi lain, menjalankan node dan berpartisipasi dalam jaringan dapat menjadi cara yang baik bagi komunitas pemrakarsa dalam mendukung proyek mereka. Dengan mendukung dan mempromosikan SPO kecil, maka manfaat keamanan pada seluruh jaringan akan diperoleh. Penyedia hosting besar juga dikenal tidak terlalu peduli terhadap jejak lingkungan mereka. Dengan mempromosikan SPO yang menggunakan sumber energi berkelanjutan, kami mencapai dua tujuan: Jejak ekologis yang lebih rendah pada jaringan Cardano dan jaringan yang lebih terdistribusi dan aman dalam hal infrastruktur yang digunakan.
 
-## Guiding Questions:
+## Pertanyaan Panduan:
 
-Regarding Single Stake Pool Operators, Stake Pools connected to community project &amp; Stake Pools benefiting a public cause, which proposals would:
+Perihal Operator Stake Pool Tunggal, Stake Pool yang terhubung dengan proyek komunitas &amp; Stake Pool yang bermanfaat bagi kepentingan publik, proposalnya akan:
 
-- Allow community funds to be used to support these stakepools through staking
-- Help ADA holders to make the right decisions when choosing a stakepool
-- Promote a decentralised and diverse distribution of stakepools across the globe
+- Mengizinkan dana komunitas digunakan untuk mendukung stakepool ini melalui staking
+- Membantu pemegang ADA untuk membuat keputusan yang tepat saat memilih stakepool
+- Mempromosikan distribusi stakepool yang terdesentralisasi dan beragam di seluruh dunia
 
-## Possible Directions:
+## Kemungkinan Arah:
 
 - Perancangan model kerja/smart contract dalam menggunakan dana komunitas untuk mendukung stakepool dengan staking
-- Platform/organisation to help independent SPO's promote and proof legitimacy
+- Platform/organisasi untuk membantu mempromosikan SPO mandiri dan membuktikan legitimasi
 - Sistem audit infrastruktur/hosting SPO
 - Panduan/alat untuk hosting-sendiri/mengelola stakepool
-- Develop topology models/protocols to encourage dispersed/decentralised hosting of pools
+- Mengembangkan model/protokol topologi untuk mendorong penyedia pool yang tersebar/terdesentralisasi
 
-## Why is it Important?
+## Mengapa Penting?
 
-A globally distributed self-reliant network is the best defense against a number of major threats to the network
+Jaringan mandiri yang didistribusikan secara global merupakan pertahanan terbaik terhadap sejumlah ancaman utama terhadap jaringan
 
-## How does success look like?
+## Seperti Apa Kesuksesan Itu?
 
 Ekosistem yang beragam dan sehat dari berbagai SPO di seluruh dunia yang secara kolektif menjalankan jaringan di banyak tipe infrastruktur
 
-## Key Metrics to measure
+## Metrik Utama untuk Diukur
 
-- dispersion of stakepools around the globe
+- penyebaran berbagai stakepool di seluruh dunia
 - jumlah dana komunitas dalam ADA yang di staking untuk SPO berbasis proyek/LSM
 - jumlah penyedia hosting yang secara unik terverifikasi/ infrastruktur hosting mandiri yang digunakan untuk SPO
-- number of stakepools using green energy primarily
+- jumlah stakepool yang menggunakan energi utama yang ramah lingkungan
