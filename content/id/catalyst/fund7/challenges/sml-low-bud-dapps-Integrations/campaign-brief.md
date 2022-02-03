@@ -12,15 +12,15 @@ Ukuran Dana: **$200,000 USD dibayarkan di Ada**
 
 ## Ringkasan Kampanye
 
-This challenge is designed to create a parallel challenge for "Dapps and Integrations" reserved to small projects that can deliver finalized products with a limited amount of budget in a short time horizon.
+Tantangan ini dirancang untuk menciptakan tantangan paralel untuk "Dapps dan Integrasi" yang disediakan untuk proyek kecil yang dapat menghasilkan produk akhir dengan anggaran terbatas dan dalam waktu yang singkat.
 
-Therefore, some specific guidelines are introduced, in addition to those of the traditional "Dapps &amp; Integrations", for the submission of a proposal in this challenge:
+Oleh karena itu, ada beberapa panduan khusus yang diperkenalkan, selain panduan tradisional dari "Dapps &amp; Integrasi", syarat pengajuan proposal dalam tantangan ini sebagai berikut:
 
 - Anggaran tidak boleh melebihi $1000
-- They should be complete projects, usable by end users on delivery
-- The delivery should take place within 3 months from funding
+- Mereka harus menjadi proyek yang lengkap, dapat digunakan oleh pengguna akhir pada saat selesai dikerjakan
+- Harus selesai dikerjakan dalam waktu 3 bulan dari pendanaan
 
-As the release of smart contracts is imminent, it may make sense to create a specific challenge that will ensure at least 20 new applications to attract new users to Cardano in the next 3 months.
+Karena rilis "smart contract" sudah dekat, mungkin masuk akal untuk membuat tantangan khusus yang akan memastikan setidaknya 20 aplikasi baru untuk menarik pengguna baru ke Cardano dalam 3 bulan ke depan.
 
 ## Pertanyaan Panduan
 
@@ -35,30 +35,30 @@ As the release of smart contracts is imminent, it may make sense to create a spe
 
 ## Mengapa Penting?
 
-In recent funds many small Dapps haven't been funded (but approved), as proposals with high budgets requests exhausted funds.
+Dalam pendanaan baru-baru ini, banyak Dapps kecil belum dapat didanai (tetapi telah disetujui), karena proposal dengan dana tinggi telah menghabiskan anggaran.
 
 ## Seperti apa kesuksesan itu?
 
-At least 20 novel and viable small decentralized applications get built of top of Cardano in a short time horizon, attracting new users.
+Setidaknya 20 aplikasi terdesentralisasi kecil yang baru dan layak dibangun di atas Cardano dalam waktu singkat, dapat menarik pengguna baru.
 
 ## Metrik Utama untuk diukur
 
-To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
+Untuk menilai tantangan, kami akan bertanya pada diri sendiri: Apakah upaya kami telah berhasil menarik pengguna ke platform? Apakah upaya kami telah menghasilkan aplikasi baru dan layak yang dibangun di atas Cardano?
 
 Biarkan "output aplikasi" dan "transaksi aplikasi" menjadi output dan transaksi yang menggunakan alamat skrip aplikasi; dan "token aplikasi" menjadi token yang dikeluarkan oleh aplikasi.
 
 Penggunaan aplikasi yang dikembangkan selama tantangan:
 
-- Number/growth of application output
+- Jumlah/pertumbuhan "output" aplikasi
 - Jumlah/pertumbuhan transaksi aplikasi
-- Total volume of Ada involved in application transactions
+- Total volume ADA yang terlibat dalam transaksi aplikasi
 - Total/pertumbuhan penggunaan sumber daya oleh aplikasi
-- Number/growth of distinct addresses mentioned in application transactions
+- Jumlah/pertumbuhan alamat dompet ADA berbeda yang disebutkan dalam transaksi aplikasi
 
 Jika aplikasi menggunakan token:
 
 - Jumlah/pertumbuhan token aplikasi
-- Number/growth of distinct addresses holding application tokens
+- Jumlah/pertumbuhan alamat dompte ADA berbeda yang menyimpan token aplikasi
 - Kelangsungan aplikasi yang dikembangkan selama tantangan:
 - Berapa banyak aplikasi yang masih dikembangkan dalam 3 bulan ke depan?
 - Berapa banyak aplikasi yang menghasilkan keuntungan bagi pembuatnya?
