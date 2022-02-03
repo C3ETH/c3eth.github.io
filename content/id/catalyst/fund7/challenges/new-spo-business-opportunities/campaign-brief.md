@@ -12,7 +12,7 @@ Alokasi Dana: **$250,000 USD dibayarkan dalam ADA**
 
 ## Ringkasan Kampanye
 
-Our SPOs are a most-valuable foundation of Cardano. They have invested in important infrastructure and are establishing important capabilities. This is of high value in the still very much hype-driven general Crypto space. With SPOs, the CARDANO Community can get both: Even more decentralization AND stability and professionalism at the same time.
+SPO kami adalah fondasi Cardano yang paling berharga. Mereka telah berinvestasi dalam infrastruktur penting dan membangun kemampuan penting. Hal ini bernilai tinggi di ruang crypto secara umum yang masih sangat mengikuti hype. Dengan SPO, Komunitas Cardano bisa mendapatkan keduanya: lebih terdesentralisasi dan stabilitas serta profesionalisme pada saat yang bersamaan.
 
 Atas dasar ini, banyak ide dan layanan baru dapat muncul, seperti:
 
