@@ -18,13 +18,13 @@ Satu-satunya kendala untuk mengajukan proposal dalam tantangan ini adalah bahwa 
 
 ## Mendefinisikan Penyelarasan Tantangan
 
-During the assessment stage, Community Advisors should evaluate if proposals submitted in this challenge would be a good fit in any of the other existing challenges.
+Selama tahap penilaian, Community Advisor harus mengevaluasi apakah proposal yang diajukan dalam tantangan ini akan cocok dengan tantangan lainnya yang tersedia.
 
 Jika ini masalahnya, ada tantangan lain di mana proposal akan selaras dengan tujuan tantangan, maka proposal ini tidak begitu selaras dengan 'Tantangan Lain-Lain'.
 
 ## Mengapa Hal Ini Penting?
 
-Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don't fit any other Challenge.
+Membuat Tantangan Lain-Lain dapat memungkinkan ide-ide hebat untuk didanai dalam masa Fund tertentu, bahkan jika itu tidak sesuai dengan Tantangan lainnya.
 
 ## Seperti apa kesuksesan itu?
 
@@ -35,4 +35,4 @@ Mendanai ide-ide hebat yang berfokus pada masalah yang tidak tercakup oleh Tanta
 Di akhir tantangan ini, kita akan bertanya pada diri sendiri: apakah tantangan ini berharga bagi masyarakat?
 
 - Berhasil mendanai proposal, disetujui oleh komunitas, yang tidak cocok dengan tantangan lainnya.
-- Number of identified possible Challenges to be proposed in the following Funds based on proposals submitted in the Miscellaneous Challenge.
+- Jumlah Tantangan yang mungkin diidentifikasi untuk diusulkan dalam Fund berikutnya berdasarkan proposal yang diajukan dalam Tantangan Lain-Lain.
