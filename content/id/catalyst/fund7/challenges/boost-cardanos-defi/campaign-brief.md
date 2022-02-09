@@ -1,9 +1,9 @@
 ---
-title: Meningkatkan DeFI di Cardano
-linkTitle: Meningkatkan DeFI di Cardano
+title: 'Meningkatkan DeFI di Cardano'
+linkTitle: 'Meningkatkan DeFI di Cardano'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mendorong tim DeFI untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?
+hide_feedback: true
+description: 'Bagaimana kita dapat mendorong tim DeFI untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?'
 ---
 
 Alokasi Dana: **$500.000 USD dibayarkan dalam ADA**

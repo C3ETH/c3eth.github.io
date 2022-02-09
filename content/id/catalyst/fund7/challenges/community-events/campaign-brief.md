@@ -1,9 +1,9 @@
 ---
-title: Acara Komunitas
-linkTitle: Acara Komunitas
+title: 'Acara Komunitas'
+linkTitle: 'Acara Komunitas'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat meningkatkan partisipasi yang berarti di antara komunitas dalam 6 bulan ke depan?
+hide_feedback: true
+description: 'Bagaimana kita dapat meningkatkan partisipasi yang berarti di antara komunitas dalam 6 bulan ke depan?'
 ---
 
 Alokasi Dana: **$200,000 USD dibayarkan dalam Ada**

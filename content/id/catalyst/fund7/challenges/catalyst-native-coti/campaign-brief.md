@@ -2,8 +2,8 @@
 title: 'COTI Produk Asli Catalyst:  Bayar dengan Plug-in ADA'
 linkTitle: 'COTI Produk Asli Catalyst:  Bayar dengan Plug-in ADA'
 type: docs
-hide_feedback: 'true'
-description: Apa yang akan mendorong adopsi dalam skala besar dari data diri terdesentralisasi di Cardano?
+hide_feedback: true
+description: 'Apa yang akan mendorong adopsi dalam skala besar dari data diri terdesentralisasi di Cardano?'
 ---
 
 Besaran Dana: **100.000 USD dibayarkan dalam bentuk ADA**

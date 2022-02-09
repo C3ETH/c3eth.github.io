@@ -1,9 +1,9 @@
 ---
-title: Catalyst   - Mekanisme Pendanaan Cepat
-linkTitle: Catalyst   - Mekanisme Pendanaan Cepat
+title: 'Catalyst   - Mekanisme Pendanaan Cepat'
+linkTitle: 'Catalyst   - Mekanisme Pendanaan Cepat'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mendistribusikan dana treasury Cardano lebih cepat secara transparan, dapat diauditl dan aman?
+hide_feedback: true
+description: 'Bagaimana kita dapat mendistribusikan dana treasury Cardano lebih cepat secara transparan, dapat diauditl dan aman?'
 ---
 
 Alokasi Dana: **$250,000 USD dibayarkan dalam ADA**

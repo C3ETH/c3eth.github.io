@@ -1,9 +1,9 @@
 ---
-title: DAO ❤ Cardano
-linkTitle: DAO ❤ Cardano
+title: 'DAO ❤ Cardano'
+linkTitle: 'DAO ❤ Cardano'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat menjadikan Cardano sebagai pilihan utama bagi DAO untuk mengelola diri mereka sendiri?
+hide_feedback: true
+description: 'Bagaimana kita dapat menjadikan Cardano sebagai pilihan utama bagi DAO untuk mengelola diri mereka sendiri?'
 ---
 
 Alokasi Dana: **$500,000 USD dibayarkan di Ada**

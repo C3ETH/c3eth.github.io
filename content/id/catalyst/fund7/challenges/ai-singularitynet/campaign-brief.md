@@ -1,9 +1,9 @@
 ---
-title: A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar
-linkTitle: A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar
+title: 'A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar'
+linkTitle: 'A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat menciptakan kemitraan yang saling menguntungkan dengan SingularityNet dan pengembang dan peneliti A.I. lainnya?
+hide_feedback: true
+description: 'Bagaimana kita dapat menciptakan kemitraan yang saling menguntungkan dengan SingularityNet dan pengembang dan peneliti A.I. lainnya?'
 ---
 
 Pendanaan: **500,000 USD dibayarkan dalam ADA**

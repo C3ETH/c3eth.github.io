@@ -1,9 +1,9 @@
 ---
-title: Gamer On-Chained
-linkTitle: Gamer On-Chained
+title: 'Gamer On-Chained'
+linkTitle: 'Gamer On-Chained'
 type: doc
-hide_feedback: 'true'
-description: Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?
+hide_feedback: true
+description: 'Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?'
 ---
 
 Alokasi Dana: **$250,000 USD dibayarkan di Ada**

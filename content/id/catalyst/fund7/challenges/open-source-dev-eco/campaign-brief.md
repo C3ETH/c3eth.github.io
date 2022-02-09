@@ -1,9 +1,9 @@
 ---
-title: Ekosistem Pengembang "Open Source"
-linkTitle: Ekosistem Pengembang "Open Source"
+title: 'Ekosistem Pengembang "Open Source"'
+linkTitle: 'Ekosistem Pengembang "Open Source"'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun diatas kerangka yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?
+hide_feedback: true
+description: 'Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun diatas kerangka yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?'
 ---
 
 Ukuran Dana: **$200,000 USD dibayarkan dalam ADA**

@@ -1,9 +1,9 @@
 ---
-title: Peluang Bisnis SPO Baru
-linkTitle: Peluang Bisnis SPO Baru
+title: 'Peluang Bisnis SPO Baru'
+linkTitle: 'Peluang Bisnis SPO Baru'
 type: docs
-hide_feedback: 'true'
-description: Operator Stake Pool adalah faktor kunci kesuksesan Cardano. Dengan infrastruktur dan kemampuan mereka, layanan baru yang penting dapat dibuat.
+hide_feedback: true
+description: 'Operator Stake Pool adalah faktor kunci kesuksesan Cardano. Dengan infrastruktur dan kemampuan mereka, layanan baru yang penting dapat dibuat.'
 ---
 
 Alokasi Dana: **$250,000 USD dibayarkan dalam ADA**

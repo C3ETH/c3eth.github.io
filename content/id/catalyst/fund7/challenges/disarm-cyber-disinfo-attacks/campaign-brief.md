@@ -1,9 +1,9 @@
 ---
-title: Mengatasi Serangan Disinformasi Dunia Maya
-linkTitle: Mengatasi Serangan Disinformasi Dunia Maya
+title: 'Mengatasi Serangan Disinformasi Dunia Maya'
+linkTitle: 'Mengatasi Serangan Disinformasi Dunia Maya'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mencegah upaya pengacauan Cardano melalui skenario Distributed Denial of Truth (DDoT)?
+hide_feedback: true
+description: 'Bagaimana kita dapat mencegah upaya pengacauan Cardano melalui skenario Distributed Denial of Truth (DDoT)?'
 ---
 
 Besaran Dana: **100.000 USD dibayarkan dalam bentuk ADA**

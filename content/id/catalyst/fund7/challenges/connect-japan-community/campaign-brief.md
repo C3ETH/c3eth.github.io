@@ -1,9 +1,9 @@
 ---
-title: Menghubungkan Jepang/Komunitas 日本
-linkTitle: Menghubungkan Jepang/Komunitas 日本
+title: 'Menghubungkan Jepang/Komunitas 日本'
+linkTitle: 'Menghubungkan Jepang/Komunitas 日本'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat meningkatkan partisipasi yang berarti di antara komunitas dalam 6 bulan ke depan?
+hide_feedback: true
+description: 'Bagaimana kita dapat meningkatkan partisipasi yang berarti di antara komunitas dalam 6 bulan ke depan?'
 ---
 
 Alokasi Dana: **500,000 USD dibayarkan dalam ADA**

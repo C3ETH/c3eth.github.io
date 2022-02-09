@@ -1,9 +1,9 @@
 ---
-title: DApps   - Integrasi
-linkTitle: DApps   - Integrasi
+title: 'DApps   - Integrasi'
+linkTitle: 'DApps   - Integrasi'
 type: docs
-hide_feedback: 'true'
-description: Aplikasi apa yang akan bernilai paling besar bagi pengguna pada tahun 2022?
+hide_feedback: true
+description: 'Aplikasi apa yang akan bernilai paling besar bagi pengguna pada tahun 2022?'
 ---
 
 Besaran Dana: **$250.000 USD dibayarkan dalam bentuk ADA**

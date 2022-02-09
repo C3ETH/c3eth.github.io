@@ -1,9 +1,9 @@
 ---
-title: Tantangan Lain-Lain
-linkTitle: Tantangan Lain-Lain
+title: 'Tantangan Lain-Lain'
+linkTitle: 'Tantangan Lain-Lain'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?
+hide_feedback: true
+description: 'Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?'
 ---
 
 Alokasi Dana: **$200,000 USD dibayarkan di Ada**

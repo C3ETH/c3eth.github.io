@@ -1,9 +1,9 @@
 ---
-title: Meningkatkan dan Mengembangkan Kemampuan Audit
-linkTitle: Meningkatkan dan Mengembangkan Kemampuan Audit
+title: 'Meningkatkan dan Mengembangkan Kemampuan Audit'
+linkTitle: 'Meningkatkan dan Mengembangkan Kemampuan Audit'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana membuat proses audit proposal yang didanai efisien, terdistribusi dan transparan?
+hide_feedback: true
+description: 'Bagaimana membuat proses audit proposal yang didanai efisien, terdistribusi dan transparan?'
 ---
 
 Alokasi Dana: **$100,000 USD dibayarkan dalam Ada**

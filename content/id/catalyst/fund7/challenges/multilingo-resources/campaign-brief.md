@@ -1,9 +1,9 @@
 ---
-title: Sumber Informasi Multibahasa
-linkTitle: Sumber Informasi Multibahasa
+title: 'Sumber Informasi Multibahasa'
+linkTitle: 'Sumber Informasi Multibahasa'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita bisa memotivasi orang yang tidak berbahasa Inggris untuk belajar dan mengembangkan ekosistem Cardano dalam 3-6 bulan ke depan?
+hide_feedback: true
+description: 'Bagaimana kita bisa memotivasi orang yang tidak berbahasa Inggris untuk belajar dan mengembangkan ekosistem Cardano dalam 3-6 bulan ke depan?'
 ---
 
 Alokasi Dana: **$100,000 USD dibayarkan di Ada**

@@ -1,9 +1,9 @@
 ---
-title: Melobi untuk perundang-undangan yang menguntungkan
-linkTitle: Melobi untuk perundang-undangan yang menguntungkan
+title: 'Melobi untuk perundang-undangan yang menguntungkan'
+linkTitle: 'Melobi untuk perundang-undangan yang menguntungkan'
 type: dokumen
-hide_feedback: 'true'
-description: Bagaimana kita bisa mempertahankan diri dari serangan oleh pemerintah otoriter dan mengkompromikan undang-undang dan kebijakan pajak yang tidak adil?
+hide_feedback: true
+description: 'Bagaimana kita bisa mempertahankan diri dari serangan oleh pemerintah otoriter dan mengkompromikan undang-undang dan kebijakan pajak yang tidak adil?'
 ---
 
 Alokasi Dana: **$75.000 USD dibayarkan dalam ADA**

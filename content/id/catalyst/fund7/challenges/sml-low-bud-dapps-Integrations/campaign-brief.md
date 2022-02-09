@@ -1,9 +1,9 @@
 ---
-title: Dapps & Integrasi dengan Anggaran Mini/Rendah
-linkTitle: Dapps & Integrasi dengan Anggaran Mini/Rendah
+title: 'Dapps & Integrasi dengan Anggaran Mini/Rendah'
+linkTitle: 'Dapps & Integrasi dengan Anggaran Mini/Rendah'
 type: docs
-hide_feedback: 'true'
-description: Aplikasi Terdesentralisasi dengan Anggaran Mini/Rendah apa yang akan memberikan nilai tertinggi bagi pengguna akhir dalam 3 bulan ke depan?
+hide_feedback: true
+description: 'Aplikasi Terdesentralisasi dengan Anggaran Mini/Rendah apa yang akan memberikan nilai tertinggi bagi pengguna akhir dalam 3 bulan ke depan?'
 ---
 
 Ukuran Dana: **$200,000 USD dibayarkan di Ada**

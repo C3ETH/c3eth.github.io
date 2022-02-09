@@ -1,9 +1,9 @@
 ---
-title: Akselerator & Mentor Catalyst
-linkTitle: Akselerator & Mentor Catalyst
+title: 'Akselerator & Mentor Catalyst'
+linkTitle: 'Akselerator & Mentor Catalyst'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana Catalyst dapat memanfaatkan kemampuan profesional untuk mem-bootstrap lingkungan akselerator yang memperkuat dan mengkomersialkan proyek yang didanai?
+hide_feedback: true
+description: 'Bagaimana Catalyst dapat memanfaatkan kemampuan profesional untuk mem-bootstrap lingkungan akselerator yang memperkuat dan mengkomersialkan proyek yang didanai?'
 ---
 
 Besaran Dana: **500.000 USD dibayarkan dalam bentuk ADA**

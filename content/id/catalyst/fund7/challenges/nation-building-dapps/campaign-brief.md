@@ -1,9 +1,9 @@
 ---
-title: Dapps Pembangun Negara
-linkTitle: Dapps Pembangun Negara
+title: 'Dapps Pembangun Negara'
+linkTitle: 'Dapps Pembangun Negara'
 type: docs
-hide_feedback: 'true'
-description: Solusi inti dari dapps apa yang dapat diberikan agar diadopsi oleh pemerintah secara luas di negara berkembang?
+hide_feedback: true
+description: 'Solusi inti dari dapps apa yang dapat diberikan agar diadopsi oleh pemerintah secara luas di negara berkembang?'
 ---
 
 Besaran Dana: **$600.000 USD dibayarkan dalam bentuk ADA**

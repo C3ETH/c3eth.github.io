@@ -1,12 +1,12 @@
 ---
-title: Menumbuhkan Pusat Kegiatan Komunitas Cardano
-linkTitle: Menumbuhkan Pusat Kegiatan Komunitas Cardano
+title: 'Menumbuhkan Pusat Kegiatan Komunitas Cardano'
+linkTitle: 'Menumbuhkan Pusat Kegiatan Komunitas Cardano'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi dan kesadaran Cardano dalam 6 bulan ke depan?
+hide_feedback: true
+description: 'Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi dan kesadaran Cardano dalam 6 bulan ke depan?'
 ---
 
-{{&lt; youtube nJkH2MtPhX8 &gt;}}
+{{< youtube nJkH2MtPhX8 >}}
 
 Alokasi Dana: **$350,000 USD dibayarkan dalam Ada**
 

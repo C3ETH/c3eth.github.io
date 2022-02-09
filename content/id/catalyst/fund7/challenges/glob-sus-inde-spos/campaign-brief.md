@@ -1,9 +1,9 @@
 ---
-title: SPO Global yang Mandiri dan  Berkelanjutan
-linkTitle: SPO Global yang Mandiri dan  Berkelanjutan
+title: 'SPO Global yang Mandiri dan  Berkelanjutan'
+linkTitle: 'SPO Global yang Mandiri dan  Berkelanjutan'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mendorong desentralisasi, distribusi operator pool secara global dan yang berkelanjutan untuk menjalankan jaringan Cardano
+hide_feedback: true
+description: 'Bagaimana kita dapat mendorong desentralisasi, distribusi operator pool secara global dan yang berkelanjutan untuk menjalankan jaringan Cardano'
 ---
 
 Besaran Dana: **$100.000 USD dibayarkan dalam bentuk ADA**

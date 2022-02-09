@@ -1,9 +1,9 @@
 ---
-title: Pengaturan tantangan Fund8
-linkTitle: Pengaturan tantangan Fund8
+title: 'Pengaturan tantangan Fund8'
+linkTitle: 'Pengaturan tantangan Fund8'
 type: docs
-hide_feedback: 'true'
-description: Tantangan apa yang harus diprioritaskan oleh komunitas untuk ditangani di Fund8?
+hide_feedback: true
+description: 'Tantangan apa yang harus diprioritaskan oleh komunitas untuk ditangani di Fund8?'
 ---
 
 Ukuran Dana: **$12.800.000 di Ada**

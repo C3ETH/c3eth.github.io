@@ -1,9 +1,9 @@
 ---
-title: Mengembangkan Amerika Latin, Mengembangkan Cardano
-linkTitle: Mengembangkan Amerika Latin, Mengembangkan Cardano
+title: 'Mengembangkan Amerika Latin, Mengembangkan Cardano'
+linkTitle: 'Mengembangkan Amerika Latin, Mengembangkan Cardano'
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita menumbuhkan ekosistem Cardano di Amerika Latin?
+hide_feedback: true
+description: 'Bagaimana kita menumbuhkan ekosistem Cardano di Amerika Latin?'
 ---
 
 Alokasi Dana: **$500,000 USD dibayarkan dalam ADA**
