@@ -2,7 +2,7 @@
 name: Document Translation for Epic Issues
 about: Describe this issue template's purpose here.
 title: 'Challenge: <active campagn title here>'
-labels: ''
+labels: English, Indonesian, Japanese, Korean, Translation, Vietnamese
 assignees: ''
 
 ---
