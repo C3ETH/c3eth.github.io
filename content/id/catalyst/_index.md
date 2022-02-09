@@ -1,12 +1,12 @@
 ---
-title: 'Catalyst'
-linkTitle: 'Catalyst'
+title: Catalyst
+linkTitle: Catalyst
 type: docs
-hide_feedback: true
-weight: 20
+hide_feedback: 'true'
+weight: '20'
 menu:
   main:
-    weight: 20
+    weight: '20'
 ---
 
 {{% pageinfo %}} Ini adalah halaman placeholder yang menunjukkan cara menggunakan situs template ini. {{% /pageinfo %}}
