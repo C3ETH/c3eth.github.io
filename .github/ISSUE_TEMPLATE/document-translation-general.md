@@ -3,7 +3,7 @@ name: Document Translation General
 about: Translate a document, page, or blog post into the core languages of the Eastern
   Townhall.
 title: ":globe_with_meridians: Document translation of <DOCUMENT TITLE>"
-labels: English, Indonesian, Japanese, Korean, Translation, Vietnamese
+labels: ''
 assignees: andreassosilo, cardanoz, haskellcoding29, Mietran0407, tienna, YanTirta,
   zicozibu
 

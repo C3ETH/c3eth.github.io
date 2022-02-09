@@ -1,5 +1,5 @@
 ---
-name: Default Issue Template
+name: Empty Issue Template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''

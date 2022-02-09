@@ -2,7 +2,7 @@
 name: Document Translation for Catalyst Challenges
 about: Describe this issue template's purpose here.
 title: 'Challenge: <active campagn title here>'
-labels: English, Indonesian, Japanese, Korean, Translation, Vietnamese
+labels: ''
 assignees: ''
 
 ---
