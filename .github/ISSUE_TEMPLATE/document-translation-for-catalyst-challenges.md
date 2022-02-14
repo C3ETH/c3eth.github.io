@@ -47,6 +47,7 @@ When the document has been translated, the Pull Request will be checked, and any
 - [ ] Japanese PR Merged
 - [ ] Korean PR Merged
 - [ ] Vietnamese PR Merged
+- [ ] Swahili PR Merged
 
 ### Aditional Links
 Links to the original website will be placed here
