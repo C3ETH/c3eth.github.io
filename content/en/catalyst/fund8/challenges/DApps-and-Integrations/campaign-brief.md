@@ -14,6 +14,7 @@ What applications will provide the most value for end users in 2022?
 
 ### Why is it important?
 Quality Dapps and integrations will increase utility & adoption of Cardano. A broad funding challenge like this encourages more proposals.
+
 ### What does success look like?
 Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
 
