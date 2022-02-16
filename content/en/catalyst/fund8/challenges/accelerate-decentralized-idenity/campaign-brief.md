@@ -69,7 +69,7 @@ We need our community to think about developing technology and governance primit
 
 When reputation standards change, we need ways to self-heal and self-monitor for bad actors, harmful actions, or bad outcomes.
 
-***Circular Supply Chain***
+**Circular Supply Chain**
 
 The global supply chain focuses on creating a new economic infrastructure. The goal is replacing or integrating with legacy systems such as record-keeping, bills of lading, centrally managed systems of record, and distribution networks. Centralization has many challenges, the least of which is a lack of resilience in the global supply chain, as we have all seen and continue to experience in the COVID era.
 

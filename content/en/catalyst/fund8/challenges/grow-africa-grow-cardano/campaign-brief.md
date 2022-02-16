@@ -36,6 +36,6 @@ Although Africa did not play a key role in the first, second or third industrial
 
 The Cardano community can be one of these visionaries. Let's be serious about seeding long term projects in Africa to capture a large share of an important emerging market.
 
-<u> Rationale for budget</u>
+### Rationale for budget
 
 Let's be frank here. We need much more than 250k to continue seeding Cardano in Africa. We are asking for this amount because of Catalyst voting patterns; in that $250k is better than $0 and Wada and Partners can still take advantage of other challenge categories to help expand Cardano in Africa.

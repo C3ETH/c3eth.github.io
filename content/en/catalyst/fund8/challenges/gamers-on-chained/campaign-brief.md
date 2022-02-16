@@ -21,30 +21,18 @@ Cardano becomes the go to blockchain to develop gaming applications due to its q
 ### Key Metrics to measure
 Key Metrics to measure
 
-Total users of gaming based applications built on Cardano
-
-Number of gaming based applications building/built on Cardano
-
-Amount of value made by gamers in play-to-earn applications
-
-Number of CNFTs made specifically for gaming
-
-Number of fungible tokens made specifically for gaming
-
-Number of gaming based content creators that have come to Cardano
-
-Number of gaming tournaments hosted for Cardano native assets
-
-Number of proposals submitted to this challenge
-
-Amount of comments and kudos given to submitted proposals
-
-Amount of ADA voted on proposals in this challenge
-
-Amount of Wallets voted on proposals in this challenge
-
-Amount and evolution of gaming based tokens and wallets
-
+- Total users of gaming based applications built on Cardano
+- Number of gaming based applications building/built on Cardano
+- Amount of value made by gamers in play-to-earn applications
+- Number of CNFTs made specifically for gaming
+- Number of fungible tokens made specifically for gaming
+- Number of gaming based content creators that have come to Cardano
+- Number of gaming tournaments hosted for Cardano native assets
+- Number of proposals submitted to this challenge
+- Amount of comments and kudos given to submitted proposals
+- Amount of ADA voted on proposals in this challenge
+- Amount of Wallets voted on proposals in this challenge
+- Amount and evolution of gaming based tokens and wallets
 ## Challenge Brief
 We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.
 
