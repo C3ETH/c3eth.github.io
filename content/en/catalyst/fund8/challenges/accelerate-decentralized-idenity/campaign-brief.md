@@ -10,13 +10,15 @@ Fund Size: **500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/383978) and [browse ideas]().
 
 ## Campaign Brief
-What solutions can we develop and implement with Atala PRISM to have the most positive impact and opportunities for rapid growth of Cardano
+What solutions can we develop and implement with Atala PRISM to have the most positive impact and opportunities for rapid growth of Cardano.
+
 ### Why is it important?
 By identifying high-value credentials, we can establish governance framework foundries for launching pilot programs and driving growth.
+
 ### What does success look like?
 Discover repeatable patterns that unlock our ability to leverage the Cardano decentralized infrastructure. Identify high-value credentials.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - The sum of realized production pilots or launches in 2022
 - Discovery of repeatable patterns in use-cases
 - The number of issuers, holders, and verifiers
@@ -30,6 +32,7 @@ The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst
 With this access, you'll join the growing Atala PRISM community. Our Atala PRISM product team and engineers will be available via a dedicated Discord channel. Inclusion in our Professional Services Group governance framework foundry. Access to fireside chats with the top leaders in the SSI space, where we'll discuss trends, use cases, and much more. In addition, we will support the growth of high-value credentials and enable partners from concept, to development, to commercialization.
 
 ## Areas of Focus
+
 ### Interoperability
 Most digital credentials sit on Hyperledger Indy ledgers, including those issued by governments in Germany, Canada, and the UK.
 
@@ -38,14 +41,15 @@ The best-performing platform will gain the largest market share. For many reason
 We encourage Catalyst proposals to achieve full interoperability. Deliverables should optimize the user experience (UX) for Atala PRISM credentials while remaining compatible with other platforms.
 
 ### Self-governance of Emergent Communities
-***DAO Governance in Practice***
+
+<u>DAO Governance in Practice</u>
 New legislation in Wyoming allows for a decentralized autonomous organization (DAO) to be registered with the state. We challenge the community to establish a DAO under the new laws. It could manage an impact or development goal with shared common resources governed by the DAO.
 
 We are curious to see if our community proposes a DAO. With a funded proposal, we could facilitate introductions to legal experts in Wyoming.
 
 The proposal should consider setting aside funds for legal expenses to establish the DAO and legal documentation.
 
-***Patterns of Commoning***
+<u>Patterns of Commoning</u>
 
 We draw inspiration from the work of the Trust Over IP Foundation and the principles from 'Patterns of Commoning.' We see the potential for innovation by linking communities with shared interests under these principles.
 
@@ -53,7 +57,7 @@ How can these principles become plug-and-play code as technological primitives t
 
 We are interested in exploring a rich playground of ideas and bringing these to real-world implementations on Cardano and Atala PRISM.
 
-***Education, Career, and Emergent Reputation Primitives***
+<u>Education, Career, and Emergent Reputation Primitives</u>
 
 Many of our Pioneer and Catalyst-funded projects support education and career programs. One of the defining characteristics of these approaches is the creation of alternatives to accredited education and career paths.
 
@@ -71,14 +75,15 @@ The global supply chain focuses on creating a new economic infrastructure. The g
 
 Supply chains tend to start as decentralized. Markets and trade routes emerge from the bottom of the producer market and are aggregated into centralized supply chains, eventually working their way down to the consumer. We want to explore new patterns of commerce in bottom-up supply chains that could open and expand the local reputation network into markets that are currently inaccessible, such as:
 
-Regenerative agriculture
-Locally produced art
-Other forms of local commerce
+- Regenerative agriculture
+- Locally produced art
+- Other forms of local commerce
+
 On the other side, distribution or demand-driven commerce has the potential to build a market force from the bottom-up that can engage the industrial global supply chain in ways that are not possible without establishing the voice and economic strength of the community digitally.
 
 For the supply chain challenge, we want to address two significant challenges:
 
-***Small Producer Problem***
+<u>Small Producer Problem</u>
 
 How can we create transparency as the bottom-up process meets the industrialized supply chains, cuts through the centralized distribution markets, and connects directly to the consumer?
 
@@ -86,10 +91,10 @@ For example, small producers like a family ranch in Wyoming have no way to get i
 
 There are multiple issues to overcome. For example, packaging plants are the entry point to the aggregation, so there is little or no incentive to deal with the small producer. We want to address this problem by building general-purpose tooling to assist communities in self-organizing and self-governing production according to agreed standards. We propose that if these communities can connect and grow, they will either:
 
-Reach the market through alternative distribution channels to industrial supply chains
-Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.
+- Reach the market through alternative distribution channels to industrial supply chains
+- Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.
 
-***The Last-Mile Problem***
+<u>The Last-Mile Problem</u>
 
 How can a local distributor in a local market interact with global industrial supply chains and be given access to the market that otherwise would be inaccessible due to a lack of economic identity or capital to access the goods at the scale required by industrial supply chains?
 
@@ -101,7 +106,7 @@ However, local small businesses must maintain transparency and oversight of the 
 
 Addressing the challenge of the financial gap is vital. We believe that there is enormous potential to create bottom-up networks of trusted individuals and small businesses to fill this gap.
 
-***A Proposed Pattern Language Outline (example)***
+<u>A Proposed Pattern Language Outline (example)</u>
 
 **Primitives**
 

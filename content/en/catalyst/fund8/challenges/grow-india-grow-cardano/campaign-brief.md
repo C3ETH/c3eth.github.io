@@ -11,17 +11,20 @@ Fund Size: **150,000 USD paid in Ada**
 
 ## Campaign Brief
 How can we grow Cardano development and adoption in India?
+
 ### Why is it important?
 1.4B people. 55% under 30y (2016 est)
 
 Local Cardano developers/businesses needed to solve local issues.
 
 Significant poverty/unbanked
+
 ### What does success look like?
 Success is having multiple submissions for Catalyst Fund8 for India focused projects, with real-world projects getting funded and built.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 The overall key metrics would be:
+
 - Increased interaction between Catalyst and Indian focused projects
 - Number of Indian focused Catalyst submissions
 - Number of Indian focused dapps/services actually built

@@ -18,7 +18,7 @@ Gamers are ready to enter crypto. They just need a clear blockchain with enjoyab
 ### What does success look like?
 Cardano becomes the go to blockchain to develop gaming applications due to its quality tooling and wide gamer centric user base.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 Key Metrics to measure
 
 Total users of gaming based applications built on Cardano
@@ -45,7 +45,7 @@ Amount of Wallets voted on proposals in this challenge
 
 Amount and evolution of gaming based tokens and wallets
 
-### Challenge Brief
+## Challenge Brief
 We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.
 
 There are 2.5 billion gamers out there. These gamers are looking for their route into crypto in a fun and rewarding way. Let's provide them a library of games and integrations to choose from, solidifying Cardano as the go to blockchain for gaming.

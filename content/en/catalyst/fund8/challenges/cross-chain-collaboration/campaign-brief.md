@@ -14,10 +14,11 @@ How might we create connections and collaboration between Cardano and other bloc
 
 ### Why is it important?
 Interoperability of blockchains and multi-chain awareness guarantees shared success of the cryptoeconomy as a whole.
+
 ### What does Sucess look like?
 Collaborative value creation between Project Catalyst and other communities. Both technical and non-technical initiatives are welcome.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 Objective metrics to measure success:
 
 - Mainnet and testnet transaction volume growth
@@ -54,7 +55,7 @@ https://www.algorand.com/technology
 Boasting a throughput beyond 4,500 tps and near-instant finality, the EVM-compatible Avalanche has quickly become the go-to choice for multiple DeFi projects. It has an innovative multi-chain architecture that utilizes both DAG and Blockchain technologies.
 https://www.avax.network
 
-Other examples could be e.g. **Fantom** (https://fantom.foundation/intro-to-fantom), **Solana** (https://solana.com/ecosystem), **IOTA** (https://www.iota.org/), **Polygon** (https://polygon.technology/get-started), **Nervos** (https://www.nervos.org) or any community that is ready for multi-chain reality. Or the proposal can come from a project / solution built on any of these. 
+Other examples could be e.g. **Fantom** (https://fantom.foundation/intro-to-fantom), **Solana** (https://solana.com/ecosystem), **IOTA** (https://www.iota.org/), **Polygon** (https://polygon.technology/get-started), **Nervos** (https://www.nervos.org) or **any community that is ready for multi-chain reality**. Or the proposal can come from a project / solution built on any of these. 
 
 ### Proposals you can submit to this challenge
 
@@ -85,4 +86,4 @@ This challenge is therefore aligned with the Fund8 strategic goals:
 - It helps turn Cardano into an open source project recognized also beyond our community.
 - It accelerates the growth and evolution of our developer & app ecosystem by inviting contributions from the rest of the blockchain space.
 
-The budget of $400,000 USD is a moderate 2,5% of the total treasury allocation for Fund8. It should be sufficient to kickstart interoperability and cross-chain collaboration initiatives but might not be enough for any large scale infrastructure projects. Therefore, we encourage submission of "minimum viable" and "proof of concept" proposals that do include long-term vision and roadmap but which are initially scoped quite small.
+The budget of $400,000 USD is a moderate 2,5% of the total treasury allocation for Fund8. It should be sufficient to kickstart interoperability and cross-chain collaboration initiatives but might not be enough for any large scale infrastructure projects. Therefore, **we encourage submission of "minimum viable" and "proof of concept" proposals that do include long-term vision and roadmap but which are initially scoped quite small**.

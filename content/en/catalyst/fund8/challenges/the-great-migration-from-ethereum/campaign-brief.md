@@ -11,14 +11,17 @@ Fund Size: **500,000 USD paid in Ada**
 
 ## Campaign Brief
 How might we make it easy and fast for dApps and other projects to expand or completely move from Ethereum to Cardano?
+
 ### Why is it important?
 Many projects are stuck on EVM-based blockchains like Ethereum and are looking for an escape. Cardano can be faster and cheaper to use.
+
 ### What does success look like?
 Projects who were either planning to or did launch on an EVM-based blockchain deploy in the Cardano ecosystem and can do so easily.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - Number of projects that migrate
 - Number of users of these smart contracts once migrated to the Cardano ecosystem
+
 (Metrics can either be improved by funding projects that directly deploy something, or projects that help build tooling to make it easier to deploy)
 
 ## Challenge Brief

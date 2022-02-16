@@ -11,12 +11,14 @@ Fund Size: **1,000,000 USD paid in Ada**
 
 ## Campaign Brief
 How can Cardano-based solutions help meet real business needs and what would be their impact?
+
 ### Why is it important?
 Companies are finally discovering the power of blockchain technologies and Cardano is ready to onboard exciting B2B and B2C solutions.
+
 ### What does success look like?
 Innovative products and services that increase efficiency, transparency, and stakeholder engagement as well as expand business to new areas.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - of Cardano dApps supporting business solutions
 - of existing companies proposing Cardano-based solutions
 - of partnerships / joint ventures created between companies

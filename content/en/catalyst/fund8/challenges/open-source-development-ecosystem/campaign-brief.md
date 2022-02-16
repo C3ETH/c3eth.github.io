@@ -1,6 +1,6 @@
 ---
-title: "Open Source Development"
-linkTitle: "Open Source Development"
+title: "Open Source Development Ecosystem"
+linkTitle: "Open Source Development Ecosystem"
 type: docs
 hide_feedback: true
 description: "How can we ensure that the Cardano ecosystem is built on a framework which is owned by the community and equally accessible to all?"
@@ -15,10 +15,10 @@ How can we ensure that the Cardano ecosystem is built on a framework which is ow
 ### Why is it important?
 We need to grow an entire ecosystem of experts to build and maintain the foundations of Cardano/Catalyst together with the current IOG teams
 
-### What does Sucess look like?
+### What does success look like?
 A growing number of experts join forces to build collaboratively on community owned infrastructure, tooling, standards, libraries and docs
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - increase the number and the quality of Cardano Open Source projects
 - increase the number of contributors
 - increase of open source tools and frameworks from the community for the community (dog-fooding)
@@ -36,23 +36,22 @@ The main idea is that projects funded by the community can both generate busines
 For example, a team can be funded to develop a project; generate business value by leveraging a profitable idea, and share the non-core-business part of their work in terms of shared knowledge or in terms of building frameworks or projects with other teams - such that is possible to solve complex problems by joining minds and dividing the efforts across different teams.
 
 ### Motivation
+
 Catalyst exists to gradually work towards the final stage of the roadmap of Cardano: Voltaire. We are building tools to support new forms of governance and collaboration, on top of technology that is still being developed. The development of this technology itself, in the end, will have to become part of this same process as well. Such a complex and daunting task requires experts from a variety of disciplines to work together with a common goal.
 
-#### Guding Questions
+#### Guiding questions
+
 - How can we ensure future efforts benefit from the work that is funded today?
 - How do we align between different open source community efforts?
 - What are the next steps to fuse IOG development with the community?
 - How can we encourage experts to collaborate and share their knowledge and work?
 - How can we develop a sustainable ecosystem while sharing knowledge and efforts?
 
-#### Potential Directions
-- Developer productivity: IDE's, scripts to automate stuff.
-- Knowledge base & Documentation
-- Deployment, testing, and monitoring frameworks
-- Samples, recipes and templates
-- Hackathons
-- DEFI and tokenization
-- Dashboards
-- API's, and oracles.
-- Support structures
-- Incentivization structures
+#### Possible directions
+
+- Education for development in the Cardano & Catalyst ecosystem
+- Developing common tools, frameworks, core infrastructures, or proof of concepts
+- Incentive systems for development & hosting
+- Common audited repositories & overviews of existing solutions
+- Organizing events to bring the development ecosystem together
+- Collaboration to improve interoperability within the ecosystem 

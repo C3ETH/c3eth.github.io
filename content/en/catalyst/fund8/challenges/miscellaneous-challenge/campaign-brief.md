@@ -11,16 +11,18 @@ Fund Size: **500,000 USD paid in Ada**
 
 ## Campaign Brief
 How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+
 ### Why is it important?
 Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don't fit any other Challenge.
+
 ### What does success look like?
 Funding great ideas that focus on problems that are not covered by any other Challenge.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 At the end of this challenge, we will be asking ourselves: was this challenge valuable to the community?
 
 - Successfully fund proposals, approved by the community, that don't fit well any other challenges.
-Number of identified possible Challenges to be proposed in the following Funds based on proposals submitted in the Miscellaneous Challenge.
+- Number of identified possible Challenges to be proposed in the following Funds based on proposals submitted in the Miscellaneous Challenge.
 
 
 ## Challenge Brief

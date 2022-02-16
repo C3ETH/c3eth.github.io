@@ -20,14 +20,14 @@ Cardano is the blockchain of choice in Africa by 2023.
 
 Projects and developers in Africa will not be isolated, but networked and growing.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - Number of new African projects seeded in 2022
 - Proposals clearly demonstrate Cardano tech use-case solutions 
 - Number of African developers onboarded in 2022
 - Local impact (measurable through user activity and reach)
 - Local partnerships formed (size of institution + influence)
 
-### Challenge Brief
+## Challenge Brief
 *"Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.*Focussing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson. The ROI is likely to be high because community sponsored projects are better run in young and developing economies." **Greg Bell; (originator of the Grow Cardano series)**
 
 Throughout human history and civilization, it has been that every few centuries or so a confluence of factors align to transition us from one phase of development to another; The first and second industrial revolutions are prime examples. Right now we are barely out of the Web2 revolution and a fourth Industrial revolution or Web3 is upon us. 

@@ -18,7 +18,7 @@ The Cardano community leans heavily toward North America and Europe. Growth else
 ### What does success look like?
 A broad spectrum of people across Asia and connected to Asia, coming together and forming teams to grow our ecosystem.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 At the end of this challenge, we will be asking ourselves some questions about the quality of participation:
 
 The number of proposals originating from East Asian participants in Project Catalyst
@@ -45,7 +45,7 @@ Was social and environmental impact evaluation used to measure proposal performa
 
 What is the sustainability of proposals beyond the scope of Catalyst?
 
-### Challenge Brief
+## Challenge Brief
 As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
 
 The nature of the proposals for this challenge is open-ended. Their only requirement is to originate or focus on East Asia and include east Asian team members or focus on East Asian participants.

@@ -10,7 +10,7 @@ Fund Size: **500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/381022) and [browse ideas]().
 
 ## Campaign Brief
-What applications will provide the most value for end users in 2022?
+How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in 2022?
 
 ### Why is it important?
 Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
@@ -18,7 +18,7 @@ Without users on the ground level, we are building niche products serving mostly
 ### What does success look like?
 Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - How many new Hubs were launched in 2022?
 - How many developers did this community-focused challenge bring into the Cardano ecosystem?
 - How many new users of Cardano were onboarded?
@@ -26,7 +26,7 @@ Local Community Hubs across the world where the average person can take part in 
 - How many external organizations did this community-focused challenge bring into the Cardano ecosystem?
 
 ### Challenge Brief
-<u>**Challenge Updates**</u>
+***Challenge Updates***
 
 **Top 3 Challenge Category in Fund 7** by number of submissions (see attached).
 
@@ -64,7 +64,7 @@ In simpler terms, consider why a hub exists, in the context of it's location, ac
 
 **This round will focus much more on 'minimum-viable hubs' (MVHs)**, what is the smallest effective unit for a hub, and by identifying this unit, can we begin to scale CCHs more rapidly.
 
-<u>Additional Success Metrics:</u>
+***Additional Success Metrics:***
 
 - Is the hub's Fund 8 proposal in keeping with the MVH principle?
 - Do they have an understanding of their target audience?
@@ -73,7 +73,7 @@ In simpler terms, consider why a hub exists, in the context of it's location, ac
 - Have they given an indication of a financial sustainability model?
 - Have they given an indication of budget costs vs 'cost to launch'? (eg. A CTH may only apply for 1/5 of their cost to launch due to the demand pressures of acquiring catalyst funding)
 
-<u>Ratings by CAs and Voters should favour:</u>
+***Ratings by CAs and Voters should favour:***
 
 - Proposals that have a budget:cost-to-launch ratio between 1-1.5.
 - Proposals that do not exceed 5% of the total Challenge budget.
@@ -89,15 +89,15 @@ When you **drive adoption at the ground level**, you are doing more than just 'b
 
 ![](https://i.imgur.com/MWddZex.gif)
 
-<u> Extra reading (where we are going):</u>
+<u>Extra reading (where we are going):</u>
 
-Cumbria, UK Business Hub: (https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
-Rwanda Business Hub: (https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
+- Cumbria, UK Business Hub: (https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
+- Rwanda Business Hub: (https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
 
-<u> Past-funded challenges:</u>
+<u>Past-funded challenges:</u>
 
-Scale-UP Community Hubs (F6): 
-(https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
-Scale-UP Community Hubs (F5): 
-(https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
+- Scale-UP Community Hubs (F6): 
+- (https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
+- Scale-UP Community Hubs (F5): 
+- (https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
 

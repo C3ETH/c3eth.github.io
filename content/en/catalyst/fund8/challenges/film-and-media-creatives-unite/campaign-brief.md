@@ -11,11 +11,14 @@ Fund Size: **150,000 USD paid in Ada**
 
 ## Campaign Brief
 Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent.
+
 ### Why is it important?
 A challenge category for creatives has been absent so far. Diversity + human creativity in the arts can enrich the Cardano ecosystem + more
+
 ### What does success look like?
 Teams collaborating equitably to produce inclusive, high quality multimedia content + platforms = increase knowledge + adoption of Cardano
-### Key Metrics to Measure
+
+### Key Metrics to measure
 As a measure of the health of the ecosystem:
 
 - of multimedia projects 
@@ -29,6 +32,7 @@ As a measure of the health of the ecosystem:
 
 ## Challenge Brief
 **Creatives, writers, artists, filmmakers, photographers +more, collaborating equitably, can enrich the ecosystem with their cultural diversity.**
+
 Cardano has a strong YouTube community, but obviously YouTube is not everything and it's not received well in many perspectives.
 We need a bridge between YouTube, the traditional media, TV and film. We need to communicate a clear message towards media. 
 

@@ -11,12 +11,14 @@ Fund Size: **400,000 USD paid in Ada**
 
 ## Campaign Brief
 How can we take the next step to support the principles of self-sovereign identity?
+
 ### Why is it important?
 We have the potential to be leaders in the SSI ecosystem, assuring trust and giving individuals control of their digital identities.
+
 ### What does success look like?
 Receiving high quality projects; growing participation on SSI discussions; partnering with ecosystem, governance and working groups
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - The number of proposals that directly address SSI in a quantifiable manner
 - The quality of proposals measured by community interest and engagement
 - Awareness of Cardano inside the SSI community, working groups and governance entities
@@ -30,6 +32,7 @@ The amount and quality of projects proposed so far and the involvement of the co
 This challenge is looking for projects that help position Cardano as one of the leaders in the SSI space. With a broader scope than past challenges, we expect this one to tackle all layers defined by the Trust over IP Foundation.
 
 #### Some directions that projects can take are:
+
 - Participation and adoption growth
 - Portability
 - Usability and accessibility

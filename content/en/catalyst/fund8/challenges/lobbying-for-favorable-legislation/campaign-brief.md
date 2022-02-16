@@ -11,18 +11,19 @@ Fund Size: **300,000 USD paid in Ada**
 
 ## Campaign Brief
 How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?
+
 ### Why is it important?
 So that we have favorable legislation, privacy, tax reduction, and a positive environment for mass adoption of cryptocurrencies.
+
 ### What does Sucess look like?
 We managed to delay or reverse legislation that compromises crypto adoption and support local communities and organizations like Coincenter
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - Number of jurisdictions favored through lobbying
 - Number of laws that have been modified
 - Number of experts in regulation, lawyers, and other members involved
 - Number of partnerships and collaborations with organizations and non-profits that work in the same cause
 - Number of votes of politicians engaged
-
 
 ## Challenge Brief
 The idea behind this challenge is to fund specialists in regulation, lawyers, and politicians who can promote the creation of an environment of laws that are more favorable or less harmful to the crypto space, with a focus on PoS and on Cardano's particularities.

@@ -11,12 +11,14 @@ Fund Size: **200,000 USD paid in Ada**
 
 ## Campaign Brief
 How to make the auditing process of funded proposals efficient, distributed and transparent?
+
 ### Why is it important?
 It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
+
 ### What does success look like?
 Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - Number of funded proposals audited
 - Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that - - - success metrics are thought out in relation to each challenge.
 - Number of reports, articles and videos/podcasts on:

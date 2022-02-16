@@ -11,9 +11,11 @@ Fund Size: **500,000 USD paid in Ada**
 
 ## Campaign Brief
 Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?
+
 ### Why is it important?
 To deliver complex software, driving collaboration, and accelerating innovation by sharing identity, practices, and sw components/services.
-### What does Sucess look like?
+
+### What does success look like?
 A vendor-neutral ecosystem to
 
 - drive growth, awareness, discoverability
@@ -22,7 +24,7 @@ A vendor-neutral ecosystem to
 
 - provide needed infrastructures
 
-### Key Metrics to Measure
+### Key Metrics to measure
 **Open standards** adoption should increase among cardano projects. On the long term, all of the community-funded projects should be open and transparent by following common standards.
 
 There should be **observable improvements**: easier to discover projects and find project resources, more intuitive to access project knowledge base (documentation, how-to, etc.), and simple to find and contact project members.
@@ -31,7 +33,7 @@ It should be possible to have **project synergies** by allowing simple inter-pro
 
 We should observe an **increase in open-source contributions** to different projects: both from new joiners and from other people already in the Cardano community
 
-We should observe an increase in reputability of the Cardano Open Source projects. The measure can be done by looking at media communications of various open source communities.
+We should observe an **increase in reputability** of the Cardano Open Source projects. The measure can be done by looking at media communications of various open source communities.
 
 ## Challenge brief
 **Open standards** built on the principles of openness, transparency and consensus lay the grounds for innovation, growth and fair competition. ***Open standards are not synonymous of open source.*** [OPSTD]
@@ -42,13 +44,15 @@ We are of the advise that we need a set of standards, processes, and infrastruct
 
 
 ### Motivations
+
 As mentioned by Charles Hoskinson "Cardano code is Open Source, but needs to be managed like a true open source project, like Linux and other O.S. projects". 
 
 {{< youtube T88_XKzi8ms >}}
 
 In order to proceed in this direction, we need to use Catalyst as a governance over a true, vendor-neutral open source and open-standards ecosystem. To achieve that, we are missing processes (e.g. how the project teams should behave and participate in the ecosystem), and infrastructures (e.g. VCS, CMS, Wiki, Forum, etc.)
 
-### Guiding Questions
+### Guiding questions
+
 - How can we guide the growth of a vendor neutral ecosystem?
 - How can we build a common identity and increase awareness on Cardano projects?
 - How can we increase the discoverability and the commercial adoption of our projects?
@@ -56,14 +60,16 @@ In order to proceed in this direction, we need to use Catalyst as a governance o
 - How can we lower the barriers and increase open participation to our ecosystem?
 - How can we provide equal opportunities to all projects no matter the size?
 
-### Possible Directions
+### Possible directions
+
 - Incentivize collaboration across projects to solve complex problems
 - Introduce common standards and processes and incentivize their adoption across projects
 - Provide cross-project infrastructures and tools needed to co-ordinate
 - Ensure the existence of a cohesive knowledge base 
 - Support a network of professional technology ambassadors
 
-#### Notes
+#### Note
+
 This challenge builds on top of the existing F7 Open Source Developer Ecosystem and is loosely related to F8 Open Source Development Ecosystem (https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088)
 
 Indeed, this challenge is about establishing standards, processes, and fostering interoperability across O.S. projects, while the "Open Source" challenges are more focused on growing the O.S. ecosystem by seed-funding open source projects for future challenges.

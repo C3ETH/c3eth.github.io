@@ -7,17 +7,18 @@ description: "What core Nation Building Dapp solutions can be provided for wides
 ---
 Fund Size: **800,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/384822) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383828) and [browse ideas]().
 
 ## Campaign Brief
 What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
 
 ### Why is it important?
 For the poor nations with no basic foundations, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity.
-### What does Sucess look like?
+
+### What does success look like?
 Increasing Dapp usage in developing nations, in collaboration with Cardano Local Community Centers and Intl Partnerships to serve its people
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - Number of proposals
 - Proposals CA ratings
 - Diversity of Dapp's use cases
@@ -35,7 +36,6 @@ For the poor nations with no foundations to stand on, Nation Building Dapp solut
 
 https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf
 
-
 Dapp proposals should cover foundational Registry solutions, namely:
 
 National ID & Civil Registry, Property Registration, Medical & Vaccination, Education Census, Revenue Service, Business Incorporations, Elections Voting, Customs & Border Control, Criminal Records, Employment Census, Vehicle Registration, Licensing & Certifications.
@@ -43,6 +43,8 @@ National ID & Civil Registry, Property Registration, Medical & Vaccination, Educ
 Proposers to review IOHK/ EMURGO Atala Prism solutions before hand along with reference use cases on integrated registry systems applications currently implemented across wealthy nations.
 
 it is further advised Proposers to obtain a knowledge base over research done in the past three decades unraveling the "mysterious" causes of poverty in third world countries by the economist Hernando de Soto.  The attached book, "The Mystery of Capital," is a great reference to get into context for anyone involved in developing proposals for this challenge.
+
+****Note:*** Think of government as from the people, for the people and by the people.
 
 #### Introduction Video
 

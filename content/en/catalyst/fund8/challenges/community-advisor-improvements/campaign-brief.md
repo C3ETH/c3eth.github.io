@@ -10,13 +10,15 @@ Fund Size: **100,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/384394) and [browse ideas]().
 
 ## Campaign Brief
-Community Advisors are an evolving key role of Project Catalyst and need a place and budget to submit proposals to improve their performance
+Community Advisors are an evolving key role of Project Catalyst and need a place and budget to submit proposals to improve their performance.
+
 ### Why is it important?
 Community Advisors are facing constantly challenges but dont have the possibility to actively co-design their acitivity.
+
 ### What does success look like?
 Community Advisors (CAs) submitting proposals as a Team to improve the CAs performance, activity and evolution.
 
-### Key Metrics to Measure
+### Key Metrics to measure
 - Number of new tools developed
 - Number of new mechanisms for assessing and scoring proposals
 - Number of maintenance proposals and groups created
@@ -27,7 +29,8 @@ Community Advisors (CAs) and Veteran Community Advisors (vCAs) are key players o
 
 By improving the assessing process, we improve the whole Catalyst process as a consequence. Therefore, this challenge aims at accelerating the evolution of the whole assessing process of Catalyst.
 
-#### Some directions that projects can take are:
+#### Potential directions
+
 - Build new tools to improve (v)CA's work
 - Maintain general (v)CA resourses, in collaboration with the community and with IOG
 - Evaluate different models of proposal assessment and scoring

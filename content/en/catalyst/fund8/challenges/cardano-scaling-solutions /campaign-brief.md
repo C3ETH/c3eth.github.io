@@ -1,6 +1,6 @@
 ---
-title: "Cardano scaling solutions"
-linkTitle: "Cardano scaling solutions"
+title: "Cardano Scaling Solutions"
+linkTitle: "Cardano Scaling Solutions"
 type: docs
 hide_feedback: true
 description: "What research and scaling implementations can be introduced to help Cardano increase scalability?"
@@ -13,15 +13,15 @@ Fund Size: **400,000 USD paid in Ada**
 What research and scaling implementations can be introduced to help Cardano increase scalability?
 
 ### Why is it important?
-Hydra will not solve every scaling problem in Cardano, more scaling solutions are needed as alternatives
-### What does Sucess look like?
-Scaling solutions that are introduced and implemented by the community that Cardano projects can start using
+Hydra will not solve every scaling problem in Cardano, more scaling solutions are needed as alternatives.
 
-### Key Metrics to Measure
+### What does success look like?
+Scaling solutions that are introduced and implemented by the community that Cardano projects can start using.
+
+### Key Metrics to measure
 - Number of scaling solutions available to the community to use within their projects
 - Number of projects launched on any of the new scaling solutions
 - Novel ideas generated from research on different scaling approaches
-
 
 ## Challenge Brief
 For Cardano to become a global leader as a smart contract blockchain it will need to scale to meet the requirements of handling hundreds of millions of users.
@@ -37,11 +37,13 @@ Sebastien from dcSpark recently discussed the importance of rollups and alternat
 {{< youtube 4DslvkLop04 >}}
 
 ### Need for more scaling options
+
 To reach true decentralization the Cardano community will need to not rely on the input from IOG as much as it does now as we move into the future.
 
 Hydra will only have it's initial implementation released early next year. Cardano faces potential scaling problems in 2022 as high demand protocols in DeFi, NFTs and gaming begin and continue being released. With alternative scaling solutions not in place there is a risk of overloading demand on the main chain.
 
 ### Types of proposals encouraged
+
 Proposers should consider new novel ideas or research, extensions of Hydra functionality or porting over solutions used in other blockchains that would be suitable for Cardano.
 
 Proposers are welcome to focus on market specific scalability solutions - for instance a solution could focus on DeFi specifically with decentralized exchanges (DEX's) as a focus area or other growing markets that could benefit from novel scaling solutions.
