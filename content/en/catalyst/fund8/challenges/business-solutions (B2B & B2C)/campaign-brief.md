@@ -1,6 +1,6 @@
 ---
-title: "Business Solutions (B2B & B2C) "
-linkTitle: "Business Solutions (B2B & B2C) "
+title: "Business Solutions (B2B & B2C)"
+linkTitle: "Business Solutions (B2B & B2C)"
 type: docs
 hide_feedback: true
 description: "How can Cardano-based solutions help meet real business needs and what would be their impact?"
