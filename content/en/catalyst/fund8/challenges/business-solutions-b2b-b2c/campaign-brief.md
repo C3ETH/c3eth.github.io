@@ -1,6 +1,6 @@
 ---
-title: "Business Solutions (B2B & B2C)"
-linkTitle: "Business Solutions (B2B & B2C)"
+title: "Business Solutions B2B & B2C"
+linkTitle: "Business Solutions B2B & B2C"
 type: docs
 hide_feedback: true
 description: "How can Cardano-based solutions help meet real business needs and what would be their impact?"
@@ -21,11 +21,11 @@ Innovative products and services that increase efficiency, transparency, and sta
 ### Key Metrics to measure
 - of Cardano dApps supporting business solutions
 - of existing companies proposing Cardano-based solutions
-- of partnerships / joint ventures created between companies
+- of partnerships,joint ventures created between companies
 - additional funding from other sources for the funded proposals
 - projected cost savings
 - projected revenue increase
-- growth in mainnet / testnet activity due to business solutions
+- growth in mainnet & testnet activity due to business solutions
 
 
 ## Challenge Brief
@@ -41,7 +41,7 @@ By removing the middle man and automating processes, smart contract blockchain s
 
 In your proposal, it would be good to outline the extent, limits and scope of the solution readiness-level of the solution, and whether it is e.g:
 
-- A Feasibility Study / Proof of Concept / Minimum Viable Product that could be built on Cardano.
+- A Feasibility Study, Proof-of-Concept, Minimum Viable Product that could be built on Cardano.
 - An existing business-ready product or service that could be converted to run on Cardano.
 - A business-oriented training or consultancy service.
 - An existing blockchain solution brought into the Cardano ecosystem to serve business needs.
