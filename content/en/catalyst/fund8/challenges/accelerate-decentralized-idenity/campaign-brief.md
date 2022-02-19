@@ -42,14 +42,15 @@ We encourage Catalyst proposals to achieve full interoperability. Deliverables s
 
 ### Self-governance of Emergent Communities
 
-<u>DAO Governance in Practice</u>
+##### DAO Governance in Practice
+
 New legislation in Wyoming allows for a decentralized autonomous organization (DAO) to be registered with the state. We challenge the community to establish a DAO under the new laws. It could manage an impact or development goal with shared common resources governed by the DAO.
 
 We are curious to see if our community proposes a DAO. With a funded proposal, we could facilitate introductions to legal experts in Wyoming.
 
 The proposal should consider setting aside funds for legal expenses to establish the DAO and legal documentation.
 
-<u>Patterns of Commoning</u>
+##### Patterns of Commoning
 
 We draw inspiration from the work of the Trust Over IP Foundation and the principles from 'Patterns of Commoning.' We see the potential for innovation by linking communities with shared interests under these principles.
 
@@ -57,7 +58,7 @@ How can these principles become plug-and-play code as technological primitives t
 
 We are interested in exploring a rich playground of ideas and bringing these to real-world implementations on Cardano and Atala PRISM.
 
-<u>Education, Career, and Emergent Reputation Primitives</u>
+##### Education, Career, and Emergent Reputation Primitives
 
 Many of our Pioneer and Catalyst-funded projects support education and career programs. One of the defining characteristics of these approaches is the creation of alternatives to accredited education and career paths.
 
@@ -83,7 +84,7 @@ On the other side, distribution or demand-driven commerce has the potential to b
 
 For the supply chain challenge, we want to address two significant challenges:
 
-<u>Small Producer Problem</u>
+##### Small Producer Problem
 
 How can we create transparency as the bottom-up process meets the industrialized supply chains, cuts through the centralized distribution markets, and connects directly to the consumer?
 
@@ -94,7 +95,7 @@ There are multiple issues to overcome. For example, packaging plants are the ent
 - Reach the market through alternative distribution channels to industrial supply chains
 - Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.
 
-<u>The Last-Mile Problem</u>
+##### The Last-Mile Problem
 
 How can a local distributor in a local market interact with global industrial supply chains and be given access to the market that otherwise would be inaccessible due to a lack of economic identity or capital to access the goods at the scale required by industrial supply chains?
 
@@ -106,7 +107,7 @@ However, local small businesses must maintain transparency and oversight of the 
 
 Addressing the challenge of the financial gap is vital. We believe that there is enormous potential to create bottom-up networks of trusted individuals and small businesses to fill this gap.
 
-<u>A Proposed Pattern Language Outline (example)</u>
+##### A Proposed Pattern Language Outline (example)
 
 **Primitives**
 

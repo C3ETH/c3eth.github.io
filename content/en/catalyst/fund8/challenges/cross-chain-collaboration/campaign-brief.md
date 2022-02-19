@@ -42,20 +42,20 @@ Cardano has a strong, open and inclusive community, let's make this a real super
 
 **Cosmos**, dubbing itself the Internet of Blockchains, makes it easy for other blockchains to connect to it via their Inter-Blockchain Communication protocol (IBC). Massive projects like Binance Smart Chain, Terra, Thorchain and Oasis Network are built on the Cosmos SDK.
 
-- https://tendermint.com/sdk
-- https://v1.cosmos.network/intro
-- https://cosmos.network/ecosystem/apps
+- [TenderMint](https://tendermint.com/sdk/)
+- [Cosmos Intro](https://v1.cosmos.network/intro)
+- [Cosmos Network](https://cosmos.network/ecosystem/apps)
 
-**Polkadot** (and its canary network **Kusama**) is a light-weight and quickly updateable design where the Relay Chain offers shared security and cross-chain communication, allowing the connected Parachains to focus on fast deployment of services. Its unique crowdloan mechanism invites the community of token holders to voice out which projects should be implemented first. The Nominated Proof of Stake network offers advanced governance mechanisms as well.
-https://wiki.polkadot.network/docs/learn-video-tutorials
+[Polkadot](https://wiki.polkadot.network/docs/learn-video-tutorials) (and its canary network **Kusama**) is a light-weight and quickly updateable design where the Relay Chain offers shared security and cross-chain communication, allowing the connected Parachains to focus on fast deployment of services. Its unique crowdloan mechanism invites the community of token holders to voice out which projects should be implemented first. The Nominated Proof of Stake network offers advanced governance mechanisms as well.
 
-Academically impressive and technologically sound **Algorand** has a unique consensus mechanism Pure Proof of Stake and we can learn a lot from their governance model.
-https://www.algorand.com/technology  
+
+Academically impressive and technologically sound [Algorand](https://www.algorand.com/technology) has a unique consensus mechanism Pure Proof of Stake and we can learn a lot from their governance model. 
 
 Boasting a throughput beyond 4,500 tps and near-instant finality, the EVM-compatible Avalanche has quickly become the go-to choice for multiple DeFi projects. It has an innovative multi-chain architecture that utilizes both DAG and Blockchain technologies.
-https://www.avax.network
 
-Other examples could be e.g. **Fantom** (https://fantom.foundation/intro-to-fantom), **Solana** (https://solana.com/ecosystem), **IOTA** (https://www.iota.org/), **Polygon** (https://polygon.technology/get-started), **Nervos** (https://www.nervos.org) or **any community that is ready for multi-chain reality**. Or the proposal can come from a project / solution built on any of these. 
+- [Avax](https://www.avax.network)
+
+Other examples could be e.g. [Fantom](https://fantom.foundation/intro-to-fantom), [Solana](https://solana.com/ecosystem), [IOTA](https://www.iota.org/), [Polygon](https://polygon.technology/get-started), [Nervos](https://www.nervos.org) or **any community that is ready for multi-chain reality**. Or the proposal can come from a project / solution built on any of these. 
 
 ### Proposals you can submit to this challenge
 

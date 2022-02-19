@@ -42,7 +42,9 @@ Let an "application output" and an "application transaction" be an output and tr
 - How many of the teams which built the applications built (or plan to build) another application?
 
 ## Challenge Brief
-Cardano is an ecosystem that sets itself apart through its rigorous research and strives to do things correctly. We expect all dApp projects applying for funding to aspire to the highest possible levels of certification. To understand what this refers to and practically means, please watch Charles Hoskinson's video on this topic: "DApp certification and Community Curation", https://youtu.be/Y7zcYSQarI0.  
+Cardano is an ecosystem that sets itself apart through its rigorous research and strives to do things correctly. We expect all dApp projects applying for funding to aspire to the highest possible levels of certification. To understand what this refers to and practically means, please watch Charles Hoskinson's video on this topic: "DApp certification and Community Curation".
+
+{{< youtube Y7zcYSQarI0 >}}
 
 This challenge is suitable for incorporated technology or blockchain companies and larger projects with competent teams that already have deployed MVPs. Ideally, these are projects that have a proven user base. Projects that satisfy such criteria are welcome to apply for more than $100,000 if that can be justified and clearly budgeted for.  
 

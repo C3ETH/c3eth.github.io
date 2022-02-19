@@ -34,21 +34,17 @@ Local Community Hubs across the world where the average person can take part in 
 
 <u>A selection of past-funded 'Scale-Up Hubs':</u>
 
-- Homeless Hubs: 
-(https://cardano.ideascale.com/a/dtd/367891-48088)
-- Cardano in South L.A.:
-(https://cardano.ideascale.com/a/dtd/367936-48088)
-- Cardano in Buenos Aires: 
-(https://cardano.ideascale.com/a/dtd/367293-48088)
-- Salmon Nation Hub: 
-(https://cardano.ideascale.com/a/dtd/368369-48088)
+- [Homeless Hubs](https://cardano.ideascale.com/a/dtd/367891-48088)
+- [Cardano in South L.A](https://cardano.ideascale.com/a/dtd/367936-48088)
+- [Cardano in Buenos Aires](https://cardano.ideascale.com/a/dtd/367293-48088)
+- [Salmon Nation Hub](https://cardano.ideascale.com/a/dtd/368369-48088)
 
-<u>What this means:</u>
+#### What this means
 
 1. Demand is growing for this category and we are only at the beginning of what is possible with a network of Cardano hubs globally. The network effect will take a hold at some point and when it does, we need to be ready with templates, guides and materials on creating and sustaining a new Cardano Community Hub (CCH).
 2. The impact is real and ROI is being met. Real lives are being affected and improved through this category. This creates a win-win, positive feedback loop as more people benefit from the solutions we offer them, there is even more demand for these services worldwide.
 
-<u>How if the Fund 8 challenge different?</u>
+#### How if the Fund 8 challenge different?
 
 While the growing demand is showing us that the need is there, our focus for the next challenge should be on the other side of the coin. **Capital supply.**
 
@@ -89,15 +85,13 @@ When you **drive adoption at the ground level**, you are doing more than just 'b
 
 ![](https://i.imgur.com/MWddZex.gif)
 
-<u>Extra reading (where we are going):</u>
+#### Extra reading (where we are going):
 
-- Cumbria, UK Business Hub: (https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
-- Rwanda Business Hub: (https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
+- [Cumbria, UK Business Hub](https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
+- [Rwanda Business Hub](https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
 
-<u>Past-funded challenges:</u>
+#### Past-funded challenges:
 
-- Scale-UP Community Hubs (F6): 
-- (https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
-- Scale-UP Community Hubs (F5): 
-- (https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
+- [Scale-UP Community Hubs (F6)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
+- [Scale-UP Community Hubs (F5)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
 
