@@ -1,8 +1,9 @@
 ---
 name: Document Translation for Catalyst Challenges
 about: Describe this issue template's purpose here.
-title: 'Challenge: <active campagn title here>'
-labels: ''
+title: 'Content Translation [Fund Challenge]:'
+labels: Catalyst:Challenge, Language:English, Language:Indonesian, Language:Japanese,
+  Language:Korean, Language:Portuguese, Language:Swahili, Language:Vietnamese, Translation:Content
 assignees: ''
 
 ---
@@ -26,6 +27,7 @@ The **<Challenge name>** needs to go up and be translated. Can you please transl
 - [ ] Japanese
 - [ ] Korean
 - [ ] Vietnamese
+- [ ] Swahili
 
 
 Translations can be done by anyone in the community; Language moderators need to approve the changes and submit the pull requests.
@@ -45,6 +47,7 @@ When the document has been translated, the Pull Request will be checked, and any
 - [ ] Japanese PR Merged
 - [ ] Korean PR Merged
 - [ ] Vietnamese PR Merged
+- [ ] Swahili PR Merged
 
 ### Aditional Links
 Links to the original website will be placed here
