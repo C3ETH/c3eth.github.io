@@ -3,55 +3,55 @@ title: Nation Building Dapps(国家建設Dapps)
 linkTitle: Nation Building Dapps(国家建設Dapps)
 type: docs
 hide_feedback: 'true'
-description: What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
+description: 発展途上国で獲得した広範なユーザーに提供できるコアNationBuilding Dappソリューションは何ですか？
 ---
 
 Fund Size: **800,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383828) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383828)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
+発展途上国で獲得した広範なユーザーに提供できるコアNationBuilding Dappソリューションは何ですか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-For the poor nations with no basic foundations, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity.
+基本的な基盤のない貧しい国々にとって、Nation Building Dappソリューションは、持続可能な繁栄を可能にするビルディングブロックになります。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Increasing Dapp usage in developing nations, in collaboration with Cardano Local Community Centers and Intl Partnerships to serve its people
+カルダノローカルコミュニティセンターおよび国際パートナーシップと協力して、発展途上国でのDappの使用を増やし、人々にサービスを提供する
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- Number of proposals
-- Proposals CA ratings
-- Diversity of Dapp's use cases
-- Proposers commercial approach and negotiation strategy with different Governments
-- Participation of Cardano's Local Community Centers
-- Participation and/or partnerships with other international organizations
-- Number of countries covered, contracts signed
-- Number of Dapp users, registry accounts, transaction volumes
-- Proposers lead time on field research, Dapp development and implementation
-- Dapps impact on social/financial inclusion
-- Dapps impact on economic development
+- 提案数
+- 提案CAの評価
+- Dappのユースケースの多様性
+- 提案者の商業的アプローチとさまざまな政府との交渉戦略
+- カルダノのローカルコミュニティセンターの参加
+- 他の国際機関への参加および/またはパートナーシップ
+- 対象国の数、署名された契約
+- Dappユーザー、レジストリアカウント、トランザクションボリュームの数
+- 提案者は、フィールド調査、Dappの開発、および実装に時間を費やします
+- Dappsは社会的/金融包摂に影響を与えます
+- Dappsは経済発展に影響を与えます
 
-## Challenge Brief
+## チャレンジブリーフ
 
-For the poor nations with no foundations to stand on, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity. The 2017 Findex report shows that about a quarter of unbanked adults live in the poorest 20 percent of households in their country. Proposals in Nation Building Dapps will be able to help provide digital identities to these people and help them out of poverty. We want to encourage Cardano blockchain solutions that will be able to provide nations with decentralized solutions to their infrastructure by eliminating a single point of failure, protecting national, corporate, and individual data, property, and assets.
+基盤のない貧しい国々にとって、Nation Building Dappソリューションは、持続可能な繁栄を可能にするビルディングブロックになります。 2017年のFindexレポートによると、銀行口座を持たない成人の約4分の1が、自国の最も貧しい20％の世帯に住んでいます。 Nation Building Dappsの提案は、これらの人々にデジタルIDを提供し、貧困から抜け出すのに役立つでしょう。単一障害点を排除し、国、企業、個人のデータ、資産、資産を保護することで、インフラストラクチャに分散型ソリューションを提供できるCardanoブロックチェーンソリューションを奨励したいと考えています。
 
 https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf
 
-Dapp proposals should cover foundational Registry solutions, namely:
+Dappの提案は、基本的なレジストリソリューションをカバーする必要があります。
 
-National ID &amp; Civil Registry, Property Registration, Medical &amp; Vaccination, Education Census, Revenue Service, Business Incorporations, Elections Voting, Customs &amp; Border Control, Criminal Records, Employment Census, Vehicle Registration, Licensing &amp; Certifications.
+国民IDと市民登録、財産登録、医療と予防接種、教育センサス、歳入サービス、企業法人、選挙投票、税関と国境管理、刑事記録、雇用センサス、車両登録、ライセンスと認証。
 
-Proposers to review IOHK/ EMURGO Atala Prism solutions before hand along with reference use cases on integrated registry systems applications currently implemented across wealthy nations.
+提案者は、IOHK / EMURGO Atala Prismソリューションを、富裕国全体で現在実装されている統合レジストリシステムアプリケーションのリファレンスユースケースとともに事前に確認します。
 
-it is further advised Proposers to obtain a knowledge base over research done in the past three decades unraveling the "mysterious" causes of poverty in third world countries by the economist Hernando de Soto.  The attached book, "The Mystery of Capital," is a great reference to get into context for anyone involved in developing proposals for this challenge.
+さらに、エコノミストのエルナンド・デ・ソトが第三世界の国々の貧困の「不可思議な」原因を解明するために過去30年間に行われた研究に関する知識ベースを取得することを提案者に勧めます。添付の本「TheMysteryof Capital」は、この課題の提案の作成に携わるすべての人にとって、コンテキストを理解するための優れた参考資料です。
 
-****Note:*** Think of government as from the people, for the people and by the people.
+****注：***政府は、人々から、人々のために、そして人々によってと考えてください。
 
-#### Introduction Video
+#### 紹介ビデオ
 
-{{&lt; youtube WaDP0n4pV84 &gt;}}
+{{&lt;youtubeWaDP0n4pV84&gt;}}
