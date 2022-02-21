@@ -3,43 +3,43 @@ title: Lobbying for favorable legislation(有利な立法のためのロビー�
 linkTitle: Lobbying for favorable legislation(有利な立法のためのロビー活動)
 type: docs
 hide_feedback: 'true'
-description: How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?
+description: 政府による攻撃や、継続的な法律や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。
 ---
 
 Fund Size: **300,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381094) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381094)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?
+政府による攻撃や、継続的な法律や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-So that we have favorable legislation, privacy, tax reduction, and a positive environment for mass adoption of cryptocurrencies.
+そのため、私たちは有利な法律、プライバシー、減税、そして暗号通貨の大量採用のための前向きな環境を持っています。
 
-### What does Sucess look like?
+### 成功はどのように見えますか？
 
-We managed to delay or reverse legislation that compromises crypto adoption and support local communities and organizations like Coincenter
+私たちは、暗号の採用を危うくし、Coincenterのような地域コミュニティや組織をサポートする法律を遅らせるか逆転させることができました
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- Number of jurisdictions favored through lobbying
-- Number of laws that have been modified
-- Number of experts in regulation, lawyers, and other members involved
-- Number of partnerships and collaborations with organizations and non-profits that work in the same cause
-- Number of votes of politicians engaged
+- ロビー活動を通じて支持された管轄区域の数
+- 変更された法律の数
+- 規制の専門家、弁護士、その他の関係者の数
+- 同じ目的で活動する組織や非営利団体とのパートナーシップやコラボレーションの数
+- 関与した政治家の投票数
 
-## Challenge Brief
+## チャレンジブリーフ
 
-The idea behind this challenge is to fund specialists in regulation, lawyers, and politicians who can promote the creation of an environment of laws that are more favorable or less harmful to the crypto space, with a focus on PoS and on Cardano's particularities.
+この課題の背後にある考え方は、PoSとカルダノの特殊性に焦点を当てて、暗号空間に有利または害の少ない法律環境の構築を促進できる規制の専門家、弁護士、および政治家に資金を提供することです。
 
-Through this challenge, we can fund proposals that seek the adoption of Cardano in certain jurisdictions, as happened recently with Bitcoin in El Salvador.
+このチャレンジを通じて、エルサルバドルのビットコインで最近起こったように、特定の法域でカルダノの採用を求める提案に資金を提供することができます。
 
 https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first
 
-Lobby and educate rational politicians so that it becomes possible to plead for the creation of more favorable rules on taxation, use of cryptocurrencies, and greater privacy for cryptocurrency users.
+課税、暗号通貨の使用、および暗号通貨ユーザーのプライバシーの向上に関するより有利なルールの作成を求めることができるように、合理的な政治家に働きかけ、教育します。
 
-In August 2021, the US Senate voted for unforgiving legislation on the crypto ecosystem. We have few voices to defend our community in the political class. Initiatives like the Coin Center are important to defend our community. How can we defend ourselves from attacks by authoritarian governments and compromising legislation?
+2021年8月、米国上院は暗号エコシステムに関する容赦のない法律に投票しました。政治のクラスで私たちのコミュニティを守るための声はほとんどありません。コインセンターのようなイニシアチブは、私たちのコミュニティを守るために重要です。権威主義的な政府による攻撃や妥協的な法律からどのように身を守ることができるでしょうか。
 
 https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what
