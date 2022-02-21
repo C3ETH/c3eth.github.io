@@ -3,55 +3,55 @@ title: Business Solutions (B2B & B2C)（ビジネスソリューション（B2B�
 linkTitle: Business Solutions (B2B & B2C)（ビジネスソリューション（B2B＆B2C））
 type: docs
 hide_feedback: 'true'
-description: How can Cardano-based solutions help meet real business needs and what would be their impact?
+description: Cardanoベースのソリューションは、実際のビジネスニーズを満たすのにどのように役立ち、その影響はどのようになりますか？
 ---
 
 Fund Size: **1,000,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382660) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/382660)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-How can Cardano-based solutions help meet real business needs and what would be their impact?
+Cardanoベースのソリューションは、実際のビジネスニーズを満たすのにどのように役立ち、その影響はどのようになりますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-Companies are finally discovering the power of blockchain technologies and Cardano is ready to onboard exciting B2B and B2C solutions.
+企業はついにブロックチェーンテクノロジーの力を発見し、CardanoはエキサイティングなB2BおよびB2Cソリューションを搭載する準備ができています。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Innovative products and services that increase efficiency, transparency, and stakeholder engagement as well as expand business to new areas.
+効率性、透明性、および利害関係者の関与を高め、ビジネスを新しい分野に拡大する革新的な製品とサービス。
 
-### Key Metrics to measure
+### 測定する主要な指標
 
 - ビジネスソリューションをサポートするカルダノdApp
 - カルダノベースのソリューションを提案している既存の企業
 - 企業間で作成されたパートナーシップ/合弁事業
-- additional funding from other sources for the funded proposals
-- projected cost savings
-- projected revenue increase
-- growth in mainnet / testnet activity due to business solutions
+- 資金提供された提案のための他の資金源からの追加資金
+- 予測されるコスト削減
+- 予想される収益の増加
+- ビジネスソリューションによるメインネット/テストネットアクティビティの成長
 
-## Challenge Brief
+## チャレンジブリーフ
 
-For years blockchain has held a promise that has not been properly filled. Spot solutions for e.g. traceability, supply chain management, identification and payments have been implemented but large scale benefits of this promising technology are yet to be seen. Based on years of rigorous research and development, Cardano is one of the most serious contenders to fulfill this promise.
+何年もの間、ブロックチェーンは適切に満たされていない約束を果たしてきました。トレーサビリティ、サプライチェーン管理、識別、支払いなどのスポットソリューションは実装されていますが、この有望なテクノロジーの大規模なメリットはまだ見られていません。長年の厳格な研究開発に基づいて、カルダノはこの約束を果たすための最も真剣な候補の1つです。
 
-Recent and upcoming technological developments in Cardano—smart contracts, Yoroi dApp connector, larger block size (higher throughput), sidechains and state channels, to name a few—are gearing Cardano to be ready for large scale adoption in 2022.
+Cardanoの最近および今後の技術開発（スマートコントラクト、Yoroi dAppコネクタ、より大きなブロックサイズ（より高いスループット）、サイドチェーン、ステートチャネルなど）は、2022年に大規模な採用に備えるためにCardanoを準備しています。
 
-Large corporations, small and medium sized enterprises (SMEs), platform businesses and highly networked startups have very different types of needs. Their industries may vary from finance and high-tech to agriculture and construction and from simple services to knowledge-intensive business. Yet, at the end of the day, they all need modern tools to keep fulfilling their mission, to remain relevant in global competition and to offer their employees the best tools to do what they were hired to do. Any company wants to engage their partners and employees, serve their customers better, improve their processes, cut costs, increase revenues and expand to new business areas.
+大企業、中小企業（SME）、プラットフォームビジネス、および高度にネットワーク化されたスタートアップには、非常に異なるタイプのニーズがあります。彼らの産業は、金融やハイテクから農業や建設、そして単純なサービスから知識集約型のビジネスまでさまざまです。それでも、結局のところ、彼らはすべて、使命を果たし続け、グローバルな競争に関連し続け、従業員に雇われたことを実行するための最良のツールを提供するための最新のツールを必要としています。どの企業も、パートナーや従業員と関わり、顧客により良いサービスを提供し、プロセスを改善し、コストを削減し、収益を増やし、新しいビジネス分野に拡大したいと考えています。
 
-By removing the middle man and automating processes, smart contract blockchain solutions can drive all of the above. Cardano can at least partly answer to these needs.
+仲介者を排除し、プロセスを自動化することで、スマートコントラクトブロックチェーンソリューションは上記のすべてを推進できます。カルダノは、これらのニーズに少なくとも部分的に答えることができます。
 
-**In this challenge, proposed solutions can be tools, services, products, process improvements, data management solutions (CRM, ERP, MES, DMP etc), decentralized cloud solutions, privacy and security related offerings or even metaverse-related solutions.**
+**この課題では、提案されるソリューションは、ツール、サービス、製品、プロセスの改善、データ管理ソリューション（CRM、ERP、MES、DMPなど）、分散型クラウドソリューション、プライバシーとセキュリティ関連の製品、またはメタバース関連のソリューションです。**
 
-In your proposal, it would be good to outline the extent, limits and scope of the solution readiness-level of the solution, and whether it is e.g:
+あなたの提案では、ソリューションの準備レベルの範囲、制限、範囲、およびそれが次のようなものであるかどうかを概説するとよいでしょう。
 
-- A Feasibility Study / Proof of Concept / Minimum Viable Product that could be built on Cardano.
-- An existing business-ready product or service that could be converted to run on Cardano.
-- A business-oriented training or consultancy service.
-- An existing blockchain solution brought into the Cardano ecosystem to serve business needs.
-- A prototype or demo in operational environment
-- A creation of model of a system or subsystem
-- A process improvement
+- 実現可能性調査/概念実証/カルダノ上に構築できる最小実行可能製品。
+- Cardanoで実行するように変換できる既存のビジネス対応製品またはサービス。
+- ビジネス指向のトレーニングまたはコンサルティングサービス。
+- ビジネスニーズに対応するためにCardanoエコシステムに導入された既存のブロックチェーンソリューション。
+- 運用環境でのプロトタイプまたはデモ
+- システムまたはサブシステムのモデルの作成
+- プロセスの改善
 
-When submitting proposals, please include the long-term vision, strategy and roadmap as well as short-term deliverables attainable in the next 6-9 months. Visualization and video materials are more than welcome to explain often complex business solutions.
+提案を提出する際には、長期的なビジョン、戦略、ロードマップ、および今後6〜9か月で達成可能な短期的な成果物を含めてください。視覚化とビデオ資料は、しばしば複雑なビジネスソリューションを説明するのに大歓迎です。
