@@ -3,72 +3,72 @@ title: Cardano Scaling Solutions(カルダノスケーリングソリューシ�
 linkTitle: Cardano Scaling Solutions(カルダノスケーリングソリューション)
 type: docs
 hide_feedback: 'true'
-description: What research and scaling implementations can be introduced to help Cardano increase scalability?
+description: Cardanoのスケーラビリティを向上させるために、どのような調査とスケーリングの実装を導入できますか？
 ---
 
 Fund Size: **400,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383094) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383094)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-What research and scaling implementations can be introduced to help Cardano increase scalability?
+Cardanoのスケーラビリティを向上させるために、どのような調査とスケーリングの実装を導入できますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-Hydra will not solve every scaling problem in Cardano, more scaling solutions are needed as alternatives.
+HydraはCardanoのすべてのスケーリング問題を解決するわけではなく、代替手段としてより多くのスケーリングソリューションが必要です。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Scaling solutions that are introduced and implemented by the community that Cardano projects can start using.
+Cardanoプロジェクトが使用を開始できるコミュニティによって導入および実装されたスケーリングソリューション。
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- Number of scaling solutions available to the community to use within their projects
-- Number of projects launched on any of the new scaling solutions
-- Novel ideas generated from research on different scaling approaches
+- コミュニティがプロジェクト内で使用できるスケーリングソリューションの数
+- 新しいスケーリングソリューションのいずれかで開始されたプロジェクトの数
+- さまざまなスケーリングアプローチの研究から生み出された斬新なアイデア
 
-## Challenge Brief
+## チャレンジブリーフ
 
-For Cardano to become a global leader as a smart contract blockchain it will need to scale to meet the requirements of handling hundreds of millions of users.
+Cardanoがスマートコントラクトブロックチェーンとしてグローバルリーダーになるには、数億人のユーザーを処理するための要件を満たすように拡張する必要があります。
 
-### Current Scaling Situation
+### 現在のスケーリング状況
 
-Hydra is the leading project being executed by IOG to help Cardano scale the blockchain.
+Hydraは、Cardanoがブロックチェーンを拡張するのを支援するためにIOGによって実行されている主要なプロジェクトです。
 
-The first phase of Hydra will be available in 2022 however this initial implementation will not resolve all of the problems needed for Cardano to scale.
+Hydraの最初のフェーズは2022年に利用可能になりますが、この最初の実装では、Cardanoのスケーリングに必要なすべての問題が解決されるわけではありません。
 
-Sebastien from dcSpark recently discussed the importance of rollups and alternative solutions in an interview -
+dcSparkのSebastienは最近、インタビューでロールアップと代替ソリューションの重要性について話しました-
 
-{{&lt; youtube 4DslvkLop04 &gt;}}
+{{&lt;youtube4DslvkLop04&gt;}}
 
-### Need for more scaling options
+### より多くのスケーリングオプションが必要
 
-To reach true decentralization the Cardano community will need to not rely on the input from IOG as much as it does now as we move into the future.
+真の分散化に到達するために、カルダノコミュニティは、将来に向けて現在のようにIOGからの入力に依存する必要はありません。
 
-Hydra will only have it's initial implementation released early next year. Cardano faces potential scaling problems in 2022 as high demand protocols in DeFi, NFTs and gaming begin and continue being released. With alternative scaling solutions not in place there is a risk of overloading demand on the main chain.
+Hydraは、最初の実装のみを来年初めにリリースする予定です。 Cardanoは、DeFi、NFT、およびゲームの需要の高いプロトコルが開始され、リリースされ続けるにつれて、2022年に潜在的なスケーリングの問題に直面します。代替のスケーリングソリューションが導入されていない場合、メインチェーンの需要が過負荷になるリスクがあります。
 
-### Types of proposals encouraged
+### 奨励される提案の種類
 
-Proposers should consider new novel ideas or research, extensions of Hydra functionality or porting over solutions used in other blockchains that would be suitable for Cardano.
+提案者は、新しい斬新なアイデアや研究、Hydra機能の拡張、またはCardanoに適した他のブロックチェーンで使用されるソリューションへの移植を検討する必要があります。
 
-Proposers are welcome to focus on market specific scalability solutions - for instance a solution could focus on DeFi specifically with decentralized exchanges (DEX's) as a focus area or other growing markets that could benefit from novel scaling solutions.
+提案者は、市場固有のスケーラビリティソリューションに焦点を当てることを歓迎します。たとえば、ソリューションは、特に分散型取引所（DEX）を重点分野として、または新しいスケーリングソリューションの恩恵を受ける可能性のあるその他の成長市場で、DeFiに焦点を当てることができます。
 
-Scalability topic areas:
+スケーラビリティのトピック領域：
 
 - ロールアップ（例：ゼロ知識ロールアップ、最適ロールアップ）
-- Sharding
-- Sidechains
+- シャーディング
+- サイドチェーン
 - ステートチャネル
 
-### Size of Proposals
+### 提案のサイズ
 
-Scaling solutions are inherently complex and require significant engineering effort. As a result proposers should not be discouraged from making proposals that request most of the challenge budget. A single proposal team is both welcome and encouraged to request the entire budget if they can demonstrate an articulated plan with the technical expertise to address the challenge of scaling solutions that are suitable for growing Cardano.
+スケーリングソリューションは本質的に複雑であり、多大なエンジニアリング作業が必要です。結果として、提案者は、チャレンジ予算の大部分を要求する提案をすることを思いとどまるべきではありません。単一の提案チームは、カルダノの成長に適したソリューションのスケーリングの課題に対処するための技術的専門知識を備えた明確な計画を示すことができれば、予算全体を要求することを歓迎し、奨励されます。
 
-### Budget rationale
+### 予算の根拠
 
-High technical expertise is needed for scalability solutions. Projects will likely take many months of engineering effort to implement viable solutions.
+スケーラビリティソリューションには、高度な技術的専門知識が必要です。プロジェクトは、実行可能なソリューションを実装するために、おそらく何ヶ月ものエンジニアリング作業を必要とします。
 
-### Follow on funding rounds
+### 資金調達ラウンドをフォローする
 
 このチャレンジ設定が投票され、提出された提案が影響を与える可能性がある兆候を示した場合、チームがさらにリクエストできるように、より大きなリクエストされた予算でファンド9のフォローアップチャレンジを提案します。
