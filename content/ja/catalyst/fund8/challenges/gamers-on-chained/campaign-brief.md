@@ -3,46 +3,46 @@ title: Gamers On   - Chained（ゲーマーオン-チェーン）
 linkTitle: Gamers On   - Chained（ゲーマーオン-チェーン）
 type: docs
 hide_feedback: 'true'
-description: What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?
+description: Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？
 ---
 
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381329) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381329)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?
+Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-Gamers are ready to enter crypto. They just need a clear blockchain with enjoyable applications to engage on.
+ゲーマーは暗号に入る準備ができています。参加するには、楽しいアプリケーションを備えた明確なブロックチェーンが必要です。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Cardano becomes the go to blockchain to develop gaming applications due to its quality tooling and wide gamer centric user base.
+Cardanoは、その高品質のツールと幅広いゲーマー中心のユーザーベースにより、ゲームアプリケーションを開発するためのブロックチェーンになります。
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-Key Metrics to measure
+測定する主要な指標
 
-- Total users of gaming based applications built on Cardano
-- Number of gaming based applications building/built on Cardano
-- Amount of value made by gamers in play-to-earn applications
-- Number of CNFTs made specifically for gaming
-- Number of fungible tokens made specifically for gaming
-- Number of gaming based content creators that have come to Cardano
-- Number of gaming tournaments hosted for Cardano native assets
-- Number of proposals submitted to this challenge
-- Amount of comments and kudos given to submitted proposals
-- Amount of ADA voted on proposals in this challenge
-- Amount of Wallets voted on proposals in this challenge
-- Amount and evolution of gaming based tokens and wallets
+- Cardano上に構築されたゲームベースのアプリケーションの総ユーザー
+- Cardano上に構築/構築されたゲームベースのアプリケーションの数
+- Play-to-Earnアプリケーションでゲーマーが生み出す価値の量
+- ゲーム専用に作成されたCNFTの数
+- ゲーム用に特別に作成された代替可能なトークンの数
+- カルダノに来たゲームベースのコンテンツクリエーターの数
+- Cardanoネイティブアセットでホストされているゲームトーナメントの数
+- このチャレンジに提出された提案の数
+- 提出された提案に与えられたコメントと称賛の量
+- このチャレンジの提案に投票したADAの量
+- このチャレンジの提案に投票したウォレットの数
+- ゲームベースのトークンとウォレットの量と進化
 
-## Challenge Brief
+## チャレンジブリーフ
 
-We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.
+起業家のゲームコミュニティでCatalystのブランド認知度を高め、ゲーマーが大好きなゲームを通じてCardanoエコシステムに参加する方法を提案する必要があります。これらの提案は、Cardanoベースのゲーム、Cardanoベースのゲーム開発用の開発ツールまたはSDK、既存のゲームと統合するブロックチェーンレイヤー、またはゲーマーやゲーム開発者をエンドユーザーとして優先するその他のものを構築するという形をとることができます。
 
-There are 2.5 billion gamers out there. These gamers are looking for their route into crypto in a fun and rewarding way. Let's provide them a library of games and integrations to choose from, solidifying Cardano as the go to blockchain for gaming.
+そこには25億人のゲーマーがいます。これらのゲーマーは、楽しくやりがいのある方法で暗号通貨への道を探しています。選択できるゲームと統合のライブラリを提供し、ゲームのブロックチェーンへの移行としてカルダノを固めましょう。
 
-Lets on-chain these gamers.
+これらのゲーマーをオンチェーンさせましょう。
