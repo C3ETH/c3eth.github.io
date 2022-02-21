@@ -3,84 +3,84 @@ title: Open Standards & Interoperability（オープンスタンダードと相�
 linkTitle: Open Standards & Interoperability（オープンスタンダードと相互運用性）
 type: docs
 hide_feedback: 'true'
-description: Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?
+description: 成長を促進し、すべての人に平等な機会を与え、カルダノプロジェクト全体の相乗効果を高めるためのオープンエコシステムを構築できますか？
 ---
 
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383619) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383619)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?
+成長を促進し、すべての人に平等な機会を与え、カルダノプロジェクト全体の相乗効果を高めるためのオープンエコシステムを構築できますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-To deliver complex software, driving collaboration, and accelerating innovation by sharing identity, practices, and sw components/services.
+ID、プラクティス、およびソフトウェアコンポーネント/サービスを共有することにより、複雑なソフトウェアを提供し、コラボレーションを推進し、イノベーションを加速します。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-A vendor-neutral ecosystem to
+ベンダーに中立なエコシステム
 
-- drive growth, awareness, discoverability
+- 成長、認識、発見可能性を促進する
 
-- increase commercial adoption
+- 商業的採用を増やす
 
-- provide needed infrastructures
+- 必要なインフラストラクチャを提供する
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-**Open standards** adoption should increase among cardano projects. On the long term, all of the community-funded projects should be open and transparent by following common standards.
+カルダノプロジェクトでは、**オープンスタンダード**の採用が増えるはずです。長期的には、コミュニティが資金提供するすべてのプロジェクトは、共通の基準に従うことにより、オープンで透明性のあるものでなければなりません。
 
-There should be **observable improvements**: easier to discover projects and find project resources, more intuitive to access project knowledge base (documentation, how-to, etc.), and simple to find and contact project members.
+目に**見える改善**があるはずです。プロジェクトの発見とプロジェクトリソースの検索がより簡単で、プロジェクトのナレッジベース（ドキュメント、ハウツーなど）へのアクセスがより直感的で、プロジェクトメンバーの検索と連絡が簡単です。
 
-It should be possible to have **project synergies** by allowing simple inter-project communication, knowledge sharing, and re-use of existing components/services.
+プロジェクト間の単純なコミュニケーション、知識の共有、および既存のコンポーネント/サービスの再利用を可能にすることで、**プロジェクトの相乗効果**を実現できるはずです。
 
-We should observe an **increase in open-source contributions** to different projects: both from new joiners and from other people already in the Cardano community
+さまざまなプロジェクトへ**のオープンソースの貢献の増加**を観察する必要があります：新しい参加者とすでにカルダノコミュニティにいる他の人々の両方から
 
-We should observe an **increase in reputability** of the Cardano Open Source projects. The measure can be done by looking at media communications of various open source communities.
+Cardanoオープンソースプロジェクトの評判の**向上**を観察する必要があります。この対策は、さまざまなオープンソースコミュニティのメディアコミュニケーションを調べることで実行できます。
 
-## Challenge brief
+## チャレンジブリーフ
 
-**Open standards** built on the principles of openness, transparency and consensus lay the grounds for innovation, growth and fair competition. ***Open standards are not synonymous of open source.*** [OPSTD]
+**オープン性、透明性、コンセンサスの原則に基づいて構築されたオープンスタンダード**は、革新、成長、公正な競争の基礎を築きます。***オープンスタンダードはオープンソースと同義ではありません。*** [OPSTD]
 
-We look at Open Source as the best way to enable interoperability between different technologies and applications. But in the Cardano Ecosystem we have a set of open source projects that have no standards for basic cross-project integration. For instance, there are no standards on how to document, set-up, and contribute-to projects. Moreover, there is no common infrastructure that the projects can use to track issues, and publish basic public information about the projects funded by the community.
+オープンソースは、さまざまなテクノロジーやアプリケーション間の相互運用性を実現するための最良の方法であると考えています。しかし、カルダノエコシステムには、基本的なプロジェクト間の統合の基準がない一連のオープンソースプロジェクトがあります。たとえば、プロジェクトの文書化、設定、および貢献の方法に関する基準はありません。さらに、プロジェクトが問題を追跡し、コミュニティによって資金提供されたプロジェクトに関する基本的な公開情報を公開するために使用できる共通のインフラストラクチャはありません。
 
-We are of the advise that we need a set of standards, processes, and infrastructures to be used by the Cardano open source projects, such that (1) The teams of different O.S. projects can easily collaborate; (2) New-joiners can easily discover, understand, test, and contribute to existing O.S. projects; (3) Cardano O.S. projects can access a pool of basic infrastructures and tools that are needed.
+Cardanoオープンソースプロジェクトで使用する一連の標準、プロセス、およびインフラストラクチャが必要であるとアドバイスします。これにより、（1）さまざまなOSプロジェクトのチームが簡単にコラボレーションできるようになります。 （2）新規参加者は、既存のOSプロジェクトを簡単に発見、理解、テスト、および貢献できます。 （3）Cardano OSプロジェクトは、必要な基本的なインフラストラクチャとツールのプールにアクセスできます。
 
-### Motivations
+### 動機
 
-As mentioned by Charles Hoskinson "Cardano code is Open Source, but needs to be managed like a true open source project, like Linux and other O.S. projects".
+Charles Hoskinsonが述べたように、「Cardanoコードはオープンソースですが、Linuxや他のOSプロジェクトのような真のオープンソースプロジェクトのように管理する必要があります」。
 
-{{&lt; youtube T88_XKzi8ms &gt;}}
+{{&lt;youtubeT88_XKzi8ms&gt;}}
 
-In order to proceed in this direction, we need to use Catalyst as a governance over a true, vendor-neutral open source and open-standards ecosystem. To achieve that, we are missing processes (e.g. how the project teams should behave and participate in the ecosystem), and infrastructures (e.g. VCS, CMS, Wiki, Forum, etc.)
+この方向に進むためには、真のベンダー中立のオープンソースおよびオープンスタンダードエコシステムに対するガバナンスとしてCatalystを使用する必要があります。それを達成するために、プロセス（たとえば、プロジェクトチームがどのように動作し、エコシステムに参加する必要があるか）とインフラストラクチャ（たとえば、VCS、CMS、Wiki、フォーラムなど）が不足しています。
 
-### Guiding questions
+### ガイドの質問
 
-- How can we guide the growth of a vendor neutral ecosystem?
-- How can we build a common identity and increase awareness on Cardano projects?
-- How can we increase the discoverability and the commercial adoption of our projects?
-- How can we increase the degree of collaboration across different projects?
-- How can we lower the barriers and increase open participation to our ecosystem?
-- How can we provide equal opportunities to all projects no matter the size?
+- ベンダーニュートラルエコシステムの成長をどのように導くことができますか？
+- どうすれば共通のアイデンティティを構築し、カルダノプロジェクトの認知度を高めることができますか？
+- プロジェクトの発見可能性と商業的採用をどのように高めることができますか？
+- さまざまなプロジェクト間でのコラボレーションの度合いをどのように高めることができますか？
+- どうすれば障壁を下げ、生態系へのオープンな参加を増やすことができますか？
+- サイズに関係なく、どのようにしてすべてのプロジェクトに平等な機会を提供できますか？
 
-### Possible directions
+### 考えられる方向
 
-- Incentivize collaboration across projects to solve complex problems
-- Introduce common standards and processes and incentivize their adoption across projects
-- Provide cross-project infrastructures and tools needed to co-ordinate
-- Ensure the existence of a cohesive knowledge base
-- Support a network of professional technology ambassadors
+- 複雑な問題を解決するためにプロジェクト間のコラボレーションを奨励する
+- 共通の標準とプロセスを導入し、プロジェクト全体でそれらの採用を奨励します
+- 調整に必要なプロジェクト間のインフラストラクチャとツールを提供する
+- 一貫性のある知識ベースの存在を確認する
+- プロのテクノロジーアンバサダーのネットワークをサポートする
 
-#### Note
+#### ノート
 
-This challenge builds on top of the existing F7 Open Source Developer Ecosystem and is loosely related to F8 Open Source Development Ecosystem (https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088)
+この課題は、既存のF7オープンソース開発者エコシステムの上に構築されており、F8オープンソース開発エコシステム（https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088）と大まかに関連しています。
 
-Indeed, this challenge is about establishing standards, processes, and fostering interoperability across O.S. projects, while the "Open Source" challenges are more focused on growing the O.S. ecosystem by seed-funding open source projects for future challenges.
+実際、この課題は、標準、プロセスの確立、およびOSプロジェクト間の相互運用性の促進に関するものですが、「オープンソース」の課題は、将来の課題に向けてオープンソースプロジェクトに資金を提供することにより、OSエコシステムの成長に重点を置いています。
 
-Shortly said: This challenge is about opennes, standardization, and interoperability across open source projects funded by the community, while the "open source" one is about increasing the number/quality of projects.
+簡単に言うと、この課題は、コミュニティが資金提供するオープンソースプロジェクト全体のオープンネス、標準化、相互運用性に関するものですが、「オープンソース」の課題は、プロジェクトの数/質を高めることです。
 
-#### References
+#### 参考文献
 
-`OPSTD` Almeida, Fernando &amp; José, Oliveira &amp; José, Cruz. (2011). Open Standards And Open Source: Enabling Interoperability. International Journal of Software Engineering &amp; Applications. 2. 10.5121/ijsea.2011.2101.
+`OPSTD`アルメイダ、フェルナンド＆ホセ、オリベイラ＆ホセ、クルス。 （2011）。オープンスタンダードとオープンソース：相互運用性の実現。ソフトウェアエンジニアリングとアプリケーションの国際ジャーナル。 2. 10.5121 /ijsea.2011.2101。
