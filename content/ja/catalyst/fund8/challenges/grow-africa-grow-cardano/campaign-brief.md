@@ -1,47 +1,47 @@
 ---
-title: Grow Africa, Grow Cardano
+title: アフリカを育て、カルダノを育てる
 linkTitle: Grow Africa, Grow Cardano（アフリカを育て、カルダノを育てる）
-type: docs
+type: ドキュメント
 hide_feedback: 'true'
-description: How do we continue to seed and grow Cardano in Africa in 2022?
+description: 2022年にアフリカでカルダノの種をまき、育て続けるにはどうすればよいでしょうか。
 ---
 
 Fund Size: **250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/384227) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/384227)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-How do we continue to seed and grow Cardano in Africa in 2022?
+2022年にアフリカでカルダノの種をまき、育て続けるにはどうすればよいでしょうか。
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-The 'Grow Africa' challenge is central to a key initiative of Cardano's, expanding into Africa. Allow Catalyst to also support this drive.
+「GrowAfrica」チャレンジは、カルダノの主要なイニシアチブの中心であり、アフリカに拡大しています。 Catalystがこのドライブもサポートできるようにします。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Cardano is the blockchain of choice in Africa by 2023.
+カルダノは、2023年までにアフリカで選択されるブロックチェーンです。
 
-Projects and developers in Africa will not be isolated, but networked and growing.
+アフリカのプロジェクトと開発者は孤立するのではなく、ネットワーク化されて成長します。
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- Number of new African projects seeded in 2022
-- Proposals clearly demonstrate Cardano tech use-case solutions
-- Number of African developers onboarded in 2022
-- Local impact (measurable through user activity and reach)
-- Local partnerships formed (size of institution + influence)
+- 2022年にシードされた新しいアフリカのプロジェクトの数
+- 提案は、Cardanotechのユースケースソリューションを明確に示しています
+- 2022年に採用されたアフリカの開発者の数
+- ローカルへの影響（ユーザーのアクティビティとリーチを通じて測定可能）
+- 形成された地域のパートナーシップ（機関の規模+影響力）
 
-## Challenge Brief
+## チャレンジブリーフ
 
-*"Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.*Focussing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson. The ROI is likely to be high because community sponsored projects are better run in young and developing economies." **Greg Bell; (originator of the Grow Cardano series)**
+*「アフリカに焦点を当てた資金調達ラウンドを持つことは、勝利、勝利、勝利のシナリオです。アフリカはいくつかの支援を得ることで勝利します。すでにアフリカで構築されている商業プロジェクトは、コミュニティからのサポートのシグナルを受け取るため、勝利します。カルダノ保有者アフリカに焦点を当てることは、IOGとCharles Hoskinsonによって頻繁に推進され、公然と追求されてきた戦略です。コミュニティが後援するプロジェクトは若い世代でより適切に実行されるため、ROIは高くなる可能性があります。と発展途上の経済。」**グレッグベル; （Grow Cardanoシリーズの創始者）**
 
-Throughout human history and civilization, it has been that every few centuries or so a confluence of factors align to transition us from one phase of development to another; The first and second industrial revolutions are prime examples. Right now we are barely out of the Web2 revolution and a fourth Industrial revolution or Web3 is upon us.
+人類の歴史と文明を通して、数世紀ごとに、要因の合流が私たちを開発のある段階から別の段階に移行させるために整列している。第一次産業革命と第二次産業革命はその代表的な例です。現在、私たちはWeb2革命からかろうじて抜け出しており、4番目の産業革命またはWeb3が私たちに迫っています。
 
-Although Africa did not play a key role in the first, second or third industrial revolution, it is poised to be a leader in Web 3.0 technology and those with foresight are positioning themselves strategically.
+アフリカは、第1、第2、または第3の産業革命において重要な役割を果たしていませんでしたが、Web 3.0テクノロジーのリーダーになる態勢が整っており、先見の明のある人々は戦略的に位置付けています。
 
-The Cardano community can be one of these visionaries. Let's be serious about seeding long term projects in Africa to capture a large share of an important emerging market.
+カルダノコミュニティは、これらの先見の明のある人の1人になることができます。重要な新興市場の大きなシェアを獲得するために、アフリカでの長期プロジェクトのシードに真剣に取り組みましょう。
 
-### Rationale for budget
+### 予算の根拠
 
 ここで率直にしましょう。アフリカでカルダノの種まきを続けるには、25万人以上が必要です。 Catalystの投票パターンのため、この金額を求めています。その点で、25万ドルは0ドルよりも優れており、WADAとパートナーは他のチャレンジカテゴリを利用して、アフリカでカルダノを拡大するのに役立てることができます。
