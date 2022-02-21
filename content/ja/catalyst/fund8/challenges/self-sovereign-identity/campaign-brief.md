@@ -3,51 +3,51 @@ title: Self-Sovereign Identity（自己主権型アイデンティティ）
 linkTitle: Self-Sovereign Identity（自己主権型アイデンティティ）
 type: docs
 hide_feedback: 'true'
-description: How can we take the next step to support the principles of self-sovereign identity?
+description: 自己主権のアイデンティティの原則をサポートするために、どのように次のステップを踏むことができますか？
 ---
 
 Fund Size: **400,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/380986) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/380986)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
 自己主権型アイデンティティの原則をサポートするために、どのように次のステップを踏むことができますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-We have the potential to be leaders in the SSI ecosystem, assuring trust and giving individuals control of their digital identities.
+私たちはSSIエコシステムのリーダーになる可能性があり、信頼を保証し、個人がデジタルIDを制御できるようにします。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Receiving high quality projects; growing participation on SSI discussions; partnering with ecosystem, governance and working groups
+高品質のプロジェクトを受け入れる。 SSIディスカッションへの参加の増加。エコシステム、ガバナンス、ワーキンググループとの提携
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- The number of proposals that directly address SSI in a quantifiable manner
-- The quality of proposals measured by community interest and engagement
-- Awareness of Cardano inside the SSI community, working groups and governance entities
+- 定量化可能な方法でSSIに直接対処する提案の数
+- コミュニティの関心と関与によって測定される提案の質
+- SSIコミュニティ、ワーキンググループ、ガバナンスエンティティ内のカルダノの認識
 
-## Challenge Brief
+## チャレンジブリーフ
 
-Catalyst Project by its Fund 6 and Fund 7 has promoted projects that push adoption of the Decentralized Identity and Atala Prism SDK. Additionally, a first cohort was part of the Atala PRISM Pioneer Program and a second one is ready to start.
+ファンド6およびファンド7によるCatalystプロジェクトは、分散型IDおよびAtala PrismSDKの採用を推進するプロジェクトを推進しています。さらに、最初のコホートはAtala PRISMパイオニアプログラムの一部であり、2番目のコホートは開始する準備ができています。
 
 これまでに提案されたプロジェクトの量と質、および分散型アイデンティティの問題へのコミュニティの関与は、**カルダノが自己主権型アイデンティティエコシステムのすべての側面に対処するための大きな動きをする準備ができていることを明確に示しています。**
 
-This challenge is looking for projects that help position Cardano as one of the leaders in the SSI space. With a broader scope than past challenges, we expect this one to tackle all layers defined by the Trust over IP Foundation.
+この課題は、カルダノをSSI分野のリーダーの1人として位置付けるのに役立つプロジェクトを探しています。過去の課題よりも広い範囲で、これがTrust over IPFoundationによって定義されたすべてのレイヤーに取り組むことを期待しています。
 
-#### Some directions that projects can take are:
+#### プロジェクトがとることができるいくつかの方向性は次のとおりです。
 
-- Participation and adoption growth
-- Portability
-- Usability and accessibility
-- Governance frameworks
-- Interoperability
-- Privacy and minimal disclosure (Zero Knowledge Proofs)
-- Security
-- Regulation
-- Business models
-- NFT and Smart Contracts integration
-- Trust registries
-- Equity and inclusion
-- Philosophical implications
+- 参加と採用の成長
+- 移植性
+- 使いやすさとアクセシビリティ
+- ガバナンスフレームワーク
+- 相互運用性
+- プライバシーと最小限の開示（ゼロ知識証明）
+- 安全
+- 規制
+- ビジネスモデル
+- NFTとスマートコントラクトの統合
+- トラストレジストリ
+- エクイティとインクルージョン
+- 哲学的な意味
