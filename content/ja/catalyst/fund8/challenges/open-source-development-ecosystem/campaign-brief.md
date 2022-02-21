@@ -3,62 +3,62 @@ title: Open Source Development Ecosystem（オープンソース開発エコシ�
 linkTitle: Open Source Development Ecosystem（オープンソース開発エコシステム）
 type: docs
 hide_feedback: 'true'
-description: How can we ensure that the Cardano ecosystem is built on a framework which is owned by the community and equally accessible to all?
+description: Cardanoエコシステムが、コミュニティが所有し、すべての人が平等にアクセスできるフレームワーク上に構築されていることをどのように確認できますか？
 ---
 
 Fund Size: **1,200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382213) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/382213)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-How can we ensure that the Cardano ecosystem is built on a framework which is owned by the community and equally accessible to all?
+Cardanoエコシステムが、コミュニティが所有し、すべての人が平等にアクセスできるフレームワーク上に構築されていることをどのように確認できますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-We need to grow an entire ecosystem of experts to build and maintain the foundations of Cardano/Catalyst together with the current IOG teams
+現在のIOGチームと一緒にカルダノ/触媒の基盤を構築および維持するには、専門家のエコシステム全体を成長させる必要があります
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-A growing number of experts join forces to build collaboratively on community owned infrastructure, tooling, standards, libraries and docs
+ますます多くの専門家が力を合わせて、コミュニティが所有するインフラストラクチャ、ツール、標準、ライブラリ、ドキュメントを共同で構築しています
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- increase the number and the quality of Cardano Open Source projects
-- increase the number of contributors
-- increase of open source tools and frameworks from the community for the community (dog-fooding)
+- Cardanoオープンソースプロジェクトの数と質を高める
+- 寄稿者の数を増やす
+- コミュニティのためのコミュニティからのオープンソースツールとフレームワークの増加（ドッグフーディング）
 
-## Challenge Brief
+## チャレンジブリーフ
 
-In the first iterations, Catalyst started as a Challenge proposed by the Catalyst team. Initially, the majority of its budget was destined to the Developer Ecosystem. For instance, in Fund 6, the Developer Ecosystem was assigned 1 mil. USD, that was 25% of the total 4 mil. available for the Fund.
+最初の反復では、CatalystはCatalystチームによって提案されたチャレンジとして開始されました。当初、その予算の大部分は開発者エコシステムに向けられていました。たとえば、ファンド6では、開発者エコシステムに1ミルが割り当てられました。米ドル、それは合計400万の25％でした。基金に利用可能。
 
-In Fund 7, Catalyst released control of the budget to the community, which was able to choose the destination of the funding through voting. Unfortunately, the Developer Ecosystem challenge proposed for F7 was rejected because it did not receive enough votes. This led to the lack of an important resource stream that could have been used for the development of the Cardano technology.
+基金7では、Catalystは予算の管理をコミュニティに解放し、コミュニティは投票を通じて資金提供先を選択することができました。残念ながら、F7に提案されたDeveloper Ecosystemチャレンジは、十分な票を獲得できなかったため却下されました。これにより、カルダノテクノロジーの開発に使用できたはずの重要なリソースストリームが不足していました。
 
-### Open Source Development Ecosystem challenge
+### オープンソース開発エコシステムの課題
 
-The OSDE challenge aims to provide a stream of resources to teams that want to develop their projects and contribute back to the community by sharing part of their efforts in terms of open source projects, open-source frameworks, and accessible knowledge.
+OSDEの課題は、オープンソースプロジェクト、オープンソースフレームワーク、およびアクセス可能な知識に関する取り組みの一部を共有することにより、プロジェクトを開発し、コミュニティに貢献したいチームに一連のリソースを提供することを目的としています。
 
-The main idea is that projects funded by the community can both generate business value retained by the teams, and at the same time contribute back to the community by improving the ecosystem itself.
+主なアイデアは、コミュニティによって資金提供されたプロジェクトは、チームが保持するビジネス価値を生み出すと同時に、エコシステム自体を改善することによってコミュニティに貢献できるということです。
 
-For example, a team can be funded to develop a project; generate business value by leveraging a profitable idea, and share the non-core-business part of their work in terms of shared knowledge or in terms of building frameworks or projects with other teams - such that is possible to solve complex problems by joining minds and dividing the efforts across different teams.
+たとえば、プロジェクトを開発するためにチームに資金を提供することができます。有益なアイデアを活用してビジネス価値を生み出し、知識の共有やフレームワークやプロジェクトの構築という観点から、業務の非中核事業部分を他のチームと共有します。これにより、心を合わせて複雑な問題を解決することができます。異なるチーム間で作業を分割します。
 
-### Motivation
+### 動機
 
-Catalyst exists to gradually work towards the final stage of the roadmap of Cardano: Voltaire. We are building tools to support new forms of governance and collaboration, on top of technology that is still being developed. The development of this technology itself, in the end, will have to become part of this same process as well. Such a complex and daunting task requires experts from a variety of disciplines to work together with a common goal.
+Catalystは、Cardano：Voltaireのロードマップの最終段階に向けて徐々に機能するために存在します。まだ開発中のテクノロジーに加えて、新しい形式のガバナンスとコラボレーションをサポートするツールを構築しています。この技術の開発自体は、最終的には、これと同じプロセスの一部になる必要があります。このような複雑で困難な作業では、さまざまな分野の専門家が共通の目標に沿って作業する必要があります。
 
-#### Guiding questions
+#### ガイドの質問
 
-- How can we ensure future efforts benefit from the work that is funded today?
-- How do we align between different open source community efforts?
-- What are the next steps to fuse IOG development with the community?
-- How can we encourage experts to collaborate and share their knowledge and work?
-- How can we develop a sustainable ecosystem while sharing knowledge and efforts?
+- 今日資金提供されている作業から将来の努力が利益を得るようにするにはどうすればよいでしょうか。
+- さまざまなオープンソースコミュニティの取り組みをどのように調整しますか？
+- IOG開発をコミュニティと融合させるための次のステップは何ですか？
+- 専門家が協力して知識と仕事を共有することをどのように奨励できますか？
+- 知識と努力を共有しながら、どうすれば持続可能なエコシステムを開発できますか？
 
-#### Possible directions
+#### 可能な方向
 
-- Education for development in the Cardano &amp; Catalyst ecosystem
-- Developing common tools, frameworks, core infrastructures, or proof of concepts
-- Incentive systems for development &amp; hosting
-- Common audited repositories &amp; overviews of existing solutions
-- Organizing events to bring the development ecosystem together
-- Collaboration to improve interoperability within the ecosystem
+- Cardano＆Catalystエコシステムの開発のための教育
+- 共通のツール、フレームワーク、コアインフラストラクチャ、または概念実証の開発
+- 開発とホスティングのためのインセンティブシステム
+- 一般的な監査済みリポジトリと既存のソリューションの概要
+- 開発エコシステムをまとめるためのイベントの開催
+- エコシステム内の相互運用性を改善するためのコラボレーション
