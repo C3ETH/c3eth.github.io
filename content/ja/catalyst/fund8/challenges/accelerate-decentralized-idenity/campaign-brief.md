@@ -77,42 +77,42 @@ PioneerとCatalystが資金提供するプロジェクトの多くは、教育�
 
 レピュテーションの基準が変更された場合、悪意のある人物、有害な行動、または悪い結果を自己回復および自己監視する方法が必要です。
 
-**Circular Supply Chain**
+**循環サプライチェーン**
 
-The global supply chain focuses on creating a new economic infrastructure. The goal is replacing or integrating with legacy systems such as record-keeping, bills of lading, centrally managed systems of record, and distribution networks. Centralization has many challenges, the least of which is a lack of resilience in the global supply chain, as we have all seen and continue to experience in the COVID era.
+グローバルサプライチェーンは、新しい経済インフラの構築に重点を置いています。目標は、記録管理、船荷証券、一元管理された記録システム、流通ネットワークなどのレガシーシステムを置き換えるか統合することです。中央集権化には多くの課題がありますが、その中で最も少ないのは、COVIDの時代に私たち全員が見てきたように、グローバルなサプライチェーンにおける回復力の欠如です。
 
-Supply chains tend to start as decentralized. Markets and trade routes emerge from the bottom of the producer market and are aggregated into centralized supply chains, eventually working their way down to the consumer. We want to explore new patterns of commerce in bottom-up supply chains that could open and expand the local reputation network into markets that are currently inaccessible, such as:
+サプライチェーンは分散型として開始する傾向があります。市場と貿易ルートは生産者市場の底から現れ、一元化されたサプライチェーンに集約され、最終的には消費者に到達します。ボトムアップのサプライチェーンにおける新しい商取引のパターンを探求したいと考えています。これにより、ローカルの評判ネットワークが開かれ、現在アクセスできない市場に拡大する可能性があります。
 
-- Regenerative agriculture
-- Locally produced art
-- Other forms of local commerce
+- 再生農業
+- 地元で制作されたアート
+- 他の形態のローカルコマース
 
-On the other side, distribution or demand-driven commerce has the potential to build a market force from the bottom-up that can engage the industrial global supply chain in ways that are not possible without establishing the voice and economic strength of the community digitally.
+一方、流通または需要主導型の商取引は、コミュニティの声と経済力をデジタルで確立しなければ不可能な方法で産業のグローバルサプライチェーンに関与できるボトムアップから市場の力を構築する可能性があります。
 
-For the supply chain challenge, we want to address two significant challenges:
+サプライチェーンの課題については、次の2つの重要な課題に対処したいと考えています。
 
-##### Small Producer Problem
+##### 小さな生産者の問題
 
-How can we create transparency as the bottom-up process meets the industrialized supply chains, cuts through the centralized distribution markets, and connects directly to the consumer?
+ボトムアッププロセスが工業化されたサプライチェーンに適合し、一元化された流通市場を切り抜け、消費者に直接つながるときに、どうすれば透明性を生み出すことができるでしょうか。
 
-For example, small producers like a family ranch in Wyoming have no way to get information about the value of their product through these global aggregation and distribution networks. Currently, a solution such as the BeefChain project is supporting small ranchers.
+たとえば、ワイオミング州の家族牧場のような小規模生産者は、これらのグローバルな集約および流通ネットワークを通じて自社製品の価値に関する情報を入手する方法がありません。現在、BeefChainプロジェクトなどのソリューションは、小規模牧場主をサポートしています。
 
-There are multiple issues to overcome. For example, packaging plants are the entry point to the aggregation, so there is little or no incentive to deal with the small producer. We want to address this problem by building general-purpose tooling to assist communities in self-organizing and self-governing production according to agreed standards. We propose that if these communities can connect and grow, they will either:
+克服すべき問題は複数あります。たとえば、包装工場は集合体への入り口であるため、小規模生産者と取引するインセンティブはほとんどまたはまったくありません。私たちは、合意された基準に従ってコミュニティが自己組織化および自治生産を支援するための汎用ツールを構築することにより、この問題に対処したいと考えています。これらのコミュニティがつながり、成長できるのであれば、次のいずれかを行うことを提案します。
 
-- Reach the market through alternative distribution channels to industrial supply chains
-- Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.
+- 産業サプライチェーンへの代替流通チャネルを通じて市場に到達する
+- コミュニティとしてより良い条件について交渉し、製品の価値を認識し、配布し、価値を維持して商業的および評判的に販売することができます。
 
-##### The Last-Mile Problem
+##### ラストワンマイルの問題
 
-How can a local distributor in a local market interact with global industrial supply chains and be given access to the market that otherwise would be inaccessible due to a lack of economic identity or capital to access the goods at the scale required by industrial supply chains?
+ローカル市場のローカルディストリビューターは、どのようにしてグローバルな産業サプライチェーンと相互作用し、産業サプライチェーンに必要な規模で商品にアクセスするための経済的アイデンティティや資本が不足しているためにアクセスできない市場へのアクセスを許可できますか？
 
-This challenge deals with distributing necessary products to local communities with little market clout or access to financial tools, such as credit, to interact with the industrial supply chain. We're looking for bottom-up tooling to establish a network of communities. Delegates in those communities can access the finance and credit necessary to interact with the industrial supply chain at the economic scale required for transactions.
+この課題は、市場の影響力がほとんどない、またはクレジットなどの金融ツールにアクセスして産業サプライチェーンと相互作用する必要のある製品を地域コミュニティに配布することを扱います。コミュニティのネットワークを確立するためのボトムアップツールを探しています。これらのコミュニティの代表者は、取引に必要な経済規模で産業サプライチェーンと対話するために必要な資金とクレジットにアクセスできます。
 
-An example of this problem is delivering health care supplies to rural and developing countries and economies. The funds from donors, the government, and other sources are available for these medical supplies. The donors will only release the funds once delivery is verified, and the medical supply companies will only send the goods to port once payment is received.
+この問題の例は、農村部や発展途上国、経済に医療用品を届けることです。これらの医薬品には、ドナー、政府、その他の資金源からの資金が利用できます。ドナーは配達が確認された後にのみ資金を解放し、医療供給会社は支払いが受領された後にのみ商品を港に送ります。
 
-However, local small businesses must maintain transparency and oversight of the goods during delivery and receiving. These businesses do not have the funds or the ability to borrow capital to cover medical supplies costs from the delivery at the port to the hospitals and clinics that need them.
+ただし、地元の中小企業は、配達と受け取りの際に商品の透明性と監視を維持する必要があります。これらの企業には、港での医療用品の配達からそれらを必要とする病院や診療所への医療費を賄うための資金や資金を借りる能力がありません。
 
-Addressing the challenge of the financial gap is vital. We believe that there is enormous potential to create bottom-up networks of trusted individuals and small businesses to fill this gap.
+財政格差の課題に取り組むことは極めて重要です。このギャップを埋めるために、信頼できる個人や中小企業のボトムアップネットワークを構築する大きな可能性があると私たちは信じています。
 
 ##### 提案されたパターン言語の概要（例）
 
