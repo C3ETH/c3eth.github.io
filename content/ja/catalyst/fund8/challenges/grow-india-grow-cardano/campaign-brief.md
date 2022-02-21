@@ -1,71 +1,71 @@
 ---
 title: Grow India, Grow Cardano(インドを育て、カルダノを育てる)
 linkTitle: Grow India, Grow Cardano(インドを育て、カルダノを育てる)
-type: docs
+type: ドキュメント
 hide_feedback: 'true'
-description: How can we grow Cardano development and adoption in India?
+description: インドでカルダノの開発と採用をどのように成長させることができますか？
 ---
 
 Fund Size: **150,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381216) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381216)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-How can we grow Cardano development and adoption in India?
+インドでカルダノの開発と採用をどのように成長させることができますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
-1.4B people. 55% under 30y (2016 est)
+14億人。 30歳未満の55％（2016年推定）
 
-Local Cardano developers/businesses needed to solve local issues.
+地元の問題を解決するために必要な地元のカルダノ開発者/企業。
 
-Significant poverty/unbanked
+重大な貧困/銀行口座のない
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Success is having multiple submissions for Catalyst Fund8 for India focused projects, with real-world projects getting funded and built.
+成功は、インドに焦点を当てたプロジェクトのためのCatalyst Fund8の複数の提出があり、実際のプロジェクトが資金提供されて構築されています。
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-The overall key metrics would be:
+全体的な主要な指標は次のとおりです。
 
-- Increased interaction between Catalyst and Indian focused projects
-- Number of Indian focused Catalyst submissions
-- Number of Indian focused dapps/services actually built
+- Catalystとインドに焦点を当てたプロジェクト間の相互作用の増加
+- インドに焦点を当てたCatalystの提出数
+- 実際に構築されたインドに焦点を当てたdapps /サービスの数
 
-## Challenge Brief
+## チャレンジブリーフ
 
-As well as Africa, I think we should also put significant focus on Cardano within India.
+アフリカだけでなく、インド国内のカルダノにも重点を置くべきだと思います。
 
-India has a massive population of 1.4 billion.
+インドの人口は14億人と膨大です。
 
-55% are under the age of 30yrs (Wikipedia, 2016 est.) There are a significant percentage of unbanked/rural people worldpoverty.io notes 100 million Indians (7%) live in extreme poverty Certain rural areas are already using Aadhaar Pay to pay for goods using their fingerprint see https://www.payaadhar. In 2019). So there is enough infrastructure and consumer devices in place to make this a serious market right away.
+55％は30歳未満です（Wikipedia、2016年推定）銀行口座を持たない/地方の人々のかなりの割合がありますworldpoverty.ioは1億人のインド人（7％）が極度の貧困に住んでいると述べています指紋を使用した商品については、https：//www.payaadharを参照してください。 2019年）。したがって、これをすぐに深刻な市場にするのに十分なインフラストラクチャと消費者向けデバイスが整っています。
 
-Having an India focused Catalyst challenge/fund would be very useful to gather teams and ideas and get the Cardano ball rolling in India. I am not Indian and have no connection to India, but I think that Cardano could be useful to help solve issues that they face and also to grow the Cardano eco-system.
+インドに焦点を当てたCatalystチャレンジ/資金を持つことは、チームやアイデアを集め、インドでカルダノボールを転がすのに非常に役立ちます。私はインド人ではなく、インドとは関係がありませんが、カルダノは彼らが直面している問題を解決し、カルダノの生態系を成長させるのに役立つと思います。
 
-On the surface issues in India might appear similar to Africa or South America, and there will be some overlap, but ideally local people identifying and solving local issues is best.
+表面的には、インドの問題はアフリカや南アメリカに似ているように見えるかもしれず、いくつかの重複がありますが、理想的には、地元の人々が地元の問題を特定して解決するのが最善です。
 
-Emurgo has an office in India, but not sure what they are up to. IT in India is well established with a large pool of talent and skills available - we need to let them know about Cardano and the Catalyst funding. This proposal is intended to focus on India within a Fund8 challenge, with that challenge attracting actionable proposals to grow the community of developers and educators.
+エムルゴはインドに事務所を持っていますが、彼らが何をしているのかわかりません。インドのITは十分に確立されており、豊富な人材とスキルを利用できます。カルダノとCatalystの資金調達について知らせる必要があります。この提案は、Fund8チャレンジ内でインドに焦点を当てることを目的としており、そのチャレンジは、開発者と教育者のコミュニティを成長させるための実用的な提案を引き付けます。
 
-Some suggestions for that Fund8 challenge are:
+そのFund8チャレンジのいくつかの提案は次のとおりです。
 
-- Setting up local Cardano hubs for regular catch ups (virtual or real world)
+- 定期的なキャッチアップのためのローカルカルダノハブのセットアップ（仮想または実世界）
 
-- Local-language websites/socials/YT set up to attract developers/entrepreneurs to explain Cardano and Catalyst at a high-level
+- カルダノとCatalystをハイレベルで説明するために開発者/起業家を引き付けるために設定された現地語のウェブサイト/ソーシャル/ YT
 
-- Fund a dapp and create a how-to video in local-language as a walk through to help educate and reduce perceived complexity
+- dappに資金を提供し、認識された複雑さを教育して軽減するためのウォークスルーとして、現地の言語でハウツービデオを作成します
 
-- Run a competition/pitch-fest for dapp ideas with the top 10 ideas get funded to make a MVP
+- Dappアイデアのコンテスト/ピッチフェストを実行し、上位10のアイデアに資金を提供してMVPを作成します
 
-- Connect with universities and training centers
+- 大学やトレーニングセンターとつながる
 
-- Connect with new and established Indian YouTube channels to talk Cardano tech, dev ideas, business opportunities etc to create a buzz about Catalyst funding
+- 新しく確立されたインドのYouTubeチャンネルに接続して、Cardanoの技術、開発者のアイデア、ビジネスチャンスなどについて話し、Catalystの資金調達について話題を呼びましょう。
 
 - カルダノとCatalystの資金提供の認知度を定期的に高めて、人々をスペースに呼び込みます。たとえば、12か月のキャンペーン
 
-This is like a big heavy wheel that will take a lot of energy to get turning, but once it starts to move it will (hopefully) keep going with less energy needed.
+これは、回転するのに多くのエネルギーを必要とする大きな重いホイールのようなものですが、動き始めると、（うまくいけば）必要なエネルギーが少なくなり続けます。
 
-How much ADA/USD should be available for this proposal?
+この提案にはどのくらいのADA / USDが利用可能である必要がありますか？
 
-I think it will take a few Catalyst rounds to build the Cardano interest in India, so the first round of investment during Fund8 should be $150k. Subsequent funding rounds can be determined at the time and then voted on by the community.
+インドでカルダノへの関心を高めるには、Catalystラウンドが数回かかると思います。したがって、Fund8での最初の投資ラウンドは15万ドルになるはずです。その後の資金調達ラウンドは、その時点で決定され、コミュニティによって投票されます。
