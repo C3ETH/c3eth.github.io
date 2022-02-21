@@ -3,42 +3,42 @@ title: "Scale-UP Cardano's Community Hubs（スケールアップカルダノの
 linkTitle: "Scale-UP Cardano's Community Hubs（スケールアップカルダノのコミュニティハブ）"
 type: docs
 hide_feedback: 'true'
-description: How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in 2022?
+description: 2022年にカルダノの採用と認識を促進するように地域コミュニティハブをどのように奨励しますか？
 ---
 
 Fund Size: 500,000 USD paid in Ada
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381022) and [browse ideas]().
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381022)と[アイデアの閲覧]()。
 
-## Campaign Brief
+## キャンペーン概要
 
-How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in 2022?
+2022年にカルダノの採用と認識を促進するように地域コミュニティハブをどのように奨励しますか？
 
-### Why is it important?
+### どうしてそれが重要ですか？
 
 ユーザーがいなくても、ブロックチェーンの専門知識を持つ技術者を中心にサービスを提供するニッチな製品を構築しています。
 
-### What does success look like?
+### 成功はどのように見えますか？
 
-Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding
+平均的な人が自分の言語で自分の文化的理解を持って参加できる世界中の地域コミュニティハブ
 
-### Key Metrics to measure
+### 測定する主要な指標
 
-- How many new Hubs were launched in 2022?
-- How many developers did this community-focused challenge bring into the Cardano ecosystem?
-- How many new users of Cardano were onboarded?
-- What was the total reach of the Hub's initial marketing launch?
-- How many external organizations did this community-focused challenge bring into the Cardano ecosystem?
+- 2022年にいくつの新しいハブが立ち上げられましたか？
+- このコミュニティに焦点を当てた課題は、何人の開発者をカルダノエコシステムにもたらしましたか？
+- カルダノの新規ユーザーは何人参加しましたか？
+- ハブの最初のマーケティング立ち上げの総リーチはどれくらいでしたか？
+- このコミュニティに焦点を当てた課題は、カルダノのエコシステムにいくつの外部組織をもたらしましたか？
 
-### Challenge Brief
+### チャレンジブリーフ
 
-***Challenge Updates***
+***チャレンジアップデート***
 
-**Top 3 Challenge Category in Fund 7** by number of submissions (see attached).
+提出数による**ファンド7のトップ3チャレンジカテゴリー**（添付を参照）。
 
-**2x Funded Challenge Setting Proposal** (Fund 5 and Fund 6)
+**2x資金提供チャレンジ設定提案**（資金5および資金6）
 
-<u>A selection of past-funded 'Scale-Up Hubs':</u>
+<u>過去に資金提供された「スケールアップハブ」の選択：</u>
 
 - [Homeless Hubs](https://cardano.ideascale.com/a/dtd/367891-48088)
 - [Cardano in South L.A](https://cardano.ideascale.com/a/dtd/367936-48088)
@@ -47,42 +47,42 @@ Local Community Hubs across the world where the average person can take part in 
 
 #### What this means
 
-1. Demand is growing for this category and we are only at the beginning of what is possible with a network of Cardano hubs globally. The network effect will take a hold at some point and when it does, we need to be ready with templates, guides and materials on creating and sustaining a new Cardano Community Hub (CCH).
-2. The impact is real and ROI is being met. Real lives are being affected and improved through this category. This creates a win-win, positive feedback loop as more people benefit from the solutions we offer them, there is even more demand for these services worldwide.
+1. このカテゴリーの需要は高まっており、私たちはカルダノハブのネットワークで世界的に可能なことの始まりに過ぎません。ネットワーク効果はある時点で定着します。定着したら、新しいCardano Community Hub（CCH）の作成と維持に関するテンプレート、ガイド、および資料を用意する必要があります。
+2. 影響は現実のものであり、ROIは満たされています。このカテゴリーを通じて、実際の生活は影響を受け、改善されています。これにより、私たちが提供するソリューションからより多くの人々が恩恵を受け、世界中でこれらのサービスに対する需要がさらに高まるにつれて、双方にメリットのある正のフィードバックループが生まれます。
 
-#### How if the Fund 8 challenge different?
+#### ファンド8のチャレンジが異なる場合はどうなりますか？
 
-While the growing demand is showing us that the need is there, our focus for the next challenge should be on the other side of the coin. **Capital supply.**
+需要の高まりはニーズがあることを示していますが、次の課題に焦点を当てるのはコインの裏側です。**資本供給。**
 
-While the facts have proven the necessity of a Community Hubs challenge, there are many other equally as important challenges vying for a position in Fund 8, so we must act accordingly. **We must make budget requests that allow others to also pursue their goals** within the ecosystem, both macro, for Catalyst and micro, within the Challenges themselves.
+事実はコミュニティハブの課題の必要性を証明していますが、ファンド8での地位を争う重要な課題は他にもたくさんあるので、それに応じて行動する必要があります。チャレンジ自体の中で、他の人がエコシステム内で、マクロ、Catalyst、マイクロの両方の**目標を追求できるように、予算を要求する必要があります**。
 
-While we are **Scaling UP community hubs**, we need to **Scale DOWN individual capital outlay**, to ensure that we can spread as far as possible, as quickly as possible, which is why we work from first principles.
+**コミュニティハブをスケールアップ**している間、**個々の資本支出をスケールダウン**して、可能な限り迅速に拡散できるようにする必要があります。そのため、私たちは第一原理から取り組んでいます。
 
-1. Delivering information to people who would not otherwise have the access.
-2. Ensuring resilience and self-reliance within that community. When we approach hubs from the lens of information-delivery nodes, we can build a hub taxonomy within a need-impact matrix and then find the most capital efficient model for each location.
+1. 他の方法ではアクセスできない人々に情報を提供します。
+2. そのコミュニティ内での回復力と自立を確保する。情報配信ノードのレンズからハブにアプローチする場合、ニーズインパクトマトリックス内にハブ分類法を構築し、各場所で最も資本効率の高いモデルを見つけることができます。
 
-In simpler terms, consider why a hub exists, in the context of it's location, access to infrastructure and community readiness. Then design a hub according to those factors, with a traditional brick-and-mortar (CTH) being only one out of many potential information-delivery systems within a local community.
+簡単に言えば、ハブが存在する理由を、その場所、インフラストラクチャへのアクセス、およびコミュニティの準備状況のコンテキストで検討してください。次に、これらの要因に従ってハブを設計します。従来の実店舗（CTH）は、地域コミュニティ内の多くの潜在的な情報配信システムの1つにすぎません。
 
-**This round will focus much more on 'minimum-viable hubs' (MVHs)**, what is the smallest effective unit for a hub, and by identifying this unit, can we begin to scale CCHs more rapidly.
+**このラウンドでは、ハブの最小有効ユニットである「最小実行可能ハブ」（MVH）にさらに焦点を当て**、このユニットを特定することで、CCHのスケーリングをより迅速に開始できます。
 
-***Additional Success Metrics:***
+***追加の成功指標：***
 
-- Is the hub's Fund 8 proposal in keeping with the MVH principle?
-- Do they have an understanding of their target audience?
-- Can they accurately project their reach (physical and online) in the first 3, 6, 12 months?
-- Can they accurately project the number of onboarded members to the hub in 3, 6, 12 months?
-- Have they given an indication of a financial sustainability model?
+- ハブのファンド8の提案は、MVHの原則に沿っていますか？
+- 彼らは彼らのターゲットオーディエンスを理解していますか？
+- 最初の3、6、12か月で、リーチ（物理的およびオンライン）を正確に予測できますか？
+- 3、6、12か月で、オンボーディングされたメンバーの数をハブに正確に予測できますか？
+- 彼らは財政的持続可能性モデルの兆候を示しましたか？
 - 彼らは予算コスト対「立ち上げコスト」の指標を与えましたか？ （たとえば、CTHは、Catalyst資金を取得するという需要圧力のために、立ち上げにかかるコストの1/5しか適用できない場合があります）
 
-***Ratings by CAs and Voters should favour:***
+***CAと有権者による評価は、以下を支持する必要があります。***
 
-- Proposals that have a budget:cost-to-launch ratio between 1-1.5.
-- Proposals that do not exceed 5% of the total Challenge budget.
-- Proposals that account for local needs and infrastructure concerns.
-- Proposals that show creativity and ingenuity around hub design and information delivery.
-- Proposals that are using local, recyclable materials and have a commitment to sustainability practices.
+- 予算：ローンチに対するコストの比率が1〜1.5のプロポーザル。
+- チャレンジ予算全体の5％を超えない提案。
+- 地域のニーズとインフラストラクチャの懸念を説明する提案。
+- ハブの設計と情報配信に関する創造性と創意工夫を示す提案。
+- 地元のリサイクル可能な材料を使用し、持続可能性の実践に取り組んでいる提案。
 
-**Let's build an ecosystem that is truly global**, allowing everyone to participate to the best of their ability, whatever level they are starting from.
+**真にグローバルなエコシステムを構築して、どのレベルから始めても、誰もが自分の能力を最大限に発揮できるようにしましょう**。
 
 **実際の採用を推進**するとき、あなたは単に「クールな製品を構築する」以上のことをしている**ので、人々が自分たちでは想像もできなかった方法で人生を変える**ことができるようになります。
 
@@ -90,12 +90,12 @@ In simpler terms, consider why a hub exists, in the context of it's location, ac
 
 ![](https://i.imgur.com/MWddZex.gif)
 
-#### Extra reading (where we are going):
+#### 追加の読書（私たちが行くところ）：
 
 - [Cumbria, UK Business Hub](https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
 - [Rwanda Business Hub](https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
 
-#### Past-funded challenges:
+#### 過去の資金による課題：
 
 - [Scale-UP Community Hubs (F6)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
 - [Scale-UP Community Hubs (F6)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
