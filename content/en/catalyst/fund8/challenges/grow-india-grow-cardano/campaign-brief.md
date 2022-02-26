@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How can we grow Cardano development and adoption in India?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" style="width:500px;height500px">
+
 Fund Size: **150,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381216) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/381216) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How can we grow Cardano development and adoption in India?

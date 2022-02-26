@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How might we make it easy and fast for dApps and other projects to expand or completely move from Ethereum to Cardano?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/16-The-Great-Migration-from-Ethereum-76ace0.png" style="width:500px;height500px">
+
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382642) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/382642) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26448/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How might we make it easy and fast for dApps and other projects to expand or completely move from Ethereum to Cardano?
