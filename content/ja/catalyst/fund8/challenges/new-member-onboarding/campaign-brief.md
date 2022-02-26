@@ -1,9 +1,9 @@
 ---
-title: New Member Onboarding(新メンバーオンボーディング)
-linkTitle: New Member Onboarding(新メンバーオンボーディング)
+title: 'New Member Onboarding(新メンバーオンボーディング)'
+linkTitle: 'New Member Onboarding(新メンバーオンボーディング)'
 type: docs
-hide_feedback: 'true'
-description: 2022年に新しいCatalystメンバーが適切な役割と責任を引き受けることをより速く、より簡単にするにはどうすればよいでしょうか。
+hide_feedback: true
+description: '2022年に新しいCatalystメンバーが適切な役割と責任を引き受けることをより速く、より簡単にするにはどうすればよいでしょうか。'
 ---
 
 Fund Size: **200,000 USD paid in Ada**

@@ -1,9 +1,9 @@
 ---
-title: Open Source Development Ecosystem（オープンソース開発エコシステム）
-linkTitle: Open Source Development Ecosystem（オープンソース開発エコシステム）
+title: 'Open Source Development Ecosystem（オープンソース開発エコシステム'
+linkTitle: 'Open Source Development Ecosystem（オープンソース開発エコシステム'
 type: docs
-hide_feedback: 'true'
-description: Cardanoエコシステムが、コミュニティが所有し、すべての人が平等にアクセスできるフレームワーク上に構築されていることをどのように確認できますか？
+hide_feedback: true
+description: 'Cardanoエコシステムが、コミュニティが所有し、すべての人が平等にアクセスできるフレームワーク上に構築されていることをどのように確認できますか？'
 ---
 
 Fund Size: **1,200,000 USD paid in Ada**

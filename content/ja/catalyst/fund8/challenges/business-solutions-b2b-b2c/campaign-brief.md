@@ -1,9 +1,9 @@
 ---
-title: Business Solutions (B2B & B2C)（ビジネスソリューション（B2B＆B2C））
-linkTitle: Business Solutions (B2B & B2C)（ビジネスソリューション（B2B＆B2C））
+title: 'Business Solutions (B2B & B2C)（ビジネスソリューション（B2B＆B2C'
+linkTitle: 'Business Solutions (B2B & B2C)（ビジネスソリューション（B2B＆B2C'
 type: docs
-hide_feedback: 'true'
-description: Cardanoベースのソリューションは、実際のビジネスニーズを満たすのにどのように役立ち、その影響はどのようになりますか？
+hide_feedback: true
+description: 'Cardanoベースのソリューションは、実際のビジネスニーズを満たすのにどのように役立ち、その影響はどのようになりますか？'
 ---
 
 Fund Size: **1,000,000 USD paid in Ada**

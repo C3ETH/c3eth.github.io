@@ -1,9 +1,9 @@
 ---
-title: "Scale-UP Cardano's Community Hubs（スケールアップカルダノのコミュニティハブ）"
-linkTitle: "Scale-UP Cardano's Community Hubs（スケールアップカルダノのコミュニティハブ）"
+title: "Scale-UP Cardano's Community Hubs（スケールアップカルダノのコミュニティハブ"
+linkTitle: "Scale-UP Cardano's Community Hubs（スケールアップカルダノのコミュニティハブ"
 type: docs
-hide_feedback: 'true'
-description: 2022年にカルダノの採用と認識を促進するように地域コミュニティハブをどのように奨励しますか？
+hide_feedback: true
+description: '2022年にカルダノの採用と認識を促進するように地域コミュニティハブをどのように奨励しますか？'
 ---
 
 Fund Size: 500,000 USD paid in Ada

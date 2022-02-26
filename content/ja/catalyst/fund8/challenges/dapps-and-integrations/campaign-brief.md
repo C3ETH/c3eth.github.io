@@ -1,9 +1,9 @@
 ---
-title: DApps and Integrations(DApps統合)
-linkTitle: DApps and Integrations(DApps統合)
+title: 'DApps and Integrations(DApps統合)'
+linkTitle: 'DApps and Integrations(DApps統合)'
 type: docs
-hide_feedback: 'true'
-description: 2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？
+hide_feedback: true
+description: '2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？'
 ---
 
 Fund Size: **2,500,000 USD paid in Ada**
@@ -50,7 +50,7 @@ Fund Size: **2,500,000 USD paid in Ada**
 
 カルダノは、その厳密な研究を通じて他とは一線を画し、物事を正しく行うよう努めるエコシステムです。資金提供を申請するすべてのdAppプロジェクトは、可能な限り最高レベルの認証を目指すことを期待しています。これが何を指し、実際に何を意味するのかを理解するには、このトピックに関するCharlesHoskinsonのビデオ「DApp認定とコミュニティキュレーション」をご覧ください。
 
-{{&lt; youtube Y7zcYSQarI0 &gt;}}
+{{< youtube Y7zcYSQarI0 >}}
 
 この課題は、組み込まれたテクノロジーやブロックチェーン企業、およびすでにMVPを展開している有能なチームを持つ大規模なプロジェクトに適しています。理想的には、これらは実績のあるユーザーベースを持つプロジェクトです。そのような基準を満たすプロジェクトは、それが正当化され、明確に予算が組まれている場合、100,000ドル以上を申請することを歓迎します。
 

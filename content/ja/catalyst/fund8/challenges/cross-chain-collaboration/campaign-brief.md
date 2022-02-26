@@ -1,9 +1,9 @@
 ---
-title: Cross Chain-Collaboration(クロスチェーン-コラボレーション)
-linkTitle: Cross Chain-Collaboration(クロスチェーン-コラボレーション)
+title: 'Cross Chain-Collaboration(クロスチェーン-コラボレーション)'
+linkTitle: 'Cross Chain-Collaboration(クロスチェーン-コラボレーション)'
 type: docs
-hide_feedback: 'true'
-description: 今後6か月で、Cardanoと他のブロックチェーン間の接続とコラボレーションをどのように作成できるでしょうか。
+hide_feedback: true
+description: '今後6か月で、Cardanoと他のブロックチェーン間の接続とコラボレーションをどのように作成できるでしょうか'
 ---
 
 Fund Size: **400,000 USD paid in Ada**

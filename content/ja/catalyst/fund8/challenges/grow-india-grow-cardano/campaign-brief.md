@@ -1,9 +1,9 @@
 ---
-title: Grow India, Grow Cardano(インドを育て、カルダノを育てる)
-linkTitle: Grow India, Grow Cardano(インドを育て、カルダノを育てる)
-type: ドキュメント
-hide_feedback: 'true'
-description: インドでカルダノの開発と採用をどのように成長させることができますか？
+title: 'Grow India, Grow Cardano(インドを育て、カルダノを育てる)'
+linkTitle: 'Grow India, Grow Cardano(インドを育て、カルダノを育てる)'
+type: docs
+hide_feedback: true
+description: 'インドでカルダノの開発と採用をどのように成長させることができますか？'
 ---
 
 Fund Size: **150,000 USD paid in Ada**

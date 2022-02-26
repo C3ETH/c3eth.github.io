@@ -1,9 +1,9 @@
 ---
-title: Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる）
-linkTitle: Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる）
+title: 'Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる'
+linkTitle: 'Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる'
 type: docs
-hide_feedback: 'true'
-description: 東アジアのカルダノ生態系を包括的かつ支援的な方法でどのように成長させるのでしょうか？私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブ！
+hide_feedback: true
+description: '東アジアのカルダノ生態系を包括的かつ支援的な方法でどのように成長させるのでしょうか？私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブ！'
 ---
 
 Fund Size: **150,000 USD paid in Ada**

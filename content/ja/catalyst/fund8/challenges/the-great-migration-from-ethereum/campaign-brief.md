@@ -1,9 +1,9 @@
 ---
-title: The Great Migration (from Ethereum)（イーサリアムからの大移行）
-linkTitle: The Great Migration (from Ethereum)（イーサリアムからの大移行）
+title: 'The Great Migration (from Ethereum)（イーサリアムからの大移行'
+linkTitle: 'The Great Migration (from Ethereum)（イーサリアムからの大移行'
 type: docs
-hide_feedback: 'true'
-description: dAppやその他のプロジェクトをイーサリアムからカルダノに簡単かつ迅速に拡張または完全に移行するにはどうすればよいでしょうか。
+hide_feedback: true
+description: 'dAppやその他のプロジェクトをイーサリアムからカルダノに簡単かつ迅速に拡張または完全に移行するにはどうすればよいでしょうか'
 ---
 
 Fund Size: 500,000 USD paid in Ada

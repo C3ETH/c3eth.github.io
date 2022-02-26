@@ -1,9 +1,9 @@
 ---
-title: Miscellaneous Challenge(その他の課題)
-linkTitle: Miscellaneous Challenge(その他の課題)
+title: 'Miscellaneous Challenge(その他の課題)'
+linkTitle: 'Miscellaneous Challenge(その他の課題)'
 type: docs
-hide_feedback: 'true'
-description: 他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？
+hide_feedback: true
+description: '他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？'
 ---
 
 Fund Size: **500,000 USD paid in Ada**

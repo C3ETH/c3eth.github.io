@@ -1,9 +1,9 @@
 ---
-title: Open Standards & Interoperability（オープンスタンダードと相互運用性）
-linkTitle: Open Standards & Interoperability（オープンスタンダードと相互運用性）
+title: 'Open Standards & Interoperability（オープンスタンダードと相互運用性'
+linkTitle: 'Open Standards & Interoperability（オープンスタンダードと相互運用性'
 type: docs
-hide_feedback: 'true'
-description: 成長を促進し、すべての人に平等な機会を与え、カルダノプロジェクト全体の相乗効果を高めるためのオープンエコシステムを構築できますか？
+hide_feedback: true
+description: '成長を促進し、すべての人に平等な機会を与え、カルダノプロジェクト全体の相乗効果を高めるためのオープンエコシステムを構築できますか？'
 ---
 
 Fund Size: **500,000 USD paid in Ada**

@@ -1,9 +1,9 @@
 ---
-title: Develper Ecosystem(開発者エコシステム)
-linkTitle: Develper Ecosystem(開発者エコシステム)
+title: 'Develper Ecosystem(開発者エコシステム)'
+linkTitle: 'Develper Ecosystem(開発者エコシステム)'
 type: docs
-hide_feedback: 'true'
-description: 開発者が成功するアプリの構築に集中できるように、どうすれば前向きな開発者エクスペリエンスを作成できますか？
+hide_feedback: true
+description: '開発者が成功するアプリの構築に集中できるように、どうすれば前向きな開発者エクスペリエンスを作成できますか'
 ---
 
 Fund Size: **1,000,000 USD paid in Ada**

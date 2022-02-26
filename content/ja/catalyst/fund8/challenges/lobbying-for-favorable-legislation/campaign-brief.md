@@ -1,9 +1,9 @@
 ---
-title: Lobbying for favorable legislation(有利な立法のためのロビー活動)
-linkTitle: Lobbying for favorable legislation(有利な立法のためのロビー活動)
+title: 'Lobbying for favorable legislation(有利な立法のためのロビー活動)'
+linkTitle: 'Lobbying for favorable legislation(有利な立法のためのロビー活動)'
 type: docs
-hide_feedback: 'true'
-description: 政府による攻撃や、継続的な法律や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。
+hide_feedback: true
+description: '政府による攻撃や、継続的な法律や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。'
 ---
 
 Fund Size: **300,000 USD paid in Ada**

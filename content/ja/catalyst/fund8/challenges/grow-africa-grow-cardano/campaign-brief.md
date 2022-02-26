@@ -1,9 +1,9 @@
 ---
-title: アフリカを育て、カルダノを育てる
-linkTitle: Grow Africa, Grow Cardano（アフリカを育て、カルダノを育てる）
-type: ドキュメント
-hide_feedback: 'true'
-description: 2022年にアフリカでカルダノの種をまき、育て続けるにはどうすればよいでしょうか。
+title: 'アフリカを育て、カルダノを育てる'
+linkTitle: 'Grow Africa, Grow Cardano（アフリカを育て、カルダノを育てる'
+type: docs
+hide_feedback: true
+description: '2022年にアフリカでカルダノの種をまき、育て続けるにはどうすればよいでしょうか。'
 ---
 
 Fund Size: **250,000 USD paid in Ada**

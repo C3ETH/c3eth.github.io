@@ -1,9 +1,9 @@
 ---
-title: Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)
-linkTitle: Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)
+title: 'Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)'
+linkTitle: 'Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)'
 type: docs
-hide_feedback: 'true'
-description: 世界のエンターテインメント+メディア市場= 2兆ドル。高品質のカルダノコミュニティメディアを作成するための分散型FAMネットワークは不可欠ですが、存在しません。
+hide_feedback: true
+description: '世界のエンターテインメント+メディア市場= 2兆ドル。高品質のカルダノコミュニティメディアを作成するための分散型FAMネットワークは不可欠ですが、存在しません。'
 ---
 
 Fund Size: **150,000 USD paid in Ada**

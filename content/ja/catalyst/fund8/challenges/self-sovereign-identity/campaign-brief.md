@@ -1,9 +1,9 @@
 ---
-title: Self-Sovereign Identity（自己主権型アイデンティティ）
-linkTitle: Self-Sovereign Identity（自己主権型アイデンティティ）
+title: 'Self-Sovereign Identity（自己主権型アイデンティティ'
+linkTitle: 'Self-Sovereign Identity（自己主権型アイデンティティ'
 type: docs
-hide_feedback: 'true'
-description: 自己主権のアイデンティティの原則をサポートするために、どのように次のステップを踏むことができますか？
+hide_feedback: true
+description: '自己主権のアイデンティティの原則をサポートするために、どのように次のステップを踏むことができますか？'
 ---
 
 Fund Size: **400,000 USD paid in Ada**

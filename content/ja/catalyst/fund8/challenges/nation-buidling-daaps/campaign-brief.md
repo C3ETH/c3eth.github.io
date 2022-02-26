@@ -1,9 +1,9 @@
 ---
-title: Nation Building Dapps(国家建設Dapps)
-linkTitle: Nation Building Dapps(国家建設Dapps)
+title: 'Nation Building Dapps(国家建設Dapps)'
+linkTitle: 'Nation Building Dapps(国家建設Dapps)'
 type: docs
-hide_feedback: 'true'
-description: 発展途上国で獲得した広範なユーザーに提供できるコアNationBuilding Dappソリューションは何ですか？
+hide_feedback: true
+description: '発展途上国で獲得した広範なユーザーに提供できるコアNationBuilding Dappソリューションは何ですか？'
 ---
 
 Fund Size: **800,000 USD paid in Ada**

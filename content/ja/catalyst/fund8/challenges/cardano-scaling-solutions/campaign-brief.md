@@ -1,9 +1,9 @@
 ---
-title: Cardano Scaling Solutions(カルダノスケーリングソリューション)
-linkTitle: Cardano Scaling Solutions(カルダノスケーリングソリューション)
+title: 'Cardano Scaling Solutions(カルダノスケーリングソリューション)'
+linkTitle: 'Cardano Scaling Solutions(カルダノスケーリングソリューション)'
 type: docs
-hide_feedback: 'true'
-description: Cardanoのスケーラビリティを向上させるために、どのような調査とスケーリングの実装を導入できますか？
+hide_feedback: true
+description: 'Cardanoのスケーラビリティを向上させるために、どのような調査とスケーリングの実装を導入できますか？'
 ---
 
 Fund Size: **400,000 USD paid in Ada**
@@ -40,7 +40,7 @@ Hydraの最初のフェーズは2022年に利用可能になりますが、こ�
 
 dcSparkのSebastienは最近、インタビューでロールアップと代替ソリューションの重要性について話しました-
 
-{{&lt;youtube4DslvkLop04&gt;}}
+{{< youtube 4DslvkLop04 >}}
 
 ### より多くのスケーリングオプションが必要
 

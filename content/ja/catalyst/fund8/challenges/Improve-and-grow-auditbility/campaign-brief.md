@@ -1,9 +1,9 @@
 ---
-title: Improve and Grow Auditability(監査可能性の向上と成長)
-linkTitle: Improve and Grow Auditability(監査可能性の向上と成長)
+title: 'Improve and Grow Auditability(監査可能性の向上と成長)'
+linkTitle: 'Improve and Grow Auditability(監査可能性の向上と成長)'
 type: docs
-hide_feedback: 'true'
-description: 資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？
+hide_feedback: true
+description: '資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？'
 ---
 
 Fund Size: **200,000 USD paid in Ada**

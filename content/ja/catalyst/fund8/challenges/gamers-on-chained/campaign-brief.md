@@ -1,9 +1,9 @@
 ---
-title: Gamers On   - Chained（ゲーマーオン-チェーン）
-linkTitle: Gamers On   - Chained（ゲーマーオン-チェーン）
+title: 'Gamers On   - Chained（ゲーマーオン-チェーン'
+linkTitle: 'Gamers On   - Chained（ゲーマーオン-チェーン'
 type: docs
-hide_feedback: 'true'
-description: Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？
+hide_feedback: true
+description: 'Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？'
 ---
 
 Fund Size: **500,000 USD paid in Ada**

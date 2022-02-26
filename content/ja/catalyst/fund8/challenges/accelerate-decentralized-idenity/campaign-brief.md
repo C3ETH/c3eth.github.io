@@ -1,9 +1,9 @@
 ---
-title: Accelerate Decentralized Identity（分散型IDの促進）
-linkTitle: Accelerate Decentralized Identity（分散型IDの促進）
+title: 'Accelerate Decentralized Identity（分散型IDの促進'
+linkTitle: 'Accelerate Decentralized Identity（分散型IDの促進'
 type: docs
-hide_feedback: 'true'
-description: カルダノの急速な成長に最もプラスの影響と機会をもたらすために、AtalaPRISMを使用してどのようなソリューションを開発および実装できますか
+hide_feedback: true
+description: 'カルダノの急速な成長に最もプラスの影響と機会をもたらすために、AtalaPRISMを使用してどのようなソリューションを開発および実装できますか'
 ---
 
 Fund Size: **500,000 USD paid in Ada**
