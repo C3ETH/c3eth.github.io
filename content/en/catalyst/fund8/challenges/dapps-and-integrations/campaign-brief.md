@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "What applications will provide the most value for end users in 2022?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" style="width:500px;height500px">
+
 Fund Size: **2,500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383335) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383335) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 What applications will provide the most value for end users in 2022?

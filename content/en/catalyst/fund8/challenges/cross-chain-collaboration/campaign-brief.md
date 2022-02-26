@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How might we create connections and collaboration between Cardano and other blockchains in the next six months?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
+
 Fund Size: **400,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381705) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/381705) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How might we create connections and collaboration between Cardano and other blockchains in the next six months?

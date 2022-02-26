@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "Community Advisors are an evolving key role of Project Catalyst and need a place and budget to submit proposals to improve their performance"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/21-Community-Advisor-Improvements-dbdbe2.png" style="width:500px;height500px">
+
 Fund Size: **100,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/384394) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/384394) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26453/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 Community Advisors are an evolving key role of Project Catalyst and need a place and budget to submit proposals to improve their performance.

@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent."
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">
+
 Fund Size: **150,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383633) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383633) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent.

@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How do we create a space for ideas and projects that do not fit any of the other current Challenges?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">
+
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381326) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/381326) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How do we create a space for ideas and projects that do not fit any of the other current Challenges?

@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in 2022?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/07-Scale-UP-Cardanos-Community-Hubs-f2a538.png" style="width:500px;height500px">
+
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381022) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/381022) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in 2022?
