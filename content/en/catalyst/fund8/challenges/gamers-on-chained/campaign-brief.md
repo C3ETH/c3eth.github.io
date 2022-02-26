@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" style="width:500px;height500px">
+
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381329) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/381329) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26440/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 What Blockchain gaming applications should be developed to achieve mass adoption of Cardano?

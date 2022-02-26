@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How do we continue to seed and grow Cardano in Africa in 2022?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" style="width:500px;height500px">
+
 Fund Size: **250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/384227) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/384227) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26442/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How do we continue to seed and grow Cardano in Africa in 2022?

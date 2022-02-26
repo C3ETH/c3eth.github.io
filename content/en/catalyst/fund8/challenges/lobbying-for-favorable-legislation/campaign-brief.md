@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" style="width:500px;height500px">
+
 Fund Size: **300,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381094) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/381094) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?

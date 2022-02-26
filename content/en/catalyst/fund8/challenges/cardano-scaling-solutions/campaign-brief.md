@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "What research and scaling implementations can be introduced to help Cardano increase scalability?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" style="width:500px;height500px">
+
 Fund Size: **400,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383094) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383094) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 What research and scaling implementations can be introduced to help Cardano increase scalability?

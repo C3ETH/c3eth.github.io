@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" style="width:500px;height500px">
+
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383619) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383619) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?

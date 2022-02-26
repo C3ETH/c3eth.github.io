@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How to make the auditing process of funded proposals efficient, distributed and transparent?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" style="width:500px;height500px">
+
 Fund Size: **200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383480) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383480) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How to make the auditing process of funded proposals efficient, distributed and transparent?
