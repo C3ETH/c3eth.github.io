@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" style="width:500px;height500px">
 
 Fund Size: **200,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383480)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383480)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

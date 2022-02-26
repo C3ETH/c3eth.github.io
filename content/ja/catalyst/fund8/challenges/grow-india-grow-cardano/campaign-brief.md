@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: 'インドでカルダノの開発と採用をどのように成長させることができますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" style="width:500px;height500px">
 
 Fund Size: **150,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381216)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381216)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

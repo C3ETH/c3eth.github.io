@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '2022年にアフリカでカルダノの種をまき、育て続けるにはどうすればよいでしょうか。'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" style="width:500px;height500px">
 
 Fund Size: **250,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/384227)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/384227)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26442/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

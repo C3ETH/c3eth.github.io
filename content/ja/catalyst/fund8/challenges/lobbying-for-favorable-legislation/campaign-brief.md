@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '政府による攻撃や、継続的な法律や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" style="width:500px;height500px">
 
 Fund Size: **300,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381094)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381094)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

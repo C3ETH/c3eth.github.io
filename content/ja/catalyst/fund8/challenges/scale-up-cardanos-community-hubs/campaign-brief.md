@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '2022年にカルダノの採用と認識を促進するように地域コミュニティハブをどのように奨励しますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/07-Scale-UP-Cardanos-Community-Hubs-f2a538.png" style="width:500px;height500px">
 
 Fund Size: 500,000 USD paid in Ada
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381022)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381022)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

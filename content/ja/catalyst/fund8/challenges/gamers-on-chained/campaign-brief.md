@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: 'Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381329)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381329)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26440/stage/all/ideas/unspecifiedf)。
 
 ## キャンペーン概要
 

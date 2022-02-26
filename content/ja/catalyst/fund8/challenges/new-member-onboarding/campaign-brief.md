@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '2022年に新しいCatalystメンバーが適切な役割と責任を引き受けることをより速く、より簡単にするにはどうすればよいでしょうか。'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" style="width:500px;height500px">
 
 Fund Size: **200,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/382639)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/382639)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

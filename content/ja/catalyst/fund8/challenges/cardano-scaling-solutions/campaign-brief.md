@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: 'Cardanoのスケーラビリティを向上させるために、どのような調査とスケーリングの実装を導入できますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" style="width:500px;height500px">
 
 Fund Size: **400,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383094)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383094)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

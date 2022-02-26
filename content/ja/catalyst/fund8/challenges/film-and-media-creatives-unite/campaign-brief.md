@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '世界のエンターテインメント+メディア市場= 2兆ドル。高品質のカルダノコミュニティメディアを作成するための分散型FAMネットワークは不可欠ですが、存在しません。'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">
 
 Fund Size: **150,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383633)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383633)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

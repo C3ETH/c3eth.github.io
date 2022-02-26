@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '自己主権のアイデンティティの原則をサポートするために、どのように次のステップを踏むことができますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" style="width:500px;height500px">
 
 Fund Size: **400,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/380986)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/380986)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26451/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

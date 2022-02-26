@@ -6,9 +6,11 @@ hide_feedback: true
 description: 'カルダノの急速な成長に最もプラスの影響と機会をもたらすために、AtalaPRISMを使用してどのようなソリューションを開発および実装できますか'
 ---
 
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" style="width:500px;height500px">
+
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383978) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383978) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26443/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 

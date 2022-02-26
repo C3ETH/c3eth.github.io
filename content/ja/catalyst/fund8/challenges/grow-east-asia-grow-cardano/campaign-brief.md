@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '東アジアのカルダノ生態系を包括的かつ支援的な方法でどのように成長させるのでしょうか？私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブ！'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
 
 Fund Size: **150,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/382067)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/382067)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

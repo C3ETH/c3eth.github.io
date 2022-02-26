@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" style="width:500px;height500px">
 
 Fund Size: **2,500,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383335)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383335)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

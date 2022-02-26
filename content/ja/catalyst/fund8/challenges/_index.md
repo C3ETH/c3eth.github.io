@@ -1,9 +1,9 @@
 ---
-title: Fund 8 Challenges
-linkTitle: Challenges
+title: 'Fund 8 Challenges'
+linkTitle: 'Challenges'
 type: docs
-weight: '100'
-hide_feedback: 'true'
+weight: 100
+hide_feedback: true
 icon: fas fa-tools
 description: Catalyst Fund 8 Challenges
 ---

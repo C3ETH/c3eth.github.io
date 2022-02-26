@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '開発者が成功するアプリの構築に集中できるように、どうすれば前向きな開発者エクスペリエンスを作成できますか'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">
 
 Fund Size: **1,000,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/384822)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/384822)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

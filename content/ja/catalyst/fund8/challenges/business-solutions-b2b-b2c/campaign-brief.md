@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: 'Cardanoベースのソリューションは、実際のビジネスニーズを満たすのにどのように役立ち、その影響はどのようになりますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">
 
 Fund Size: **1,000,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/382660)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/382660)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

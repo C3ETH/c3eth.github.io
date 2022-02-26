@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '今後6か月で、Cardanoと他のブロックチェーン間の接続とコラボレーションをどのように作成できるでしょうか'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
 
 Fund Size: **400,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381705)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381705)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

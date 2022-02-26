@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381326)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/381326)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: 'Cardanoエコシステムが、コミュニティが所有し、すべての人が平等にアクセスできるフレームワーク上に構築されていることをどのように確認できますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" style="width:500px;height500px">
 
 Fund Size: **1,200,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/382213)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/382213)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26434/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

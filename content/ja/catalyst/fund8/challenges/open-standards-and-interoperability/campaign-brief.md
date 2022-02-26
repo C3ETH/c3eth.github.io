@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '成長を促進し、すべての人に平等な機会を与え、カルダノプロジェクト全体の相乗効果を高めるためのオープンエコシステムを構築できますか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383619)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383619)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 

@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: '発展途上国で獲得した広範なユーザーに提供できるコアNationBuilding Dappソリューションは何ですか？'
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" style="width:500px;height500px">
 
 Fund Size: **800,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383828)と[アイデアの閲覧]()。
+[キャンペーンページ](https://cardano.ideascale.com/c/idea/383828)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified)。
 
 ## キャンペーン概要
 
