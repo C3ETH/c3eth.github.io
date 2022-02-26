@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How can Cardano-based solutions help meet real business needs and what would be their impact?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">
+
 Fund Size: **1,000,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382660) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/382660) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How can Cardano-based solutions help meet real business needs and what would be their impact?

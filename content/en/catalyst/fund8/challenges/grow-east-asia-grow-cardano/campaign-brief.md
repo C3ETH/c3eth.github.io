@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
+
 Fund Size: **150,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382067) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/382067) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!

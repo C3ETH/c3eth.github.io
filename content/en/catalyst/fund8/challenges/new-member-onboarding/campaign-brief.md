@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How might we make it faster and easier for new Catalyst members to take on suitable roles and responsibilities in 2022?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" style="width:500px;height500px">
+
 Fund Size: **200,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382639) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/382639) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 How might we make it faster and easier for new Catalyst members to take on suitable roles and responsibilities in 2022?

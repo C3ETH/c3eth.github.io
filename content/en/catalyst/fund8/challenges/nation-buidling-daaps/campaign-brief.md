@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" style="width:500px;height500px">
+
 Fund Size: **800,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383828) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/idea/383828) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified).
 
 ## Campaign Brief
 What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
