@@ -1,6 +1,6 @@
 ---
-title: New Member Onboarding
-linkTitle: New Member Onboarding
+title: Orientasi Anggota Baru
+linkTitle: Orientasi Anggota Baru
 type: docs
 hide_feedback: 'true'
 description: Bagaimana kita dapat mempercepat dan mempermudah anggota Catalyst baru untuk mengambil peran dan tanggung jawab yang sesuai pada tahun 2022?
@@ -12,33 +12,33 @@ Ukuran Dana: **200,000 USD dibayarkan dalam bentuk ADA**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/382639) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 Bagaimana kita dapat mempercepat dan mempermudah anggota Catalyst baru untuk mengambil peran dan tanggung jawab yang sesuai pada tahun 2022?
 
-### Why is it important?
+### Mengapa itu penting?
 
 Keberhasilan Catalyst tergantung pada ketersediaan tim tantangan yang berkualitas, proposer, advisor, mentor, dan voter.
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
 Platform inovasi terbuka efektif di mana orang dapat memenuhi peran yang berarti bagi mereka dan berkontribusi pada kesuksesan bersama.
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
-The metrics can be divided to two sections. General onboarding refers to bringing people in and converting them from mere lurkers to voters and potential proposers. Innovation process metrics refer to the quantity and quality of proposals and activity around them.
+Metrik dapat dibagi menjadi dua bagian. Orientasi umum mengacu pada membawa orang masuk dan mengubah mereka dari sekadar pengintai menjadi pemilih dan calon pengusul. Metrik proses inovasi mengacu pada kuantitas dan kualitas proposal dan aktivitas di sekitarnya.
 
-#### General onboarding
+#### Orientasi umum
 
-- Weekly sign ups to Cardano Ideascale
+- Pendaftaran mingguan ke Cardano Ideascale
 - Townhall attendance
-- Catalyst School session attendance
+- Kehadiran sesi Catalyst School
 - Swarm session attendance
 - Aplikasi untuk posisi kepemimpinan (misalnya Circle)
 
-#### Innovation process
+#### Proses inovasi
 
-- Number of referrers
+- Jumlah perujuk
 - Berkurangnya jumlah proposal yang belum siap
 - Bertumbuhnya jumlah proposal dengan bintang 4-5
 - Bertumbuhnya jumlah Community Advisors dan Veteran Community Advisors
@@ -46,13 +46,13 @@ The metrics can be divided to two sections. General onboarding refers to bringin
 - Pertumbuhan jumlah voter
 - Pertumbuhan jumlah total vote yang diberikan
 
-## Challenge Brief
+## Tantangan Singkat
 
 Pertumbuhan Project Catalyst bergantung pada partisipasi yang berarti dari para proposer, advisor, mentor, dan voter yang bersemangat dan mampu memenuhi peran mereka serta memahami tanggung jawab mereka.
 
-### Guiding questions
+### Pertanyaan panduan
 
-- How might we convert passive ADA holders into active Catalyst members?
+- Bagaimana cara mengubah pemegang ADA pasif menjadi anggota Catalyst aktif?
 - Bagaimana kita dapat meningkatkan kesadaran akan Project Catalyst sebagai platform inovasi terbuka paling aktif?
 - How might we increase more meaningful participation from challenge teams, proposers, advisors, mentors and voters? What kind of additional roles are needed?
 - Bagaimana kita dapat mendorong anggota baru untuk menggunakan alat dan layanan yang tersedia untuk orientasi?
