@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana membuat proses audit proposal yang didanai menjadi efisien, terdistribusi dan transparan?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" class="">
 
 Alokasi Dana: **200,000 USD dibayarkan dalam Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383480) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383480) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -28,7 +28,7 @@ Beberapa proyek mengevaluasi proposal yang didanai, memberikan laporan, artikel,
 
 - Jumlah proposal terdanai yang diaudit
 - Mempertimbangkan bahwa idenya adalah untuk mengaudit dan melaporkan perkembangan proposal dalam tantangan yang berbeda, penting bahwa - - - metrik keberhasilan dipikirkan dalam kaitannya dengan setiap tantangan.
-- Number of reports, articles and videos/podcasts on:
+- Jumlah laporan, artikel dan video/podcast tentang:
 - Performa
 - Prestasi
 - Keuangan
