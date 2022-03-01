@@ -10,7 +10,7 @@ description: Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendo
 
 Alokasi Dana: **500,000 USD dibayarkan dalam Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381022) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/381022) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -18,7 +18,7 @@ Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi d
 
 ### Mengapa Hal Ini Penting?
 
-Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
+Tanpa pengguna di tingkat dasar, kami hanya membangun produk khusus yang melayani sebagian besar orang teknis dengan keahlian blockchain.
 
 ### Seperti apa kesuksesan itu?
 
@@ -38,19 +38,19 @@ Pusat Kegiatan Komunitas Lokal di seluruh dunia di mana rata-rata orang dapat me
 
 **3 Kategori Tantangan Teratas di Dana 7** berdasarkan jumlah pengajuan (lihat terlampir).
 
-**2x Funded Challenge Setting Proposal** (Fund 5 and Fund 6)
+**2x Challenge Setting Proposal Terdanai** (Fund 5 dan Fund 6)
 
 <u>Pilihan 'Scale-Up Hubs' yang didanai sebelumnya:</u>
 
-- [Homeless Hubs](https://cardano.ideascale.com/a/dtd/367891-48088)
-- [Cardano in South L.A](https://cardano.ideascale.com/a/dtd/367936-48088)
-- [Cardano in Buenos Aires](https://cardano.ideascale.com/a/dtd/367293-48088)
-- [Salmon Nation Hub](https://cardano.ideascale.com/a/dtd/368369-48088)
+- [Pusat Tunawisma](https://cardano.ideascale.com/a/dtd/367891-48088)
+- [Cardano di LA Selatan](https://cardano.ideascale.com/a/dtd/367936-48088)
+- [Cardano di Buenos Aires](https://cardano.ideascale.com/a/dtd/367293-48088)
+- [Pusat Salmon Nation](https://cardano.ideascale.com/a/dtd/368369-48088)
 
 #### Apa artinya ini?
 
-1. Demand is growing for this category and we are only at the beginning of what is possible with a network of Cardano hubs globally. The network effect will take a hold at some point and when it does, we need to be ready with templates, guides and materials on creating and sustaining a new Cardano Community Hub (CCH).
-2. The impact is real and ROI is being met. Real lives are being affected and improved through this category. This creates a win-win, positive feedback loop as more people benefit from the solutions we offer them, there is even more demand for these services worldwide.
+1. Permintaan meningkat untuk kategori ini dan kita baru memulai dari apa yang mungkin dilakukan dengan jaringan pusat kegiatan Cardano secara global. Efek jaringan akan meledak disuatu saat dan ketika itu terjadi, kita harus siap dengan template, panduan, dan materi untuk membuat dan mempertahankan Cardano Community Hub (CCH) baru.
+2. Dampaknya nyata dan ROI (Return of Investment) terpenuhi. Kehidupan nyata sedang dipengaruhi dan ditingkatkan melalui kategori ini. Ini menciptakan situasi sama-sama pemenang, sebuah lingkaran umpan balik positif yang saling menguntungkan karena semakin banyak orang yang mendapatkan manfaat dari solusi yang kita tawarkan kepada mereka, bahkan ada lebih banyak permintaan untuk layanan ini di seluruh dunia.
 
 #### Bagaimana jika tantangan Fund 8 berbeda?
 
@@ -63,7 +63,7 @@ Sementara kita **Menumbuhkan pusat kegiatan komunitas** , kita perlu **Menurunka
 1. Menyampaikan informasi kepada orang-orang yang tidak memiliki akses.
 2. Memastikan ketahanan dan kemandirian dalam komunitas itu. Ketika kita mendekati pusat kegiatan dari lensa node penyampaian informasi, kita dapat membangun pusat kegiatan taksonomi dalam matriks kebutuhan-dampak dan kemudian menemukan model yang paling efisien modal untuk setiap lokasi.
 
-In simpler terms, consider why a hub exists, in the context of it's location, access to infrastructure and community readiness. Then design a hub according to those factors, with a traditional brick-and-mortar (CTH) being only one out of many potential information-delivery systems within a local community.
+Dalam istilah yang lebih sederhana, pertimbangkan mengapa sebuah pusat kegiatan ada, dalam konteks lokasinya, akses ke infrastruktur, dan kesiapan komunitas. Kemudian rancang pusat kegiatan sesuai dengan faktor-faktor tersebut, dengan 'brick-and-mortar' (CTH) tradisional hanya satu dari banyak sistem penyampaian informasi potensial dalam komunitas lokal.
 
 **Putaran ini akan lebih fokus pada 'minimum-viable hubs' (MVHs)** , unit terkecil yang efektif untuk sebuah pusat kegiatan, dan dengan mengidentifikasi unit ini, dapatkah kita mulai menskalakan CCH lebih cepat.
 
@@ -94,10 +94,10 @@ Saat Anda **mendorong adopsi di tingkat dasar**, Anda melakukan lebih dari sekad
 
 #### Bacaan ekstra (ke mana kita akan pergi):
 
-- [Cumbria, UK Business Hub](https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
-- [Rwanda Business Hub](https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
+- [Cumbria, Pusat Bisnis Inggris](https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
+- [Pusat Bisnis Rwanda](https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
 
 #### Tantangan yang didanai sebelumnya:
 
-- [Scale-UP Community Hubs (F6)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
-- [Scale-UP Community Hubs (F5)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
+- [Menumbuhkan Pusat Kegiatan Komunitas (F6)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088)
+- [Menumbuhkan Pusat Kegiatan Komunitas (F5)](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
