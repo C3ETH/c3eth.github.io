@@ -6,34 +6,34 @@ hide_feedback: 'true'
 description: Bagaimana kami dapat menciptakan pengalaman positif pengembang yang membantu pengembang fokus dalam membangun kesuksesan aplikasi?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" class="">
 
 Alokasi Dana: **$1.000.000 dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/384822) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/384822) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
-How can we create a positive developer experience that helps the developer focus on building successful apps?
+Bagaimana kami dapat menciptakan pengalaman positif bagi developer yang membantu developer fokus dalam membangun aplikasi sukses?
 
 ### Mengapa Hal Ini Penting?
 
-Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.
+Menciptakan pengalaman luar biasa yang mendorong developer, akan mengarah pada peningkatan adopsi, produktivitas, dan kreativitas developer.
 
 ### Seperti apa gambaran suksesnya?
 
-Cardano has a thriving dev ecosystem, developers are able to scale their businesses by monetizing the services that they provide.
+Cardano memiliki ekosistem developer yang luas, developer dapat meningkatkan skala bisnis mereka dengan memonetisasi layanan yang mereka berikan.
 
 ### Tolak Ukur Utama
 
 Tolak ukur utama
 
-At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for developers to build on top of Cardano?
+Di akhir tantangan ini, kami akan bertanya pada diri sendiri: Apakah kami berhasil mempermudah developer untuk membangun di atas Cardano?
 
-- Filling in gaps defined in the exploration stage
-- Number of developers actively building on top of Cardano
+- Mengisi celah yang teridentifikasi dalam tahap eksplorasi
+- Jumlah developer yang secara aktif membangun di dalam Cardano
 - Jumlah repo di Github menggunakan <i>tooling</i>. (Peningkatan bulanan)
-- Reduce wait time of unanswered communications with developers to 24 hours
+- Kurangi waktu tunggu komunikasi tak terjawab dengan developer menjadi 24 jam
 - Rasa kebersamaan dan percakapan. Memiliki orang-orang di sekitar untuk diajak bicara
 
 ## Penjelasan Tantangan
@@ -41,14 +41,14 @@ At the end of this challenge, we will be asking ourselves: Did we manage to make
 #### Pertanyaan Panduan
 
 - Alat apa yang perlu kita prioritaskan terlebih dahulu
-- How do we attract developers from outside of our current community to participate in Catalyst?
-- What do developers want, and how do they get it from the Cardano dev ecosystem?
-- What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?
-- What are enterprise dev managers looking for in order to be able to build out enterprise projects - either internal or commercial?
+- Bagaimana kami menarik developer dari luar komunitas kami untuk berpartisipasi di Catalyst saat ini?
+- Apa yang diinginkan developer, dan bagaimana mereka mendapatkannya dari ekosistem developer Cardano?
+- Apa yang membuat developer termotivasi untuk mengerjakan dokumen dan kode, bagaimanapun sulitnya membuat aplikasi?
+- Apa yang dicari oleh manajer developer dalam perusahaan agar dapat membangun proyek perusahaan - baik internal maupun komersial?
 
 #### Potensi Tujuan
 
-- Developer productivity: IDE's, scripts to automate stuff
+- Produktivitas developer: IDE, skrip untuk pengotomasian
 - Basis pengetahuan &amp; Dokumentasi
 - Kerangka kerja penerapan, pengujian, dan pemantauan
 - Contoh, resep, dan pola
