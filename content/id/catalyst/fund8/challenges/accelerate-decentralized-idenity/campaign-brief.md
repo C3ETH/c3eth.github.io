@@ -51,9 +51,9 @@ Kami mendorong proposal Catalyst untuk mencapai interoperabilitas penuh. Hasil k
 
 ### Pemerintahan Sendiri dari Emergent Communities
 
-##### DAO Governance in Practice
+##### Tata Kelola DAO dalam Praktik
 
-New legislation in Wyoming allows for a decentralized autonomous organization (DAO) to be registered with the state. We challenge the community to establish a DAO under the new laws. It could manage an impact or development goal with shared common resources governed by the DAO.
+Undang-undang baru di Wyoming memungkinkan organisasi terdesentralisasi otomatis (DAO) terdaftar di negara bagian. Kami menantang komunitas untuk mendirikan DAO di bawah undang-undang baru. Hal ini dapat mengatur dampak atau tujuan pengembangan dengan sumber daya bersama yang diatur oleh DAO.
 
 Kami ingin tahu apakah komunitas kami mengusulkan DAO. Dengan proposal yang didanai, kami dapat memfasilitasi perkenalan dengan pakar hukum di Wyoming.
 
