@@ -12,47 +12,47 @@ Alokasi Dana: **150,000 USD dibayarkan dalam ADA**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/383633) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 Hiburan global + pasar media = $2 triliun. Jaringan FAM yang terdesentralisasi untuk menghasilkan media komunitas Cardano yang berkualitas sangatlah penting namun belum tersedia.
 
-### Why is it important?
+### Mengapa itu penting?
 
 A challenge category for creatives has been absent so far. Diversity + human creativity in the arts can enrich the Cardano ecosystem + more
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
 Tim berkolaborasi secara adil untuk menghasilkan konten multimedia + platform yang inklusif dan berkualitas tinggi = meningkatkan pengetahuan + adopsi Cardano
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
-As a measure of the health of the ecosystem:
+Sebagai ukuran kesehatan ekosistem:
 
-- of multimedia projects
-- of multimedia platforms
-- of multilingual teams
-- of decentralised film crews
-- of decentralised news teams
-- of decentralised content creation teams
-- of decentralised multimedia projects sharing resources (eg RAW footage) to avoid unnecessary costs and CO2 emissions from travelling to shoot footage on site
+- proyek multimedia
+- platform multimedia
+- tim multibahasa
+- dari kru film yang terdesentralisasi
+- dari tim berita terdesentralisasi
+- tim pembuatan konten terdesentralisasi
+- proyek multimedia terdesentralisasi berbagi sumber daya (misalnya rekaman RAW) untuk menghindari biaya yang tidak perlu dan emisi CO2 dari perjalanan untuk merekam rekaman di lokasi
 
-## Challenge Brief
+## Tantangan Singkat
 
 **Tim kreatif, penulis, seniman, pembuat film, fotografer +banyak lagi, berkolaborasi secara adil, sehinga dapat memperkaya ekosistem dengan keragaman budaya mereka.**
 
-Cardano has a strong YouTube community, but obviously YouTube is not everything and it's not received well in many perspectives. We need a bridge between YouTube, the traditional media, TV and film. We need to communicate a clear message towards media.
+Cardano memiliki komunitas YouTube yang kuat, tetapi jelas YouTube bukanlah segalanya dan tidak diterima dengan baik dalam banyak perspektif. Kami membutuhkan jembatan antara YouTube, media tradisional, TV, dan film. Kita perlu mengkomunikasikan pesan yang jelas kepada media.
 
 Sangatlah penting untuk membuat konten yang mendidik dan menginspirasi yang akan dengan senang hati digunakan oleh media nasional dan stasiun TV dalam program harian mereka.
 
-In this early stage, the cooperation between YouTubers and TV &amp; Film professionals is not only welcomed, it's needed. Creating a specific challenge for this should open the gates for both education and inspiration.
+Pada tahap awal ini, kerjasama antara YouTuber dan profesional TV &amp; Film tidak hanya disambut, tetapi juga dibutuhkan. Menciptakan tantangan khusus untuk ini harus membuka pintu bagi pendidikan dan inspirasi.
 
-The Film and Media (FAM) Challenge aims to boost knowledge and adoption of Cardano for global audiences by enabling:
+Tantangan Film dan Media (FAM) bertujuan untuk meningkatkan pengetahuan dan adopsi Cardano untuk khalayak global dengan memungkinkan:
 
-- a challenge platform for the facilitation of professionals and creatives to connect, collaborate and coordinate
+- platform tantangan untuk memfasilitasi para profesional dan kreatif untuk terhubung, berkolaborasi, dan berkoordinasi
 
-- the launch of projects that spotlight the multitude of stories within the Cardano ecosystem
+- peluncuran proyek yang menyoroti banyak cerita dalam ekosistem Cardano
 
-- multimedia projects that illustrate how Cardano's blockchain is the 'green blockchain' solution in a world that needs solutions to the climate emergency
+- proyek multimedia yang menggambarkan bagaimana blockchain Cardano adalah solusi 'blockchain hijau' di dunia yang membutuhkan solusi untuk keadaan darurat iklim
 
 Kategori tantangan khusus untuk grup kreatif ini untuk menyalurkan ide-ide katalis mereka sejauh ini belum ada. Hal ini menyebabkan proyek yang berpotensi berdampak berjuang untuk menemukan tempat mereka dalam kategori Tantangan yang tidak cukup 'cocok'. Kategori tantangan FAM dapat membuka aliran pengajuan ide dan proposal yang menghasilkan konten multi-media multibahasa yang berkualitas tinggi, mendidik, dan inspiratif.
 
