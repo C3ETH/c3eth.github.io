@@ -1,9 +1,9 @@
 ---
-title: Open Standards & Interoperability
-linkTitle: Open Standards & Interoperability
+title: Standar Terbuka & Interoperabilitas
+linkTitle: Standar Terbuka & Interoperabilitas
 type: docs
 hide_feedback: 'true'
-description: Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?
+description: Bisakah kita membangun Ekosistem Terbuka untuk mendorong pertumbuhan, memberikan kesempatan yang sama kepada semua, dan meningkatkan sinergi di seluruh proyek Cardano?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" style="width:500px;height500px">
@@ -12,37 +12,37 @@ Ukuran Dana: **500,000 USD dibayarkan dalam ADA**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/383619) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-Can we build an Open Ecosystem to drive growth, give equal opportunities to all, and increase the synergies across Cardano projects?
+Bisakah kita membangun Ekosistem Terbuka untuk mendorong pertumbuhan, memberikan kesempatan yang sama kepada semua, dan meningkatkan sinergi di seluruh proyek Cardano?
 
-### Why is it important?
+### Mengapa itu penting?
 
-To deliver complex software, driving collaboration, and accelerating innovation by sharing identity, practices, and sw components/services.
+Untuk menghadirkan perangkat lunak yang kompleks, mendorong kolaborasi, dan mempercepat inovasi dengan berbagi identitas, praktik, dan komponen/layanan sw.
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
 Ekosistem vendor-netral (penyedia yang tidak memihak) untuk
 
 - mendorong pertumbuhan, kesadaran, kemampuan untuk dapat ditemukan
 
-- increase commercial adoption
+- meningkatkan adopsi komersial
 
-- provide needed infrastructures
+- menyediakan infrastruktur yang dibutuhkan
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
 Adopsi **standar terbuka** harus meningkat didalam proyek cardano. Dalam jangka panjang, semua proyek yang didanai komunitas harus terbuka dan transparan dengan mengikuti standar umum.
 
 Harus ada **perbaikan yang dapat diamati**: lebih mudah untuk menemukan proyek dan menemukan sumber daya proyek, lebih intuitif untuk mengakses basis pengetahuan proyek (dokumentasi, cara, dll.), dan mudah untuk menemukan dan menghubungi anggota proyek.
 
-It should be possible to have **project synergies** by allowing simple inter-project communication, knowledge sharing, and re-use of existing components/services.
+**Sinergi proyek** harus dimungkinkan dengan memungkinkan komunikasi antar proyek yang sederhana, berbagi pengetahuan, dan penggunaan kembali komponen/layanan yang ada.
 
 Kita harus mengamati **peningkatan kontribusi open-source** untuk proyek yang berbeda: baik dari anggota baru dan dari orang lain yang sudah ada di komunitas Cardano
 
 Kita harus mengamati **peningkatan reputasi** proyek Open-Source Cardano. Langkah tersebut dapat dilakukan dengan melihat media komunikasi dari berbagai komunitas open-source.
 
-## Challenge brief
+## Tantangan singkat
 
 **Standar terbuka** yang dibangun di atas prinsip keterbukaan, transparansi, dan konsensus meletakkan dasar bagi inovasi, pertumbuhan, dan persaingan yang adil. ***Standar terbuka tidak identik dengan open-source.*** [OPSTD]
 
@@ -58,24 +58,24 @@ Seperti yang disebutkan oleh Charles Hoskinson "Kode Cardano adalah Open-Source,
 
 Untuk melanjutkan ke arah ini, kita perlu menggunakan Catalyst sebagai tata kelola atas ekosistem open-source dan standar terbuka yang benar-benar vendor-netral. Untuk mencapai itu, kami tidak menemukan caranya (misalnya bagaimana tim proyek harus berperilaku dan berpartisipasi dalam ekosistem), dan infrastruktur (misalnya VCS, CMS, Wiki, Forum, dll.)
 
-### Guiding questions
+### Pertanyaan panduan
 
 - Bagaimana kita bisa memandu pertumbuhan ekosistem vendor-netral?
-- How can we build a common identity and increase awareness on Cardano projects?
+- Bagaimana kita dapat membangun identitas bersama dan meningkatkan kesadaran tentang proyek Cardano?
 - Bagaimana kita dapat meningkatkan kemampuan untuk dapat ditemukan dan adopsi komersial dari proyek kita?
-- How can we increase the degree of collaboration across different projects?
-- How can we lower the barriers and increase open participation to our ecosystem?
-- How can we provide equal opportunities to all projects no matter the size?
+- Bagaimana kita dapat meningkatkan tingkat kolaborasi di berbagai proyek?
+- Bagaimana kita dapat menurunkan hambatan dan meningkatkan partisipasi terbuka terhadap ekosistem kita?
+- Bagaimana kita bisa memberikan kesempatan yang sama untuk semua proyek tidak peduli ukurannya?
 
-### Possible directions
+### Kemungkinan arah
 
-- Incentivize collaboration across projects to solve complex problems
+- Mendorong kolaborasi lintas proyek untuk memecahkan masalah yang kompleks
 - Memperkenalkan proses dan standar umum dan mendorong penerapannya di seluruh proyek
 - Menyediakan infrastruktur dan perangkat lintas proyek yang diperlukan untuk berkoordinasi
-- Ensure the existence of a cohesive knowledge base
+- Pastikan keberadaan basis pengetahuan yang kohesif
 - Dukung jaringan duta/ambassadors teknologi profesional
 
-#### Note
+#### Catatan
 
 Tantangan ini dibangun di atas Ekosistem Pengembang Open-Source F7 yang ada dan secara longgar terkait dengan Ekosistem Pengembangan Open-Source F8 (https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088)
 
@@ -83,6 +83,6 @@ Memang, tantangan ini adalah tentang menetapkan standar, proses, dan mendorong i
 
 Singkat kata: Tantangan ini adalah tentang keterbukaan, standardisasi, dan interoperabilitas di seluruh proyek open-source yang didanai oleh komunitas, sedangkan yang "open-source" adalah tentang peningkatan jumlah/kualitas proyek.
 
-#### References
+#### Referensi
 
 `OPSTD` Almeida, Fernando &amp; José, Oliveira &amp; José, Cruz. (2011). Standar Terbuka Dan Open-Source: Mengaktifkan Interoperabilitas. Jurnal Internasional Rekayasa Perangkat Lunak &amp; Aplikasi. 2. 10.5121/ijsea.2011.2101.
