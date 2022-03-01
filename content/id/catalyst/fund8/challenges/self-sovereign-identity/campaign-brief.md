@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita dapat mengambil langkah lanjutan dalam mendukung prinsip-prinsip identitas berdaulat?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" class="">
 
 Alokasi Dana: **$400.000 dibayarkan dalam bentuk ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/380986) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26451/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/380986) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26451/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -28,13 +28,13 @@ Menerima proyek berkualitas tinggi; meningkatnya partisipasi dalam diskusi SSI; 
 
 - Jumlah proposal yang secara langsung menangani SSI dengan cara yang terukur
 - Kualitas proposal diukur dari minat dan keterlibatan masyarakat
-- Awareness of Cardano inside the SSI community, working groups and governance entities
+- Kesadaran akan Cardano di dalam komunitas SSI, kelompok kerja, dan entitas tata kelola
 
 ## Penjelasan Tantangan
 
-Catalyst Project by its Fund 6 and Fund 7 has promoted projects that push adoption of the Decentralized Identity and Atala Prism SDK. Additionally, a first cohort was part of the Atala PRISM Pioneer Program and a second one is ready to start.
+Proyek Catalyst menginjak Dana 6 dan Dana 7 telah mempromosikan proyek yang mendorong adopsi Identitas Terdesentralisasi dan Atala Prism SDK. Selain itu, kelompok pertama adalah bagian dari Program Perintis Atala PRISM dan yang kedua telah siap untuk dimulai.
 
-The amount and quality of projects proposed so far and the involvement of the community in the matters of Decentralized Identity are clear indicators that **Cardano is ready to make the big move to cope with all aspects of the Self-Sovereign Identity ecosystem.**
+Jumlah dan kualitas proyek yang diajukan sejauh ini dan keterlibatan komunitas dalam masalah Identitas Terdesentralisasi adalah indikator yang jelas bahwa **Cardano siap untuk membuat langkah besar untuk mengatasi semua aspek ekosistem Identitas Berdaulat.**
 
 Tantangan ini mencari proyek yang membantu memposisikan Cardano sebagai salah satu pemimpin di ruang SSI. Dengan cakupan yang lebih luas daripada tantangan sebelumnya, kami berharap tantangan ini dapat mengatasi semua lapisan yang ditentukan oleh <i>Trust over IP Foundation</i>.
 
