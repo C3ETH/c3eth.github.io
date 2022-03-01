@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bisakah kita membangun Ekosistem Terbuka untuk mendorong pertumbuhan, memberikan kesempatan yang sama kepada semua, dan meningkatkan sinergi di seluruh proyek Cardano?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" class="">
 
 Ukuran Dana: **500,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383619) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383619) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -50,7 +50,7 @@ Kami melihat Open-Source sebagai cara terbaik untuk mengizinkan interoperabilita
 
 Kami menyarankan bahwa kami memerlukan seperangkat standar, proses, dan infrastruktur untuk digunakan oleh proyek open-source (O.S.) Cardano, sehingga (1) Tim proyek O.S. yang berbeda dapat dengan mudah berkolaborasi; (2) Anggota baru dapat dengan mudah menemukan, memahami, menguji, dan berkontribusi pada proyek O.S. yang ada; (3) Proyek O.S. Cardano dapat mengakses kumpulan infrastruktur dan perangkat dasar yang diperlukan.
 
-### Motivations
+### Motivasi
 
 Seperti yang disebutkan oleh Charles Hoskinson "Kode Cardano adalah Open-Source, tetapi perlu dikelola seperti proyek open-source sejati, seperti Linux dan proyek O.S. lainnya".
 
