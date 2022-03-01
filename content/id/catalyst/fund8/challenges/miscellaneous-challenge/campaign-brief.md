@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" class="">
 
 Alokasi Dana: **500,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381326) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/381326) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -18,7 +18,7 @@ Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan T
 
 ### Mengapa Hal Ini Penting?
 
-Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don't fit any other Challenge.
+Membuat Tantangan Lain-Lain dapat memungkinkan ide-ide hebat untuk didanai dalam Fund tertentu, bahkan jika itu tidak sesuai dengan Tantangan lainnya.
 
 ### Seperti apa kesuksesan itu?
 
@@ -39,6 +39,6 @@ Satu-satunya kendala untuk mengajukan proposal dalam tantangan ini adalah bahwa 
 
 ### Mendefinisikan Keselarasan Tantangan
 
-During the assessment stage, Community Advisors should evaluate if proposals submitted in this challenge would be a good fit in any of the other existing challenges.
+Selama tahap penilaian, Community Advisor harus mengevaluasi apakah proposal yang diajukan dalam tantangan ini akan cocok dengan tantangan lain yang ada.
 
 Jika ini masalahnya, yaitu, ada tantangan lain di mana proposal akan selaras dengan tujuan tantangan, maka proposal ini tidak begitu selaras dengan 'Tantangan Lain-Lain'.
