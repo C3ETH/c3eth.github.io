@@ -1,16 +1,16 @@
 ---
 title: Tim Kreatif Film + Media (FAM) bersatu!
-linkTitle: 'Film + Media (FAM) creatives unite! '
+linkTitle: Tim Kreatif Film + Media (FAM) bersatu!
 type: docs
 hide_feedback: 'true'
 description: Hiburan global + pasar media = $2 triliun. Jaringan FAM yang terdesentralisasi untuk menghasilkan media komunitas Cardano yang berkualitas sangatlah penting namun belum tersedia.
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" class="">
 
 Alokasi Dana: **150,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383633) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383633) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -18,7 +18,7 @@ Hiburan global + pasar media = $2 triliun. Jaringan FAM yang terdesentralisasi u
 
 ### Mengapa itu penting?
 
-A challenge category for creatives has been absent so far. Diversity + human creativity in the arts can enrich the Cardano ecosystem + more
+Kategori tantangan untuk dunia kreatif hingga saat ini tidak ada. Keanekaragaman + kreativitas manusia dalam bidang seni dapat memperkaya ekosistem Cardano + lebih banyak lagi
 
 ### Seperti apa kesuksesan itu?
 
@@ -56,4 +56,4 @@ Tantangan Film dan Media (FAM) bertujuan untuk meningkatkan pengetahuan dan adop
 
 Kategori tantangan khusus untuk grup kreatif ini untuk menyalurkan ide-ide katalis mereka sejauh ini belum ada. Hal ini menyebabkan proyek yang berpotensi berdampak berjuang untuk menemukan tempat mereka dalam kategori Tantangan yang tidak cukup 'cocok'. Kategori tantangan FAM dapat membuka aliran pengajuan ide dan proposal yang menghasilkan konten multi-media multibahasa yang berkualitas tinggi, mendidik, dan inspiratif.
 
-Content that helps build bridges within the Cardano ecosystem and across multi sectoral ecosystems, globally. So FAM creatives, in all corners of the world, step up. You are the ones we have been waiting for.
+Konten yang membantu membangun jembatan di dalam ekosistem Cardano itu sendiri serta menyebar ke seluruh ekosistem multi-sektor, secara global. Jadi, penggiat dunia kreatif FAM, di seluruh penjuru dunia, majulah. Anda adalah orang-orang yang kami tunggu-tunggu.
