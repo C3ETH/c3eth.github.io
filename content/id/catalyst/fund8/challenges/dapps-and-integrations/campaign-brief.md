@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Aplikasi apa yang akan paling bernilai bagi pengguna pada tahun 2022?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" class="">
 
 Alokasi Dana: **$2.500.000 dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383335) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383335) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
