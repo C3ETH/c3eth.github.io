@@ -1,9 +1,9 @@
 ---
-title: Miscellaneous Challenge
-linkTitle: Miscellaneous Challenge
+title: Tantangan Lain-Lain
+linkTitle: Tantangan Lain-Lain
 type: docs
 hide_feedback: 'true'
-description: How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+description: Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">
@@ -12,28 +12,28 @@ Alokasi Dana: **500,000 USD dibayarkan dalam ADA**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/381326) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?
 
 ### Mengapa Hal Ini Penting?
 
 Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don't fit any other Challenge.
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
-Funding great ideas that focus on problems that are not covered by any other Challenge.
+Mendanai ide-ide hebat yang berfokus pada masalah yang tidak tercakup oleh Tantangan lainnya.
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
 Di akhir tantangan ini, kita akan bertanya pada diri sendiri: apakah tantangan ini berharga bagi komunitas?
 
-- Successfully fund proposals, approved by the community, that don't fit well any other challenges.
+- Berhasil mendanai proposal, disetujui oleh komunitas, yang tidak cocok dengan tantangan lainnya.
 - Jumlah Tantangan yang mungkin diidentifikasi untuk diusulkan dalam pendanaan berikutnya berdasarkan proposal yang diajukan dalam Tantangan Lain-lain.
 
-## Challenge Brief
+## Tantangan Singkat
 
-This challenge is designed to capture interesting and valuable projects that do not currently fit into other challenges.
+Tantangan ini dirancang untuk menangkap proyek-proyek menarik dan berharga yang saat ini tidak sesuai dengan tantangan lain.
 
 Satu-satunya kendala untuk mengajukan proposal dalam tantangan ini adalah bahwa proposal tersebut harus berkaitan dengan Cardano.
 
@@ -41,4 +41,4 @@ Satu-satunya kendala untuk mengajukan proposal dalam tantangan ini adalah bahwa 
 
 During the assessment stage, Community Advisors should evaluate if proposals submitted in this challenge would be a good fit in any of the other existing challenges.
 
-If this is the case, i.e., there is another challenge where the proposal would be well aligned with the challenge goals, then this proposal is not so well aligned with the 'Miscellaneous Challenge'.
+Jika ini masalahnya, yaitu, ada tantangan lain di mana proposal akan selaras dengan tujuan tantangan, maka proposal ini tidak begitu selaras dengan 'Tantangan Lain-Lain'.
