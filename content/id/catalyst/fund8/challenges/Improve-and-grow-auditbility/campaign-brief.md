@@ -12,36 +12,36 @@ Alokasi Dana: **200,000 USD dibayarkan dalam Ada**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/383480) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
 Bagaimana membuat proses audit proposal yang didanai menjadi efisien, terdistribusi dan transparan?
 
 ### Mengapa Hal Ini Penting?
 
-It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
+Sangat penting bahwa proposal yang didanai dievaluasi untuk melihat apakah mereka memberikan apa yang ditetapkan dalam misi mereka..
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
-Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
+Beberapa proyek mengevaluasi proposal yang didanai, memberikan laporan, artikel, dan metrik tentang pengembangan dan implementasi proyek.
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
 - Jumlah proposal terdanai yang diaudit
-- Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that - - - success metrics are thought out in relation to each challenge.
+- Mempertimbangkan bahwa idenya adalah untuk mengaudit dan melaporkan perkembangan proposal dalam tantangan yang berbeda, penting bahwa - - - metrik keberhasilan dipikirkan dalam kaitannya dengan setiap tantangan.
 - Number of reports, articles and videos/podcasts on:
 - Performa
-- Achievements
-- Financials
+- Prestasi
+- Keuangan
 - Jumlah pengembang yang bergabung.
 - Jumlah komitmen dalam repositori (Github) proposal yang didanai
-- Indicators of: transactions, volume and unique wallets interacting with dapps.
-- Number of smart contracts audited.
-- Social media engagement indicators.
+- Indikator: transaksi, volume, dan dompet unik yang berinteraksi dengan dapps.
+- Jumlah kontrak pintar yang diaudit.
+- Indikator keterlibatan media sosial.
 
-## Challenge Brief
+## Tantangan Singkat
 
 Ketika Fund7 terjadi, kami akan mendekati 300 proposal yang didanai. Sangatlah penting bahwa proposal-proposal ini dievaluasi/diaudit untuk melihat apakah proposal tersebut berhasil dan apakah ROI-nya (Return of Investment) sejalan dengan apa yang telah ditetapkan pada awalnya.
 
-Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.
+Saat ini, IOG bertanggung jawab untuk memantau perkembangan proposal yang didanai ini, tetapi ketika ada ratusan proposal yang didanai, ini akan menjadi pekerjaan yang luar biasa bagi IOG.
 
 Tantangan Auditability bertujuan untuk memastikan transparansi dalam penggunaan sumber daya perbendaharaan Cardano, yang memungkinkan komunitas Cardano memiliki lebih banyak informasi tentang pengembangan proposal yang didanai melalui sistem 'checks and balances.'
