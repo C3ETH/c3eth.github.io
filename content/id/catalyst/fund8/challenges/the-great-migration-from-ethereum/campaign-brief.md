@@ -3,7 +3,7 @@ title: Migrasi Besar (dari Ethereum)
 linkTitle: Migrasi Besar (dari Ethereum)
 type: docs
 hide_feedback: 'true'
-description: How might we make it easy and fast for dApps and other projects to expand or completely move from Ethereum to Cardano?
+description: Bagaimana kami dapat mempermudah dan mempercepat dApps dan proyek lain untuk berkembang atau sepenuhnya berpindah dari Ethereum ke Cardano?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/16-The-Great-Migration-from-Ethereum-76ace0.png" style="width:500px;height500px">
@@ -12,28 +12,28 @@ Ukuran Dana: **500,000 USD dibayarkan dalam ADA**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/382642) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26448/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-How might we make it easy and fast for dApps and other projects to expand or completely move from Ethereum to Cardano?
+Bagaimana kami dapat mempermudah dan mempercepat dApps dan proyek lain untuk berkembang atau sepenuhnya berpindah dari Ethereum ke Cardano?
 
-### Why is it important?
+### Mengapa itu penting?
 
-Many projects are stuck on EVM-based blockchains like Ethereum and are looking for an escape. Cardano can be faster and cheaper to use.
+Banyak proyek terjebak di blockchain berbasis EVM seperti Ethereum dan mencari jalan keluar. Cardano bisa lebih cepat dan lebih murah untuk digunakan.
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
 Projects who were either planning to or did launch on an EVM-based blockchain deploy in the Cardano ecosystem and can do so easily.
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
-- Number of projects that migrate
-- Number of users of these smart contracts once migrated to the Cardano ecosystem
+- Jumlah proyek yang bermigrasi
+- Jumlah pengguna kontrak pintar ini setelah bermigrasi ke ekosistem Cardano
 
 (Metrics can either be improved by funding projects that directly deploy something, or projects that help build tooling to make it easier to deploy)
 
-## Challenge Brief
+## Tantangan Singkat
 
-The Cardano ecosystem, despite being written in Haskell, has always had plans to provide a path for projects that either deployed on an EVM-based blockchain (like Ethereum) to migrate to the Cardano ecosystem. Additionally, projects that are better suited for the account-style method (instead of UTXO) also exist, and we want these projects to be usable from the Cardano ecosystem as well.
+Ekosistem Cardano, meskipun ditulis dalam Haskell, selalu memiliki rencana untuk menyediakan jalur bagi proyek-proyek yang dikerahkan pada blockchain berbasis EVM (seperti Ethereum) untuk bermigrasi ke ekosistem Cardano. Selain itu, ada juga proyek yang lebih cocok untuk metode gaya akun (bukan UTXO), dan kami ingin proyek ini juga dapat digunakan dari ekosistem Cardano.
 
 To accomplish this part of the roadmap, many efforts are currently underway such as KEVM, IELE, ERC20 Converter and Milkomeda to name a few. These projects are reaching the point where they are mature enough for people to deploy using them or build tooling for them and so it's time to start welcoming projects to Cardano.
 
