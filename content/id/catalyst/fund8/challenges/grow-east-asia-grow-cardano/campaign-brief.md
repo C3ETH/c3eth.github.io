@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif dan suportif? Cara yang sama kita lakukan di Afrika, inisiatif yang terfokus!
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" class="">
 
 Alokasi Dana: **$150.000 dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382067) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/382067) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -68,4 +68,4 @@ Panggilan untuk bertindak; Aktifkan kemampuan komunitas Cardano untuk mengenali,
 
 Mengatasi berbagai belahan dunia secara langsung dan sengaja melalui tantangan pendanaan membuat komunitas kami lebih mudah diakses. Hal ini membuat kita lebih tahan banting dan membantu kita belajar serta memahami kebutuhan komunitas yang membentuk ekosistem kita.
 
-It is a vision that needs votes to become an achievement. When the challenge succeeds, the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the benefits many of us were born with—allowing others with fewer privileged circumstances to rise and succeed.
+Sebuah visi yang membutuhkan suara untuk menjadi sebuah pencapaian. Ketika tantangan berhasil, penerima manfaat adalah seluruh komunitas Cardano. Ini adalah panggilan untuk menutup prasangka kita dan membuka mata, hati, dan pikiran kita kepada orang-orang baik yang tidak memiliki akses ke fasilitas terbaik seperti sebagian dari kita sejak yang terlahir dalam situasi ideal—memungkinkan orang lain dalam kondisi yang tidak ideal untuk bangkit dan berhasil.
