@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita meneruskan dan menumbuhkan Cardano di Afrika pada tahun 2022?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" class="">
 
 Alokasi Dana: **$250,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/384227) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26442/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/384227) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26442/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
