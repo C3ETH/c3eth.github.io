@@ -1,6 +1,6 @@
 ---
-title: Lobbying for favorable legislation
-linkTitle: Lobbying for favorable legislation
+title: Melobi untuk undang-undang yang menguntungkan
+linkTitle: Melobi untuk undang-undang yang menguntungkan
 type: docs
 hide_feedback: 'true'
 description: How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?
@@ -12,27 +12,27 @@ Alokasi Dana: **300.000 USD dibayarkan dalam ADA**
 
 [Campaign page](https://cardano.ideascale.com/c/idea/381094) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified).
 
-## Campaign Brief
+## Ringkasan Kampanye
 
-How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?
+Bagaimana kita dapat mempertahankan diri dari serangan pemerintah dan mengkompromikan undang-undang dan kebijakan pajak yang tidak adil secara berkelanjutan?
 
 ### Mengapa Hal Ini Penting?
 
-So that we have favorable legislation, privacy, tax reduction, and a positive environment for mass adoption of cryptocurrencies.
+Sehingga kami memiliki undang-undang yang menguntungkan, privasi, pengurangan pajak, dan lingkungan yang positif untuk adopsi cryptocurrency secara massal.
 
 ### Seperti apa kesuksesan itu?
 
 Kita berhasil menunda atau membalikkan undang-undang yang membahayakan adopsi kripto dan mendukung komunitas dan organisasi lokal seperti Coincenter
 
-### Key Metrics to measure
+### Metrik Utama untuk diukur
 
 - Number of jurisdictions favored through lobbying
-- Number of laws that have been modified
-- Number of experts in regulation, lawyers, and other members involved
-- Number of partnerships and collaborations with organizations and non-profits that work in the same cause
-- Number of votes of politicians engaged
+- Jumlah undang-undang yang telah dimodifikasi
+- Jumlah ahli dalam regulasi, pengacara, dan anggota lain yang terlibat
+- Jumlah kemitraan dan kolaborasi dengan organisasi dan nirlaba yang bekerja untuk tujuan yang sama
+- Jumlah suara politisi yang terlibat
 
-## Challenge Brief
+## Tantangan Singkat
 
 Gagasan di balik tantangan ini adalah untuk mendanai spesialis dalam regulasi, pengacara, dan politisi yang dapat mempromosikan penciptaan lingkungan hukum yang lebih menguntungkan atau kurang berbahaya bagi ruang kripto, dengan fokus pada PoS dan ciri khas Cardano.
 
@@ -40,7 +40,7 @@ Melalui tantangan ini, kami dapat mendanai proposal yang mengupayakan adopsi Car
 
 https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first
 
-Lobby and educate rational politicians so that it becomes possible to plead for the creation of more favorable rules on taxation, use of cryptocurrencies, and greater privacy for cryptocurrency users.
+Melobi dan mendidik politisi rasional sehingga menjadi mungkin untuk memohon pembuatan aturan yang lebih menguntungkan tentang perpajakan, penggunaan cryptocurrency, dan privasi yang lebih besar bagi pengguna cryptocurrency.
 
 In August 2021, the US Senate voted for unforgiving legislation on the crypto ecosystem. We have few voices to defend our community in the political class. Initiatives like the Coin Center are important to defend our community. How can we defend ourselves from attacks by authoritarian governments and compromising legislation?
 
