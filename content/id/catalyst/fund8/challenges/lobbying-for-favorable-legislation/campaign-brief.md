@@ -3,14 +3,14 @@ title: Melobi untuk undang-undang yang menguntungkan
 linkTitle: Melobi untuk undang-undang yang menguntungkan
 type: docs
 hide_feedback: 'true'
-description: How can we defend ourselves from attacks by governments and compromising legislation and unfair tax policies on an ongoing basis?
+description: Bagaimana kita dapat mempertahankan diri dari serangan pemerintah dan undang-undang tidak berkompromi dan kebijakan pajak yang tidak adil secara berkelanjutan?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" class="">
 
 Alokasi Dana: **300.000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381094) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/381094) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -26,7 +26,7 @@ Kita berhasil menunda atau membalikkan undang-undang yang membahayakan adopsi kr
 
 ### Metrik Utama untuk diukur
 
-- Number of jurisdictions favored through lobbying
+- Jumlah yurisdiksi yang mendukung setelah di lobi
 - Jumlah undang-undang yang telah dimodifikasi
 - Jumlah ahli dalam regulasi, pengacara, dan anggota lain yang terlibat
 - Jumlah kemitraan dan kolaborasi dengan organisasi dan nirlaba yang bekerja untuk tujuan yang sama
@@ -42,6 +42,6 @@ https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvad
 
 Melobi dan mendidik politisi rasional sehingga menjadi mungkin untuk memohon pembuatan aturan yang lebih menguntungkan tentang perpajakan, penggunaan cryptocurrency, dan privasi yang lebih besar bagi pengguna cryptocurrency.
 
-In August 2021, the US Senate voted for unforgiving legislation on the crypto ecosystem. We have few voices to defend our community in the political class. Initiatives like the Coin Center are important to defend our community. How can we defend ourselves from attacks by authoritarian governments and compromising legislation?
+Pada Agustus 2021, Senat AS memilih undang-undang tak kenal ampun tentang ekosistem crypto. Kami memiliki sedikit suara untuk membela komunitas kami di kelas politik. Inisiatif seperti Coin Center sangatlah penting untuk mempertahankan komunitas kita. Bagaimana kita bisa mempertahankan diri dari serangan oleh pemerintah otoriter dan undang-undang tidak berkompromi?
 
 https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what
