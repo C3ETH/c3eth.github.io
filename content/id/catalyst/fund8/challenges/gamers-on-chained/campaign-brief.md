@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" class="">
 
 Alokasi Dana: **500,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381329) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26440/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/381329) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26440/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -22,7 +22,7 @@ Gamer siap memasuki crypto. Mereka hanya membutuhkan blockchain yang jelas denga
 
 ### Seperti apa kesuksesan itu?
 
-Cardano becomes the go to blockchain to develop gaming applications due to its quality tooling and wide gamer centric user base.
+Cardano menjadi blockchain pilihan untuk mengembangkan aplikasi game karena peralatannya berkualitas dan basis pengguna yang luas yang berpusat pada gamer.
 
 ### Metrik Utama untuk diukur
 
