@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Solusi apa yang dapat kami kembangkan dan terapkan dengan Atala PRISM untuk memberikan dampak dan peluang paling positif bagi pertumbuhan Cardano yang cepat?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" class="">
 
 Ukuran Dana: **500,000 USD dibayarkan di Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383978) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26443/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383978) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26443/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -35,9 +35,9 @@ Temukan pola berulang yang membuka kemampuan kami untuk memanfaatkan infrastrukt
 
 Tantangan kami adalah evolusi tantangan adopsi identitas desentralisasi massal (DID) dari Pendanaan Putaran 6, menghubungkan semua yang kami pelajari dengan kelompok pertama Program Perintis PRISM Atala.
 
-The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst Fund 7 is complete. Between now and then, any member of the Catalyst Community inspired to write a proposal will get access to the Atala PRISM Pioneer Program first cohort course materials on Canvas. Please submit your proposal on Ideascale, including your email address, to get an invitation to Canvas.
+Kelompok kedua Program Perintis Atala PRISM akan dimulai setelah Catalyst Fund 7 selesai. Antara sekarang dan nanti, setiap anggota Komunitas Catalyst yang terinspirasi untuk menulis proposal akan mendapatkan akses ke materi kursus kohort pertama Program Perintis Atala PRISM di atas Canvas. Harap kirimkan proposal Anda di Ideascale, termasuk alamat email Anda, untuk mendapatkan undangan ke Canvas.
 
-With this access, you'll join the growing Atala PRISM community. Our Atala PRISM product team and engineers will be available via a dedicated Discord channel. Inclusion in our Professional Services Group governance framework foundry. Access to fireside chats with the top leaders in the SSI space, where we'll discuss trends, use cases, and much more. In addition, we will support the growth of high-value credentials and enable partners from concept, to development, to commercialization.
+Dengan akses ini, Anda akan bergabung dengan komunitas Atala PRISM yang sedang berkembang. Tim produk dan teknisi Atala PRISM kami akan tersedia melalui saluran Discord khusus. Penyertaan dalam kerangka tata kelola Grup Layanan Profesional kami. Akses ke fireside chats dengan para pemimpin teratas di ruang SSI, tempat kita akan membahas tren, kasus penggunaan, dan banyak lagi. Selain itu, kami akan mendukung pertumbuhan kredensial bernilai tinggi dan memungkinkan mitra mulai dari konsep, pengembangan, hingga komersialisasi.
 
 ## Area Fokus
 
@@ -49,7 +49,7 @@ Platform dengan kinerja terbaik akan memperoleh pangsa pasar terbesar. Untuk ber
 
 Kami mendorong proposal Catalyst untuk mencapai interoperabilitas penuh. Hasil kerja harus mengoptimalkan pengalaman pengguna (UX) untuk kredensial Atala PRISM sambil tetap kompatibel dengan platform lain.
 
-### Self-governance of Emergent Communities
+### Pemerintahan Sendiri dari Emergent Communities
 
 ##### DAO Governance in Practice
 
@@ -67,21 +67,21 @@ Bagaimana prinsip-prinsip ini dapat menjadi kode plug-and-play sebagai teknologi
 
 Kami tertarik untuk menjelajahi taman bermain yang kaya akan ide dan membawanya ke implementasi dunia nyata di Cardano dan Atala PRISM.
 
-##### Education, Career, and Emergent Reputation Primitives
+##### Pendidikan, Karir, dan Emergent Reputation Primitives
 
-Many of our Pioneer and Catalyst-funded projects support education and career programs. One of the defining characteristics of these approaches is the creation of alternatives to accredited education and career paths.
+Banyak proyek yang didanai Pioneer dan Catalyst mendukung program pendidikan dan karir. Salah satu karakteristik yang menentukan dari pendekatan ini adalah penciptaan alternatif untuk pendidikan terakreditasi dan jalur karir.
 
-We need our community to think about developing technology and governance primitives to support any community that wants to establish new education and career paths by providing tools:
+Kami membutuhkan komunitas kami untuk berpikir tentang mengembangkan teknologi dan governance primitives untuk mendukung komunitas mana pun yang ingin membangun jalur pendidikan dan karier baru dengan menyediakan alat:
 
-- For onboarding new experts and teachers
+- Untuk mendatangkan pakar dan guru baru
 - Bagi orang-orang di komunitas untuk berkembang dan tumbuh
 - Untuk menjaga reputasi sebagai karyawan yang terampil, buruh, konsultan, mentor, guru, dll.
 
-When reputation standards change, we need ways to self-heal and self-monitor for bad actors, harmful actions, or bad outcomes.
+Ketika standar reputasi berubah, kita membutuhkan cara untuk menyembuhkan diri sendiri dan memantau diri sendiri terhadap aktor yang buruk, tindakan yang berbahaya, atau hasil yang buruk.
 
 **Rantai Pasokan Melingkar**
 
-The global supply chain focuses on creating a new economic infrastructure. The goal is replacing or integrating with legacy systems such as record-keeping, bills of lading, centrally managed systems of record, and distribution networks. Centralization has many challenges, the least of which is a lack of resilience in the global supply chain, as we have all seen and continue to experience in the COVID era.
+Rantai pasokan global berfokus pada penciptaan infrastruktur ekonomi baru. Tujuannya adalah mengganti atau mengintegrasikan dengan sistem lama seperti pencatatan, bill of lading, sistem pencatatan yang dikelola secara terpusat, dan jaringan distribusi. Sentralisasi memiliki banyak tantangan, salah satunya adalah kurangnya ketahanan dalam rantai pasokan global, seperti yang telah kita semua lihat dan terus alami di era COVID.
 
 Rantai pasokan cenderung mulai terdesentralisasi. Pasar dan rute perdagangan muncul dari dasar pasar produsen dan digabungkan ke dalam rantai pasokan terpusat, yang akhirnya turun ke konsumen. Kami ingin mengeksplorasi pola perdagangan baru dalam rantai pasokan dari bawah ke atas yang dapat membuka dan memperluas jaringan reputasi lokal ke pasar yang saat ini tidak dapat diakses, seperti:
 
@@ -102,9 +102,9 @@ Misalnya, produsen kecil seperti peternakan keluarga di Wyoming tidak memiliki c
 Ada banyak masalah yang harus diatasi. Misalnya, pabrik pengemasan adalah titik masuk ke agregasi, jadi ada sedikit atau tidak ada insentif untuk berurusan dengan produsen kecil. Kami ingin mengatasi masalah ini dengan membangun alat serba guna untuk membantu masyarakat dalam mengatur dan mengatur produksi sendiri sesuai dengan standar yang disepakati. Kami mengusulkan bahwa jika komunitas ini dapat terhubung dan tumbuh, mereka akan:
 
 - Jangkau pasar melalui saluran distribusi alternatif ke rantai pasokan industri
-- Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.
+- Mampu bernegosiasi sebagai komunitas untuk persyaratan yang lebih baik agar nilai produk mereka diakui, didistribusikan, dan dijual dengan nilai yang utuh baik secara komersial maupun reputasi.
 
-##### The Last-Mile Problem
+##### Masalah Proses Terakhir
 
 Bagaimana distributor lokal di pasar lokal berinteraksi dengan rantai pasokan industri global dan diberi akses ke pasar yang jika tidak, tidak dapat diakses karena kurangnya identitas ekonomi atau modal untuk mengakses barang pada skala yang dibutuhkan oleh rantai pasokan industri?
 
@@ -124,7 +124,7 @@ Mengatasi tantangan kesenjangan keuangan sangat penting. Kami percaya bahwa ada 
 - Kredensial yang Dapat Diverifikasi (VC)
 - Permintaan Presentasi yang Dapat Diverifikasi
 - Bukti Presentasi yang Dapat Diverifikasi
-- Cryptocurrency
+- Mata uang kripto
 - Token yang tidak dapat dipertukarkan (NFT)
 - Kontrak pintar
 
@@ -132,11 +132,11 @@ Mengatasi tantangan kesenjangan keuangan sangat penting. Kami percaya bahwa ada 
 
 - Registri Kepercayaan
 - Kerangka Tata Kelola
-- Token Curated Registry
+- Registri Token Terkurasi
 - Pengakuan anggota komunitas dan proses orientasi
 - Membangun Reputasi Individu
-- Community as a whole group Interaction with an external party
-- Community member as an individual interaction with an external party
+- Komunitas sebagai keseluruhan kelompok berinteraksi dengan pihak eksternal
+- Anggota masyarakat sebagai individu berinteraksi dengan pihak luar
 - Media pertukaran komunitas
 - Pengakuan Trust Registry eksternal
 - Pengakuan Kerangka Tata Kelola eksternal
@@ -144,6 +144,6 @@ Mengatasi tantangan kesenjangan keuangan sangat penting. Kami percaya bahwa ada 
 
 Dengan latar belakang tersebut, kami mengusulkan proposal dalam tiga bidang berikut:
 
-1. Interoperability between Cardano and Indy anchored DIDs/VCs.
-2. Self-governance of Emergent Communities
+1. Interoperabilitas antara DID/VC yang berbasis Cardano dan Indy.
+2. Pemerintahan Sendiri Emergent Communities
 3. Rantai Pasokan Melingkar
