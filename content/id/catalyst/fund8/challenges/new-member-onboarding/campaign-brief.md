@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita dapat mempercepat dan mempermudah anggota Catalyst baru untuk mengambil peran dan tanggung jawab yang sesuai pada tahun 2022?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" class="">
 
 Ukuran Dana: **200,000 USD dibayarkan dalam bentuk ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382639) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/382639) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -31,9 +31,9 @@ Metrik dapat dibagi menjadi dua bagian. Orientasi umum mengacu pada membawa oran
 #### Orientasi umum
 
 - Pendaftaran mingguan ke Cardano Ideascale
-- Townhall attendance
+- Kehadiran Townhall
 - Kehadiran sesi Catalyst School
-- Swarm session attendance
+- Kehadiran sesi Swarm
 - Aplikasi untuk posisi kepemimpinan (misalnya Circle)
 
 #### Proses inovasi
@@ -54,6 +54,6 @@ Pertumbuhan Project Catalyst bergantung pada partisipasi yang berarti dari para 
 
 - Bagaimana cara mengubah pemegang ADA pasif menjadi anggota Catalyst aktif?
 - Bagaimana kita dapat meningkatkan kesadaran akan Project Catalyst sebagai platform inovasi terbuka paling aktif?
-- How might we increase more meaningful participation from challenge teams, proposers, advisors, mentors and voters? What kind of additional roles are needed?
+- Bagaimana kita dapat meningkatkan partisipasi yang lebih bermakna dari tim challenge, proposer, advisor, mentor, dan voter? Peran tambahan seperti apa yang dibutuhkan?
 - Bagaimana kita dapat mendorong anggota baru untuk menggunakan alat dan layanan yang tersedia untuk orientasi?
 - Bagaimana kita dapat meningkatkan penggunaan materi teks, video, dan audio sudah ada?
