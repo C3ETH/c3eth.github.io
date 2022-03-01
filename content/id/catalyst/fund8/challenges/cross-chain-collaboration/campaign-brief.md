@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita bisa membuat koneksi dan kolaborasi antara Cardano dan blockchain lainnya dalam enam bulan ke depan?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" class="">
 
 Alokasi Dana: **$400.000 dibayarkan dalam bentuk ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381705) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/381705) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -47,7 +47,7 @@ Cardano memiliki komunitas yang kuat, terbuka, dan inklusif, mari jadikan ini ke
 
 **Berikut adalah beberapa contoh entitas, komunitas, dan proyek DLT/Blockchain yang potensial untuk dijelajahi dan dikolaborasikan:**
 
-**Cosmos**, dubbing itself the Internet of Blockchains, makes it easy for other blockchains to connect to it via their Inter-Blockchain Communication protocol (IBC). Massive projects like Binance Smart Chain, Terra, Thorchain and Oasis Network are built on the Cosmos SDK.
+**Cosmos** , menjuluki dirinya sebagai Internet untuk Blockchains, memudahkan blockchain lain untuk terhubung melalui protokol Komunikasi Inter-Blockchain (IBC) mereka. Proyek besar seperti Binance Smart Chain, Terra, Thorchain, dan Oasis Network dibangun di atas Cosmos SDK.
 
 - [TenderMint](https://tendermint.com/sdk/)
 - [Cosmos Intro](https://v1.cosmos.network/intro)
@@ -93,4 +93,4 @@ Oleh karena itu, tantangan ini selaras dengan tujuan strategis Fund8:
 - Hal ini membantu mengubah Cardano menjadi proyek sumber terbuka yang diakui juga di luar komunitas kami.
 - Hal ini mempercepat pertumbuhan dan evolusi ekosistem pengembang &amp; aplikasi kami dengan mengundang kontribusi dari ruang blockchain lainnya.
 
-The budget of $400,000 USD is a moderate 2,5% of the total treasury allocation for Fund8. It should be sufficient to kickstart interoperability and cross-chain collaboration initiatives but might not be enough for any large scale infrastructure projects. Therefore, **we encourage submission of "minimum viable" and "proof of concept" proposals that do include long-term vision and roadmap but which are initially scoped quite small**.
+Anggaran $400.000 adalah 2,5%, sebuah nilai moderat dari total alokasi perbendaharaan untuk Fund8. Anggaran ini harus cukup untuk memulai interoperabilitas dan inisiatif kolaborasi lintas rantai tetapi mungkin tidak cukup untuk proyek infrastruktur skala besar. Oleh karena itu, **kami mendorong pengajuan proposal "minimal layak" dan "bukti konsep" yang mencakup visi dan peta perjalanan jangka panjang yang cakupan awalnya cukup kecil** .
