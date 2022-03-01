@@ -1,24 +1,24 @@
 ---
-title: Nation Building Dapps
-linkTitle: Nation Building Dapps
+title: Dapps Pembangun Negara
+linkTitle: Dapps Pembangun Negara
 type: docs
 hide_feedback: 'true'
-description: What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
+description: Solusi inti Dapp Pembangun Negara apa yang dapat disediakan untuk memperoleh banyak pengguna di negara berkembang?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" class="">
 
 Ukuran Dana: **800.000 USD dibayarkan di Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383828) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383828) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
-What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
+Solusi inti Dapp Pembangun Negara apa yang dapat disediakan untuk memperoleh banyak pengguna di negara berkembang?
 
 ### Why is it important?
 
-For the poor nations with no basic foundations, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity.
+Untuk negara-negara miskin yang tidak memiliki fondasi dasar, solusi Dapp Pembangunan Negara akan menjadi fondasi yang memungkinkan kemakmuran berkelanjutan.
 
 ### Seperti apa kesuksesan itu?
 
@@ -29,7 +29,7 @@ Meningkatkan penggunaan Dapp di negara berkembang, bekerja sama dengan Pusat Kom
 - Jumlah proposal
 - Proposal peringkat CA
 - Keragaman kasus penggunaan Dapp
-- Proposers commercial approach and negotiation strategy with different Governments
+- Pendekatan komersial dari proposer (pengusul proposal)   dan strategi negosiasi dengan pemerintah-pemerintah yang berbeda
 - Partisipasi Pusat Komunitas Lokal Cardano
 - Partisipasi dan/atau kemitraan dengan organisasi internasional lainnya
 - Jumlah negara yang dicakup, kontrak ditandatangani
@@ -40,13 +40,13 @@ Meningkatkan penggunaan Dapp di negara berkembang, bekerja sama dengan Pusat Kom
 
 ## Challenge Brief
 
-For the poor nations with no foundations to stand on, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity. The 2017 Findex report shows that about a quarter of unbanked adults live in the poorest 20 percent of households in their country. Proposals in Nation Building Dapps will be able to help provide digital identities to these people and help them out of poverty. We want to encourage Cardano blockchain solutions that will be able to provide nations with decentralized solutions to their infrastructure by eliminating a single point of failure, protecting national, corporate, and individual data, property, and assets.
+Bagi negara-negara miskin yang tidak memiliki fondasi untuk berdiri, solusi Dapp Pembangunan Negara akan menjadi blok-blok bangunan yang memungkinkan kemakmuran berkelanjutan. Laporan Findex 2017 menunjukkan bahwa sekitar seperempat orang dewasa yang tidak memiliki rekening bank termasuk dalam 20 persen rumah tangga termiskin di negara mereka. Proposal di Dapps Pembangunan Negara akan dapat membantu memberikan identitas digital kepada orang-orang ini dan membantu mereka keluar dari kemiskinan. Kami ingin mendorong solusi blockchain Cardano yang akan dapat memberi negara-negara dengan solusi terdesentralisasi untuk infrastruktur mereka dengan menghilangkan satu titik kegagalan, melindungi data, properti, dan aset nasional, perusahaan, dan individu.
 
 https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf
 
 Proposal Dapp harus mencakup solusi Registry dasar, yaitu:
 
-National ID &amp; Civil Registry, Property Registration, Medical &amp; Vaccination, Education Census, Revenue Service, Business Incorporations, Elections Voting, Customs &amp; Border Control, Criminal Records, Employment Census, Vehicle Registration, Licensing &amp; Certifications.
+ID Nasional &amp; Catatan Sipil, Pendaftaran Properti, Riwayat Medis &amp; Vaksinasi, Sensus Pendidikan, Layanan Pendapatan, Melayani Bisnis, Pemungutan Suara, Pengawasan Bea Cukai &amp; Perbatasan, Catatan Kriminal, Sensus Ketenagakerjaan, Pendaftaran Kendaraan, Perizinan &amp; Sertifikasi.
 
 Proposers to review IOHK/ EMURGO Atala Prism solutions before hand along with reference use cases on integrated registry systems applications currently implemented across wealthy nations.
 
