@@ -1,6 +1,6 @@
 ---
-title: Community Advisor Improvements
-linkTitle: Community Advisor Improvements
+title: Peningkatan Penasihat Komunitas
+linkTitle: Peningkatan Penasihat Komunitas
 type: docs
 hide_feedback: 'true'
 description: Community Advisor adalah peran kunci yang  terus berkembang dari Project Catalyst dan membutuhkan tempat dan anggaran untuk mengajukan proposal guna meningkatkan kinerja mereka
@@ -26,21 +26,21 @@ Community Advisor secara konstan menghadapi tantangan namun tidak memiliki kemun
 
 ### Tolak Ukur Utama
 
-- Number of new tools developed
-- Number of new mechanisms for assessing and scoring proposals
-- Number of maintenance proposals and groups created
-- Number of out of the box ideas
+- Jumlah alat baru yang dikembangkan
+- Jumlah mekanisme baru untuk menilai dan menilai proposal
+- Jumlah proposal pemeliharaan dan grup yang dibuat
+- Jumlah ide yang out of the box
 
 ## Penjelasan Tantangan
 
-Community Advisors (CAs) and Veteran Community Advisors (vCAs) are key players of the current Project Catalyst governance process. They assess proposals and by doing that, provide feedback to proposers to improve their ideas for the next fund, and support voter on deciding which proposals are more ready and have higher chances of being successful and impact the Cardano ecosystem.
+Community Advisors (CAs) dan Veteran Community Advisors (vCAs) adalah pemain kunci dari proses tata kelola Project Catalyst saat ini. Mereka menilai proposal dan dengan melakukan itu, memberikan umpan balik kepada pengusul untuk meningkatkan ide mereka untuk dana berikutnya, dan mendukung pemilih dalam memutuskan proposal mana yang lebih siap dan memiliki peluang lebih tinggi untuk berhasil dan berdampak pada ekosistem Cardano.
 
 Dengan meningkatkan proses penilaian, kami meningkatkan seluruh proses Catalyst sebagai konsekuensinya. Oleh karena itu, tantangan ini bertujuan untuk mempercepat evolusi seluruh proses penilaian Catalyst.
 
 #### Potensi Tujuan
 
 - Bangun alat baru untuk meningkatkan pekerjaan (v)CA
-- Maintain general (v)CA resourses, in collaboration with the community and with IOG
-- Evaluate different models of proposal assessment and scoring
-- Develop reputation system(s) for (v)CAs
-- Develop and assess new remuneration mechanisms for (v)CAs
+- Mempertahankan sumber daya umum (v)CA, bekerja sama dengan komunitas dan dengan IOG
+- Evaluasi berbagai model penilaian dan penilaian proposal
+- Kembangkan sistem reputasi untuk (v)CA
+- Mengembangkan dan menilai mekanisme remunerasi baru untuk (v)CA
