@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita bisa menumbuhkan pengembangan dan adopsi Cardano di India?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" class="">
 
 Alokasi Dana: **$150.000 dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/381216) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/381216) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
@@ -22,7 +22,7 @@ Bagaimana kita bisa menumbuhkan pengembangan dan adopsi Cardano di India?
 
 Pengembang / bisnis Cardano lokal diperlukan untuk memecahkan masalah lokal.
 
-Significant poverty/unbanked
+Kemiskinan yang signifikan/banyak yang tidak memiliki rekening bank
 
 ### Seperti apa gambaran suksesnya?
 
@@ -33,7 +33,7 @@ Sukses adalah memiliki banyak pengajuan untuk Catalyst Fund8 untuk proyek yang b
 Metrik utama secara keseluruhan adalah:
 
 - Peningkatan interaksi antara Catalyst dan proyek yang berfokus pada India
-- Number of Indian focused Catalyst submissions
+- Jumlah proposal di Catalyst yang terfokus pada India
 - Jumlah dapps/layanan fokus India yang benar-benar dibuat
 
 ## Penjelasan Tantangan
@@ -42,7 +42,7 @@ Selain Afrika, saya pikir kita juga harus memberikan fokus yang signifikan pada 
 
 India memiliki populasi besar 1,4 miliar.
 
-55% are under the age of 30yrs (Wikipedia, 2016 est.) There are a significant percentage of unbanked/rural people worldpoverty.io notes 100 million Indians (7%) live in extreme poverty Certain rural areas are already using Aadhaar Pay to pay for goods using their fingerprint see https://www.payaadhar. In 2019). So there is enough infrastructure and consumer devices in place to make this a serious market right away.
+55% berusia di bawah 30 tahun (Wikipedia, 2016) Ada persentase yang signifikan dari orang-orang yang tidak memiliki rekening bank/pedesaan. Worldpoverty.io mencatat 100 juta orang India (7%) hidup dalam kemiskinan ekstrim. Daerah pedesaan tertentu sudah menggunakan Aadhaar Pay untuk membayar untuk barang menggunakan sidik jarinya lihat https://www.payaadhar. Pada 2019). Jadi ada cukup infrastruktur dan perangkat konsumen untuk segera membuat pasar yang serius.
 
 Memiliki tantangan/dana Catalyst yang berfokus pada India akan sangat berguna untuk mengumpulkan tim dan ide dan membuat Cardano bergulir di India. Saya bukan orang India dan tidak memiliki koneksi ke India, tetapi saya pikir Cardano dapat berguna untuk membantu memecahkan masalah yang mereka hadapi dan juga untuk menumbuhkan ekosistem Cardano.
 
@@ -52,7 +52,7 @@ Emurgo memiliki kantor di India, tetapi tidak yakin apa yang mereka lakukan. TI 
 
 Beberapa saran untuk tantangan Fund8 tersebut adalah:
 
-- Setting up local Cardano hubs for regular catch ups (virtual or real world)
+- Menyiapkan hub Cardano lokal untuk bertemu secara reguler (dunia maya atau nyata)
 
 - Situs web/sosial/YT berbahasa lokal disiapkan untuk menarik pengembang/pengusaha untuk menjelaskan Cardano dan Catalyst di tingkat tinggi
 
@@ -60,11 +60,11 @@ Beberapa saran untuk tantangan Fund8 tersebut adalah:
 
 - Jalankan kompetisi/pitch-fest untuk ide DApp dengan 10 ide teratas dapatkan dana untuk membuat MVP
 
-- Connect with universities and training centers
+- Membuat hubungan dengan universitas dan pusat pelatihan
 
-- Connect with new and established Indian YouTube channels to talk Cardano tech, dev ideas, business opportunities etc to create a buzz about Catalyst funding
+- Membuat hubungan dengan saluran konten kreator YouTube India yang baru dan mapan untuk berbicara tentang teknologi Cardano, ide pengembang, peluang bisnis, dll. untuk menciptakan desas-desus tentang pendanaan Catalyst
 
-- Regularly promote awareness of Cardano and Catalyst funding to bring people into the space eg a 12 month campaign
+- Secara teratur mempromosikan kesadaran pendanaan Cardano dan Catalyst untuk membawa orang-orang makin terlibat, misalnya kampanye 12 bulan
 
 Ini seperti roda besar yang berat yang akan membutuhkan banyak energi untuk berputar, tetapi begitu mulai bergerak (semoga) terus berjalan dengan lebih sedikit energi yang dibutuhkan.
 
