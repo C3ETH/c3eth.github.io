@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun di atas kerangka kerja yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" class="">
 
 Ukuran Dana: **1,200,000 USD dibayarkan dalam ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/382213) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26434/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/382213) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26434/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
