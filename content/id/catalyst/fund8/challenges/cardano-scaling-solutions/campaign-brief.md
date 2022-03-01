@@ -6,11 +6,11 @@ hide_feedback: 'true'
 description: Penelitian dan implementasi penskalaan apa yang dapat diperkenalkan untuk membantu Cardano meningkatkan skalabilitas?
 ---
 
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" class="">
 
 Alokasi Dana: **400.000 USD dibayarkan dalam bentuk ADA**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/383094) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383094) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified) .
 
 ## Ringkasan Kampanye
 
