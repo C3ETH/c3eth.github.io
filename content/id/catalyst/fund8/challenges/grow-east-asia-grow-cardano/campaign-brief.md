@@ -1,9 +1,9 @@
 ---
-title: Tumbuhkan Asia Timur, Tumbuhkan Cardano
-linkTitle: Tumbuhkan Asia Timur, Tumbuhkan Cardano
+title: "Tumbuhkan Asia Timur, Tumbuhkan Cardano"
+linkTitle: "Tumbuhkan Asia Timur, Tumbuhkan Cardano"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif dan suportif? Cara yang sama kita lakukan di Afrika, inisiatif yang terfokus!
+hide_feedback: true
+description: "Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif dan suportif? Cara yang sama kita lakukan di Afrika, inisiatif yang terfokus!"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" class="">

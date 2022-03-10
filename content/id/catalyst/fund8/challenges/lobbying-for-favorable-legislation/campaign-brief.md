@@ -1,9 +1,9 @@
 ---
-title: Melobi untuk undang-undang yang menguntungkan
-linkTitle: Melobi untuk undang-undang yang menguntungkan
+title: "Melobi untuk undang-undang yang menguntungkan"
+linkTitle: "Melobi untuk undang-undang yang menguntungkan"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mempertahankan diri dari serangan pemerintah dan undang-undang tidak berkompromi dan kebijakan pajak yang tidak adil secara berkelanjutan?
+hide_feedback: true
+description: "Bagaimana kita dapat mempertahankan diri dari serangan pemerintah dan undang-undang tidak berkompromi dan kebijakan pajak yang tidak adil secara berkelanjutan?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" class="">

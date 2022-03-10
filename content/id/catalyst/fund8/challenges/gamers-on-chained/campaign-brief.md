@@ -1,9 +1,9 @@
 ---
-title: Gamers On-Chained
-linkTitle: Gamers On-Chained
+title: "Gamers On-Chained"
+linkTitle: "Gamers On-Chained"
 type: docs
-hide_feedback: 'true'
-description: Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?
+hide_feedback: true
+description: "Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" class="">

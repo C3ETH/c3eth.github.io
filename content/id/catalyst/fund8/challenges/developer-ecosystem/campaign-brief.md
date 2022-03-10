@@ -1,9 +1,9 @@
 ---
-title: Ekosistem Pengembang
-linkTitle: Ekosistem Pengembang
+title: "Ekosistem Pengembang"
+linkTitle: "Ekosistem Pengembang"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kami dapat menciptakan pengalaman positif pengembang yang membantu pengembang fokus dalam membangun kesuksesan aplikasi?
+hide_feedback: true
+description: "Bagaimana kami dapat menciptakan pengalaman positif pengembang yang membantu pengembang fokus dalam membangun kesuksesan aplikasi?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" class="">
@@ -49,7 +49,7 @@ Di akhir tantangan ini, kami akan bertanya pada diri sendiri: Apakah kami berhas
 #### Potensi Tujuan
 
 - Produktivitas developer: IDE, skrip untuk pengotomasian
-- Basis pengetahuan &amp; Dokumentasi
+- Basis pengetahuan  Dokumentasi
 - Kerangka kerja penerapan, pengujian, dan pemantauan
 - Contoh, resep, dan pola
 - Hackathon

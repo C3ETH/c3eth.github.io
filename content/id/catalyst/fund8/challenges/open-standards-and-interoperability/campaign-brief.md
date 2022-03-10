@@ -1,9 +1,9 @@
 ---
-title: Standar Terbuka & Interoperabilitas
-linkTitle: Standar Terbuka & Interoperabilitas
+title: "Standar Terbuka & Interoperabilitas"
+linkTitle: "Standar Terbuka & Interoperabilitas"
 type: docs
-hide_feedback: 'true'
-description: Bisakah kita membangun Ekosistem Terbuka untuk mendorong pertumbuhan, memberikan kesempatan yang sama kepada semua, dan meningkatkan sinergi di seluruh proyek Cardano?
+hide_feedback: true
+description: "Bisakah kita membangun Ekosistem Terbuka untuk mendorong pertumbuhan, memberikan kesempatan yang sama kepada semua, dan meningkatkan sinergi di seluruh proyek Cardano?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" class="">
@@ -54,7 +54,7 @@ Kami menyarankan bahwa kami memerlukan seperangkat standar, proses, dan infrastr
 
 Seperti yang disebutkan oleh Charles Hoskinson "Kode Cardano adalah Open-Source, tetapi perlu dikelola seperti proyek open-source sejati, seperti Linux dan proyek O.S. lainnya".
 
-{{&lt; youtube T88_XKzi8ms &gt;}}
+{{< youtube T88_XKzi8ms >}}
 
 Untuk melanjutkan ke arah ini, kita perlu menggunakan Catalyst sebagai tata kelola atas ekosistem open-source dan standar terbuka yang benar-benar vendor-netral. Untuk mencapai itu, kami tidak menemukan caranya (misalnya bagaimana tim proyek harus berperilaku dan berpartisipasi dalam ekosistem), dan infrastruktur (misalnya VCS, CMS, Wiki, Forum, dll.)
 
@@ -85,4 +85,4 @@ Singkat kata: Tantangan ini adalah tentang keterbukaan, standardisasi, dan inter
 
 #### Referensi
 
-`OPSTD` Almeida, Fernando &amp; José, Oliveira &amp; José, Cruz. (2011). Standar Terbuka Dan Open-Source: Mengaktifkan Interoperabilitas. Jurnal Internasional Rekayasa Perangkat Lunak &amp; Aplikasi. 2. 10.5121/ijsea.2011.2101.
+`OPSTD` Almeida, Fernando  José, Oliveira  José, Cruz. (2011). Standar Terbuka Dan Open-Source: Mengaktifkan Interoperabilitas. Jurnal Internasional Rekayasa Perangkat Lunak  Aplikasi. 2. 10.5121/ijsea.2011.2101.

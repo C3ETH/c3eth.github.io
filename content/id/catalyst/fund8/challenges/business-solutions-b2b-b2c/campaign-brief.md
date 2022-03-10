@@ -1,16 +1,16 @@
 ---
-title: Solusi Bisnis B2B & B2C
-linkTitle: Solusi Bisnis B2B & B2C
+title: "Solusi Bisnis B2B & B2C"
+linkTitle: "Solusi Bisnis B2B & B2C"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana solusi berbasis Cardano dapat membantu memenuhi kebutuhan bisnis nyata dan apa dampaknya?
+hide_feedback: true
+description: "Bagaimana solusi berbasis Cardano dapat membantu memenuhi kebutuhan bisnis nyata dan apa dampaknya?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">
 
 Ukuran Dana: **1.000.000 USD dibayarkan di Ada**
 
-[Halaman kampanye](https://cardano.ideascale.com/c/idea/382660) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified) .
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/382660) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified)
 
 ## Ringkasan Kampanye
 

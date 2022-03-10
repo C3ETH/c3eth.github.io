@@ -1,9 +1,9 @@
 ---
-title: Tim Kreatif Film + Media (FAM) bersatu!
-linkTitle: Tim Kreatif Film + Media (FAM) bersatu!
+title: "Tim Kreatif Film + Media (FAM) bersatu!"
+linkTitle: "Tim Kreatif Film + Media (FAM) bersatu!"
 type: docs
-hide_feedback: 'true'
-description: Hiburan global + pasar media = $2 triliun. Jaringan FAM yang terdesentralisasi untuk menghasilkan media komunitas Cardano yang berkualitas sangatlah penting namun belum tersedia.
+hide_feedback: true
+description: "Hiburan global + pasar media = $2 triliun. Jaringan FAM yang terdesentralisasi untuk menghasilkan media komunitas Cardano yang berkualitas sangatlah penting namun belum tersedia."
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" class="">
@@ -44,7 +44,7 @@ Cardano memiliki komunitas YouTube yang kuat, tetapi jelas YouTube bukanlah sega
 
 Sangatlah penting untuk membuat konten yang mendidik dan menginspirasi yang akan dengan senang hati digunakan oleh media nasional dan stasiun TV dalam program harian mereka.
 
-Pada tahap awal ini, kerjasama antara YouTuber dan profesional TV &amp; Film tidak hanya disambut, tetapi juga dibutuhkan. Menciptakan tantangan khusus untuk ini harus membuka pintu bagi pendidikan dan inspirasi.
+Pada tahap awal ini, kerjasama antara YouTuber dan profesional TV  Film tidak hanya disambut, tetapi juga dibutuhkan. Menciptakan tantangan khusus untuk ini harus membuka pintu bagi pendidikan dan inspirasi.
 
 Tantangan Film dan Media (FAM) bertujuan untuk meningkatkan pengetahuan dan adopsi Cardano untuk khalayak global dengan memungkinkan:
 

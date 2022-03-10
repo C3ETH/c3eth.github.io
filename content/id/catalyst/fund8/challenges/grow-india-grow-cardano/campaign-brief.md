@@ -1,9 +1,9 @@
 ---
-title: Tumbuhkan India, Tumbuhkan Cardano
-linkTitle: Tumbuhkan India, Tumbuhkan Cardano
+title: "Tumbuhkan India, Tumbuhkan Cardano"
+linkTitle: "Tumbuhkan India, Tumbuhkan Cardano"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita bisa menumbuhkan pengembangan dan adopsi Cardano di India?
+hide_feedback: true
+description: "Bagaimana kita bisa menumbuhkan pengembangan dan adopsi Cardano di India?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" class="">

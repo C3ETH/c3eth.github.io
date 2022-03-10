@@ -1,9 +1,9 @@
 ---
-title: Peningkatan Penasihat Komunitas
-linkTitle: Peningkatan Penasihat Komunitas
+title: "Peningkatan Penasihat Komunitas"
+linkTitle: "Peningkatan Penasihat Komunitas"
 type: docs
-hide_feedback: 'true'
-description: Community Advisor adalah peran kunci yang  terus berkembang dari Project Catalyst dan membutuhkan tempat dan anggaran untuk mengajukan proposal guna meningkatkan kinerja mereka
+hide_feedback: true
+description: "Community Advisor adalah peran kunci yang  terus berkembang dari Project Catalyst dan membutuhkan tempat dan anggaran untuk mengajukan proposal guna meningkatkan kinerja mereka"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/21-Community-Advisor-Improvements-dbdbe2.png" class="">

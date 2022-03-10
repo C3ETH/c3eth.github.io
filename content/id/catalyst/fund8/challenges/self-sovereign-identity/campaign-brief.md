@@ -1,9 +1,9 @@
 ---
-title: Identitas Berdaulat
-linkTitle: Identitas Berdaulat
+title: "Identitas Berdaulat"
+linkTitle: "Identitas Berdaulat"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mengambil langkah lanjutan dalam mendukung prinsip-prinsip identitas berdaulat?
+hide_feedback: true
+description: "Bagaimana kita dapat mengambil langkah lanjutan dalam mendukung prinsip-prinsip identitas berdaulat?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" class="">

@@ -1,9 +1,9 @@
 ---
-title: Orientasi Anggota Baru
-linkTitle: Orientasi Anggota Baru
+title: "Orientasi Anggota Baru"
+linkTitle: "Orientasi Anggota Baru"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat mempercepat dan mempermudah anggota Catalyst baru untuk mengambil peran dan tanggung jawab yang sesuai pada tahun 2022?
+hide_feedback: true
+description: "Bagaimana kita dapat mempercepat dan mempermudah anggota Catalyst baru untuk mengambil peran dan tanggung jawab yang sesuai pada tahun 2022?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" class="">

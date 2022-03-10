@@ -1,9 +1,9 @@
 ---
-title: DApps dan Integrasi
-linkTitle: DApps dan Integrasi
+title: "DApps dan Integrasi"
+linkTitle: "DApps dan Integrasi"
 type: docs
-hide_feedback: 'true'
-description: Aplikasi apa yang akan paling bernilai bagi pengguna pada tahun 2022?
+hide_feedback: true
+description: "Aplikasi apa yang akan paling bernilai bagi pengguna pada tahun 2022?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" class="">
@@ -52,7 +52,7 @@ Membiarkan "keluaran aplikasi" dan "transaksi aplikasi" menjadi keluaran dan tra
 
 Cardano adalah ekosistem yang memiliki ciri khas dengan melalui penelitian yang ketat dan berusaha untuk melakukan sesuatu dengan benar. Kami berharap semua proyek dApp yang mengajukan permohonan pendanaan untuk mencapai tingkat sertifikasi setinggi mungkin. Untuk memahami apa yang dimaksud dalam praktiknya, silakan tonton video Charles Hoskinson tentang topik ini: "Sertifikasi DApp dan Kurasi Komunitas".
 
-{{&lt; youtube Y7zcYSQarI0 &gt;}}
+{{< youtube Y7zcYSQarI0 >}}
 
 Tantangan ini cocok untuk perusahaan teknologi atau blockchain yang tergabung dan proyek lebih besar dengan tim kompeten yang telah menerapkan MVP. Idealnya, ini adalah proyek teruji yang telah memiliki basis pengguna. Proyek yang memenuhi kriteria tersebut dipersilakan untuk mengajukan lebih dari $100.000 jika itu dapat dipertanggungjawabkan dan dianggarkan dengan jelas.
 

@@ -1,9 +1,9 @@
 ---
-title: Ekosistem Pengembangan Open-Source
-linkTitle: Ekosistem Pengembangan Open-Source
+title: "Ekosistem Pengembangan Open-Source"
+linkTitle: "Ekosistem Pengembangan Open-Source"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun di atas kerangka kerja yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?
+hide_feedback: true
+description: "Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun di atas kerangka kerja yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" class="">
@@ -58,9 +58,9 @@ Catalyst ada untuk secara bertahap bekerja menuju tahap akhir dari peta jalan Ca
 
 #### Kemungkinan arah
 
-- Pendidikan untuk pengembangan di ekosistem Cardano &amp; Catalyst
+- Pendidikan untuk pengembangan di ekosistem Cardano  Catalyst
 - Mengembangkan perangkat umum, kerangka kerja, infrastruktur inti, atau bukti konsep
-- Sistem insentif untuk pengembangan &amp; hosting
-- Repositori umum yang diaudit &amp; tinjauan umum dari solusi yang ada
+- Sistem insentif untuk pengembangan  hosting
+- Repositori umum yang diaudit  tinjauan umum dari solusi yang ada
 - Menyelenggarakan acara untuk menyatukan ekosistem pengembang
 - Kolaborasi untuk meningkatkan interoperabilitas dalam ekosistem

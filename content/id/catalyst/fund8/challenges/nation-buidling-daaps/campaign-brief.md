@@ -1,9 +1,9 @@
 ---
-title: Dapps Pembangun Negara
-linkTitle: Dapps Pembangun Negara
+title: "Dapps Pembangun Negara"
+linkTitle: "Dapps Pembangun Negara"
 type: docs
-hide_feedback: 'true'
-description: Solusi inti Dapp Pembangun Negara apa yang dapat disediakan untuk memperoleh banyak pengguna di negara berkembang?
+hide_feedback: true
+description: "Solusi inti Dapp Pembangun Negara apa yang dapat disediakan untuk memperoleh banyak pengguna di negara berkembang?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" class="">
@@ -46,14 +46,14 @@ https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Find
 
 Proposal Dapp harus mencakup solusi Registry dasar, yaitu:
 
-ID Nasional &amp; Catatan Sipil, Pendaftaran Properti, Riwayat Medis &amp; Vaksinasi, Sensus Pendidikan, Layanan Pendapatan, Melayani Bisnis, Pemungutan Suara, Pengawasan Bea Cukai &amp; Perbatasan, Catatan Kriminal, Sensus Ketenagakerjaan, Pendaftaran Kendaraan, Perizinan &amp; Sertifikasi.
+ID Nasional  Catatan Sipil, Pendaftaran Properti, Riwayat Medis  Vaksinasi, Sensus Pendidikan, Layanan Pendapatan, Melayani Bisnis, Pemungutan Suara, Pengawasan Bea Cukai  Perbatasan, Catatan Kriminal, Sensus Ketenagakerjaan, Pendaftaran Kendaraan, Perizinan  Sertifikasi.
 
 Sebelum mengumpulkan, Proposer perlu meninjau solusi Atala Prism IOHK/ EMURGO dengan referensi penggunaan kasus pada aplikasi sistem registri terintegrasi yang saat ini diterapkan di negara-negara kaya.
 
 Selanjutnya proposer disarankan untuk memperoleh basis pengetahuan atas penelitian yang dilakukan dalam tiga dekade terakhir mengungkap penyebab "misterius" dari kemiskinan di negara-negara dunia ketiga oleh ekonom Hernando de Soto. Buku terlampir, "The Mystery of Capital," adalah referensi yang bagus untuk masuk ke konteks bagi siapa saja yang terlibat dalam mengembangkan proposal untuk tantangan ini.
 
-* ***Catatan:*** Anggaplah pemerintah dari rakyat, untuk rakyat dan oleh rakyat.
+***Catatan:*** Anggaplah pemerintah dari rakyat, untuk rakyat dan oleh rakyat.
 
 #### Video Perkenalan
 
-{{&lt; youtube WaDP0n4pV84 &gt;}}
+{{< youtube WaDP0n4pV84 >}}

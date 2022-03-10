@@ -1,9 +1,9 @@
 ---
-title: Menumbuhkan Pusat Kegiatan Komunitas Cardano
-linkTitle: Menumbuhkan Pusat Kegiatan Komunitas Cardano
+title: "Menumbuhkan Pusat Kegiatan Komunitas Cardano"
+linkTitle: "Menumbuhkan Pusat Kegiatan Komunitas Cardano"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi dan kesadaran Cardano pada tahun 2022?
+hide_feedback: true
+description: "Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi dan kesadaran Cardano pada tahun 2022?"
 ---
 
 <img src="https://i.imgur.com/MWddZex.gif" alt="" data-md-type="image" class="">
@@ -56,7 +56,7 @@ Pusat Kegiatan Komunitas Lokal di seluruh dunia di mana rata-rata orang dapat me
 
 Sementara permintaan yang meningkat menunjukkan kepada kita bahwa ada kebutuhan, fokus kita untuk tantangan berikutnya harus berada di sisi lain. **Pasokan modal.**
 
-Sementara fakta telah membuktikan perlunya tantangan Pusat Kegiatan Komunitas, ada banyak tantangan lain yang sama pentingnya yang bersaing untuk mendapatkan posisi di Fund 8, jadi kita harus bertindak sesuai dengan itu. **&nbsp;Kita harus membuat permintaan anggaran yang memungkinkan orang lain juga mengejar tujuan mereka ** di dalam ekosistem, baik makro, untuk Catalyst maupun mikro, dalam Tantangan itu sendiri.
+Sementara fakta telah membuktikan perlunya tantangan Pusat Kegiatan Komunitas, ada banyak tantangan lain yang sama pentingnya yang bersaing untuk mendapatkan posisi di Fund 8, jadi kita harus bertindak sesuai dengan itu. **Kita harus membuat permintaan anggaran yang memungkinkan orang lain juga mengejar tujuan mereka ** di dalam ekosistem, baik makro, untuk Catalyst maupun mikro, dalam Tantangan itu sendiri.
 
 Sementara kita **Menumbuhkan pusat kegiatan komunitas** , kita perlu **Menurunkan pengeluaran modal individu**, untuk memastikan bahwa kami dapat menyebar sejauh mungkin, secepat mungkin, itulah sebabnya kami bekerja dari prinsip pertama.
 

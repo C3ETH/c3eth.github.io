@@ -1,16 +1,16 @@
 ---
-title: Solusi Peningkatan Skala Cardano
-linkTitle: Solusi Peningkatan Skala Cardano
+title: "Solusi Peningkatan Skala Cardano"
+linkTitle: "Solusi Peningkatan Skala Cardano"
 type: docs
-hide_feedback: 'true'
-description: Penelitian dan implementasi penskalaan apa yang dapat diperkenalkan untuk membantu Cardano meningkatkan skalabilitas?
+hide_feedback: true
+description: "Penelitian dan implementasi penskalaan apa yang dapat diperkenalkan untuk membantu Cardano meningkatkan skalabilitas?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" class="">
 
 Alokasi Dana: **400.000 USD dibayarkan dalam bentuk ADA**
 
-[Halaman kampanye](https://cardano.ideascale.com/c/idea/383094) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified) .
+[Halaman kampanye](https://cardano.ideascale.com/c/idea/383094) dan [jelajahi ide](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified)
 
 ## Ringkasan Kampanye
 
@@ -42,7 +42,7 @@ Fase pertama Hydra akan tersedia pada tahun 2022. Namun implementasi awal ini ti
 
 Sebastien dari dcSpark baru-baru ini membahas pentingnya <i>rollup</i> dan solusi alternatif dalam sebuah wawancara -
 
-{{&lt; youtube 4DslvkLop04 &gt;}}
+{{< youtube 4DslvkLop04 >}}
 
 ### Perlu Lebih Banyak Opsi Penskalaan
 

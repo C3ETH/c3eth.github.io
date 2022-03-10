@@ -1,9 +1,9 @@
 ---
-title: Mengembangkan Afrika, Mengembangkan Cardano
-linkTitle: Mengembangkan Afrika, Mengembangkan Cardano
+title: "Mengembangkan Afrika, Mengembangkan Cardano"
+linkTitle: "Mengembangkan Afrika, Mengembangkan Cardano"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita meneruskan dan menumbuhkan Cardano di Afrika pada tahun 2022?
+hide_feedback: true
+description: "Bagaimana kita meneruskan dan menumbuhkan Cardano di Afrika pada tahun 2022?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" class="">

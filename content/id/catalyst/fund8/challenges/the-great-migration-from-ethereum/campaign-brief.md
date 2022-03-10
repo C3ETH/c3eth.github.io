@@ -1,9 +1,9 @@
 ---
-title: Migrasi Besar (dari Ethereum)
-linkTitle: Migrasi Besar (dari Ethereum)
+title: "Migrasi Besar (dari Ethereum)"
+linkTitle: "Migrasi Besar (dari Ethereum)"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kami dapat mempermudah dan mempercepat dApps dan proyek lain untuk berkembang atau sepenuhnya berpindah dari Ethereum ke Cardano?
+hide_feedback: true
+description: "Bagaimana kami dapat mempermudah dan mempercepat dApps dan proyek lain untuk berkembang atau sepenuhnya berpindah dari Ethereum ke Cardano?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/16-The-Great-Migration-from-Ethereum-76ace0.png" class="">
@@ -39,4 +39,4 @@ Untuk mencapai bagian dari peta jalan ini, banyak upaya sedang dilakukan saat in
 
 Anda dapat mendengar Charles berbicara tentang pentingnya hal ini dalam videonya yang berjudul "The Island, The Ocean and the Pond"
 
-{{&lt; youtube k8a6tX53YPs &gt;}}
+{{< youtube k8a6tX53YPs >}}

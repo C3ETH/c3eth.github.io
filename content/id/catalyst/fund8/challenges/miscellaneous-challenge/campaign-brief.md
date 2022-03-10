@@ -1,9 +1,9 @@
 ---
-title: Tantangan Lain-Lain
-linkTitle: Tantangan Lain-Lain
+title: "Tantangan Lain-Lain"
+linkTitle: "Tantangan Lain-Lain"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?
+hide_feedback: true
+description: "Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" class="">

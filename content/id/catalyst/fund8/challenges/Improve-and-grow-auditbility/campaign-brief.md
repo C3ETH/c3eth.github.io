@@ -1,9 +1,9 @@
 ---
-title: Meningkatkan dan Menumbuhkan Kemampuan Audit
-linkTitle: Meningkatkan dan Menumbuhkan Kemampuan Audit
+title: "Meningkatkan dan Menumbuhkan Kemampuan Audit"
+linkTitle: "Meningkatkan dan Menumbuhkan Kemampuan Audit"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana membuat proses audit proposal yang didanai menjadi efisien, terdistribusi dan transparan?
+hide_feedback: true
+description: "Bagaimana membuat proses audit proposal yang didanai menjadi efisien, terdistribusi dan transparan?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" class="">

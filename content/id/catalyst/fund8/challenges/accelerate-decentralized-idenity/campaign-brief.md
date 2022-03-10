@@ -1,9 +1,9 @@
 ---
-title: Mempercepat Identitas Terdesentralisasi
-linkTitle: Mempercepat Identitas Terdesentralisasi
+title: "Mempercepat Identitas Terdesentralisasi"
+linkTitle: "Mempercepat Identitas Terdesentralisasi"
 type: docs
-hide_feedback: 'true'
-description: Solusi apa yang dapat kami kembangkan dan terapkan dengan Atala PRISM untuk memberikan dampak dan peluang paling positif bagi pertumbuhan Cardano yang cepat?
+hide_feedback: true
+description: "Solusi apa yang dapat kami kembangkan dan terapkan dengan Atala PRISM untuk memberikan dampak dan peluang paling positif bagi pertumbuhan Cardano yang cepat?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" class="">

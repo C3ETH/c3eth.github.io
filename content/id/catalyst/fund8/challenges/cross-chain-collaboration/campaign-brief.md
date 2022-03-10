@@ -1,9 +1,9 @@
 ---
-title: Kolaborasi Lintas Rantai
-linkTitle: Kolaborasi Lintas Rantai
+title: "Kolaborasi Lintas Rantai"
+linkTitle: "Kolaborasi Lintas Rantai"
 type: docs
-hide_feedback: 'true'
-description: Bagaimana kita bisa membuat koneksi dan kolaborasi antara Cardano dan blockchain lainnya dalam enam bulan ke depan?
+hide_feedback: true
+description: "Bagaimana kita bisa membuat koneksi dan kolaborasi antara Cardano dan blockchain lainnya dalam enam bulan ke depan?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" class="">
@@ -91,6 +91,6 @@ Oleh karena itu, tantangan ini selaras dengan tujuan strategis Fund8:
 
 - Hal ini membantu mempersiapkan orang dalam memberikan kontribusi pada ekosistem Cardano dan Catalyst.
 - Hal ini membantu mengubah Cardano menjadi proyek sumber terbuka yang diakui juga di luar komunitas kami.
-- Hal ini mempercepat pertumbuhan dan evolusi ekosistem pengembang &amp; aplikasi kami dengan mengundang kontribusi dari ruang blockchain lainnya.
+- Hal ini mempercepat pertumbuhan dan evolusi ekosistem pengembang aplikasi kami dengan mengundang kontribusi dari ruang blockchain lainnya.
 
 Anggaran $400.000 adalah 2,5%, sebuah nilai moderat dari total alokasi perbendaharaan untuk Fund8. Anggaran ini harus cukup untuk memulai interoperabilitas dan inisiatif kolaborasi lintas rantai tetapi mungkin tidak cukup untuk proyek infrastruktur skala besar. Oleh karena itu, **kami mendorong pengajuan proposal "minimal layak" dan "bukti konsep" yang mencakup visi dan peta perjalanan jangka panjang yang cakupan awalnya cukup kecil** .
