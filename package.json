@@ -21,6 +21,6 @@
     "postcss-cli": "^9.1.0"
   },
   "dependencies": {
-    "postcss": "^8.4.7"
+    "postcss": "^8.4.8"
   }
 }

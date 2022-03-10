@@ -8,4 +8,4 @@ icon: fas fa-tools
 description: Catalyst Fund 8 Challenges 
 ---
 
-This is the **Catalyst Challenges for fund 8** section. It will update for each fund.
+Ini adalah bagian **Catalyst Challenges for fund 8**. Ini akan diperbarui untuk setiap dana.
