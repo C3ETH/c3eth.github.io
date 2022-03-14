@@ -9,12 +9,27 @@ menu:
     weight: 20
 ---
 
-{{% pageinfo %}} Ini adalah halaman placeholder yang menunjukkan cara menggunakan situs template ini. {{% /pageinfo %}}
+> **Apa itu Project Catalyst?**
 
-Bagian ini adalah tempat tinggal dokumentasi pengguna untuk proyek Anda - semua informasi yang dibutuhkan pengguna untuk memahami dan berhasil menggunakan proyek Anda.
+Eksperimen sistem pemerintahan on-chain terbesar demi terciptanya DAO (Decentralized Autonomous Organization) yang sesungguhnya, dimana masing - masing pihak yang terlibat di dalamnya dapat saling berkolaborasi, belajar, dan berkontribusi bagi pengembangan ekosistem Cardano di dunia nyata.
 
-Untuk kumpulan dokumentasi besar, kami sarankan untuk menambahkan konten di bawah judul di bagian ini, meskipun jika beberapa atau semuanya tidak berlaku untuk proyek Anda, silakan hapus atau tambahkan milik Anda sendiri. Anda dapat melihat contoh situs dokumentasi Docsy yang lebih kecil di [Panduan Pengguna Docsy](https://docsy.dev/docs/) , yang ada di [repo tema Docsy](https://github.com/google/docsy/tree/master/userguide) jika Anda ingin menyalin bagian dokumennya.
+Pembiayaan eksperimen ini berasal dari Treasury ADA dengan menggabungkan prosedur proposal dan voting. Setiap anggota komunitas dipersilahkan untuk membuat proposal, melakukan penilaian terhadap proposal, dan ikut dalam proses voting. Semuanya memiliki hak yang sama dan didorong untuk saling berkolaborasi dalam membuat proposal yang inovatif dan powerful.
 
-Konten lain seperti materi pemasaran, studi kasus, dan pembaruan komunitas harus ada di halaman [Tentang](/about/) dan [Komunitas](/community/) .
+Dengan kombinasi dari penelitian dalam pembuatan proposal, eksperimen sosial, dan persetujuan dari anggota komunitas, harapannya adalah tercipta iklim yang demokratis dalam komunitas Cardano.
 
-Cari tahu cara menggunakan tema Docsy di [Panduan Pengguna Docsy](https://docsy.dev/docs/) . Anda dapat mempelajari lebih lanjut tentang cara mengatur dokumentasi Anda (dan bagaimana kami mengatur situs ini) di [Mengatur Konten Anda](https://docsy.dev/docs/best-practices/organizing-content/) .
+Website, https://projectcatalyst.org/
+
+> **Sejak kapan Project Catalyst mulai berjalan?**
+
+Project ini berjalan sejak Agustus 2020.
+
+> **Sudah sejauh mana Project Catalyst ini berjalan?**
+
+Project Catalyst berjalan sepanjang tahun, namun dibagi ke dalam fase - fase funding yang berdurasi selama 3 bulan. Project pertama yang berjalan adalah Catalyst Fund 1.
+
+> **Siapa saja yang terlibat di dalam Project Catalyst?**
+
+Secara garis besar, ada 3 pihak utama yang terlibat di dalam Project Catalyst:
+* Proposer (pihak yang mengajukan proposal)
+* Voter (pihak yang melakukan voting terhadap proposal)
+* Community Advisors/CA (pihak yang melakukan penilaian terhadap proposal)
