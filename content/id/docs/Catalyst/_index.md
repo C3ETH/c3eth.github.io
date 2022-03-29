@@ -1,18 +1,41 @@
 ---
-title: "Catalyst Guides"
-linkTitle: "Catalyst Guides"
+title: "Cara Ikut Serta di Project Catalyst"
+linkTitle: "Cara Ikut Serta di Project Catalyst"
 hide_feedback: true
 weight: 4
 description: >
-  What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting? 
+  Bagaimana cara menjadi Proposer, Voter, atau Community Advisor? 
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+> Cara Menjadi Proposer
 
-This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
+* Register di https://cardano.ideascale.com/
+* Isi Profile Details
+* Which of these definitions apply to you?* → Bebas
+* For Community Advisors only: What is your ada payment address? (Must be a Shelley address, starting with “addr”) → Input Address ADA, untuk nanti dikirimkan Reward jika bekerja sebagai CA. 
+Untuk proposer jika berhasil mendapatkan funding, maka akan dikontak oleh pihak IOG-nya lagi terkait pengiriman fund-nya
+* For Community Advisors only: What is your COTI payment address? (Must be an ERC-20 wallet) → Input Address COTI jika punya
+* Klik Tanda ‘+’ di kanan atas untuk Submit New Proposal, ada pilihan untuk ‘Save as Draft’ atau ‘Submit’
 
-This site contains our translations of Project Catalyst documentation, community-sourced guides, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
 
-[Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
+> Care Menjadi Voter
+
+* Jika sudah pernah teregistrasi di Fund sebelumnya, maka sudah pasti valid untuk Fund 8 ini (QR Code & PIN jangan sampai hilang, jika hilang harus registrasi ulang)
+* Bagi yang masih baru, minimum wajib memiliki 500 ADA di address wallet
+* Lakukan proses registrasi (menu Catalyst Voting) di wallet-wallet seperti Yoroi, CCVault, Typhon, Daedalus. Biaya registrasi hanya 0.17 ADA. Selengkapnya dapat lihat link berikut, https://iohk.zendesk.com/hc/en-us/articles/900005679386
+* Download app Catalyst Voting di App Store atau Play Store
+* Input QR Code & PIN yang diperoleh ketika proses registrasi
+* ADA tidak akan hilang / berkurang selama voting (tidak terdilusi), karena hanya menunjukkan voting power kita:
+   * Jika kita setuju dengan proposal itu, maka akan menambah total ADA yg mendukung proposal itu.
+   * Jika kita tidak setuju, maka akan mengurangi total ADA yang mendukung proposal itu.
+
+
+> Cara Menjadi Community Advisor
+
+* Register di https://cardano.ideascale.com/
+* Isi Profile Details
+* Which of these definitions apply to you?* → Bebas
+* For Community Advisors only: What is your ada payment address? (Must be a Shelley address, starting with “addr”) → Input Address ADA, untuk nanti dikirimkan Reward jika bekerja sebagai CA.
+* For Community Advisors only: What is your COTI payment address? (Must be an ERC-20 wallet) → Input Address COTI jika punya
+* Begitu masa assessment akan dimulai, akan muncul pop up di halaman Cardano Ideascale, meminta konfirmasi apakah bersedia menjadi Community Advisor/CA.
+* Seandainya sudah setuju, namun tidak sempat menjalankan CA-nya karena keterbatasan waktu, tidak masalah. Bisa coba lagi di Fund berikutnya, nanti akan muncul pop up lagi setiap masa assessment akan dimulai.

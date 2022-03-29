@@ -1,21 +1,21 @@
 ---
-title: "Sebuah Tantangan dari Project Catalyst dan Panduan untuk Proposal"
-linkTitle: "Sebuah Tantangan dari Project Catalyst dan Panduan untuk Proposal"
+title: "Panduan Membuat Proposal"
+linkTitle: "Panduan Membuat Proposal"
 hide_feedback: true
 weight: 4
 description: >
-  Project Catalyst telah berjalan dan kita melihat partisipasi luar biasa dari seluruh dunia dengan individu-individu yang berbeda-beda. Ini adalah proses kolaborasi untuk menciptakan proyek inovasi yang melibatkan komunitas global.
+  Panduan dalam membuat Proposal bagi para Proposer
 ---
 
 # 
 
-Project Catalyst telah berjalan dan kita melihat partisipasi luar biasa dari seluruh dunia dengan individu-individu yang berbeda-beda. Ini adalah proses kolaborasi untuk menciptakan proyek inovasi yang melibatkan komunitas global. Pernyataan permasalahan, solusi, pengalaman yang relevan serta dana yang diminta akan terlihat di aplikasi voting. Ini akan memperbolehkan siapa saja untuk belajar mengenai proposal tertentu sebelum melakukan pemilihan.
+Project Catalyst telah berjalan dengan partisipasi yang luar biasa dari seluruh dunia. Ini adalah sebuah proses kolaborasi dalam menciptakan proyek yang inovatif dengan keterlibatan berbagai macam individu di belakangnya. Setiap anggota komunitas global ini dapat menyampaikan idenya dalam bentuk proposal yang berisi permasalahan yang ingin dipecahkan, solusi, pengalaman yang relevan, serta jumlah dana yang diperlukan untuk menjalankan ide tersebut. Siapapun berhak belajar menjadi Proposer dan membuat proposal yang betul - betul dapat menunjukkan kontribusi bagi pengembangan Cardano baik di komunitas maupun di seluruh dunia. 
 
-Proposal ini beserta dokumen yang mengikuti dapat dilihat pada platform untuk inovasi yang dibuat oleh Ideascale, dengan tujuan agar dapat memahami detailnya. Ini berarti kita ingin semua merasa percaya diri ketika berkontribusi dalam kaitannya menciptakan sebuah diskusi.
+Detail proposal yang telah dibuat beserta dengan dokumen - dokumen pendukungnya dapat dilihat di platform Ideascale (https://cardano.ideascale.com/). Keberhasilan dari proposal sendiri bergantung pada upaya Proposer dalam menjalin komunikasi serta berinteraksi dengan komunitas agar komunitas dapat menerima sebuah pemikiran yang baru dengan adanya teknologi blockchain Cardano. Selanjutnya, komunitas akan memberikan suaranya terhadap proposal tersebut di dalam aplikasi voting (Catalyst Voting). 
 
-Hasil dari proposal tergantung dari kemampuan komunitas untuk menciptakan dan berinteraksi dengan ide baru. Karena itu kita ingin membagikan panduan cepat dalam menuliskan proposal yang baik.
+Oleh karena itu, berikut adalah panduan ringkas dan padat dalam menyusun sebuah proposal yang baik:
 
-### Megajukan Judul Proposal (batas 35 karakter)
+### Mengajukan Judul Proposal (batas 35 karakter)
 
 Nama proposal sebaiknya memberikan indikasi mengenai inovasi yang anda coba capai sekaligus bisa menggaet perhatian massa. Tapi hindari bahasa marketing. Cukup infokan saja para pembaca tentang apa yang akan dicapai, untuk siapakah proposal ini dengan sejelas mungkin. Just tell your audience what it does and who it is for as clearly as possible. Buatlah simple dan informatif serta pertimbangkan selalu para pembaca.
 
