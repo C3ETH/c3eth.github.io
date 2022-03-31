@@ -3,8 +3,7 @@ title: "Panduan Membuat Proposal"
 linkTitle: "Panduan Membuat Proposal"
 hide_feedback: true
 weight: 4
-description: >
-  Panduan dalam membuat Proposal bagi para Proposer
+description:
 ---
 
 # 
