@@ -6,7 +6,7 @@ weight: 20
 # description:
 ---
 
-#### Sebagai informasi, kegiatan ini khusus di Eastern Townhall (ETH) Indonesia saja dan dimulai sejak tanggal 10 Jan 2022
+#### *Sebagai informasi, kegiatan ini khusus di Eastern Townhall (ETH) Indonesia saja dan dimulai sejak tanggal 10 Jan 2022*
 
 ### **Program Community Engagement Bounty 1.0**
 
