@@ -1,9 +1,9 @@
 ---
-title: "Kriteria Assessment Proposal"
-linkTitle: "Kriteria Assessment Proposal"
+title: "Kriteria Penilaian Proposal"
+linkTitle: "Kriteria Penilaian Proposal"
 hide_feedback: true
 weight: 4
-# description:
+description: Kriteria penilaian proposal bagi para community advisor
 ---
 
 #### Untuk menilai sebuah proposal harus memenuhi 3 aspek, antara lain:
