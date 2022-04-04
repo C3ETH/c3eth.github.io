@@ -3,7 +3,7 @@ title: "Cara Ikut Serta di Project Catalyst"
 linkTitle: "Cara Ikut Serta di Project Catalyst"
 hide_feedback: true
 weight: 4
-description: Bagaimana cara menjadi Proposer, Voter, atau Community Advisor? 
+description: "Bagaimana cara menjadi Proposer, Voter, atau Community Advisor?" 
 ---
 
 ### **Cara Menjadi Proposer**
