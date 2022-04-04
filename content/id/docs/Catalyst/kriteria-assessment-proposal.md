@@ -6,7 +6,7 @@ weight: 4
 description: Kriteria penilaian proposal bagi para community advisor
 ---
 
-#### Untuk menilai sebuah proposal harus memenuhi 3 aspek, antara lain:
+Untuk menilai sebuah proposal harus memenuhi 3 aspek, antara lain:
 
 ### **Impact**
 * Apakah menambah value ke ekosistem Cardano?
