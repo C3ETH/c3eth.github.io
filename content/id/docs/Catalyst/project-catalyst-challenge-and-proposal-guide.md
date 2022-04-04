@@ -3,11 +3,8 @@ title: "Panduan Membuat Proposal"
 linkTitle: "Panduan Membuat Proposal"
 hide_feedback: true
 weight: 4
-description: >
-  Panduan dalam membuat Proposal bagi para Proposer
+description: "Panduan membuat Proposal bagi para proposer"
 ---
-
-# 
 
 Project Catalyst telah berjalan dengan partisipasi yang luar biasa dari seluruh dunia. Ini adalah sebuah proses kolaborasi dalam menciptakan proyek yang inovatif dengan keterlibatan berbagai macam individu di belakangnya. Setiap anggota komunitas global ini dapat menyampaikan idenya dalam bentuk proposal yang berisi permasalahan yang ingin dipecahkan, solusi, pengalaman yang relevan, serta jumlah dana yang diperlukan untuk menjalankan ide tersebut. Siapapun berhak belajar menjadi Proposer dan membuat proposal yang betul - betul dapat menunjukkan kontribusi bagi pengembangan Cardano baik di komunitas maupun di seluruh dunia. 
 
