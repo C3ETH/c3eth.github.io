@@ -1,10 +1,10 @@
 ---
-title: "Catalyst T.V"
+title: "Catalyst T.V 📺"
 linkTitle: "Catalyst TV"
-type: blog
+type: docs
 hide_feedback: true
 ---
 
 {{% pageinfo %}}
-This is a placeholder page for the Eastern Townhall Catalyst T.V
+Welcome to Catalyst T.V stay tuned for updates and future videos!
 {{% /pageinfo %}}

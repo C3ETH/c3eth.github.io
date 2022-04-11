@@ -112,7 +112,7 @@ time_format_blog = "02.01.2006"
 	weight = 25
 	  url = "/catalystTV/"
 	pre = "<i class='fas fa-tv'></i>"
-    post = "<span class='alert'>New!</span>" 
+    # post = "<span class='alert'>New!</span>"  # add 'new!' alert next to nav button
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
