@@ -7,8 +7,6 @@ menu:
     weight: 20
 ---
 
-Untuk ikut berpartisipasi dalam Project Catalyst, teman - teman perlu memahami terlebih dahulu bagaimana cara melakukan registrasi, baik menjadi Proposer, Voter, atau Community Advisor. 
+Melalui halaman dokumentasi ini, Tim Eastern Townhall telah menyediakan beberapa artikel yang berisi petunjuk maupun kegiatan yang ada di Project Catalyst. Selain itu, artikel informasi seputar cryptocurrencies, wallet, trading, dan khususnya Cardano juga dapat teman - teman baca disini. Semuanya ditulis dan disadur dengan bahasa yang mudah dimengerti. 
 
-Selain itu, tim juga menyediakan petunjuk lengkap tentang prosedur dan cara kerja masing - masing pihak tersebut.
-
-Harapannya, teman - teman dapat berkontribusi sebesar - besarnya dalam komunitas global ini, khususnya bagi pengembangan ekosistem Cardano secara masif dan berkelanjutan. 
+Untuk berdiskusi lebih lanjut tentang topik - topik di atas dengan anggota komunitas lainnya, silahkan teman - teman bergabung ke berbagai channel media sosial yang sudah disiapkan oleh Komunitas Cardano Indonesia di link berikut ini, [Cardano Indonesia Linktree](https://linktr.ee/CardanoIndonesia). 
