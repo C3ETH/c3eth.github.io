@@ -10,32 +10,32 @@ description: "Our mission is to bring the most comprehensive knowledge about Car
 
 ## Catalyst TV - Cardano Annual Market Report
 
-Shout out to one of the well-prepared proposals in Fund8 of Mr. Tung Tran planning to build a creditable database report
+Make a market report with professional methodology, implement results in multi-channel communication, especially publish in local mediums.
 
-Challenge: F8: Film + Media (FAM) creatives unite!
-Proposal: Cardano Annual Market Report
-https://cardano.ideascale.com/c/idea/...
-Requested Fund: $10,000
+*Shout out to one of the well-prepared proposals in Fund8 of Mr. Tung Tran planning to build a creditable database report*
+
+- **Challenge:** F8: Film + Media (FAM) creatives unite!
+- **Proposal:** [Cardano Annual Market Report](https://cardano.ideascale.com/c/idea/397417)  
+- **Requested Fund:** 10000
+
+### Meet the Team:
+
+Tran Thanh Tung  
+[**LinkedIn**](https://www.linkedin.com/in/tranthanhtung37/)
 
 
-### Proposers' background:
-
-**The lead of the Project:** *Tran Thanh Tung*
-
-**Experience:**
+#### Experience
 - MBA degree
 - 06 years experience in Marketing
 - 04 years experience in Digital Marketing (Strongest in WordPress, SEO, Social & Community Marketing)
 - 03 years experience in Blockchain Industry)
 - Founder www.vneconomics.com (objective is to increase cognition of Vietnamese about Blockchain Technology)
-- Linked In: https://www.linkedin.com/in/tranthanh...
 
+Ha Minh Trang  
+[**Facebook**](https://www.facebook.com/minhtrang.ha.3)
 
-**The lead of Content & Communication**: *Ha Minh Trang*
-
-**Experience**
+#### Experience
 - MBA degree
 - 08 years experience in Marketing
 - 06 years experience in the Education field
-- Published Article: http://jabes.ueh.edu.vn/Home/SearchAr... article_id=8c4aeb8e-f1d4-47aa-9dbd-c8206e11eb7d
-- Facebook: https://www.facebook.com/minhtrang.ha.3
+- [Published Article](http://jabes.ueh.edu.vn/Home/SearchArticle?article_id=8c4aeb8e-f1d4-47aa-9dbd-c8206e11eb7d)

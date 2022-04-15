@@ -10,55 +10,51 @@ description: "Need to diversify learning methods and exchange knowledge with exp
 
 ## Catalyst TV - Cardano Coffee lounge in Vietnam
 
-Please stop by to give a comment, like and a vote for this proposal in from the Vietnamese community.
+Host weekly coffee meetings to exchange information about Catalyst, Programming on Cardano in a close and friendly environment.
 
-F8: Scale-UP Cardano's Community Hubs
-Cardano Coffee lounge in Vietnam
-https://cardano.ideascale.com/c/idea/...
+*Please stop by to give a comment, like and a vote for this proposal in from the Vietnamese community.*
 
-### Proposers' background
+- **Challenge:** F8: Scale-UP Cardano's Community Hubs
+- **Proposal:** [Cardano Coffee lounge in Vietnam](https://cardano.ideascale.com/c/idea/398359)  
+- **Requested Fund:** $24800
 
-**Tien Nguyen Anh**:
+### Meet the Team:
 
-- Founder of the VILAI stake pool, computer science experts, working in the Cardano/Crypto space since 2018.
+##### **Tien Nguyen Anh**  
+[Email](tienna@gmail.com)  
+[Telegram](t.me/tiennguyenanh)
+[LinkedIN](https://www.linkedin.com/in/tienna/)  
+[Facebook](https://www.facebook.com/tiennguyena)  
+[Twitter](https://twitter.com/tiennganh)
+
+
+##### Experience
+- Eastern Townhall co-host
 - Deploying many payment systems for major banks, financial institutions, and telecommunications in Vietnam
-- Eastern Townhall co-host
-- LinkedIn: https://www.linkedin.com/in/tienna/
-- Twitter: https://twitter.com/tiennganh
-- Email: tienna@gmail.com
-- Telegram: t.me/tiennguyenanh
-- Facebook: https://www.facebook.com/tiennguyena
+- Founder of the VILAI stake pool, computer science experts, working in the Cardano/Crypto space since 2018.
 
+##### **Hieu Nguyen Van**
+[Email](nvhieu1978@gmail.com)  
+[Telegram](t.me/nvhieu1978)  
+[LinkedIn](https://www.linkedin.com/in/nguyen-van-hieu-b4410121b/)  
+[Facebook](https://www.facebook.com/hieu.nguyenvan.794628)  
+<!-- [Twitter](<Link>) -->
 
-**Hieu Nguyen Van**
-
+##### Experience
 - Founder of HADA stake pool, member of Plutus Pioneer Program, Lead Technical Support at many successful startups.
-- Email: nvhieu1978@gmail.com
-- Telegram: t.me/nvhieu1978
-- Linkedin: https://www.linkedin.com/in/nguyen-va...
-- Facebook: https://www.facebook.com/hieu.nguyenv...
 
-**Quoc Nguyen**
+##### **Mie Tran**
+[LinkedIn](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGlTVEJzUnJWNHlSSDZGTk1NZHZTUjRtWGN0UXxBQ3Jtc0tsY3huSmJlMEN4WkYxOE0yalJSMUN2RXNKX0xrLXRiaWViOE5mbmpHblJxNktYQ05zeTdJX0ZyRWxrYTNnRGZtVjlxR2tZMWJlR3NwQlRySFdnUlZmekdzRmhKXzlRUXIxZFA1WGhBWFFtc25TbVVPRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fngocmytranle0407%2F)  
 
-- Over 10 years of experience in finance and fintech. 
-- Member of the Association of Chartered Certified Accountants (ACCA) - England 
-- Co-founder of Trensform Joint Stock Company, a venture capital/ venture builder focused on tech start-ups. Trensform's first project: rootopia.vn - A p2p lending platform focused on Education.
-- Ambassador of Genius Yield - A Decentralized Exchange and Yield Optimizer on Cardano.
-- Cardano Stake Pool Operator (ADAUP).
-- Cardano Community Advisor
-- Telegram: https://t.me/Britnguyen87
-- Linked-in: https://www.linkedin.com/in/quoc-nguy...
-
-**Mie Tran:**
-
+##### Experience
 - Eastern Townhall co-host
-- Viet Nam Eastern Townhall moderator & Interpreter
-- Cardano Viet Nam Catalyst project Telegram co-host
+- Vietnam Eastern Townhall moderator & Interpreter
+- Cardano Vietnam Catalyst project Telegram co-host
 - Eastern Townhall meeting attended as moderator and translator.
-- Linked: https://www.linkedin.com/in/ngocmytra...
 
-**Quang Pham**
+##### **Quang Pham**
+[Telegram](t.me/quangar)
+[LinkedIn](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVl6N2RiVXlSdV9nRXJOQW04NWZ6ZC1wTW1NQXxBQ3Jtc0trd1RLbDhwMDhJVUU2YnQ1RnN3REk2WlJhaXRHT0hIVEF4RlhGM1BNWS1QZFpLa1ZYd29xY0dtUGZZTEpXaEZYV2c1MXRFUDNMSFFIS1ZjOTdXWnQ4MUhJQVdOajhqN254YW1OR3QxaThiRlFPejRRZw&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fquang-pham289%2F)
 
+##### Experience
 - Majored in Architectural Design, with working experience in the field of architectural and graphic design. Is the coreteam member participating in the evaluation of projects on the Cardano platform.
-- Linked: https://www.linkedin.com/in/quang-pha...
-- Telegram: @Quangar
