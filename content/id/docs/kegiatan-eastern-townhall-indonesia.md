@@ -2,7 +2,7 @@
 title: "Kegiatan Eastern Townhall Indonesia"
 linkTitle: "Kegiatan Eastern Townhall Indonesia"
 hide_feedback: true
-weight: 20
+weight: 4
 # description:
 ---
 > *Sebagai informasi, kegiatan ini khusus di Eastern Townhall (ETH) Indonesia saja dan dimulai sejak tanggal 10 Jan 2022*
