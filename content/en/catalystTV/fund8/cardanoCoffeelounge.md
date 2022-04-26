@@ -21,36 +21,32 @@ Host weekly coffee meetings to exchange information about Catalyst, Programming 
 ### Meet the Team:
 
 ##### **Tien Nguyen Anh**  
+- Eastern Townhall co-host
+- Deploying many payment systems for major banks, financial institutions, and telecommunications in Vietnam
+- Founder of the VILAI stake pool, computer science experts, working in the Cardano/Crypto space since 2018.
+
 [Email](tienna@gmail.com)  
 [Telegram](t.me/tiennguyenanh)
 [LinkedIN](https://www.linkedin.com/in/tienna/)  
 [Facebook](https://www.facebook.com/tiennguyena)  
 [Twitter](https://twitter.com/tiennganh)
 
-
-##### Experience
-- Eastern Townhall co-host
-- Deploying many payment systems for major banks, financial institutions, and telecommunications in Vietnam
-- Founder of the VILAI stake pool, computer science experts, working in the Cardano/Crypto space since 2018.
-
 ##### **Hieu Nguyen Van**
+- Founder of HADA stake pool, member of Plutus Pioneer Program, Lead Technical Support at many successful startups.
+
 [Email](nvhieu1978@gmail.com)  
 [Telegram](t.me/nvhieu1978)  
 [LinkedIn](https://www.linkedin.com/in/nguyen-van-hieu-b4410121b/)  
-[Facebook](https://www.facebook.com/hieu.nguyenvan.794628)  
-<!-- [Twitter](<Link>) -->
-
-##### Experience
-- Founder of HADA stake pool, member of Plutus Pioneer Program, Lead Technical Support at many successful startups.
+[Facebook](https://www.facebook.com/hieu.nguyenvan.794628)
 
 ##### **Mie Tran**
-[LinkedIn](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGlTVEJzUnJWNHlSSDZGTk1NZHZTUjRtWGN0UXxBQ3Jtc0tsY3huSmJlMEN4WkYxOE0yalJSMUN2RXNKX0xrLXRiaWViOE5mbmpHblJxNktYQ05zeTdJX0ZyRWxrYTNnRGZtVjlxR2tZMWJlR3NwQlRySFdnUlZmekdzRmhKXzlRUXIxZFA1WGhBWFFtc25TbVVPRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fngocmytranle0407%2F)  
-
-##### Experience
 - Eastern Townhall co-host
 - Vietnam Eastern Townhall moderator & Interpreter
 - Cardano Vietnam Catalyst project Telegram co-host
 - Eastern Townhall meeting attended as moderator and translator.
+   
+[LinkedIn](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGlTVEJzUnJWNHlSSDZGTk1NZHZTUjRtWGN0UXxBQ3Jtc0tsY3huSmJlMEN4WkYxOE0yalJSMUN2RXNKX0xrLXRiaWViOE5mbmpHblJxNktYQ05zeTdJX0ZyRWxrYTNnRGZtVjlxR2tZMWJlR3NwQlRySFdnUlZmekdzRmhKXzlRUXIxZFA1WGhBWFFtc25TbVVPRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fngocmytranle0407%2F)  
+
 
 ##### **Quang Pham**
 [Telegram](t.me/quangar)

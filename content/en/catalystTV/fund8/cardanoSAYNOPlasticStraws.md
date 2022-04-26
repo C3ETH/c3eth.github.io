@@ -23,21 +23,25 @@ We have members who have set up start-ups and are experts in IT and eco-friendly
 
 ##### **Trong**
 Project Founder with 15+ years of experience in information technology and start-ups, e-commerce, mobile content digital, a game studio, and environmentally friendly products. He will be in charge of materials, products and production processes, product packaging, and quality control.  
+
 [**Linkdin**](https://www.linkedin.com/in/trong-nguyen-4092b568/)
 
 ##### **Khanh**  
  Over 15 years working in the Japanese market, in charge of import and export and product communication, He is a person who is especially interested in natural products introduced into daily life. In addition, he is an expert in the security of information technology systems at Fortinet.  
+
 [**Linkdin**](https://www.linkedin.com/in/khanh-pham-ngoc-79541371/)
 
 ##### **Tuan**
  In charge of e-commerce and community operations, He has been working for over 15 years in the software development industry and is the main engineer running the following ADA stake pool operator of Technotes Asia Pool.
+
 [**Github**](https://github.com/CWThun)
 
 ##### **Khoa**
 is an automation engineer, an activist for the marine environment in Asia. Since 2019, he has volunteered to conserve Sea Turtles in Hon Cau Island, Binh Thuan Vietnam, organized by IUCN and US FWS. With a mission to develop communities that protect marine species from human impact from plastic waste, he has the experience necessary for a successful project for the Cardano community.
+
 [**IUCN**](https://www.iucn.org/asia/countries/viet-nam/marine-turtle-conservation)
 
-##### **HoangDang**
+##### **Hoang Dang**
 has many years of experience in international trade and the export of goods.
 Participating in the project with the role of developing brands and products for the global market.
 He is active in the field of education and human resource development projects. He is also a lover of new technology and eco-friendly products made from nature.

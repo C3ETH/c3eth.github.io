@@ -9,41 +9,30 @@ description: "Cardano's Smart Contract is built on Haskell. But there is no book
 {{<  youtube bDACvliqIPU >}}
 
 ## Catalyst TV - Haskell Book Vietnamese/Japanese Translation
-*Japanese/ Vietnamese Subtitle supported*
+*Japanese/ Vietnamese Subtitle supported, Please stop by to give a comment, like and a vote for this proposal in from the Vietnamese community.*
 
-5-minute meeting with Quang Daniel with his fascinating proposal for Fund8 
+Cardano's Smart Contract is built on Haskell. But there is no book or document about Haskell for developers in Japan\
 
-### Challenge: F8: Developer Ecosystem
+- **Challenge:** Developer Ecosystem
+- **Proposal:** [Haskell Book Japanese Translation](https://cardano.ideascale.com/c/idea/404202)  
+- **Requested Fund:** 9,250
 
-Proposal: Haskell Book Japanese Translation  
-https://cardano.ideascale.com/c/idea/...  
-Proposal: Haskell Book Vietnamese Translation  
-https://cardano.ideascale.com/c/idea/...  
+Cardano's Smart Contract is built on Haskell. But there is no book or document about Haskell for developers in Vietnam
 
-### Proposer’s background:  
-**Mr. Curtis D'Alves:** 
-- 5 years of Haskell programming experience
-- Haskell Programming Tutorial Youtube Channel:
+- **Challenge:** Developer Ecosystem
+- **Proposal:** [Haskell Book Vietnamese Translation](https://cardano.ideascale.com/c/idea/403891)  
+- **Requested Fund:** 6500
 
-**Ms.Ha:** 
-- Japanese interpreter translator 
-- blockchain project reviewer.
- 
-**Mr. Quang Daniel:**  
-- 7 years experience as an English teacher and translator  
-- Telegram: https://t.me/quangdaniel  
+### Meet the Team:
 
-**Ms. Hannah – Community Admin**  
-- Founder of Vietnamese Cardano Community (helping 40k followers)  
-- One year experience in operating a stake pool (SPO)  
-- Experience in blockchain financial research and investment since 2017  
-- Blockchain product and market research specialist  
+#### **Mr. Quang Daniel:**
+- 7 years of experience as an English teacher and translator
 
-- Telegram: https://t.me/hannahgates
+[**Telegram**](https://t.me/quangdaniel)
 
- 
+#### **Hannah Gates**
+- Founder of Vietnamese Cardano Community (helping 40k followers)
+- One year of experience in operating a stake pool (SPO)
+- Experience in blockchain financial research and investment since 2017 Blockchain product and market research specialist
 
-### Track the team activities: 
-https://www.youtube.com/watch?v=et1We...
-
-Leave a comment on what do you think of this proposal and give the team your vote!!!!
+[**Telegram**](https://t.me/hannahgates)

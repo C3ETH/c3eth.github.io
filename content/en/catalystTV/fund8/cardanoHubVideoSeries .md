@@ -18,24 +18,25 @@ Provide 6 high quality educational videos and post in Cardano Indonesia's Offici
 
 ### Meet the Team:
 
-##### **Dion Setyotomo**  
-[**LinkedIn**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xNVlJVTjBDQWgxenhvcHhRQU1tdUxJZGpsZ3xBQ3Jtc0tudVBqaV82aHotRFM1T0lBT09lVV9NS2pGUFlTMWJ4VXJCX0VJX0ttTjZIV2luZXNQcG1kaXg4Z2tRbXN6dnQxMEI5Q3FYM2FZNjdFaDh1VHpZOC13OVgtQ0pWWk5fX3FuN01JMmVLNnFhZHBvbmdDWQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdion-p-setyotomo-4ab6508)
+##### **Dion Setyotomo**
 
-##### Experience
 - Project Manager
 - Business Development Cardano Indonesia Community Manager
 - Eastern Hemisphere Town Hall member
 - Discord admin for Cardano Indonesia Community
 
-##### **Andreas Sosilo**  
-[**LinkedIn**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ZHc2Q0YVZhZERKTVBqTjAtVEMwTm5zWlp3Z3xBQ3Jtc0ttSWhOeU1lR0FBYlFGRGFxQXRTajRLMktfSkZ0QTY2MjZWZldzRmZBbEZwMDBsZ1VmRkNJdGRHdGxpSUdlMFBuNmp1WnU4NmJQSG0xV3FuUU43YVl4eV95LVd2RThEMG5iY2VGb0ZUdkJySlR0X2ZMQQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandreassosilo%2F)  
-[**Instagram**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01NSmdwZFFTekZGbjZsSWluWV9oR25JWVlsUXxBQ3Jtc0ttdDhCX29MYjk5RkRmOU5ZUWgxWnMxb1NCX1R1cHRkLUpDQ2hwLWxfbTJsUG9Icjg0WUYyV1ZreWF4ekdGcXVvQ1E4ck5wWC1TNDhJVmpHZW8taG5FTjdHU0FUU2IwN2hIeHNsajNRb0RVZ3BCSVdmRQ&q=https%3A%2F%2Fwww.instagram.com%2Fcardanoindonesia)
+[**LinkedIn**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xNVlJVTjBDQWgxenhvcHhRQU1tdUxJZGpsZ3xBQ3Jtc0tudVBqaV82aHotRFM1T0lBT09lVV9NS2pGUFlTMWJ4VXJCX0VJX0ttTjZIV2luZXNQcG1kaXg4Z2tRbXN6dnQxMEI5Q3FYM2FZNjdFaDh1VHpZOC13OVgtQ0pWWk5fX3FuN01JMmVLNnFhZHBvbmdDWQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdion-p-setyotomo-4ab6508)
 
-##### Experience
+
+##### **Andreas Sosilo**  
 - Software Developer
 - Cardano Foundation Ambassador for Indonesia
 - Cardano Indonesia Community Manager
 - Eastern Hemisphere Town Hall Team
+
+[**LinkedIn**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ZHc2Q0YVZhZERKTVBqTjAtVEMwTm5zWlp3Z3xBQ3Jtc0ttSWhOeU1lR0FBYlFGRGFxQXRTajRLMktfSkZ0QTY2MjZWZldzRmZBbEZwMDBsZ1VmRkNJdGRHdGxpSUdlMFBuNmp1WnU4NmJQSG0xV3FuUU43YVl4eV95LVd2RThEMG5iY2VGb0ZUdkJySlR0X2ZMQQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandreassosilo%2F)  
+[**Instagram**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01NSmdwZFFTekZGbjZsSWluWV9oR25JWVlsUXxBQ3Jtc0ttdDhCX29MYjk5RkRmOU5ZUWgxWnMxb1NCX1R1cHRkLUpDQ2hwLWxfbTJsUG9Icjg0WUYyV1ZreWF4ekdGcXVvQ1E4ck5wWC1TNDhJVmpHZW8taG5FTjdHU0FUU2IwN2hIeHNsajNRb0RVZ3BCSVdmRQ&q=https%3A%2F%2Fwww.instagram.com%2Fcardanoindonesia)
+
 
 ### More Information
 
