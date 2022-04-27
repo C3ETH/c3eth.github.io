@@ -1,6 +1,6 @@
 ---
-title: "Parameter - Parameter Cardano"
-linkTitle: "Parameter - Parameter Cardano"
+title: "Parameter Jaringan Cardano"
+linkTitle: "Parameter Jaringan Cardano"
 hide_feedback: true
 weight: 4
 # description: ""
