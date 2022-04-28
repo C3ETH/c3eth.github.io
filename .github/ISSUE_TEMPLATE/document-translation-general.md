@@ -17,6 +17,7 @@ The page [DOCUMENT TITLE](<c3eth website link>) is up and needs to be translated
 - [ ] [Japanese](<Gitlocalize link to document>)
 - [ ] [Korean](<Gitlocalize link to document>)
 - [ ] [Vietnamese](<Gitlocalize link to document>)
+- [ ] [Filipino](<Gitlocalize link to document>)
 
 Translations can be done by anyone in the community; Language moderators need to approve the changes and submit the pull requests.
 
