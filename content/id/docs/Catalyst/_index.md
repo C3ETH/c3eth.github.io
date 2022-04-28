@@ -6,6 +6,10 @@ weight: 4
 description: "Bagaimana cara menjadi Proposer, Voter, atau Community Advisor?" 
 ---
 
+Untuk ikut berpartisipasi dalam Project Catalyst, teman - teman perlu memahami terlebih dahulu bagaimana cara melakukan registrasi, baik menjadi Proposer, Voter, atau Community Advisor. 
+
+Harapannya, teman - teman dapat berkontribusi sebesar - besarnya dalam komunitas global ini, khususnya bagi pengembangan ekosistem Cardano secara masif dan berkelanjutan.
+
 ### **Cara Menjadi Proposer**
 * Register di https://cardano.ideascale.com/
 * Isi Profile Details

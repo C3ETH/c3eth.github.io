@@ -1,0 +1,70 @@
+name: Site Smoke Run
+
+on: 
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test_run:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 1         # Fetch all history for .GitInfo and .Lastmod
+          lfs: true              # Pull image files from LFS during checkout.
+
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        id: dependencies
+        run: npm install
+      
+      - name: Build Hugo 
+        id: build
+        run: |
+          Hbuild=$(hugo --minify)
+          Hbuild="${Hbuild//'%'/'%25'}"
+          Hbuild="${Hbuild//$'\n'/'%0A'}"
+          Hbuild="${Hbuild//$'\r'/'%0D'}"
+          echo "::set-output name=hugoBuild::$Hbuild"
+
+            
+      - uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          recreate: true
+          message: |
+            ## 👋 ${{ github.actor }}
+            
+            Thank you for raising your pull request.
+            Here are the results:
+            
+            **Hugo Build:** `${{steps.build.outcome}}`
+            **Hugo dependencies:** `${{steps.dependencies.outcome}}`
+            
+            #### Logs
+            ```
+            
+            ${{steps.build.outputs.hugoBuild}}
+            
+            ```
