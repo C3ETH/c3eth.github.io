@@ -13,7 +13,7 @@ weight: 4
 **Positif:** semakin tinggi nilai k, sistem semakin terdesentralisasi
 
 **Negatif:** semakin tinggi nilai k,
-* Mengurangi efisiensi karena biaya and energi yang dibutuhkan semakin besar (karena SPO yang bermunculan akan jadi banyak sekali)
+* Mengurangi efisiensi karena biaya dan energi yang dibutuhkan semakin besar (karena SPO yang bermunculan akan jadi banyak sekali)
 * Rewards yang menjadi lebih kecil bagi para SPO dan delegator
 
 **Implementasi:**
