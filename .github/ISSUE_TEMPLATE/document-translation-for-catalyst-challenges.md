@@ -28,6 +28,7 @@ The **<Challenge name>** needs to go up and be translated. Can you please transl
 - [ ] Korean
 - [ ] Vietnamese
 - [ ] Swahili
+- [ ] Filipino
 
 
 Translations can be done by anyone in the community; Language moderators need to approve the changes and submit the pull requests.
