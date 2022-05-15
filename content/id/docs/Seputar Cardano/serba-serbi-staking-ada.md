@@ -3,7 +3,7 @@ title: "Serba Serbi Staking ADA"
 linkTitle: "Serba Serbi Staking ADA"
 hide_feedback: true
 weight: 4
-description: "Semua yang perlu diketahui tentang staking ADA"
+# description: ""
 ---
 
 ### **1. Pengantar**
