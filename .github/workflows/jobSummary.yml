@@ -15,7 +15,11 @@ jobs:
           submodules: recursive  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 1         # Fetch all history for .GitInfo and .Lastmod
           lfs: true              # Pull image files from LFS during checkout.
-
+    
+      - id: time
+        run: |
+          ctime=$(date)
+          echo "::set-output name=timechk::$ctime"
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -54,13 +58,16 @@ jobs:
         with:
           recreate: true
           message: |
-            ## 👋 ${{ github.actor }}
+            # :rocket: **${{ github.actor }}** Pull request Succesfully Deployed! :rocket:
             
             Thank you for raising your pull request.
-            Here are the results:
             
-            **Hugo Build:** `${{steps.build.outcome}}`
-            **Hugo dependencies:** `${{steps.dependencies.outcome}}`
+            | Step ID :clipboard: | Result :microscope: |   attempts :computer: |
+            |---|---|---|
+            |  **Hugo Build**  | `${{steps.build.outcome}}` | ${{ github.run_attempt }} | 
+            |  **Hugo dependencies**  | `${{steps.dependencies.outcome}}` | ${{ github.run_attempt }} | 
+            
+            ---
             
             #### Logs
             ```
@@ -68,3 +75,4 @@ jobs:
             ${{steps.build.outputs.hugoBuild}}
             
             ```
+            *This Action was created by @PardusEidolon* on **${{steps.time.outputs.timechk}}** 
