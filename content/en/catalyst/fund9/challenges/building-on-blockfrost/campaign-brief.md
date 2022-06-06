@@ -5,10 +5,11 @@ type: docs
 hide_feedback: true
 description: "How can we expand the Blockfrost ecosystem to drive the developer adoption on Cardano?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Building-on-Blockfrost-fdb9c3.png" style="width:500px;height500px">
 
 Fund Size: **50,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/400929) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26603/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26603/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 Blockfrost is an instant, public and freely accessible API that removes infrastructure obstacles for developers so that everyone can start building (d)apps on Cardano. With Blockfrost, developers can start doing what they love ❤️, without the need for running and maintaining additional infrastructure and tooling themselves. At the moment, we have more than 10,000 developers already onboarded in our Blockfrost.io hosted platform.
@@ -26,18 +27,18 @@ This challenge is set to create a thriving developer ecosystem around Blockfrost
 - How can we make Blockfrost more decentralized and robust?
 - Can we provide guidance to existing developers on how to build more secure applications on Cardano?
 
-### Potential Directions
+### Possible Directions
 
 - Development of new frameworks 
 - Research of new concepts
 - Educational material
-- Contributing to blockfrost.dev documentation portal
-- Blog posts, articles and tutorials
-- SDKs for NFT minting and NFT management
-- Dashboard and UI alternatives
-- Auditing of existing code base
-- Incentive schemes for developers and providers
-- Collaboration to improve interoperability within existing tools in the ecosystem
+  - Contributing to blockfrost.dev documentation portal
+  - Blog posts, articles and tutorials
+  - SDKs for NFT minting and NFT management
+  - Dashboard and UI alternatives
+  - Auditing of existing code base
+  - Incentive schemes for developers and providers
+  - Collaboration to improve interoperability within existing tools in the ecosystem
 Hackathons
 
 Open-source solutions are strongly preferred.

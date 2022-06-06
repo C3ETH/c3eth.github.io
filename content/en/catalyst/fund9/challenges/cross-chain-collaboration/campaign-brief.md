@@ -5,11 +5,11 @@ type: docs
 hide_feedback: true
 description: "In the next 6-12 months, how might we create new connections between blockchain communities and how do we enhance existing collaboration?"
 ---
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Cross-Chain-Collaboration-fc4ff5.png" style="width:500px;height500px">
 
 Fund Size: **900,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/396785) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26598/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26598/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 Why is this Challenge needed?

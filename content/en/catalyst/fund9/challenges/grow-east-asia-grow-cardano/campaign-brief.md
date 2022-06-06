@@ -5,11 +5,11 @@ type: docs
 hide_feedback: true
 description: "How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!"
 ---
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Grow-East-Asia-Grow-Cardano-ab0989.png" style="width:500px;height500px">
 
 Fund Size: **250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/399482) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26602/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26602/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
@@ -47,7 +47,7 @@ At the end of this challenge, we will be asking ourselves some questions about t
 We will also be asking some specific questions about the quality of the proposals :
 
 - Is there good feedback on funded project progress, failure or success that help us understand the nuances of deploying Cardano solutions across East Asia?
-What is the novelty and appropriateness of solutions?
+- What is the novelty and appropriateness of solutions?
 - Are we on track to improve the lives of people using Cardano in East Asia?
 - Was social and environmental impact evaluation used to measure proposal performance?
 - What is the sustainability of proposals beyond the scope of Catalyst?

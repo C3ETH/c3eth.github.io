@@ -1,14 +1,15 @@
 ---
-title: "Challenge & Scouted for Students🎓"
-linkTitle: "Challenge & Scouted for Students🎓"
+title: "dRep improvement and onboarding"
+linkTitle: "dRep improvement and onboarding"
 type: docs
 hide_feedback: true
 description: "How do you achieve a diverse and many dRep participation and easy and proper voter delegation?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-dRep-improvement-and-onboarding-150000-cce6a6.png" style="width:500px;height500px">
 
 Fund Size: **150,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/400779) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26601/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26601/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 

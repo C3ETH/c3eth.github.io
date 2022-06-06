@@ -1,14 +1,13 @@
 ---
-title: "Challenge & Scouted for Students🎓"
-linkTitle: "Challenge & Scouted for Students🎓"
+title: "Challenge & Scouted for Students 🎓"
+linkTitle: "Challenge & Scouted for Students 🎓"
 type: docs
 hide_feedback: true
 description: "How can we provide Student Entrepreneurs with a place to appeal their ideas to the world and an opportunity to connect with Engineers?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Challenge-_-Scouted-for-Students-fe0972.png" style="width:500px;height500px">
 
-Fund Size: **100,000 USD paid in Ada**
-
-[Campaign page](https://cardano.ideascale.com/c/idea/399737) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26599/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26599/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 
@@ -18,26 +17,6 @@ Therefore, to make it easier for the community to recognize new ideas from stude
 
 The Category Goal is to encourage engineers to scout students who are evaluated by the community and create a new team to join the next Fund with a clear Roadmap. This is a benefit for both students and engineers to raise a large salary for engineers through Catalyst rather than from VCs or Banks.
 
-### Guiding Questions
-
-- What are the the tools that we need to prioritize first
-- How do we attract developers from outside of our current community to participate in Catalyst?
-- What do developers want, and how do they get it from the Cardano dev ecosystem?
-- What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?
-- What are enterprise dev managers looking for in order to be able to build out enterprise projects - either internal or commercial?
-
-### Potential Directions
-
-- Developer productivity: IDE's, scripts to automate stuff
-- Knowledge base & Documentation
-- Deployment, testing, and monitoring frameworks
-- Samples, recipes and templates
-- Hackathons
-- DEFI and tokenization
-- Dashboards
-- API's, and oracles.
-- Support structures
-- Incentivization structures
 
 ### Why is it important?
 Most student entrepreneurs are suffering from resource shortages, especially in funding and engineer recruitment.

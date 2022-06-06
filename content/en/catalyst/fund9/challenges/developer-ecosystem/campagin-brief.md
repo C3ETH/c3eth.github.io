@@ -9,7 +9,7 @@ description: "How can we create a positive developer experience that helps the d
 
 Fund Size: **1,000,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/398985) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26597/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26597/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 Without the supportive environment for developers, new innovations would be stalled. By supporting this challenge settings, more developers would be drawn into Cardano. There would be a bigger talent pool of developers that Catalyst projects can collaborate with and turn project concepts/Proof of concept into successful protocols which would enhance the growth of Cardano.
@@ -34,6 +34,10 @@ Without the supportive environment for developers, new innovations would be stal
 - API's, and oracles.
 - Support structures
 - Incentivization structures
+
+### Notes 
+- This challenge is a continuation of F8: Developer Ecosystem ($1,000,000)
+- This challenge is a separate challenge from Open Source Developer Ecosystem. While we are advocates of open source, we recognize that not all teams are at the point where they feel comfortable or capable of open sourcing their solutions. Some APIs may be closed source forever, but still provide an overall net positive for the Cardano ecosystem. If you are all-in on open source from day one, definitely go with the Open Source Development Ecosystem challenge (if that's an option). We are rooting for you. We believe, however, there's room for both at this point.
 
 ### Why is it important?
 Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.

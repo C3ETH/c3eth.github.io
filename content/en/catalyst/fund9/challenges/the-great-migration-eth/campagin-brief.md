@@ -5,11 +5,11 @@ type: docs
 hide_feedback: true
 description: "How might we make it easy and fast for dApps and other projects to expand or completely move from Ethereum to Cardano?"
 ---
-<!-- <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/21-Community-Advisor-Improvements-dbdbe2.png" style="width:500px;height500px"> -->
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-The-Great-Migration-from-Ethereum-d703ec.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/405419) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26593/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26593/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 The Cardano ecosystem, despite being written in Haskell, has always had plans to provide a path for projects that either deployed on an EVM-based blockchain (like Ethereum) to migrate to the Cardano ecosystem. Additionally, projects that are better suited for the account-style method (instead of UTXO) also exist, and we want these projects to be usable from the Cardano ecosystem as well.

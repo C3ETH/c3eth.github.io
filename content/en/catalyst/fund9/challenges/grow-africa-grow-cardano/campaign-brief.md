@@ -3,13 +3,13 @@ title: "Grow Africa, Grow Cardano"
 linkTitle: "Grow Africa, Grow Cardano"
 type: docs
 hide_feedback: true
-description: "How do we continue to seed and grow Cardano in Africa in 2022?"
+description: "The description should be written, 'How do we prepare Africa for a future of wide-scale Cardano adoption? How do we continue to seed and grow adoption in 2022 and beyond?'"
 ---
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" style="width:500px;height500px">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Grow-Africa-Grow-Cardano-933cde.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/396613) and [browse ideas]().
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26600/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26600/stage/stage-insightsharinge008b0/ideas/unspecified).
 
 ## Challenge Brief
 It's no secret that Cardano is recognized as a blockchain with a strong focus on Africa, and formally stated as such in Cardano's strategic goals. However, as other blockchain protocols recognize the potential of crypto in Africa, without concrete sustained action, Cardano risks losing a potential $1 trillion in market share of the African market to other blockchains within the next 3 years.
@@ -23,13 +23,8 @@ This needs to be reversed through intentional action. Otherwise smaller and smal
 
 "Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere. Focusing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson. The ROI is likely to be high because community sponsored projects are better run in young and developing economies." Greg Bell; (originator of the Grow Cardano series)
 
-### Rationale for budget
-
-Let's be frank here. We need much more than 250k to continue seeding Cardano in Africa. We are asking for this amount because of Catalyst voting patterns; in that $250k is better than $0 and Wada and Partners can still take advantage of other challenge categories to help expand Cardano in Africa.
-
 ### Why is it important?
-The 'Grow Africa' challenge is central to a key initiative of Cardano's, expanding into Africa. Allow Catalyst to also support this drive.
-
+We need to look at the fundamentals that are preventing Africa from being a Cardano adoption leader, rather than a perpetual follower.
 ### What does success look like?
 Practical innovations offered on tackling the unique challenges faced by the continent. A clear roadmap that points to increased adoption.
 
