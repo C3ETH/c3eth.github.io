@@ -27,5 +27,4 @@ Projects who were either planning to or did launch on an EVM-based blockchain de
 ### Key Metrics to measure
 - Number of projects that migrate
 - Number of users of these smart contracts once migrated to the Cardano ecosystem
-- Number of maintenance proposals and groups created
-- Number of out of the box ideas
+(Metrics can either be improved by funding projects that directly deploy something, or projects that help build tooling to make it easier to deploy)
