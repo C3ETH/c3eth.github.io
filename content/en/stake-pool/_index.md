@@ -20,10 +20,13 @@ Please support us as we keep continuing to expand our reach to friends and peopl
 #### **Stake Pool Information**
 
 * Pool Ticker: **C3ETH**
+
 * Pool ID: 
 > f0a112d12e435e9659f80a41236daf525e08189702a25a7d0876f962
+
 * Pool View: 
 > pool17zs395fwgd0fvk0cpfqjxmd02f0qsxyhq2395lggwmukycj5rqm
+
 * Margin Cost: **4%**
 * Fixed Cost: **340 ADA**
 * Pledge: **2,500 ADA**
