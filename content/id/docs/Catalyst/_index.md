@@ -3,10 +3,10 @@ title: "Cara Ikut Serta di Project Catalyst"
 linkTitle: "Cara Ikut Serta di Project Catalyst"
 hide_feedback: true
 weight: 4
-description: "Bagaimana cara menjadi Proposer, Voter, atau Community Advisor?" 
+description: "Bagaimana cara menjadi Proposer, Voter, atau Proposal Assessor?" 
 ---
 
-Untuk ikut berpartisipasi dalam Project Catalyst, teman - teman perlu memahami terlebih dahulu bagaimana cara melakukan registrasi, baik menjadi Proposer, Voter, atau Community Advisor. 
+Untuk ikut berpartisipasi dalam Project Catalyst, teman - teman perlu memahami terlebih dahulu bagaimana cara melakukan registrasi, baik menjadi Proposer, Voter, atau Proposal Assessor. 
 
 Harapannya, teman - teman dapat berkontribusi sebesar - besarnya dalam komunitas global ini, khususnya bagi pengembangan ekosistem Cardano secara masif dan berkelanjutan.
 
@@ -14,8 +14,8 @@ Harapannya, teman - teman dapat berkontribusi sebesar - besarnya dalam komunitas
 * Register di https://cardano.ideascale.com/
 * Isi Profile Details
 * Which of these definitions apply to you? → Bebas
-* For Community Advisors only: What is your ada payment address? (Must be a Shelley address, starting with “addr”) → Masukkan alamat wallet ADA. Jika berhasil mendapatkan funding, maka akan dikontak oleh pihak IOG terkait pengiriman dananya. Apabila suatu saat Proposer ingin menjadi Community Advisor, maka alamat wallet ini digunakan untuk menerima reward-nya.
-* For Community Advisors only: What is your COTI payment address? (Must be an ERC-20 wallet) → Masukkan alamat wallet COTI jika ada
+* For Proposal Assessors only: What is your ada payment address? (Must be a Shelley address, starting with “addr”) → Masukkan alamat wallet ADA. Jika berhasil mendapatkan funding, maka akan dikontak oleh pihak IOG terkait pengiriman dananya. Apabila suatu saat Proposer ingin menjadi Proposal Assessor, maka alamat wallet ini digunakan untuk menerima reward-nya.
+* For Proposal Assessors only: What is your COTI payment address? (Must be an ERC-20 wallet) → Masukkan alamat wallet COTI jika ada
 * Klik Tanda ‘+’ di kanan atas untuk Submit New Proposal, ada pilihan ‘Save as Draft’ atau ‘Submit’
 <br></br>
 
@@ -30,11 +30,11 @@ Harapannya, teman - teman dapat berkontribusi sebesar - besarnya dalam komunitas
    * Jika kita tidak setuju, maka akan mengurangi total ADA yang mendukung proposal itu.
 <br></br>
 
-### **Cara Menjadi Community Advisor**
+### **Cara Menjadi Proposal Assessor**
 * Register di https://cardano.ideascale.com/
 * Isi Profile Details
 * Which of these definitions apply to you? → Bebas
-* For Community Advisors only: What is your ada payment address? (Must be a Shelley address, starting with “addr”) → Masukkan alamat wallet ADA untuk menerima reward hasil assessment
-* For Community Advisors only: What is your COTI payment address? (Must be an ERC-20 wallet) → Masukkan alamat wallet COTI jika ada
-* Begitu masa assessment akan dimulai, akan muncul pop up di halaman Cardano Ideascale, meminta konfirmasi apakah bersedia menjadi Community Advisor/CA.
+* For Proposal Assessors only: What is your ada payment address? (Must be a Shelley address, starting with “addr”) → Masukkan alamat wallet ADA untuk menerima reward hasil assessment
+* For Proposal Assessors only: What is your COTI payment address? (Must be an ERC-20 wallet) → Masukkan alamat wallet COTI jika ada
+* Begitu masa assessment akan dimulai, akan muncul pop up di halaman Cardano Ideascale, meminta konfirmasi apakah bersedia menjadi Proposal Assessor/PA.
 * Seandainya sudah setuju, namun tidak sempat menjalankan assessment karena keterbatasan waktu, tidak masalah, karena pop up konfirmasi tersebut akan muncul lagi di Fund berikutnya.
