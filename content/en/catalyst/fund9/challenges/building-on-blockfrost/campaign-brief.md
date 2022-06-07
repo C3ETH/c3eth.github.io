@@ -34,11 +34,11 @@ This challenge is set to create a thriving developer ecosystem around Blockfrost
 - Educational material
   - Contributing to blockfrost.dev documentation portal
   - Blog posts, articles and tutorials
-  - SDKs for NFT minting and NFT management
-  - Dashboard and UI alternatives
-  - Auditing of existing code base
-  - Incentive schemes for developers and providers
-  - Collaboration to improve interoperability within existing tools in the ecosystem
+- SDKs for NFT minting and NFT management
+- Dashboard and UI alternatives
+- Auditing of existing code base
+- Incentive schemes for developers and providers
+- Collaboration to improve interoperability within existing tools in the ecosystem
 Hackathons
 
 Open-source solutions are strongly preferred.

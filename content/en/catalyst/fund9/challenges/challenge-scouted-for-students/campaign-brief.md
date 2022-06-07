@@ -7,7 +7,9 @@ description: "How can we provide Student Entrepreneurs with a place to appeal th
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Challenge-_-Scouted-for-Students-fe0972.png" style="width:500px;height500px">
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26599/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26599/stage/stage-insightsharinge008b0/ideas/unspecified).
+Fund Size: **100,000 USD paid in Ada**
+
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26599/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26599/stage/stage-insightsharinge008b0/ideas/unspecified) a [Japanese Version](https://docs.google.com/document/d/1lJaIeAe9qPoKw8JTn7m2uhJXjyFUBAUZwf3Z8R3X2_g/edit?usp=sharing)
 
 ## Challenge Brief
 

@@ -5,7 +5,7 @@ type: docs
 hide_feedback: true
 description: "What dapps, products and integrations can be implemented to bring impactful use cases to Cardano ecosystem that help drive more adoption?"
 ---
-<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps-products-_-integrations-45d612.png" style="width:500px;height500px
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps-products-_-integrations-45d612.png" style="width:500px;height500px" >
 
 Fund Size: **7,850,000  USD paid in Ada**
 
