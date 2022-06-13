@@ -9,7 +9,7 @@ description: "How might we make it easy and fast for dApps and other projects to
 
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26593/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26593/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26593/about)
 
 ## Challenge Brief
 The Cardano ecosystem, despite being written in Haskell, has always had plans to provide a path for projects that either deployed on an EVM-based blockchain (like Ethereum) to migrate to the Cardano ecosystem. Additionally, projects that are better suited for the account-style method (instead of UTXO) also exist, and we want these projects to be usable from the Cardano ecosystem as well.

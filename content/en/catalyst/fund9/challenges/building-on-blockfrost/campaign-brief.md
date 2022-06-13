@@ -9,7 +9,7 @@ description: "How can we expand the Blockfrost ecosystem to drive the developer 
 
 Fund Size: **50,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26603/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26603/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26603/about)
 
 ## Challenge Brief
 Blockfrost is an instant, public and freely accessible API that removes infrastructure obstacles for developers so that everyone can start building (d)apps on Cardano. With Blockfrost, developers can start doing what they love ❤️, without the need for running and maintaining additional infrastructure and tooling themselves. At the moment, we have more than 10,000 developers already onboarded in our Blockfrost.io hosted platform.
@@ -41,7 +41,7 @@ This challenge is set to create a thriving developer ecosystem around Blockfrost
 - Collaboration to improve interoperability within existing tools in the ecosystem
 Hackathons
 
-Open-source solutions are strongly preferred.
+**Open-source solutions are strongly preferred.**
 
 The Blockfrost team will provide technical support and guidance as well as free developer subscriptions to all winners of this challenge.
 

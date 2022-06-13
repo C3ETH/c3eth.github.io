@@ -1,6 +1,6 @@
 ---
-title: "Dapps,Products and Integrations "
-linkTitle: "Dapps,Products and Integrations "
+title: "Dapps,Products & Integrations "
+linkTitle: "Dapps,Products & Integrations "
 type: docs
 hide_feedback: true
 description: "What dapps, products and integrations can be implemented to bring impactful use cases to Cardano ecosystem that help drive more adoption?"
@@ -9,9 +9,10 @@ description: "What dapps, products and integrations can be implemented to bring 
 
 Fund Size: **7,850,000  USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26595/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26595/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26595/about)
 
 ## Challenge Brief
+
 Dapps, Products & Integrations is focused on the following areas:
    - Creation or improvement of different Dapps, products, and integrations that provide value to the Cardano community and wider ecosystem.
    - Integrations with other existing services, products, and protocols that improve the end-user experience whether that's giving the user more options or making something easier to use that benefits the wider ecosystem.
@@ -28,7 +29,7 @@ The more interesting and useful the products and integrations are that can be bu
 - **Transport & logistics**
 - **Hardware** - Hardware wallets, Local ATMs for interacting with the blockchain, etc.
 - **Physical products** - Tokenised housing as a Cardano native asset, International crypto headquarters and liason office on every continent, etc.
-Social media
+- **Social media**
 - **Nation governance systems** - New governance systems for nation-states
 - **Environment** - Solutions that help to solve environmental issues
 - **Many others** - Any other idea, product or integration that someone thinks should be built in the Cardano ecosystem!
@@ -93,4 +94,4 @@ Tracking success for this category will mean:
 - Increase the number of integrations that bring existing solutions together for a more seamless and connected experience between different products.
 - Increased quality of existing products & integrations through suggested improvements that is supported by customer feedback or increased usage by the community.
 
-For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas (see more below).
+For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas (see more above).

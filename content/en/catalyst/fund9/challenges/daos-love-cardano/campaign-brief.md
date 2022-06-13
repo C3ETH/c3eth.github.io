@@ -5,9 +5,11 @@ type: docs
 hide_feedback: true
 description: "How can we make Cardano the go-to choice for building DAOs?  What tools can we provide to enable effective DAO's Creation & Operation?"
 ---
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/07-DAOs-_3-Cardano-1000000-1ddda3.png" style="width:500px;height500px">
+
 Fund Size: **$1,000,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/idea/399693) and [browse ideas]()
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26594/about)
 
 ## Challenge Brief
 Currently if a DAO (even one that is aimed to build products and services around Cardano) wants to setup their DAO infrastructure, the current options are all based on, mostly, the Ethereum blockchain.

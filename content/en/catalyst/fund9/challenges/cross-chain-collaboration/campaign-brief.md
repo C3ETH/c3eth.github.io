@@ -1,6 +1,6 @@
 ---
-title: "Cross Chain-Collaboration"
-linkTitle: "Cross Chain-Collaboration"
+title: "Cross-Chain Collaboration"
+linkTitle: "Cross-Chain Collaboration"
 type: docs
 hide_feedback: true
 description: "In the next 6-12 months, how might we create new connections between blockchain communities and how do we enhance existing collaboration?"
@@ -9,9 +9,10 @@ description: "In the next 6-12 months, how might we create new connections betwe
 
 Fund Size: **900,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26598/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26598/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26598/about)
 
 ## Challenge Brief
+#### Background
 Why is this Challenge needed?
 
 - Tribalism & maximalism are harmful.

@@ -9,7 +9,7 @@ description: "How do we grow the Cardano ecosystem in East Asia in an inclusive 
 
 Fund Size: **250,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26602/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26602/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26602/about)
 
 ## Challenge Brief
 As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
@@ -22,7 +22,7 @@ Cardano started life in East Asia (Japan and Hong Kong), and Emurgo focuses on E
 
 #### What this is:
 
-A call to action; Activate the Cardano community's ability to recognise, reward the opportunity to make the world a better place. East Asia is fertile ground for the adoption of Cardano. The return on intention (ROI) is likely to be high because projects in young and developing economies face less economic inertia.
+**A call to action;** Activate the Cardano community's ability to recognise, reward the opportunity to make the world a better place. East Asia is fertile ground for the adoption of Cardano. The return on intention (ROI) is likely to be high because projects in young and developing economies face less economic inertia.
 
 Addressing different parts of the world directly and intentionally through funding challenges makes our community more accessible. It makes us more resilient. It helps us learn and understand the needs of communities that make up our ecosystem.
 

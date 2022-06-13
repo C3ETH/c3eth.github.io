@@ -3,19 +3,19 @@ title: "Grow Africa, Grow Cardano"
 linkTitle: "Grow Africa, Grow Cardano"
 type: docs
 hide_feedback: true
-description: "The description should be written, 'How do we prepare Africa for a future of wide-scale Cardano adoption? How do we continue to seed and grow adoption in 2022 and beyond?'"
+description: "How do we prepare Africa for a future of wide-scale Cardano adoption? How do we continue to seed and grow adoption in 2022 and beyond?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Grow-Africa-Grow-Cardano-933cde.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26600/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26600/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26600/about)
 
 ## Challenge Brief
 It's no secret that Cardano is recognized as a blockchain with a strong focus on Africa, and formally stated as such in Cardano's strategic goals. However, as other blockchain protocols recognize the potential of crypto in Africa, without concrete sustained action, Cardano risks losing a potential $1 trillion in market share of the African market to other blockchains within the next 3 years.
 
-- Africa's crypto market has grown by $105 billion in the last year (2020-2021). Africa is the next crypto frontier- World Economic Forum
-- Alameda Research, Coinbase Ventures, Cadenza, CMT Digital, Distributed Global, GSR, Third Prime and Avon Ventures: [African Crypto Exchange VALR Raises $50M in Series B Led by Pantera Capital](https://www.coindesk.com/business/2022/03/01/african-crypto-exchange-valr-raises-50m-in-series-b-led-by-pantera-capital/)
+- **Africa's crypto market has grown by $105 billion in the last year (2020-2021)**. Africa is the next crypto frontier- World Economic Forum
+- **Alameda Research, Coinbase Ventures, Cadenza, CMT Digital, Distributed Global, GSR, Third Prime and Avon Ventures**: [African Crypto Exchange VALR Raises $50M in Series B Led by Pantera Capital](https://www.coindesk.com/business/2022/03/01/african-crypto-exchange-valr-raises-50m-in-series-b-led-by-pantera-capital/)
 
 In Catalyst Fund7 the combined Africa funded projects amount was almost negligible compared to those from [western and developed economies](https://twitter.com/danny_cryptofay/status/1496078645319933954?s=20&t=Ohr06EIZW05vz_B4Fjk_JA)
 

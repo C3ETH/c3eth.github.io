@@ -9,7 +9,7 @@ description: "How do you achieve a diverse and many dRep participation and easy 
 
 Fund Size: **150,000 USD paid in Ada**
 
-[Campaign page](https://cardano.ideascale.com/c/campaigns/26601/about) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26601/stage/stage-insightsharinge008b0/ideas/unspecified).
+[Campaign page](https://cardano.ideascale.com/c/campaigns/26601/about)
 
 ## Challenge Brief
 
@@ -29,7 +29,9 @@ For the dRep to function better, the following four elements are necessary
 
 Failure to achieve (1) and (2) is centralization, and failure to achieve (3) and (4) is Catalyst dysfunction.
 
-Therefore, after one year, "(1) More than 200 dReps from more than 100 countries have participated. (2) Voters are voting with more than 50% and with careful consideration of their mandate." This proposal was created to create a situation where What tools, events, support, and content would fully achieve the KPIs? Let's think about it!
+Therefore, after one year, "(1) More than 200 dReps from more than 100 countries have participated. (2) Voters are voting with more than 50% and with careful consideration of their mandate." 
+
+This proposal was created to create a situation where What tools, events, support, and content would fully achieve the KPIs? Let's think about it!
 
 ### Why is it important?
 Without a diverse and many dRep participation will make us centralized.
@@ -38,11 +40,12 @@ and without an easy and proper voter delegation would make us dysfunctional.
 ### What does success look like?
 After one year;
 
-- 200+ deReps from 100+ countries have participated.
+- 200+ dReps from 100+ countries have participated.
 - 50%+ of the voters are voting “carefully”
 
 ### Key Metrics to measure
-- **Diversity of dReps** Did it lead to the onboarding of diverse dReps with different languages, national origins, occupations, genders, ages, religions, etc.?
-- **Number of dReps** How many dReps were onboarded?
-- **Number of delegates** How much did it contribute to increasing the number of delegates to dReps?
-- **Accuracy of delegate decisions** How well did we create content and tools to make it easier to consider dReps?
+
+- **Diversity of dReps:** Did it lead to the onboarding of diverse dReps with different languages, national origins, occupations, genders, ages, religions, etc.?
+- **Number of dReps:** How many dReps were onboarded?
+- **Number of delegates:** How much did it contribute to increasing the number of delegates to dReps?
+- **Accuracy of delegate decisions:** How well did we create content and tools to make it easier to consider dReps?
