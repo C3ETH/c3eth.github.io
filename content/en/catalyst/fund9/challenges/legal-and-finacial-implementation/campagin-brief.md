@@ -1,6 +1,6 @@
 ---
-title: "legal & finacial implementation"
-linkTitle: "legal & finacial implementation"
+title: "legal & financial implementation"
+linkTitle: "legal & financial implementation"
 type: docs
 hide_feedback: true
 description: "How can we build effective solutions to explore and provide legal & financial services and support to funded Proposers."
