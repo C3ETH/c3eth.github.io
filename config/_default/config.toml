@@ -240,3 +240,6 @@ enable = false
 	url = "https://cardano.stackexchange.com/"
 	icon = "fab fa-stack-overflow"
   desc = "Practical questions and curated answers"
+
+[params.mermaid]
+enable = true
