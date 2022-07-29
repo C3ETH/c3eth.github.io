@@ -27,14 +27,14 @@ Tăng cường sự chấp nhận và tham gia cộng đồng của những ngư
 
 Tăng số lượng tài nguyên bằng nhiều ngôn ngữ.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for non-English speakers to build and grow the Cardano community in their local areas?
+Khi kết thúc thử thách này, chúng ta sẽ tự hỏi: Liệu chúng tôi có quản lý để giúp những người không nói tiếng Anh dễ dàng hơn trong việc xây dựng và phát triển cộng đồng Cardano tại các khu vực địa phương của họ không?
 
 - Số lượng người không nói tiếng Anh tham gia cộng đồng Cardano
 - Số lượng các khóa học được dịch sang các ngôn ngữ khác nhau, từ lập trình đến hoạt động của nhóm cổ phần, v.v.
 - Ý thức cộng đồng và các cuộc trò chuyện. Có những người xung quanh để nói chuyện cùng.
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088)
