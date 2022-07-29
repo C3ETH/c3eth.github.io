@@ -13,37 +13,37 @@ Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-Quality Dapps and integrations will increase utility &amp; adoption of Cardano.
+Các Dapp và tích hợp chất lượng sẽ làm tăng sự tiện ích và việc áp dụng Cardano.
 
 ## Thành công trông như thế nào
 
-Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
+Các ứng dụng mới lạ và khả thi được xây dựng trên Cardano thu hút được người dùng. Tích hợp quản lý để thu hút nhiều người áp dụng hơn.
 
-## Key metric to measure
+## Chỉ số chính để đánh giá
 
 Để đánh giá thách thức, chúng tôi sẽ tự hỏi: Những nỗ lực của chúng tôi có quản lý để thu hút người dùng đến với nền tảng không? Những nỗ lực của chúng tôi có dẫn đến các ứng dụng mới, khả thi được xây dựng trên Cardano không?
 
-Let an "application output" and an "application transaction" be an outputs and transactions that use the applications' script addresses; and an "application token" be a token that's issued by the application.
+Hãy để "đầu ra ứng dụng" và "giao dịch ứng dụng" là mục tiêu và những giao dịch sử dụng địa chỉ tập lệnh của ứng dụng; và "mã ứng dụng" là mã thông báo do ứng dụng phát hành.
 
-## Usage of applications developed during the challenge
+## Sử dụng của các ứng dụng được phát triển trong thử thách
 
 - Số lượng / mức tăng trưởng của đầu ra ứng dụng
 - Số lượng / sự tăng trưởng của các giao dịch ứng dụng
-- Total volume of Ada involved in application transactions
+- Tổng lượng Ada tham gia vào các giao dịch ứng dụng
 - Tổng / tăng trưởng sử dụng tài nguyên của các ứng dụng
 - Số lượng / sự phát triển của các địa chỉ riêng biệt được đề cập trong các giao dịch ứng dụng
 - Nếu ứng dụng sử dụng mã thông báo:
 - Số lượng / sự phát triển của mã thông báo ứng dụng
-- Number/growth of distinct addresses holding application tokens
+- Số lượng / sự phát triển của các địa chỉ riêng biệt nắm giữ chữ ký số của ứng dụng
 
 ## Khả năng tồn tại của các ứng dụng được phát triển trong quá trình thử thách
 
 - Có bao nhiêu ứng dụng vẫn đang được phát triển vào cuối năm 2021?
-- How many of the applications made a profit for their creators?
+- Có bao nhiêu ứng dụng đã tạo ra lợi nhuận cho người phát triển?
 - Có bao nhiêu trong số các nhóm xây dựng các ứng dụng đã phát triển trong năm 2021?
-- How many of the teams which built the applications built (or plan to build) another application?
+- Có bao nhiêu nhóm phát triển ứng dụng (hoặc dự định phát triển) một ứng dụng khác?
 
-## Guiding questions
+## Hướng dẫn đặt câu hỏi
 
 Các ứng dụng chính làm nền tảng cho hệ sinh thái ứng dụng trên các nền tảng khác là gì?
 
@@ -53,7 +53,7 @@ Những nhu cầu nào mà người dùng Cardano có thể được giải quy�
 
 Những ứng dụng nào mang lại lượng giá trị cao nhất với ít độ phức tạp về mặt kỹ thuật nhất?
 
-## Potential directions
+## Các định hướng tiềm năng
 
 - Hoán đổi, cả biến thể đơn giản và ưa thích (nhiều bên, v.v.)
 - Ký quỹ, cả hai biến thể đơn giản và lạ mắt
