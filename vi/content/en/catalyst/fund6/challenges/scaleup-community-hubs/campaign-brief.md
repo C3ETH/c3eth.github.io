@@ -23,24 +23,24 @@ Khi bạn thúc đẩy việc áp dụng ở cấp độ cơ bản, bạn đang 
 
 ## Tại sao nó lại quan trọng?
 
-Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
+Không có người dùng ở cấp độ cơ bản, chúng ta đang xây dựng các sản phẩm thích hợp phục vụ chủ yếu là những người kỹ thuật có chuyên môn về blockchain.
 
 ## Thành công trông như thế nào?
 
 Các trung tâm cộng đồng địa phương trên khắp thế giới, nơi một người bình thường có thể tham gia bằng ngôn ngữ của họ và với sự hiểu biết văn hóa của riêng họ
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-- How many new Hubs were launched in the next 6 months?
+- Có bao nhiêu trung tâm mới được ra mắt trong 6 tháng tới?
 - Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu nhà phát triển vào hệ sinh thái Cardano?
 - Có bao nhiêu người dùng mới của Cardano đã được giới thiệu?
-- What was the total reach of the Hub's initial marketing launch?
+- Tổng phạm vi tiếp cận của lần ra mắt tiếp thị ban đầu của trung tâm là bao nhiêu?
 - Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu tổ chức bên ngoài vào hệ sinh thái Cardano?
 
 ## Những thách thức trước
 
 1. [Fund4: Trung tâm cộng đồng địa phương](https://cardano.ideascale.com/a/campaign-home/25873)
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
