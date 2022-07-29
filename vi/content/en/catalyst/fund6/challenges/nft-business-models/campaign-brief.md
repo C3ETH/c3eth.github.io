@@ -19,7 +19,7 @@ Thử thách này là về việc xây dựng các doanh nghiệp định kỳ k
 
 ## Những gì nên được đề xuất?
 
-Proposals should be framed towards specific use-cases, and the community will know of specific cases where NFTs can be used to solve various problems. Focusing on NFTs in general may be most productive, with a strong focus on business models that rely on NFTs as a core component of most transactions.
+Các đề xuất nên dựa theo các trường hợp sử dụng cụ thể và cộng đồng sẽ biết các trường hợp cụ thể mà NFT có thể được sử dụng để giải quyết các vấn đề khác nhau. Nói chung, tập trung vào NFT có thể mang lại hiệu quả cao nhất, tập trung nhiều vào các mô hình kinh doanh dựa vào NFT như một thành phần cốt lõi của hầu hết các giao dịch.
 
 ## Tại sao nó lại quan trọng?
 
@@ -29,13 +29,13 @@ NFT có tiềm năng tạo ra các doanh nghiệp với các yêu cầu sử d�
 
 Nhiều ý tưởng chất lượng cao sẽ được đề xuất có thể phát triển đáng kể cơ sở người dùng, tiện ích mạng, giá trị mạng và lưu thông ADA của Cardano.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số lượng đề xuất giải quyết trực tiếp các trường hợp sử dụng NFT theo cách có thể định lượng được.
 - Chất lượng của các đề xuất được đo lường bằng sự quan tâm và tham gia của cộng đồng.
-- Results of any Fund7 funded projects significantly impacting NFT utility on the Cardano blockchain.
+- Kết quả của bất kỳ dự án được Quỹ 7 tài trợ nào ảnh hưởng đáng kể đến tiện ích NFT trên chuỗi khối Cardano.
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/NFT-Business-models/352815-48088)
 2. [Đề xuất thiết lập Thử thách Fund4](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/334524-48088)
