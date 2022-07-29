@@ -1,43 +1,44 @@
 ---
-title: "ỨNG DỤNG QUY MÔ LỚN CỦA Atala PRISM DID"
-linkTitle: "ỨNG DỤNG QUY MÔ LỚN CỦA Atala PRISM DID"
+title: Áp dụng quy mô lớn của Atala PRISM DID
+linkTitle: Áp dụng quy mô lớn của Atala PRISM DID
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
+
 Điều gì sẽ thúc đẩy việc áp dụng quy mô lớn các ID phi tập trung trên Cardano?
 
-Giá trị quỹ:**$250,000 USD paid in Ada**
+Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**
 
-[Trang dự án](https://cardano.ideascale.com/a/campaign-home/26116) và [duyệt các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26116) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified) .
 
-## Tóm tắt dự án
+## Tóm tắt Chiến dịch
 
-Đề xuất một phương tiện hoặc cách thức để thúc đẩy việc sử dụng DID trên quy mô lớn như một phương tiện hỗ trợ dễ sử dụng cho hệ sinh thái Cardano (Atala PRISM là phù hợp nhất khi phát hành). Điều này bao gồm nhiều phương pháp hỗ trợ người dùng hoặc công ty với ID phi tập trung để xác định được sự tự chủ về kỹ thuật số của họ. Hãy nghĩ về cách điều này được triển khai trên quy mô lớn thu hút hàng triệu người dùng, những người khi đã tham gia, có thể trở thành khách hàng của dApp, công cụ, DeFi và các dịch vụ khác.
+Đề xuất một phương tiện hoặc cách thức để thúc đẩy việc sử dụng DID trên quy mô lớn như một phương tiện hỗ trợ dễ sử dụng cho hệ sinh thái Cardano (tốt nhất là Atala PRISM khi được phát hành). Điều này có thể bao gồm bất kỳ phương pháp nào sẽ cung cấp cho người dùng hoặc thực thể một ID phi tập trung để bắt đầu xác định chủ quyền kỹ thuật số của họ. Hãy nghĩ về cách điều này được triển khai trên quy mô lớn thu hút hàng triệu người dùng, những người khi đã tham gia, có thể trở thành khách hàng của dApp, công cụ, DeFi và các dịch vụ khác.
 
-Chúng ta là cộng đồng về các nhà lãnh đạo tư tưởng và đã đến lúc thể hiện những ý tưởng của chúng ta bằng hành động. Sử dụng công nghệ Nhận dạng Phân quyền (DID) để thiết lập sự hiện diện và quyền sở hữu của thông tin Nhận dạng Cá nhân (PII) thúc đẩy sự phân cấp của các tổ chức; mang lợi ích cho các cá nhân và các tổ chức.
+Chúng tôi là một cộng đồng của những nhà lãnh đạo tư tưởng và đã đến lúc thể hiện suy nghĩ của mình bằng hành động. Sử dụng công nghệ Nhận dạng phi tập trung (DID) để thiết lập sự hiện diện và quyền sở hữu tự chủ của Thông tin nhận dạng cá nhân (PII) thúc đẩy sự phân cấp của các tổ chức; các cá nhân và tổ chức mang lại lợi ích.
 
-This Challenge is about small ways we can incorporate DIDs into the Cardano ecosystem to start the ground swell at the grassroots that demands PII be secured and controlled with DID technologies and standards.
+Thách thức này là về những cách nhỏ mà chúng ta có thể kết hợp DID vào hệ sinh thái Cardano để bắt đầu phát triển ở cơ sở đòi hỏi PII phải được bảo mật và kiểm soát bằng các công nghệ và tiêu chuẩn DID.
 
-It is about **signaling to the world** that the Cardano community plans mass-adoption of DID that is interchangeable, interoperable (by WW DID standards) and **we care deeply that the origin of our personal DID is tied to our home blockchain—Cardano.**
+Đó là  việc **báo hiệu với thế giới** rằng cộng đồng Cardano có kế hoạch áp dụng hàng loạt DID có thể thay thế, tương tác được (theo tiêu chuẩn WW DID) và **chúng tôi ý thức sâu sắc rằng nguồn gốc của DID cá nhân của chúng tôi gắn liền với blockchain gia đình của chúng tôi — Cardano.**
 
-While we prefer to support Atala PRISM's instantiation of DID, this is more about building ideas and concepts that require DID to draw users to the Cardano platform. And since PRISM is building to the open standards, those are available for anyone to imagine possibilities and offer proposals.
+Mặc dù chúng tôi muốn hỗ trợ việc khởi tạo DID của Atala PRISM, nhưng điều này thiên về việc xây dựng các ý tưởng và khái niệm yêu cầu DID thu hút người dùng đến với nền tảng Cardano. Và vì PRISM đang được xây dựng theo các tiêu chuẩn mở, những tiêu chuẩn đó luôn sẵn sàng để bất kỳ ai cũng có thể hình dung ra các khả năng và đưa ra các đề xuất.
 
-It won't be lost on IOHK how the community responses to this Challenge. Should IOHK see a ground swell of great ideas and proposals, that could help them justify expediting timelines for their planned open sourcing of PRISM components.
+IOHK sẽ không bị mất cách cộng đồng phản ứng với Thử thách này. Nếu IOHK nhìn thấy một loạt các ý tưởng và đề xuất tuyệt vời, điều đó có thể giúp họ biện minh cho các mốc thời gian xúc tiến cho việc tìm nguồn cung ứng mở theo kế hoạch của các thành phần PRISM.
 
-## Why is it important?
+## Tại sao nó lại quan trọng?
 
-Atala PRISM DID is a gateway to the Cardano blockchain and ecosystem. Building technology and marketecture that on-boards users is crucial.
+Atala PRISM DID là một cổng vào hệ sinh thái và chuỗi khối Cardano. Xây dựng công nghệ và thị trường mà người dùng trên bo mạch là rất quan trọng.
 
-## How does success look like?
+## Thành công trông như thế nào?
 
-Many high quality ideas will be proposed that can substantially grow Cardano's user-base, network-utility, network-value & ADA circulation.
+Nhiều ý tưởng chất lượng cao sẽ được đề xuất có thể phát triển đáng kể cơ sở người dùng, tiện ích mạng, giá trị mạng và lưu thông ADA của Cardano.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-- The number of proposals that directly address DID use cases in a quantifiable manner.
-- The quality of proposals measured by community interest and engagement.
-- Results of any Fund7 funded projects significantly impacting mass-scale adoption of DID's and their utility on the Cardano blockchain.
+- Số lượng đề xuất giải quyết trực tiếp các trường hợp sử dụng DID theo cách có thể định lượng được.
+- Chất lượng của các đề xuất được đo lường bằng sự quan tâm và tham gia của cộng đồng.
+- Kết quả của bất kỳ dự án nào được Fund7 tài trợ tác động đáng kể đến việc áp dụng DID trên quy mô lớn và tiện ích của chúng trên chuỗi khối Cardano.
 
-## References
+## Tài liệu tham khảo
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)

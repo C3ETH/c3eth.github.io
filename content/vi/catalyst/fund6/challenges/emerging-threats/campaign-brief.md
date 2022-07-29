@@ -1,41 +1,41 @@
 ---
-title: "Cardano Emerging Threat Alarm"
-linkTitle: "Cardano Emerging Threat Alarm"
+title: Cảnh báo về mối đe dọa mới nổi của Cardano
+linkTitle: Cảnh báo về mối đe dọa mới nổi của Cardano
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
 
-Làm cách nào để giúp các bên liên quan xác định các mối đe dọa có hệ thống nghiêm trọng rõ rệt đối với Cardano blockchain trước khi một mối đe dọa vượt qua hệ thống?
+Làm thế nào chúng ta có thể giúp các cổ đông xác định các mối đe dọa nghiêm trọng tới hệ thống đang nổi lên đối với chuỗi khối Cardano trước khi một mối đe dọa vượt qua hệ thống?
 
-Fund Size: **$50,000 USD paid in Ada**
+Quy mô quỹ: **50.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26110) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified).
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26110) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified) .
 
-## Campaign Brief
+## Tóm tắt Chiến dịch
 
-Blockchain systems are a complex amalgam of technological, economic and social components that rely and are used by many stakeholders from different geographies and backgrounds. These systems are not isolated from the real world and unexpected threats may emerge from the dynamic interaction.
+Hệ thống chuỗi khối là một hỗn hợp phức tạp của các thành phần công nghệ, kinh tế và xã hội dựa vào và được sử dụng bởi nhiều cổ đông từ các khu vực địa lý và nguồn gốc khác nhau. Các hệ thống này không bị cô lập với thế giới thực và các mối đe dọa bất ngờ có thể xuất hiện từ tương tác có tính thay đổi liên tục.
 
-Cardano stakeholders (users, SPOs, DApp developers, partners, Exchanges, governments, companies) need a resilient system that is able to identify and grade developing threats to its own existence.
+Các cổ đông của Cardano (người dùng, SPO, nhà phát triển DApp, đối tác, Sở giao dịch, chính phủ, công ty) cần một hệ thống linh hoạt có thể xác định và phân loại các mối đe dọa đang phát triển đối với sự tồn tại của chính nó.
 
-## Why is it important?
+## Tại sao nó lại quan trọng?
 
-Cardano complexity increases with decentralization, native tokens, multi-asset support, smart contracts and new users. Threats will emerge.
+Sự phức tạp của Cardano tăng lên khi phân quyền, mã thông báo gốc, hỗ trợ đa tài sản, hợp đồng thông minh và người dùng mới. Các mối đe dọa sẽ xuất hiện.
 
-## How does success look like?
+## Thành công trông như thế nào?
 
-Stable evolution. Cardano successfully onboards new users, developers, DApps, tokens, SPOs, oracles, companies. Threats are identified
+Sự tiến hóa ổn định. Cardano tiếp cận thành công người dùng mới, nhà phát triển, DApps, chữ kí điện tử,  SPO, oracles, công ty. Các mối đe dọa được xác định
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-At the end of this challenge, we should be asking ourselves: Did we manage to create a simple mechanism for identifying novel, emerging systemic threats to the Cardano ecosystem? We can't see the future now, but as events unfold we may be able to use our collective wisdom and senses to detect new dangers for the Cardano blockchain and its usage.
+Khi kết thúc thử thách này, chúng ta nên tự hỏi: Liệu chúng ta có quản lý để tạo ra một cơ chế đơn giản để xác định các mối đe dọa hệ thống mới, mối đe doạ đang nổi lên đối với hệ sinh thái Cardano không? Hiện tại, chúng ta không thể nhìn thấy tương lai, nhưng khi các sự kiện diễn ra, chúng ta có thể sử dụng trí tuệ và giác quan chung của mình để phát hiện những mối nguy hiểm mới đối với chuỗi khối Cardano và việc sử dụng nó.
 
-- Number of potential threats that have been submitted.
-- Grading of the submitted threats by urgency
-- Number of threats that have been identified as serious and systemic.
-- Grouping of threat sources into categories and types to determine wider danger areas
-- Number of Cardano stakeholders interacting with the threat alert mechanism
-- Number of Catalyst proposals submitted and accepted for funding in subsequent funding rounds to directly address the most pressing identified threats.
+- Số lượng các mối đe dọa tiềm ẩn đã được gửi.
+- Phân loại các mối đe dọa đã gửi theo mức độ khẩn cấp
+- Số lượng các mối đe dọa đã được xác định là nghiêm trọng và có hệ thống.
+- Nhóm các nguồn đe dọa thành các loại và loại để xác định các khu vực nguy hiểm rộng hơn
+- Số lượng các bên liên quan của Cardano tương tác với cơ chế cảnh báo mối đe dọa
+- Số lượng các đề xuất Catalyst đã được đệ trình và được tài trợ trong các vòng tài trợ tiếp theo để giải quyết trực tiếp các mối đe dọa đã được xác định cấp bách nhất.
 
-## References
+## Tài liệu tham khảo
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088)
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088)

@@ -1,58 +1,59 @@
 ---
-title: "Phát triển Châu Phi, Phát triển Cardano"
-linkTitle: "Phát triển Châu Phi, Phát triển Cardano"
+title: Phát triển Châu Phi, Phát triển Cardano
+linkTitle: Phát triển Châu Phi, Phát triển Cardano
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
-Làm cách nào để ươm mầm và phát triển Cardano ở Châu Phi?
 
-Giá trị quỹ: **$200,000 USD paid in Ada**
+Làm thế nào để chúng ta gieo hạt và trồng Cardano ở Châu Phi?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26108) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified).
+Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
-## Campaign Brief
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26108) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified) .
 
-### Châu Phi là một mảnh đất màu mỡ trong việc áp dụng Cardano.
+## Tóm tắt Chiến dịch
 
-Có sự tài trợ tập trung vào Châu Phi là một viễn cảnh mà đôi bên cùng có lợi. Châu Phi có lợi vì có được sự hỗ trợ. Dự án thương mại đã được xây dựng ở Châu Phi sẽ có lợi vì họ nhận được những tín hiệu ủng hộ từ cộng đồng. Những người nắm giữ Cardano sẽ có lợi khi có một môi trường khuyến khích họ được áp dụng ở mọi nơi.
+### Châu Phi là mảnh đất màu mỡ cho việc áp dụng Cardano.
 
-Tập trung vào Châu Phi là một chiến lược đã được đề xuất và được phát triển rộng rãi bởi IOG và Charles Hoskinson
+Có một vòng tài trợ tập trung vào châu Phi là một trường hợp  đôi bên cùng có lợi. Châu Phi chiến thắng nhờ nhận được sự ủng hộ. Các dự án thương mại đang được xây dựng ở Châu Phi giành chiến thắng vì chúng nhận được tín hiệu hỗ trợ từ cộng đồng của chúng ta. Những người nắm giữ Cardano giành chiến thắng khi có một môi trường khuyến khích để áp dụng hàng loạt ở bất cứ đâu.
 
-ROI sẽ khá cao bởi vì những dự án tài trợ cộng đồng tốt hơn nên được vận hành trên nền kinh tế trẻ và đang phát triển.
+Tập trung vào châu Phi là một chiến lược thường được thúc đẩy và được IOG và Charles Hoskinson công khai theo đuổi
 
-## Đây là gì:
+ROI có khả năng cao vì các dự án do cộng đồng tài trợ được thực hiện tốt hơn ở các nền kinh tế trẻ và đang phát triển.
 
-Một lời kêu gọi để kích hoạt khả năng của cộng đồng Cardano để nhận diện, nhìn thấy rủi ro và trao thưởng cho cơ hội này để làm cho thế giới trở thành một nơi tốt đẹp hơn.
+## Mục đích là gì:
 
-## Dự án này không phải là:
+Lời kêu gọi kích hoạt khả năng của cộng đồng Cardano trong việc nhận biết, chấp nhận rủi ro và thưởng cho cơ hội này để biến thế giới trở nên tốt đẹp hơn.
 
-Dự án này không cần sự làm việc tích cực của người đề xuất, nó là một tầm nhìn cần những phiếu bầu để trở thành một thành tựu. Nếu thành công thì cả cộng đồng Cardano sẽ nhận được lợi ích từ nó. Đây là một lời kêu gọi để dập tắt định kiến và mở rộng tầm nhìn, trái tim và khối óc với những người tốt nhưng thiếu những lợi ích về môi trường mà nhiều người trong chúng ta sinh ra. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
+## Đề xuất này không nhằm mục đích:
 
-## Regardless of whether it succeeds or fails:
+Đây không phải là một đề xuất cần sự làm việc tích cực của những người đề xuất, nó là một tầm nhìn cần những phiếu bầu để trở thành một thành tựu. Nếu nó thành công, người thụ hưởng là cả cộng đồng Cardano. Đó là lời kêu gọi hãy khép lại những định kiến của chúng ta và mở rộng tầm mắt, trái tim và khối óc của chúng ta cho những người tốt, những người thiếu lợi ích về môi trường mà nhiều người trong chúng ta sinh ra. Cho họ một cơ hội để chứng tỏ rằng hoàn cảnh không phải là thứ họ cần từ thiện để vượt lên trên và thành công. Tất cả những gì cần có là cơ hội bình đẳng để thành công hay thất bại mà nhiều người trong số chúng ta tận hưởng, nhưng với những trở ngại và trở ngại của họ đã giảm bớt và sự lựa chọn của họ vẫn nằm trong tay của họ.
 
-I have had my eyes opened and my mind changed about the potential of Africa. From Africa's bankers in the west, ex-pats with vision and heart, youth with passions, documentaries that challenged my assumptions and Cardano community members with so much to give.
+## Bất kể nó thành công hay thất bại:
 
-## Why is it important?
+Tôi đã được mở mang tầm mắt và suy nghĩ của tôi thay đổi về tiềm năng của châu Phi. Từ các nhân viên ngân hàng của châu Phi ở phía tây, những người yêu thích tầm nhìn và trái tim, tuổi trẻ với niềm đam mê, những bộ phim tài liệu thách thức những giả định của tôi và các thành viên cộng đồng Cardano với rất nhiều thứ để cống hiến.
 
-Cardano shines when adoption is global. Africa currently has young entrepreneurs, great growth potential and a government contract imminent.
+## Tại sao nó lại quan trọng?
 
-## How does success look like?
+Cardano tỏa sáng khi áp dụng trên toàn cầu. Châu Phi hiện có các doanh nhân trẻ, tiềm năng phát triển lớn và sắp có hợp đồng với chính phủ.
 
-- Cardano is considered the best public block-chain operating in Africa
-- Cardano projects in Africa are not isolated but networked and growing
+## Thành công trông như thế nào?
 
-## Key Metrics to measure
+- Cardano được coi là chuỗi khối công khai tốt nhất hoạt động ở Châu Phi
+- Các dự án Cardano ở Châu Phi không bị cô lập mà được nối mạng và ngày càng phát triển
 
-- Number of purely African participants
-- Number of Outside African participants with a significant partnership with African residents
-- Feedback on progress from successful proposals regardless of failure or success
-- Novelty and appropriateness of solutions (hard to quantify, easy to see)
-- Number of African Fund5 proposals that do not need further funding to keep operating
+## Các chỉ số chính để đánh giá
 
-## Prior Challenges
+- Số lượng người tham gia là gốc châu Phi
+- Số người tham gia bên ngoài châu Phi có quan hệ đối tác đáng kể với cư dân châu Phi
+- Phản hồi về tiến độ từ các đề xuất thành công bất kể thất bại hay thành công
+- Tính mới và tính phù hợp của các giải pháp (khó định lượng, dễ thấy)
+- Số đề xuất của Quỹ Châu Phi 5 đề xuất không cần thêm kinh phí để tiếp tục hoạt động
 
-1. [Fund 5: Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/campaign-home/25947)
+## Những thách thức trước
 
-## References
+1. [Quỹ 5: Phát triển Châu Phi, Phát triển Cardano](https://cardano.ideascale.com/a/campaign-home/25947)
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088)
+## Tài liệu tham khảo
+
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088)

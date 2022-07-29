@@ -1,38 +1,40 @@
 ---
-title: "Tài nguyên đa ngôn ngữ"
-linkTitle: "Tài nguyên đa ngôn ngữ"
+title: Tài nguyên đa ngôn ngữ
+linkTitle: Tài nguyên đa ngôn ngữ
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
-Làm cách nào để thúc đẩy những người không nói tiếng Anh học hỏi và phát triển hệ sinh thái Cardano trong vòng 3 đến 6 tháng tới?
 
-Giá trị quỹ: **$75,000 USD paid in Ada**
+Làm thế nào chúng ta có thể thúc đẩy những người không nói tiếng Anh học hỏi và phát triển hệ sinh thái Cardano trong 3-6 tháng tới?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26111) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified).
+Quy mô quỹ: **$ 75,000 USD thanh toán bằng Ada**
 
-## Campaign Brief
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26111) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified) .
 
-Ngôn ngữ tiếng Anh có thể là rào cản cho nhiều người trên thế giới khi họ muốn tìm hiểu về Cardano và công nghệ blockchain.
+## Tóm tắt Chiến dịch
 
-At least in Spanish there are no resources for people who might want to learn how to code smart contracts with Plutus or Marlowe for example.
+Ngôn ngữ tiếng Anh có thể là rào cản đối với rất nhiều người trên thế giới khi họ cố gắng tìm hiểu về Cardano và công nghệ blockchain.
 
-## Why is it important?
+Ít nhất bằng tiếng Tây Ban Nha, không có tài nguyên nào dành cho những người có thể muốn học cách viết mã các hợp đồng thông minh với Plutus hoặc Marlowe chẳng hạn.
 
-Multilingual platforms will allow non-English speakers to learn about Cardano and increase its adoption worldwide.
+## Tại sao nó lại quan trọng?
 
-## How does success look like?
+Các nền tảng đa ngôn ngữ sẽ cho phép những người không nói tiếng Anh tìm hiểu về Cardano và tăng mức độ áp dụng của nó trên toàn thế giới.
 
-Increased adoption and community engagement of non-English speakers.
+## Thành công trông như thế nào?
 
-Increased amount of resources in a variety of languages.
+Tăng cường sự chấp nhận và tham gia cộng đồng của những người không nói tiếng Anh.
 
-## Key Metrics to measure
+Tăng số lượng tài nguyên bằng nhiều ngôn ngữ.
 
-At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for non-English speakers to build and grow the Cardano community in their local areas?
+## Các chỉ số chính để đánh giá
 
-- Number of non-English speakers joining Cardano community
-- Number of courses translated to different languages, from programming to stakepool operation and so on.
-- A sense of community and conversations. Having people around to talk with.
-## References
+Khi kết thúc thử thách này, chúng ta sẽ tự hỏi: Liệu chúng tôi có quản lý để giúp những người không nói tiếng Anh dễ dàng hơn trong việc xây dựng và phát triển cộng đồng Cardano tại các khu vực địa phương của họ không?
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088)
+- Số lượng người không nói tiếng Anh tham gia cộng đồng Cardano
+- Số lượng các khóa học được dịch sang các ngôn ngữ khác nhau, từ lập trình đến hoạt động của nhóm cổ phần, v.v.
+- Ý thức cộng đồng và các cuộc trò chuyện. Có những người xung quanh để nói chuyện cùng.
+
+## Tài liệu tham khảo
+
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088)

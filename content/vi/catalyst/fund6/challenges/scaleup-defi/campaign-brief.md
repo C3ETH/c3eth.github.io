@@ -1,39 +1,40 @@
 ---
-title: "Mở rộng quy mô hệ sinh thái Tài chính phi tập trung của Cardano"
-linkTitle: "Mở rộng quy mô hệ sinh thái Tài chính phi tập trung của Cardano"
+title: Mở rộng quy mô hệ sinh thái DeFi của Cardano
+linkTitle: Mở rộng quy mô hệ sinh thái DeFi của Cardano
 type: docs
-hide_feedback: true
+hide_feedback: 'true'
 ---
-Làm cách nào để có thể khuyến khích các nhóm Tài chính phi tập trung xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?
 
-Giá trị quỹ: **$200,000 USD paid in Ada**
+Làm thế nào chúng tôi có thể khuyến khích các nhóm DeFi xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26109) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26109/stage/unspecified).
+Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
-## Campaign Brief
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26109) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26109/stage/unspecified) .
 
-Currently the vast majority of DeFi dapps and currency flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it. benefit from this, the unbanked.
+## Tóm tắt Chiến dịch
 
-## Why is it important?
+Hiện tại, phần lớn các DeFi dapp và các dòng tiền tệ xảy ra trên chuỗi khối Ethereum, tuy nhiên do tắc nghẽn và phí giao dịch tăng, việc sử dụng DeFi ngày càng được ưu tiên hóa, loại bỏ những người có thể hưởng lợi nhiều nhất từ nó. hưởng lợi từ điều này, không có ngân hàng.
 
-It's important b/c Defi dApps provide trustless on-demand access to financial services for global users w/ Total Value Locked ~$25billion
+## Tại sao nó lại quan trọng?
 
-## How does success look like?
+Điều quan trọng là b / c Defi dApps cung cấp quyền truy cập theo yêu cầu không tin cậy vào các dịch vụ tài chính cho người dùng toàn cầu với tổng giá trị đã khóa ~ 25 tỷ đô la
 
-A competitive environment for DeFi on Cardano with an emphasis on cross-collaboration & driving composability across protocols.
+## Thành công trông như thế nào?
 
-## Key Metrics to measure
+Một môi trường cạnh tranh cho DeFi trên Cardano với trọng tâm là cộng tác chéo &amp; thúc đẩy khả năng tổng hợp giữa các giao thức.
 
-- How many DeFi protocols were launched on Cardano mainnet within 6 months from this DeFi focused community challenge?
-- How many daily active users are the DeFi protocols funded in this cohort attracting?
-- How much Total Value Locked (TVL) are the funded DeFi protocols able to capture 1 month post launch on Cardano mainnet? (measure again at 3 months, 6 months and 1 year post-implementation to glean complete insights on proposal challenge effectiveness)
-- How many DeFi developers did this community focused challenge bring into the Cardano ecosystem?
-- How many FinTech/DeFi development firms did this community focused challenge bring into the Cardano ecosystem?
+## Các chỉ số chính để đánh giá
 
-## Prior Challenges
+- Có bao nhiêu giao thức DeFi đã được đưa ra trên mạng chính Cardano trong vòng 6 tháng kể từ thử thách cộng đồng tập trung vào DeFi này?
+- Có bao nhiêu người dùng hoạt động hàng ngày mà các giao thức DeFi được tài trợ trong nhóm này đang thu hút?
+- Tổng giá trị đã khóa (TVL) là bao nhiêu mà các giao thức DeFi được tài trợ có thể thu được 1 tháng sau khi ra mắt trên mạng chính Cardano? (đo lường lại sau 3 tháng, 6 tháng và 1 năm sau khi thực hiện để thu thập đầy đủ thông tin chi tiết về hiệu quả của thử thách đề xuất)
+- Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu nhà phát triển DeFi vào hệ sinh thái Cardano?
+- Bao nhiêu công ty phát triển FinTech / DeFi đã đưa thách thức tập trung vào cộng đồng này vào hệ sinh thái Cardano?
 
-1. [Fund5: Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/campaign-home/25948)
+## Những thách thức trước
 
-## References
+1. [Fund5: Mở rộng quy mô Hệ sinh thái DeFi của Cardano](https://cardano.ideascale.com/a/campaign-home/25948)
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-DeFi-Ecosystem/333399-48088)
+## Tài liệu tham khảo
+
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-DeFi-Ecosystem/333399-48088)

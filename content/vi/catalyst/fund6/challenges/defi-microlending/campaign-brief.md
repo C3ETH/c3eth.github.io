@@ -1,29 +1,30 @@
 ---
-title: "Tài chính phi tập trung và Khoản vay vi mô cho Châu Phi"
-linkTitle: "Tài chính phi tập trung và Khoản vay vi mô cho Châu Phi"
+title: DeFi và cho vay vi mô ở Châu Phi
+linkTitle: DeFi và cho vay vi mô ở Châu Phi
 type: docs
-hide_feedback: true
+hide_feedback: thật
 ---
-Giá trị quỹ: **$90,000 USD paid in Ada**
 
-How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
+Quy mô quỹ: **$ 90,000 USD thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26112) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified).
+Làm cách nào chúng ta có thể cho phép tạo ra các giải pháp cho vay vi mô và Defi dApp phù hợp với bối cảnh của Châu Phi?
 
-## Why is it important?
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26112) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified) .
 
-Microlending and DeFi dApps targeted specifically to the African context & based on historical cultural norms will accelerate user adoption
+## Tại sao nó lại quan trọng?
 
-## How does success look like?
+Cho vay vi mô và các DeFi dApps được nhắm mục tiêu cụ thể đến bối cảnh Châu Phi &amp; dựa trên các chuẩn mực văn hóa lịch sử sẽ thúc đẩy sự chấp nhận của người dùng
 
-Businesses are confident to submit well-researched proposals that address the African micro-lending and decentralized finance context
+## Thành công trông như thế nào?
 
-## Key Metrics to measure
+Các doanh nghiệp tự tin gửi các đề xuất được nghiên cứu kỹ lưỡng nhằm giải quyết bối cảnh cho vay vi mô và tài chính phi tập trung ở Châu Phi
 
-- Submitted proposals well researched, viable and addresses traditional African financial cultural norms and practices
-- 3 or more successfully funded micro-lending and Defi dApp launched within the next 3 funding rounds
-- Minimum 50% user adoption in funded proposal's target market within 2 years
+## Các chỉ số chính để đánh giá
 
-## References
+- Các đề xuất đã đệ trình được nghiên cứu kỹ lưỡng, khả thi và giải quyết các chuẩn mực và thông lệ văn hóa tài chính truyền thống của Châu Phi
+- 3 hoặc nhiều hơn được tài trợ thành công cho vay vi mô và Defi dApp ra mắt trong 3 vòng tài trợ tiếp theo
+- Mức độ sử dụng của người dùng tối thiểu 50% trong thị trường mục tiêu của đề xuất được tài trợ trong vòng 2 năm
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)
+## Tài liệu tham khảo
+
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)
