@@ -1,6 +1,6 @@
 ---
-title: DeFi and Microlending for Africa
-linkTitle: DeFi and Microlending for Africa
+title: DeFi và cho vay vi mô ở Châu Phi
+linkTitle: DeFi và cho vay vi mô ở Châu Phi
 type: docs
 hide_feedback: thật
 ---
@@ -13,18 +13,18 @@ Làm cách nào chúng ta có thể cho phép tạo ra các giải pháp cho vay
 
 ## Tại sao nó lại quan trọng?
 
-Microlending and DeFi dApps targeted specifically to the African context &amp; based on historical cultural norms will accelerate user adoption
+Cho vay vi mô và các DeFi dApps được nhắm mục tiêu cụ thể đến bối cảnh Châu Phi &amp; dựa trên các chuẩn mực văn hóa lịch sử sẽ thúc đẩy sự chấp nhận của người dùng
 
 ## Thành công trông như thế nào?
 
 Các doanh nghiệp tự tin gửi các đề xuất được nghiên cứu kỹ lưỡng nhằm giải quyết bối cảnh cho vay vi mô và tài chính phi tập trung ở Châu Phi
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Các đề xuất đã đệ trình được nghiên cứu kỹ lưỡng, khả thi và giải quyết các chuẩn mực và thông lệ văn hóa tài chính truyền thống của Châu Phi
-- 3 or more successfully funded micro-lending and Defi dApp launched within the next 3 funding rounds
-- Minimum 50% user adoption in funded proposal's target market within 2 years
+- 3 hoặc nhiều hơn được tài trợ thành công cho vay vi mô và Defi dApp ra mắt trong 3 vòng tài trợ tiếp theo
+- Mức độ sử dụng của người dùng tối thiểu 50% trong thị trường mục tiêu của đề xuất được tài trợ trong vòng 2 năm
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)
