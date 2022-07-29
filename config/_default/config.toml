@@ -9,6 +9,8 @@ theme = ["docsy"]
 # Will give values to .Lastmod etc.
 # enableGitInfo = true
 
+
+
 # Language settings
 contentDir = "content/en"
 defaultContentLanguage = "en"
@@ -63,7 +65,7 @@ time_format_blog = "02.01.2006"
 weight = 1
 
 [languages.vi]
-title = "Tòa thị chính Catalyst Eastern"
+title = "Catalyst Eastern Town Hall"
 description = "Cộng đồng Cardano Catalyst Eastern Townhall đang giúp đỡ các cộng đồng trên khắp các quốc gia và ngôn ngữ ở múi giờ phía đông."
 languageName ="Tiếng Việt"
 contentDir = "content/vi"
@@ -120,6 +122,11 @@ time_format_blog = "02.01.2006"
 	weight = 25
 	  url = "/catalystTV/"
 	pre = "<i class='fas fa-tv'></i>"
+[[menu.main]]
+	name = "Catalyst School"
+	weight = 25
+	  url = "/catalystSchool/"
+	# pre = "<i class='fas fa-tv'></i>"
 # post = "<span class='alert'>New!</span>"  # add 'new!' alert next to nav button
 
 # Everything below this are Site Params
@@ -165,8 +172,8 @@ github_project_repo = "https://github.com/c3eth/c3eth.github.io"
 # or specify a new value if you want to reference another branch in your GitHub links
 github_branch= "main"
 
-# Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+# # Google Custom Search Engine ID. Remove or comment out to disable search.
+# gcs_engine_id = "d72aa9b2712488cc3"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -181,11 +188,11 @@ prism_syntax_highlighting = false
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = true
-# sidebar_menu_foldable = true
+ sidebar_menu_foldable = true
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
 # Set to true to disable the About link in the site footer
@@ -196,7 +203,7 @@ footer_about_disable = false
 # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
 # add "hide_feedback: true" to the page's front matter.
 [params.ui.feedback]
-enable = true
+enable = false
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 yes = 'Glad to hear it! Please <a href="https://github.com/c3eth/c3eth.github.io/issues/new">tell us how we can improve</a>.'
 no = 'Sorry to hear that. Please <a href="https://github.com/c3eth/c3eth.github.io/issues/new">tell us how we can improve</a>.'
