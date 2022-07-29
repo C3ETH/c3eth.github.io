@@ -17,9 +17,9 @@ Dù nền tảng của bạn là gì, việc tự tin giao tiếp tất cả cá
 
 Cần phải làm nhiều hơn nữa để giúp một nhóm ngày càng đa dạng các doanh nhân của Project Catalyst, ở các giai đoạn phát triển bản thân khác nhau, cùng với các nhóm của họ và các bên liên quan để cộng tác và giao tiếp hiệu quả.
 
-This is important to Project Catalyst as, over time, the strongest ideas will be those that are the most coherently communicated and which ultimately resonate clearly with voters - particularly Expert evaluators!
+Điều này rất quan trọng đối với dự án Catalyst vì theo thời gian, những ý tưởng mạnh nhất sẽ là những ý tưởng được truyền đạt mạch lạc nhất và cuối cùng sẽ gây được tiếng vang rõ ràng với cử tri - đặc biệt là những người đánh giá chuyên môn!
 
-This challenge seeks to help inexperienced entrepreneurs to learn and apply vital entrepreneurship skills so they can collaborate with teams and stakeholders on meaningful Catalyst projects. This also helps ensure sustainable impact and a positive return on investment and intention is made.
+Thử thách này nhằm giúp các doanh nhân chưa có kinh nghiệm học hỏi và áp dụng các kỹ năng khởi nghiệp quan trọng để họ có thể cộng tác với các nhóm và các nhà đầu tư trong các dự án Catalyst có ý nghĩa. Điều này cũng giúp đảm bảo tác động bền vững và lợi tức đầu tư tích cực và ý định được thực hiện.
 
 ## Tại sao nó lại quan trọng?
 
@@ -27,15 +27,15 @@ This challenge seeks to help inexperienced entrepreneurs to learn and apply vita
 
 ## Thành công trông như thế nào?
 
-Higher quality of proposal submitted to Catalyst so entrepreneurs become confident presenting project principles, USP, strategy, objectives
+Đề xuất chất lượng hơn được gửi tới Catalyst để các doanh nhân tự tin trình bày các nguyên tắc, USP, chiến lược, mục tiêu của dự án
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số lượng người dùng, sử dụng các công cụ
 - Sự khác biệt về điểm số của những người nộp đơn sử dụng hộp công cụ và những người không sử dụng công cụ.
 - Khoảng trống được lấp đầy trong cơ sở kỹ năng kinh doanh của các nhóm dự án từ khi bắt đầu hình thành ý tưởng thông qua việc phân phối dự án.
 - Tính bền vững của các kế hoạch mạo hiểm ngoài phạm vi của dự án phát triển Catalyst.
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/DLT-Entrepreneurship-Toolbox/341809-48088)
