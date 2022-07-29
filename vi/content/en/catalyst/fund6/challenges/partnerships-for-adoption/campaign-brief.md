@@ -23,12 +23,12 @@ Sự hợp tác với các cơ quan Quốc tế làm việc trong thế giới �
 
 Thành lập các Trung tâm Cộng đồng Địa phương tại 130 quốc gia do Quỹ Cardano hỗ trợ, hợp tác với các tổ chức quốc tế
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - 10 đề xuất được đưa ra để bỏ phiếu
 - Các quan hệ đối tác được chính thức hóa trong 3 tháng bởi Cardano Foundation
 - Trung tâm cộng đồng địa phương được thành lập sau 6 tháng
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)
