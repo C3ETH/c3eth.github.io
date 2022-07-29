@@ -13,7 +13,7 @@ Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-When Fund7 happens we will be close to 100 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.
+Khi Quỹ 7 diễn ra, chúng ta sẽ có gần 100 đề xuất được tài trợ. Điều cực kỳ quan trọng là các đề xuất này phải được đánh giá / kiểm toán để xem liệu chúng có mang lại hiệu quả hay không và ROI có phù hợp với những gì đã được thiết lập ban đầu hay không.
 
 Hiện tại, IOG chịu trách nhiệm theo dõi sự phát triển của các đề xuất được tài trợ này, nhưng khi có hàng trăm đề xuất được tài trợ thì đây sẽ là một công việc quá sức đối với IOG.
 
@@ -43,7 +43,7 @@ Một số hướng mà thử thách này có thể thực hiện:
 
 Một số dự án đánh giá các đề xuất được tài trợ, cung cấp các báo cáo, bài báo và số liệu về sự phát triển và thực hiện các dự án.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 ### Số lượng các đề xuất được tài trợ đã được kiểm toán
 
@@ -51,7 +51,7 @@ Xét rằng ý tưởng là để kiểm tra và báo cáo về sự phát tri�
 
 ### Số lượng báo cáo, bài báo và video / podcast trên:
 
-- Performance
+- Thể hiện
 - Thành tựu
 - Tài chính
 - Số lượng nhà phát triển được giới thiệu.
@@ -60,6 +60,6 @@ Xét rằng ý tưởng là để kiểm tra và báo cáo về sự phát tri�
 - Số lượng hợp đồng thông minh đã được kiểm toán.
 - Các chỉ số tương tác trên mạng xã hội.
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/25946/stage/unspecified)
