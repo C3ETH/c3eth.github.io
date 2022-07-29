@@ -23,15 +23,15 @@ Chúng tôi phải nâng cao nhận thức về thương hiệu của Catalyst t
 
 Các doanh nhân sáng giá và các công ty chuyên ngành trên toàn cầu tìm hiểu về Catalyst và gửi các đề xuất có tác động cao.
 
-## Key metric to measure
+## Chỉ số chính để đánh giá
 
-To assess ROI of this challenge we will ask ourselves:
+Để đánh giá ROI của thử thách này, chúng ta sẽ tự hỏi:
 
-Did we get proposals from outside our ecosystem?
+Chúng ta có nhận được đề xuất từ bên ngoài hệ sinh thái của mình không?
 
 - Bảo hiểm truyền thông
 - Ý tưởng được gửi từ các thành viên mới của cộng đồng.
-- Community advisor rating of top 10% of "outsider" proposals
+- Cố vấn cộng đồng xếp hạng về 10% hàng đầu đề xuất từ "người ngoài"
 
 ## Những thách thức trước
 
