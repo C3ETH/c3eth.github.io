@@ -19,7 +19,7 @@ Việc ra quyết định phi tập trung và chất lượng cao sẽ làm tăn
 
 Cộng đồng đang cải tiến một cách có ý thức các quy trình ra quyết định đồng thời phát triển một nhóm các nhà lãnh đạo cam kết và hợp tác.
 
-## Key metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Để đánh giá ROI của thử thách này, chúng ta sẽ tự hỏi: Liệu chúng ta có tiến bộ hơn trong việc ra quyết định phân tán không?
 - Niềm tin của cộng đồng: xếp hạng trung bình hoặc% thành viên Catalyst phê duyệt kết quả tổng thể của vòng tài trợ.
@@ -30,17 +30,17 @@ Cộng đồng đang cải tiến một cách có ý thức các quy trình ra q
 - Tỷ lệ tái bầu cử: nếu những người đề xuất nhận được tài trợ tiếp theo, đây có thể được coi là một dấu hiệu thành công
 - Chấp nhận thất bại: liệu cộng đồng có thể nhìn thấy giá trị và học hỏi từ các đề xuất không hiệu quả không?
 
-## Guiding questions
+## Hướng dẫn đặt câu hỏi
 
 Làm thế nào để chúng ta khuyến khích mọi người tham gia vào quá trình ra quyết định?
 
-How do we ensure the group of decision makers is diverse and accessible to newcomers?
+Làm thế nào để chúng ta đảm bảo nhóm những người ra quyết định đa dạng và dễ tiếp cận đối với những người mới?
 
-How can we ensure that the Catalyst process keeps iterating to improve?
+Làm cách nào chúng ta có thể đảm bảo rằng quy trình Catalyst liên tục lặp lại để cải thiện?
 
 Chúng ta sẽ đưa cộng đồng vào quá trình ra quyết định như thế nào?
 
-## Potential directions
+## Các định hướng tiềm năng
 
 - Phần mềm hỗ trợ ra quyết định hoặc lặp lại
 - Thử nghiệm trong các cấu trúc xã hội, cộng tác hoặc cuộc họp khuyến khích việc ra quyết định được cải thiện
