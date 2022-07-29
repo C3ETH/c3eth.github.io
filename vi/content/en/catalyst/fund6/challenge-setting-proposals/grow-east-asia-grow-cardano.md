@@ -29,7 +29,7 @@ Cộng đồng Cardano nghiêng nhiều về Bắc Mỹ và Châu Âu. Sự phá
 
 Nhiều người trên khắp Châu Á và kết nối với Châu Á, đến với nhau và thành lập các nhóm để phát triển hệ sinh thái của chúng tôi.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi mình một số câu hỏi về chất lượng tham gia:
 
@@ -58,7 +58,7 @@ Ví dụ, phần lớn Stake Pools cư trú ở Bắc Mỹ và Châu Âu. Mạng
 
 Cardano bắt đầu cuộc sống ở Đông Á (Nhật Bản và Hồng Kông), và Emurgo tập trung vào Đông Á. Hãy xây dựng dựa trên điều đó.
 
-## What this is:
+## Mục đích là gì:
 
 Lời kêu gọi hành động; Kích hoạt khả năng nhận biết của cộng đồng Cardano, thưởng cho cơ hội để biến thế giới trở nên tốt đẹp hơn. Đông Á là mảnh đất màu mỡ cho việc áp dụng Cardano. Tỷ suất sinh lợi trên ý định (ROI) có khả năng cao vì các dự án ở các nền kinh tế trẻ và đang phát triển gặp ít sức ì kinh tế hơn.
 
@@ -79,6 +79,6 @@ Vai trò của các Nhóm thử thách là quản lý các thử thách trong Ca
 
 Nếu bạn quan tâm đến việc trở thành một phần của nhóm đó, vui lòng cho chúng tôi biết trong phần bình luận.
 
-## Acknowledgements
+## Sự công nhận
 
-This proposal is a copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108).
+Đề xuất này là một bản sao của [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) do @grebel và @archangelbob đề xuất và hiện là một trong nhiều [Thử thách Catalyst](https://cardano.ideascale.com/a/campaign-home/26108) .
