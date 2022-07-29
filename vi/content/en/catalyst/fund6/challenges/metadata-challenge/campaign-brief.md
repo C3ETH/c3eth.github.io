@@ -13,7 +13,7 @@ Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-With transaction metadata, Cardano can be utilized as a network to store small proofs of events or documents. This utility has been used in the past to implement product anti-counterfeit solutions as well as traceability solutions. Smart contracts are not necessary to take advantage of this functionality.
+Với siêu dữ liệu giao dịch, Cardano có thể được sử dụng như một mạng lưới để lưu trữ các bằng chứng nhỏ về các sự kiện hoặc tài liệu. Tiện ích này đã được sử dụng trong quá khứ để thực hiện các giải pháp chống hàng giả sản phẩm cũng như các giải pháp truy xuất nguồn gốc. Hợp đồng thông minh không cần thiết để tận dụng chức năng này.
 
 Thử thách này dành cho bạn nếu bạn gặp vấn đề liên quan đến:
 
@@ -32,7 +32,7 @@ IOHK vui mừng thông báo rằng chúng tôi sẽ hỗ trợ và cung cấp l�
 
 Các nguyên mẫu được xây dựng sử dụng siêu dữ liệu để giải quyết các vấn đề trong cuộc sống thực. Các nguyên mẫu được giới thiệu cho cộng đồng Catalyst tại bất kỳ tòa thị chính nào.
 
-## Key metrics to measure
+## Các chỉ số chính để đánh giá
 
 Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi bản thân:
 
@@ -40,7 +40,7 @@ Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi bản thân:
 - Phản hồi của cộng đồng (tích cực / tiêu cực) về các nguyên mẫu sau khi trình bày.
 - Tiếp theo các đề xuất của Catalyst.
 
-## Guiding questions
+## Hướng dẫn đặt câu hỏi
 
 - Đối tượng mục tiêu là gì?
 - Người dùng tiềm năng của nền tảng là ai?
@@ -49,7 +49,7 @@ Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi bản thân:
 - Giải pháp có cần các thành phần phần cứng không?
 - Điều gì sẽ giữ chân người dùng trên giải pháp? Đó là, sau khi cài đặt, tại sao bạn sẽ tiếp tục sử dụng nó? Nó mang lại giá trị gì cho người dùng (liên tục)?
 
-## Potential directions
+## Các định hướng tiềm năng
 
 - Truy xuất nguồn gốc
 - Xác thực sản phẩm
