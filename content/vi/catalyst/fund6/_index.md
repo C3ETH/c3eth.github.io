@@ -1,9 +1,9 @@
 ---
-title: "Catalyst Fund 6"
-linkTitle: "Fund 6"
+title: "Catalyst Quỹ 6"
+linkTitle: "Quỹ 6"
 type: docs
 hide_feedback: true
 ---
 
 This index page is yet to be udated. 
-The **Catalyst Proposals for fund 6** runs from date x, to date y in these stategs.
+The **Đề xuất từ Catalyst cho quỹ 6** runs from date x, to date y in these stategs.
