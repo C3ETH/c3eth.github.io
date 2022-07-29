@@ -1,18 +1,20 @@
 ---
-title: "Catalyst Guides"
+title: "Hướng dẫn trở thành Catalyst  "
 linkTitle: "Catalyst Guides"
 hide_feedback: true
 weight: 4
 description: >
-  What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting? 
+  Người tham gia cần hiểu gì về Project Catalyst để gửi đề xuất, trở thành cố vấn cộng đồng hoặc bỏ phiếu?
+
+
 ---
 
-{{% pageinfo %}}
+<!-- {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+{{% /pageinfo %}} -->
 
-This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
+Kho lưu trữ này thuộc Cộng đồng Cardano Catalyst (C3) Eastern Townhall (ETH) giúp tạo điều kiện cho các thành viên của cộng đồng đến từ nhiều quốc gia và ngôn ngữ khác nhau thuộc múi giờ phía Đông. Trọng tâm cụ thể của nhóm là cục bộ hoá và xây dựng nội dung của Cardano Catalyst để mở rộng cộng đồng nhất có thể.
 
-This site contains our translations of Project Catalyst documentation, community-sourced guides, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
+Trang web này chứa các bản dịch về tài liệu Project Catalyst, các hướng dẫn tổng hợp từ cộng đồng và các đề xuất liên quan. Nội dung được dịch sang nhiều ngôn ngữ của Đông bán cầu, chủ yếu là các ngôn ngữ Đông Á
 
-[Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
+[Dự án Catalys](https://cardano.ideascale.com/) là **sự mở đầu** của việc mang lại chuỗi quản trị cho Cardano. trí tuệ tập thể của Cộng đồng Catalyst để định hướng phát triển và phương hướng trong tương lai của hệ sinh thái Cardano. Thông qua một loạt các quỹ đổi mới, các nguồn ý tưởng của cộng đồng sẽ quyết định quỹ nào được tài trợ. Tìm kiếm những ý tưởng tốt nhất để xây dựng một chuỗi khối toàn cầu.

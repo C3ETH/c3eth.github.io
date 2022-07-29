@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Stake Pool
 linkTitle: Stake Pool
 type: docs
@@ -29,4 +29,4 @@ Please support us as we keep continuing to expand our reach to friends and peopl
 
 * Margin Cost: **4%**
 * Fixed Cost: **340 ADA**
-* Pledge: **2,500 ADA**
+* Pledge: **2,500 ADA** -->
