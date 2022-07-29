@@ -19,11 +19,11 @@ Sự phát triển của Cardano phụ thuộc vào sự tham gia có ý nghĩa 
 
 Có một kênh mạnh mẽ để thúc đẩy, thông báo và hướng những người tham gia mới theo hướng đóng góp để cải thiện ROI của Catalyst.
 
-## Key metric to measure
+## Chỉ số chính để đánh giá
 
 Để đánh giá ROI của thử thách này, chúng tôi sẽ tự hỏi:
 
-Did we manage to increase meaningful participation from proposers, advisors, and voters?
+Chúng ta có quản lý để thúc đẩy sự tham gia tích cực từ những người đề xuất, cố vấn và cử tri không?
 
 Trong tổng số người tham gia mới:
 
@@ -35,15 +35,15 @@ Trong tổng số người tham gia mới:
 
 % Đề xuất gì?
 
-What % becomes a referrer?
+Có bao nhiêu % trở thành người giới thiệu?
 
-## Guiding questions
+## Hướng dẫn đặt câu hỏi
 
-- How can we increase meaningful participation from proposers, advisors, and voters?
+- Làm thế nào chúng ta có thể tăng cường sự tham gia tích cực từ những người đề xuất, cố vấn và cử tri?
 - Làm thế nào để những người mới tìm hiểu về Catalyst?
 - Làm thế nào chúng tôi có thể cung cấp nguồn trung tâm của thông tin được cập nhật liên tục ở các định dạng khác nhau (văn bản, video, p2p)?
 
-## Potential directions
+## Các định hướng tiềm năng
 
 - Giáo dục và giới thiệu thông qua nội dung YouTube kịp thời
 - Trải nghiệm người dùng tốt hơn thông qua hỗ trợ ví phần cứng, hỗ trợ Daedalus / yoroi vv.
