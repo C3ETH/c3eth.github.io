@@ -13,7 +13,7 @@ Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-Currently the vast majority of DeFi dapps and currency flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it. benefit from this, the unbanked.
+Hiện tại, phần lớn các DeFi dapp và các dòng tiền tệ xảy ra trên chuỗi khối Ethereum, tuy nhiên do tắc nghẽn và phí giao dịch tăng, việc sử dụng DeFi ngày càng được ưu tiên hóa, loại bỏ những người có thể hưởng lợi nhiều nhất từ nó. hưởng lợi từ điều này, không có ngân hàng.
 
 ## Tại sao nó lại quan trọng?
 
@@ -23,7 +23,7 @@ Currently the vast majority of DeFi dapps and currency flows occur on the Ethere
 
 Một môi trường cạnh tranh cho DeFi trên Cardano với trọng tâm là cộng tác chéo &amp; thúc đẩy khả năng tổng hợp giữa các giao thức.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Có bao nhiêu giao thức DeFi đã được đưa ra trên mạng chính Cardano trong vòng 6 tháng kể từ thử thách cộng đồng tập trung vào DeFi này?
 - Có bao nhiêu người dùng hoạt động hàng ngày mà các giao thức DeFi được tài trợ trong nhóm này đang thu hút?
@@ -35,6 +35,6 @@ Một môi trường cạnh tranh cho DeFi trên Cardano với trọng tâm là 
 
 1. [Fund5: Mở rộng quy mô Hệ sinh thái DeFi của Cardano](https://cardano.ideascale.com/a/campaign-home/25948)
 
-## References
+## Tài liệu tham khảo
 
 1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-DeFi-Ecosystem/333399-48088)
