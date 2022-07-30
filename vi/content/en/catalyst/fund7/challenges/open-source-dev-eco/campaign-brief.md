@@ -3,12 +3,12 @@ title: Hệ sinh thái dành cho nhà phát triển nguồn mở
 linkTitle: Hệ sinh thái dành cho nhà phát triển nguồn mở
 type: docs
 hide_feedback: 'true'
-description: How can we ensure that the cardano ecosystem is build on a framework which is owned by the community and equally accessible to all?
+description: Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26251) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26251/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Open-Source-Developer-Ecosystem) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/open-source-developer-ecosystem)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26251) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26251/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Open-Source-Developer-Ecosystem) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/open-source-developer-ecosystem)
 
 ## Tóm tắt Chiến dịch
 
@@ -20,13 +20,13 @@ Mục tiêu của Cardano là bao gồm những người hiện đang bị bỏ 
 
 Các dự án quy mô lớn và các giải pháp đơn lẻ đã được chứng minh là không linh hoạt và ngành công nghiệp đang tập trung vào thiết kế tổng hợp. Kiến trúc dịch vụ vi mô hiện đại và các giải pháp như container hóa cho phép các tiện ích chung được phát triển như các khối xây dựng độc lập tự lưu trữ. Cách tiếp cận này cho phép các dự án tập trung vào một chức năng duy nhất để giảm rủi ro cho cả cộng đồng.
 
-## Guiding Questions
+## Hướng dẫn đặt câu hỏi
 
 - Làm thế nào chúng ta có thể đảm bảo các nhà phát triển tương lai được hưởng lợi từ công việc được tài trợ ngày hôm nay?
 - Làm cách nào để chúng tôi thúc đẩy một hệ sinh thái phi tập trung và tự lưu trữ?
 - Làm thế nào để chúng ta liên kết giữa các nỗ lực cộng đồng nguồn mở khác nhau?
 
-## Possible Directions
+## Các định hướng tiềm năng
 
 - phát triển các công cụ phổ biến như thư viện hoặc các dịch vụ được đóng gói
 - hệ thống khuyến khích để phát triển và lưu trữ tiện ích nguồn mở phổ biến
@@ -42,7 +42,7 @@ Có những chức năng cốt lõi mà hầu hết các dự án cần, các gi
 
 Sự kết hợp lành mạnh của cả nhóm tư nhân và nhà nước dựa trên cơ sở xây dựng và đóng góp vào, một nền tảng vững chắc và cởi mở cho sự phát triển
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 Thành công của đề xuất này nên được đo lường thông qua việc các dự án khác áp dụng các giải pháp nguồn mở:
 
