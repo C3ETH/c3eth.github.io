@@ -2,7 +2,7 @@
 title: Báo cáo thị trường hàng năm của Cardano
 linkTitle: Báo cáo thị trường hàng năm của Cardano
 type: blog
-description: Our mission is to bring the most comprehensive knowledge about Cardano to the community in Vietnam.
+description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
 ---
 
 {{&lt;youtube gZyouiBW2Eo&gt;}}
@@ -22,7 +22,7 @@ Thực hiện một báo cáo thị trường với phương pháp luận chuyê
 Trần Thanh Tùng
  [**LinkedIn**](https://www.linkedin.com/in/tranthanhtung37/)
 
-#### Experience
+#### Kinh nghiệm
 
 - Bằng MBA
 - 06 năm kinh nghiệm trong lĩnh vực Marketing
@@ -33,7 +33,7 @@ Trần Thanh Tùng
 Hà Minh Trang
  [**Facebook**](https://www.facebook.com/minhtrang.ha.3)
 
-#### Experience
+#### Kinh nghiệm
 
 - Bằng MBA
 - 08 năm kinh nghiệm trong lĩnh vực Marketing
