@@ -3,7 +3,7 @@ title: Phát triển Châu Mỹ Latinh, Phát triển Cardano
 linkTitle: Phát triển Châu Mỹ Latinh, Phát triển Cardano
 type: docs
 hide_feedback: 'true'
-description: How do we grow the Cardano ecosystem in Latin America?
+description: Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Mỹ Latinh?
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**
@@ -22,21 +22,21 @@ Một số thành viên ban đầu của cộng đồng Catalyst đến từ Ch�
 
 ## Tại sao nó lại quan trọng?
 
-The Cardano community is heavily based in North America and Europe.
+Cộng đồng Cardano có rất nhiều trụ sở ở Bắc Mỹ và Châu Âu.
 
-Growth elsewhere requires our support and initiative as a community.
+Với tư cách là một cộng đồng, sự phát triển ở những nơi khác đòi hỏi sự hỗ trợ và chủ động của chúng ta.
 
 ## Thành công trông như thế nào?
 
 Nhiều người từ Châu Mỹ Latinh hoặc có mối liên hệ với Châu Mỹ Latinh đến với nhau và thành lập các nhóm để phát triển hệ sinh thái của chúng tôi.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-Basic metrics to look for to determine the effectivity of this challenge will include:
+Các chỉ số cơ bản cần áp dụng để xác định hiệu quả của thử thách này sẽ bao gồm:
 
 - Khối lượng đề xuất bắt nguồn từ những người Mỹ Latinh tham gia Dự án Catalyst. -Chất lượng của các đề xuất đó cũng như tác động đến cộng đồng địa phương của họ.
 - Chúng tôi có thu hút được các thành viên mới của cộng đồng từ các nước Mỹ Latinh không?
-- Will we see an increase in transactions processed (blocks minted) in Latin America? New SPOs forming?
+- Liệu chúng ta có thấy sự gia tăng các giao dịch được xử lý (block minted) ở Mỹ Latinh không? Có SPO mới hình thành không?
 - Chúng ta có thể học được gì từ các đề xuất được tài trợ khi xây dựng dựa trên các đề xuất được tài trợ thành công ban đầu từ bối cảnh thách thức này?
 - Các ứng dụng sẽ được phát triển có thể hữu ích ở những nơi khác trên thế giới không?
 - Liệu có sự cải thiện có thể đo lường được trong cuộc sống của những người bị thu hút bởi hệ sinh thái Cardano không?
