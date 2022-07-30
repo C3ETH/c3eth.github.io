@@ -70,7 +70,7 @@ Các thành viên khác là những nhà thiết kế đồ họa có kinh nghi�
 Chúng tôi đang chào đón các thành viên mới, vì vậy vui lòng tham gia tại:
 
 [**Telegram**](https://t.me/cryptoviewsofficial_chat)
-[**Bất hòa**](https://discord.gg/cpW5J37p)
+[**Discord**](https://discord.gg/cpW5J37p)
 
 #### Những cộng sự của chúng tôi
 
@@ -86,5 +86,5 @@ Tóm tắt 3 đề xuất có thể được tìm thấy [tại đây](https://w
 
 #### Theo dõi tiến trình của chúng tôi
 
-- [Trang nhấp chuột này](https://doc.clickup.com/25516105/d/h/rap29-365/8afcb7d85e34db9/rap29-185)
+- [Nhấp chuột vào trang](https://doc.clickup.com/25516105/d/h/rap29-365/8afcb7d85e34db9/rap29-185)
 - [Các kênh điện tín](https://t.me/cviewsofficial) C-Views
