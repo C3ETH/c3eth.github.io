@@ -1,19 +1,19 @@
 ---
-title: Impact Finance Regulatory Sandbox
-linkTitle: Impact Finance Regulatory Sandbox
+title: Hộp cát quy định tác động tài chính
+linkTitle: Hộp cát quy định tác động tài chính
 type: blog
 description: Các quy định của thị trường tài chính nhằm mục đích bảo vệ các nhà đầu tư nhưng lại khiến việc tài trợ cho các khoản đầu tư có tác động xã hội và môi trường nhỏ hơn trở nên đắt đỏ.
 ---
 
 {{&lt;youtube J0PS2OudR3Q&gt;}}
 
-## Catalyst TV - Impact Finance Regulatory Sandbox
+## Catalyst TV - Hộp cát quy định tác động tài chính
 
 *Hãy ghé qua để bình luận, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
 Các quy định của thị trường tài chính nhằm mục đích bảo vệ các nhà đầu tư nhưng lại khiến việc tài trợ cho các khoản đầu tư có tác động xã hội và môi trường nhỏ hơn trở nên đắt đỏ. Chúng tôi cần Nghiên cứu và viết bản thiết kế để tạo một hộp cát quy định để thử nghiệm với DeFi sáng tạo trong lĩnh vực tài chính xã hội và môi trường.
 
-- **Challenge:** Lobbying for favorable legislation
+- **Thách thức:** Vận động để có luật pháp công bằng
 - **Đề xuất:** [Hộp cát quy định tài chính tác động](https://cardano.ideascale.com/c/idea/403011)
 - Nguồn vốn **yêu cầu:** 99450
 
