@@ -8,11 +8,11 @@ description: Làm thế nào để làm cho quá trình đánh giá các đề x
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26253) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Improve-and-Grow-Auditability) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/improve-and-grow-auditability)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26253) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Improve-and-Grow-Auditability) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/improve-and-grow-auditability)
 
 ## Tóm tắt Chiến dịch
 
-When Fund7 happens we will be close to 300 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.
+Khi Quỹ 7 diễn ra, chúng ta sẽ có gần 300 đề xuất được tài trợ. Điều cực kỳ quan trọng là các đề xuất này phải được đánh giá / kiểm toán để xem liệu chúng có mang lại hiệu quả hay không và ROI có phù hợp với những gì đã được thiết lập ban đầu hay không.
 
 Hiện tại, IOG chịu trách nhiệm theo dõi sự phát triển của các đề xuất được tài trợ này, nhưng khi có hàng trăm đề xuất được tài trợ thì đây sẽ là một công việc quá sức đối với IOG.
 
@@ -30,13 +30,13 @@ Thách thức về khả năng kiểm toán nhằm đảm bảo tính minh bạc
 
 ## Tại sao nó lại quan trọng?
 
-It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
+Điều quan trọng là các đề xuất được tài trợ phải được đánh giá để xem liệu chúng có đang cung cấp những gì đã được thiết lập trong sứ mệnh của mình hay không.
 
 ## Thành công trông như thế nào?
 
 Một số dự án đánh giá các đề xuất được tài trợ, cung cấp các báo cáo, bài báo và số liệu về sự phát triển và thực hiện các dự án.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 Số lượng các đề xuất được tài trợ đã được kiểm toán
 
@@ -44,7 +44,7 @@ Xét rằng ý tưởng là để kiểm tra và báo cáo về sự phát tri�
 
 Số lượng báo cáo, bài báo và video / podcast trên:
 
-- Performance
+- Thể hiện
 - Thành tựu
 - Tài chính
 - Số lượng nhà phát triển được giới thiệu.
