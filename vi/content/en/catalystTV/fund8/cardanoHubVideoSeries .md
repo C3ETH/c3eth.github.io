@@ -1,13 +1,13 @@
 ---
-title: Cardano Hub Indonesia-Video Series
-linkTitle: Cardano Hub Indonesia-Video Series
+title: Trung tâm Cardano ở Indonesia-Loạt video
+linkTitle: Trung tâm Cardano ở Indonesia-Loạt video
 type: blog
-description: Indonesians prefer simple visual infographics through videos to learn about Cardano in local language   - Bahasa Indonesia
+description: Người Indonesia thích đồ họa thông tin trực quan một cách đơn giản thông qua video để tìm hiểu về Cardano bằng ngôn ngữ địa phương   - Bahasa Indonesia
 ---
 
 {{&lt;youtube 6gFEJ9eGzsY&gt;}}
 
-## Catalyst TV - Cardano Hub Indonesia-Video Series
+## Catalyst TV- Trung tâm Cardano ở Indonesia-Loạt video
 
 Cung cấp 6 video giáo dục chất lượng cao và đăng trên Kênh YouTube chính thức của Cardano Indonesia bằng tiếng Indonesia. *Hãy ghé qua và chúc mừng ông Dion về đề xuất tuyệt vời của ông.*
 
@@ -36,7 +36,7 @@ Cung cấp 6 video giáo dục chất lượng cao và đăng trên Kênh YouTub
 [**LinkedIn**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ZHc2Q0YVZhZERKTVBqTjAtVEMwTm5zWlp3Z3xBQ3Jtc0ttSWhOeU1lR0FBYlFGRGFxQXRTajRLMktfSkZ0QTY2MjZWZldzRmZBbEZwMDBsZ1VmRkNJdGRHdGxpSUdlMFBuNmp1WnU4NmJQSG0xV3FuUU43YVl4eV95LVd2RThEMG5iY2VGb0ZUdkJySlR0X2ZMQQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandreassosilo%2F)
 [**Instagram**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01NSmdwZFFTekZGbjZsSWluWV9oR25JWVlsUXxBQ3Jtc0ttdDhCX29MYjk5RkRmOU5ZUWgxWnMxb1NCX1R1cHRkLUpDQ2hwLWxfbTJsUG9Icjg0WUYyV1ZreWF4ekdGcXVvQ1E4ck5wWC1TNDhJVmpHZW8taG5FTjdHU0FUU2IwN2hIeHNsajNRb0RVZ3BCSVdmRQ&q=https%3A%2F%2Fwww.instagram.com%2Fcardanoindonesia)
 
-### More Information
+### Thông tin bổ sung
 
 Đề xuất này là hợp tác trực tiếp với người có ảnh hưởng trên Instagram Cardano Indonesia, một người có ảnh hưởng trên Instagram tập trung vào thảo luận về bất cứ điều gì và mọi thứ Cardano, người đã tích lũy hơn 1.000 người theo dõi. Kênh của họ có thể được tìm thấy trong liên kết sau [đây](https://www.instagram.com/cardanoindonesia)
 
@@ -44,7 +44,7 @@ Cung cấp 6 video giáo dục chất lượng cao và đăng trên Kênh YouTub
 
 Đề xuất này cũng được hỗ trợ bởi cộng đồng Eastern Town Hall Indonesia (với 299 thành viên Telegram và hơn 160 thành viên Discord), những người sẽ hoạt động như một nguồn tham khảo đầu ra nội dung và kênh phân phối nội dung. Kênh của họ có thể được tìm thấy [ở đây](https://t.me/EHTIndonesia)
 
-#### Track the team!
+#### Theo dõi nhóm!
 
 [**Github**](https://github.com/cardano-indonesia)
 [**Diễn đàn Cardano**](https://forum.cardano.org/t/silabus-workshop-cardano-hub-jakarta-2021-2023/79730)
