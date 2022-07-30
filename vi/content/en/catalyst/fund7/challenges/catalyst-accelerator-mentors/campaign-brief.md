@@ -1,6 +1,6 @@
 ---
-title: " Catalyst Accelerator & Mentors"
-linkTitle: " Catalyst Accelerator & Mentors"
+title: Thục giục Catalyst & Cố vấn
+linkTitle: Thục đẩy Catalyst & Cố vấn
 type: docs
 hide_feedback: 'true'
 description: Làm thế nào Catalyst có thể khai thác hỏa lực chuyên nghiệp để khởi động một môi trường máy gia tốc nhằm khuếch đại và thương mại hóa các dự án được tài trợ?
@@ -18,7 +18,7 @@ Cần phải làm nhiều hơn nữa để thúc đẩy tốt nhất các dự �
 
 Điều này rất quan trọng đối với Catalyst vì những ý tưởng tuyệt vời cần được nuôi dưỡng và các nhóm nhỏ cần được tiếp cận với chuyên môn và công cụ kịp thời ngoài những công cụ mà họ có sẵn.
 
-This challenge seeks professional-grade Accelerator programmes and Business Incubators to step up, co-develop, and deliver venture building programmes with Catalyst. The objective is to help catalyse early successes of Catalyst-funded projects and turn them into highly investable ventures. This helps projects funded by the community to get a fast track to resources and expertise that will help teams build invaluable know-how and strategy by plugging gaps in their current capabilities.
+Thử thách này nhằm tìm kiếm các chương trình tăng tốc cấp chuyên nghiệp và Vườn ươm Doanh nghiệp để thúc đẩy, đồng phát triển và cung cấp các chương trình xây dựng liên doanh với Catalyst. Mục tiêu là giúp thúc đẩy những thành công ban đầu của các dự án do Catalyst tài trợ và biến chúng thành các dự án có khả năng đầu tư cao. Điều này giúp các dự án do cộng đồng tài trợ theo dõi nhanh các nguồn lực và kiến thức chuyên môn sẽ giúp các nhóm xây dựng bí quyết và chiến lược vô giá bằng cách lấp đầy những khoảng trống trong khả năng hiện tại của họ.
 
 Chìa khóa của thách thức này là sự phù hợp của đề xuất với thách thức? Và thành công sẽ được đo lường như thế nào trong phạm vi của dự án và hơn thế nữa?
 
@@ -35,7 +35,7 @@ Kiến thức là sức mạnh và việc cho phép dự án tiếp cận với 
 - Tiếp cận nguồn vốn tài chính, con người và trí tuệ để thúc đẩy sự thành công của các dự án do Catalyst tài trợ
 - Các chương trình chia sẻ trên tinh thần đồng sáng tạo, sẵn sàng cộng tác với chúng tôi tại Catalyst, các bên liên quan của Cardano và nhóm thuần tập của Catalyst.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số lượng dự án có thể được đẩy nhanh trong phạm vi tài trợ
 - Số lượng người cố vấn và nhà đầu tư có thể tham gia vào hệ sinh thái
