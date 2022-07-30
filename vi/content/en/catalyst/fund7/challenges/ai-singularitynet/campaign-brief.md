@@ -1,32 +1,32 @@
 ---
-title: A.I. & SingularityNet a $5T market
-linkTitle: A.I. & SingularityNet a $5T market
+title: Thị trường đáng giá 5T của A.I. & SingularityNet
+linkTitle: Thị trường đáng giá 5T của A.I. & SingularityNet
 type: docs
 hide_feedback: 'true'
-description: How can we create a mutually beneficial partnership with SingularityNet and other A.I. developers and researchers?
+description: Làm cách nào chúng ta có thể tạo mối quan hệ hợp tác cùng có lợi với SingularityNet và các nhà phát triển và nhà nghiên cứu A.I.?
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26247) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26247) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market)
 
 ## Tóm tắt Chiến dịch
 
-Artificial Intelligence will be a driving force this century. It will be at least as big as cryptocurrencies and blockchains.
+Trí tuệ nhân tạo sẽ là động lực phát triển trong thế kỷ này. Nó ít nhất sẽ lớn mạnh ngang bằng tiền điện tử và blockchain.
 
-The Singularity community has put their trust in Cardano by voting overwhelmingly to risk the value of their AGI tokens by issuing new AGI tokens based on Cardano and moving swiftly from Ethereum to Cardano. We can reward that trust and recognize the risk they took by dedicating a community challenge to them and their field of endeavor.
+Cộng đồng Singularity đã đặt niềm tin của họ vào Cardano bằng cách bỏ phiếu áp đảo để mạo hiểm giá trị của chữ kí điện tử AGI của họ bằng cách phát hành chữ kí điện tử AGI mới dựa trên Cardano và chuyển nhanh chóng từ Ethereum sang Cardano. Chúng ta có thể đón nhận sự tin tưởng đó và nhận ra rủi ro mà họ đã chấp nhận bằng cách đưa ra thử thách cộng đồng cho họ và lĩnh vực nỗ lực của họ.
 
-The speed and efficiency of Cardano combined with the possibilities of SingularityNet will make a great partnership that sets both communities apart from other cryptocurrencies/tokens and drives enormous growth and value.
+Tốc độ và hiệu quả của Cardano kết hợp với các khả năng của SingularityNet sẽ tạo nên mối quan hệ đối tác tuyệt vời giúp cả hai cộng đồng trở nên khác biệt với các loại tiền điện tử / chữ kí điện tử khác đồng thời thúc đẩy tăng trưởng và giá trị của nó.
 
 *Ngoài ra… tôi muốn một thế giới cho con cái và cộng đồng của tôi, nơi các mục tiêu của Trí tuệ nhân tạo cũng có lợi và có đạo đức như Cardano*
 
-## why is it Important?
+## Tại sao nó lại quan trọng?
 
 Mối quan hệ đối tác SingularityNet / Cardano có thể trở thành một cường quốc có lợi thúc đẩy những đổi mới của thế kỷ này trong Trí tuệ nhân tạo
 
 ## Thị trường / Tin tức
 
-some facts:
+Một số sự thật:
 
 ### Microsoft
 
@@ -50,25 +50,25 @@ some facts:
 
 ## Thành công trông như thế nào?
 
-- SingularityNet teams and individuals arrive on Catalyst enthused by the possibilities for proposals and funding.
+- Các nhóm và cá nhân của SingularityNet đến với Catalyst đều bị mê hoặc bởi sự khả thi của các đề xuất và tài trợ.
 - Người dùng Catalyst được tiếp xúc với các công nghệ của SingularityNet và hào hứng với những cách họ có thể được sử dụng.
 - Sự hợp tác tuyệt vời xảy ra trước, trong và sau thử thách.
 - Thử thách được nhìn lại như một phần của sự khởi đầu của mối quan hệ đối tác tuyệt vời giữa hai cộng đồng tiền điện tử.
 
-## Guiding Questions
+## Hướng dẫn đặt câu hỏi
 
-- What do SingularityNet's technologies make possible?
+- Công nghệ của SingularityNet có thể làm được gì?
 - AI + Cardano có thể mang lại lợi ích cho xã hội như thế nào và ở đâu?
 
-## Potential directions
+## Các định hướng tiềm năng
 
 - Cải tiến AI để giúp dự án Catalyst có quy mô gấp nhiều lần kích thước hiện tại
 - Các dự án AI khơi dậy trí tưởng tượng và sự nhiệt tình của cộng đồng
 - Cơ sở kiến thức &amp; Tài liệu
-- Samples, recipes and templates
+- Mẫu thử, công thức và khuôn mẫu
 - Hackathons
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Trở lại ý định
 - Số lượng đề xuất được gửi
