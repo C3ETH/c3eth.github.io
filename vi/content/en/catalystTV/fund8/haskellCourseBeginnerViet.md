@@ -7,7 +7,7 @@ description: Có rất nhiều người thực sự muốn viết các hợp đ�
 
 {{&lt;youtube mWvgegef6yc&gt;}}
 
-## Catalyst TV - Haskell Book Vietnamese/Japanese Translation
+## Catalyst TV- Bản dịch tiếng Việt / tiếng Nhật của Sách Haskell
 
 *Hỗ trợ Phụ đề tiếng Nhật / Việt, Vui lòng ghé qua để đưa ra nhận xét, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
