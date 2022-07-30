@@ -1,8 +1,8 @@
 ---
 title: Cơ hội mới cho kinh doanh SPO
 linkTitle: Cơ hội mới cho kinh doanh SPO
-type: tài liệu
-hide_feedback: thật
+type: docs
+hide_feedback: true
 description: Các nhà điều hành Stake Pool là nhân tố thành công chính của Cardano. Với cơ sở hạ tầng và khả năng của họ, các dịch vụ mới quan trọng có thể được tạo ra
 ---
 
