@@ -1,17 +1,17 @@
 ---
-title: Haskell Book Vietnamese/Japanese Translation
-linkTitle: Haskell Book Vietnamese/Japanese Translation
+title: Bản dịch tiếng Việt / tiếng Nhật của Sách Haskell
+linkTitle: Bản dịch tiếng Việt / tiếng Nhật của Sách Haskell
 type: blog
 description: Hợp đồng thông minh của Cardano được xây dựng trên Haskell. Nhưng không có sách hay tài liệu nào về Haskell cho các nhà phát triển ở Việt Nam
 ---
 
 {{&lt;youtube bDACvliqIPU&gt;}}
 
-## Catalyst TV - Haskell Book Vietnamese/Japanese Translation
+## Catalyst TV- Bản dịch tiếng Việt / tiếng Nhật của Sách Haskell
 
 *Hỗ trợ Phụ đề tiếng Nhật / Việt, Vui lòng ghé qua để đưa ra nhận xét, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
-Cardano's Smart Contract is built on Haskell. But there is no book or document about Haskell for developers in Japan\
+Hợp đồng thông minh của Cardano được xây dựng trên Haskell. Nhưng không có sách hoặc tài liệu nào về Haskell cho các nhà phát triển ở Nhật Bản
 
 - **Thách thức:** Hệ sinh thái dành cho nhà phát triển
 - **Đề xuất:** [Bản dịch tiếng Nhật Sách Haskell](https://cardano.ideascale.com/c/idea/404202)
