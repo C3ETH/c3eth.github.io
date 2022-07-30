@@ -1,20 +1,20 @@
 ---
-title: Cardano SAY NO Plastic Straws | C4O
-linkTitle: Cardano SAY NO Plastic Straws | C4O
+title: Cardano NÓI KHÔNG với Ống hút nhựa | C4O
+linkTitle: Cardano NÓI KHÔNG với Ống hút nhựa | C4O
 type: blog
-description: Our mission is to bring the most comprehensive knowledge about Cardano to the community in Vietnam.
+description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
 ---
 
 {{&lt;youtube hS1OK-i7SW8&gt;}}
 
-## Catalyst TV - Cardano SAY NO Plastic Straws | C4O
+## Catalyst TV - Cardano NÓI KHÔNG với Ống hút nhựa | C4O
 
 Chúng tôi sản xuất ống hút từ cỏ tự nhiên để thay thế ống hút nhựa. Mục tiêu giảm thiểu rác thải là ống hút nhựa ra môi trường và đại dương.
 
 Vui lòng bỏ phiếu cho kế hoạch tuyệt vời này sử dụng blockchain để hỗ trợ bảo tồn môi trường, đặc biệt là sinh vật biển.
 
-- **Challenge:** Miscellaneous Challenge
-- **Proposal:** [Cardano SAY NO Plastic Straws | C4O](https://cardano.ideascale.com/c/idea/398112)
+- **Thử thách:** Thử thách hỗn hợp
+- **Đề xuất:** [Cardano NÓI KHÔNG với Ống hút nhựa | C4O](https://cardano.ideascale.com/c/idea/398112)
 - **Quỹ yêu cầu:** $ 40012
 
 ### Gặp gỡ nhóm:
@@ -49,7 +49,7 @@ là một kỹ sư tự động hóa, một nhà hoạt động vì môi trườ
 
 có nhiều năm kinh nghiệm trong thương mại quốc tế và xuất khẩu hàng hóa. Tham gia dự án với vai trò phát triển thương hiệu và sản phẩm cho thị trường toàn cầu. Anh đang hoạt động trong lĩnh vực giáo dục và các dự án phát triển nguồn nhân lực. Anh cũng là người yêu thích công nghệ mới và các sản phẩm thân thiện với môi trường được làm từ thiên nhiên. [**E-mail**](hoangdang2208@hoangdang2208)
 
-#### Further Information
+#### Thông tin bổ sung
 
 **ADABoys LAB:** Một nhóm các chuyên gia công nghệ, đặc biệt tập trung vào chuỗi khối Cardano, sẽ hỗ trợ tích hợp và tương tác thanh toán ADA với các hệ thống thương mại điện tử. Với dự án đã được Funded 7 cPay - thanh toán ADA trên nền tảng COTI, nhóm ADAboys LAB hoàn toàn có thể tích hợp với các cửa hàng và nền tảng thương mại điện tử khác. Bạn có thể theo dõi [**twitter của họ ở đây.**](https://mobile.twitter.com/boys_ada)
 
