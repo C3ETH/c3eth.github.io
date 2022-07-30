@@ -1,6 +1,6 @@
 ---
-title: Gamers On-Chained
-linkTitle: Gamers On-Chained
+title: Game thủ trên Blockchain
+linkTitle: Game thủ trên Blockchain
 type: docs
 hide_feedback: 'true'
 description: Những ứng dụng trò chơi Blockchain nào nên được phát triển để đạt được sự chấp nhận hàng loạt của Cardano?
@@ -12,31 +12,31 @@ Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.
+Chúng ta cần nâng cao nhận thức về thương hiệu của Catalyst trong cộng đồng phát triển game và đề xuất cách để người chơi tham gia vào hệ sinh thái Cardano thông qua thứ mà họ yêu thích, chơi game. Các đề xuất này có thể ở dạng xây dựng một trò chơi dựa trên Cardano, một công cụ dành cho nhà phát triển hoặc SDK để phát triển trò chơi dựa trên Cardano, một lớp blockchain tích hợp với các trò chơi hiện có hoặc bất kỳ thứ gì khác ưu tiên người chơi hoặc nhà phát triển trò chơi là kh.
 
-There are 2.5 billion gamers out there. These gamers are looking for their route into crypto in a fun and rewarding way. Let's provide them a library of games and integrations to choose from, solidifying Cardano as the go to blockchain for gaming.
+Có 2,5 tỷ người chơi game. Những game thủ này đang tìm cách tham gia vào tiền điện tử một cách thú vị và bổ ích. Hãy cung cấp cho họ một thư viện trò chơi và tích hợp để lựa chọn, củng cố Cardano khi chuyển sang blockchain để chơi game.
 
-Lets on-chain these gamers.
+Hãy cho những game thủ lên chuỗi nào.
 
 ## Tại sao nó lại quan trọng?
 
-Gamers are ready to enter crypto. They just need a clear blockchain with enjoyable applications to engage on.
+Người chơi đã sẵn sàng tham gia thị trường tiền điện tử. Họ chỉ cần một blockchain rõ ràng với các ứng dụng thú vị để tham gia.
 
 ## Thành công trông như thế nào?
 
 Cardano trở thành công cụ blockchain để phát triển các ứng dụng chơi game do công cụ chất lượng và cơ sở người dùng tập trung vào game thủ rộng lớn.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Tổng số người dùng các ứng dụng dựa trên trò chơi được xây dựng trên Cardano
-- Number of gaming based applications building/built on Cardano
-- Amount of value made by gamers in play-to-earn applications
+- Số lượng ứng dụng game đang phát triển /đã phát triển trên Cardano
+- Lượng giá trị do người chơi tạo ra trong các ứng dụng chơi để kiếm tiền
 - Số lượng CNFT được tạo riêng cho chơi game
-- Number of fungible tokens made specifically for gaming
+- Số lượng chữ ký số có thể thay thế được tạo riêng cho trò chơi
 - Số lượng người sáng tạo nội dung dựa trên trò chơi đã đến Cardano
 - Số lượng các giải đấu trò chơi được tổ chức cho nội dung gốc Cardano
 - Số lượng đề xuất được gửi cho thử thách này
 - Số lượng nhận xét và kudo được đưa ra cho các đề xuất đã gửi
 - Số lượng ADA đã bỏ phiếu cho các đề xuất trong thử thách này
 - Số lượng Ví đã bỏ phiếu cho các đề xuất trong thử thách này
-- Amount and evolution of gaming based tokens and wallets
+- Số lượng và sự phát triển của chữ ký số và ví chơi game
