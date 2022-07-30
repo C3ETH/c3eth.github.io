@@ -2,14 +2,14 @@
 title: Rừng Cardano ở Việt Nam
 linkTitle: Rừng Cardano ở Việt Nam
 type: blog
-description: an NFT project to help save the planet by growing trees. In Vietnam, most people know about crypto, but they have a limited understanding of other applications of blockchain ie non-fungible tokens. The solution is to use NFT on Cardano Blockchain to manage the reforestation work in Vietnam.
+description: một dự án NFT để giúp cứu hành tinh bằng cách trồng cây. Ở Việt Nam, hầu hết mọi người đều biết về tiền điện tử, nhưng họ có ít kiến thức về các ứng dụng khác của blockchain, như là các chữ ký số không thể thay thế. Giải pháp là sử dụng NFT trên Cardano Blockchain để quản lý công việc trồng rừng tại Việt Nam.
 ---
 
 {{&lt;youtube HMJi1OwT6Fg&gt;}}
 
 ## Catalyst TV - Rừng Cardano ở Việt Nam
 
-## An NFT project to help save the planet by growing trees. In Vietnam, most people know about crypto, but they have a limited understanding of other applications of blockchain ie non-fungible tokens. The solution is to use NFT on Cardano Blockchain to manage the reforestation work in Vietnam."
+## một dự án NFT để giúp cứu hành tinh bằng cách trồng cây. Ở Việt Nam, hầu hết mọi người đều biết về tiền điện tử, nhưng họ có ít kiến thức về các ứng dụng khác của blockchain, như là các chữ ký số không thể thay thế. Giải pháp là sử dụng NFT trên Cardano Blockchain để quản lý công việc trồng rừng tại Việt Nam.
 
 *Hãy ghé qua để bình luận, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
@@ -43,7 +43,7 @@ Kinh nghiệm:
 
 Kinh nghiệm:
 
-- 5+ years experience as full stack software developer
+- Hơn 5 năm kinh nghiệm với tư cách là lập trình viên full stack
 
 - Trưởng nhóm công nghệ của Rootopia
 
@@ -79,9 +79,9 @@ Trồng cây Cố vấn kỹ thuật, Cố vấn đối tác / Truyền thông K
 - Thạc sĩ Khoa Môi trường - Đại học Quốc gia Hà Nội,
 - Hơn 20 năm làm việc về bảo tồn thiên nhiên.
 - Có nhiều kỹ năng chuyên sâu trong việc quản lý một tổ chức phi chính phủ cũng như áp dụng các sáng kiến tiên tiến trong bảo tồn thiên nhiên, đặc biệt là giáo dục và truyền thông về thiên nhiên.
-- Nearly 20 publications on nature conservation, wildlife protection, marine conservation and plastic waste education in Vietnam. [**Linked**](https://vn.linkedin.com/in/chicadohuyen)
+- Gần 20 ấn phẩm về bảo tồn thiên nhiên, bảo vệ động vật hoang dã, bảo tồn biển và giáo dục chất thải nhựa tại Việt Nam. [**Linked**](https://vn.linkedin.com/in/chicadohuyen)
 
-##### **Mr. Do Manh Hung**
+##### **Anh Do Manh Hung**
 
 Cố vấn dự án Blockchain Cố vấn kỹ thuật, Cố vấn đối tác / Truyền thông Kinh nghiệm:
 
@@ -95,4 +95,4 @@ Cố vấn dự án Blockchain Cố vấn kỹ thuật, Cố vấn đối tác /
 Kinh nghiệm cố vấn kỹ thuật:
 
 - Người sáng lập nhóm cổ phần VILAI, chuyên gia khoa học máy tính, làm việc trong không gian Cardano / Crypto từ năm 2018.
-- Deploying many payment systems for major banks, financial institutions, and telecommunications in Vietnam [**Linked**](https://www.linkedin.com/in/tienna) [**Twitter**](https://twitter.com/tiennganh) [**Email**](tienna@gmail.com) [**Telegram**](t.me/tiennguyenanh) [**Telegram**](https://www.facebook.com/tiennguyena)
+- Triển khai nhiều hệ thống thanh toán cho các ngân hàng, tổ chức tài chính, viễn thông lớn tại Việt Nam [**Linkedin**](https://www.linkedin.com/in/tienna) [**Twitter**](https://twitter.com/tiennganh) [**Email**](tienna@gmail.com) [**Telegram**](t.me/tiennguyenanh) [**Telegram**](https://www.facebook.com/tiennguyena)
