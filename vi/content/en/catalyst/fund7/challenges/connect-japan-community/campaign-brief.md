@@ -14,7 +14,7 @@ Quy mô quỹ: **50.000 USD được thanh toán bằng Ada**
 
 Mục tiêu của thử thách này là tìm cách thu hút hơn nữa cộng đồng người Nhật và giúp tạo ra nhiều cách để cộng đồng nói tiếng Nhật và tiếng Anh kết nối. Những người đề xuất được khuyến khích đề xuất bằng tiếng Nhật và nhóm Thử thách sẽ giúp thúc đẩy vai trò CA tại Tòa thị chính phía Đông hoặc sự kiện tương đương.
 
-The budget is set to 50k because the Challenge focuses only on a specific part of the community. There are also projects from Japan which have a broad application and will fit in other challenges. Considering the focus is on community building the budget should be enough to support 2-6 meaningful efforts.
+Ngân sách được đặt là 50k vì Thử thách chỉ tập trung vào một phần cụ thể của cộng đồng. Ngoài ra còn có các dự án từ Nhật Bản có ứng dụng rộng rãi và sẽ phù hợp với các thách thức khác. Xem xét trọng tâm là xây dựng cộng đồng, ngân sách phải đủ để hỗ trợ 2-6 nỗ lực có ý nghĩa.
 
 ## Tại sao nó lại quan trọng?
 
@@ -24,7 +24,7 @@ Gần đây, một Tòa thị chính phía Đông đã được khởi công b�
 
 Hiện tại, hầu hết Ideascale &amp; Catalyst hoạt động bằng tiếng Anh. Điều này tạo ra một rào cản cho tất cả các cộng đồng không sử dụng tiếng Anh. Nếu các giải pháp từ thách thức này chứng minh thành công trong việc thu hẹp khoảng cách đó, chúng có thể hoạt động như một ví dụ cho các cộng đồng khác.
 
-## Possible directions:
+## Các định hướng tiềm năng
 
 - Dịch tài liệu chính
 - Tạo nội dung giáo dục về Cardano &amp; Chất xúc tác bằng tiếng Nhật
