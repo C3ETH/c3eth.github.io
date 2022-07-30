@@ -52,6 +52,6 @@ Tổ chức các buổi gặp mặt cà phê hàng tuần để trao đổi thô
 
 [Telegram](t.me/quangar) [LinkedIn](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVl6N2RiVXlSdV9nRXJOQW04NWZ6ZC1wTW1NQXxBQ3Jtc0trd1RLbDhwMDhJVUU2YnQ1RnN3REk2WlJhaXRHT0hIVEF4RlhGM1BNWS1QZFpLa1ZYd29xY0dtUGZZTEpXaEZYV2c1MXRFUDNMSFFIS1ZjOTdXWnQ4MUhJQVdOajhqN254YW1OR3QxaThiRlFPejRRZw&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fquang-pham289%2F)
 
-##### Trải qua
+##### Kinh nghiệm
 
 - Học chuyên ngành Thiết kế kiến trúc, có kinh nghiệm làm việc trong lĩnh vực thiết kế kiến trúc, đồ họa. Là thành viên coreteam tham gia đánh giá các dự án trên nền tảng Cardano.
