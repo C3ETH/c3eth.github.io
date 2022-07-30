@@ -1,6 +1,6 @@
 ---
-title: New SPO Business Opportunities
-linkTitle: New SPO Business Opportunities
+title: Cơ hội mới cho kinh doanh SPO
+linkTitle: Cơ hội mới cho kinh doanh SPO
 type: tài liệu
 hide_feedback: thật
 description: Các nhà điều hành Stake Pool là nhân tố thành công chính của Cardano. Với cơ sở hạ tầng và khả năng của họ, các dịch vụ mới quan trọng có thể được tạo ra
@@ -8,7 +8,7 @@ description: Các nhà điều hành Stake Pool là nhân tố thành công chí
 
 Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26245) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-New-SPO-Business-Opportunities) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/new-spo-business-opportunities)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26245) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-New-SPO-Business-Opportunities) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/new-spo-business-opportunities)
 
 ## Tóm tắt Chiến dịch
 
@@ -30,7 +30,7 @@ Trở thành một SPO sẽ hấp dẫn về mặt kinh tế. Ngoài ra, có nh�
 
 Mô hình kinh doanh tổng thể của SPO có thể trở nên hấp dẫn hơn nữa và chúng tôi có thể thêm các tính năng và dịch vụ mới để thúc đẩy phân cấp
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số lượng ý tưởng kinh doanh mới cho SPO
 - Giá trị kinh doanh tổng thể liên quan đến SPO của các dịch vụ mới tùy chọn như vậy
