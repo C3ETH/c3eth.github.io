@@ -10,7 +10,7 @@ description: Làm cách nào để chúng tôi khuyến khích các Trung tâm c
 
 Quy mô quỹ: **$ 350,000 USD thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26244) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Scale-UP-Cardanos-Community-Hubs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/scale-up-cardanos-community-hubs)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26244) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Scale-UP-Cardanos-Community-Hubs) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/scale-up-cardanos-community-hubs)
 
 ## Tóm tắt Chiến dịch
 
@@ -30,10 +30,10 @@ Không có người dùng ở cấp độ cơ bản, chúng tôi đang xây dự
 
 Các trung tâm cộng đồng địa phương trên khắp thế giới, nơi một người bình thường có thể tham gia bằng ngôn ngữ của họ và với sự hiểu biết văn hóa của riêng họ
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-- How many new Hubs were launched in the next 6 months?
+- Có bao nhiêu trung tâm mới được ra mắt trong 6 tháng tới?
 - Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu nhà phát triển vào hệ sinh thái Cardano?
 - Có bao nhiêu người dùng mới của Cardano đã được giới thiệu?
-- What was the total reach of the Hub's initial marketing launch?
+- Tổng phạm vi tiếp cận của lần ra mắt tiếp thị ban đầu của trung tâm là bao nhiêu?
 - Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu tổ chức bên ngoài vào hệ sinh thái Cardano?
