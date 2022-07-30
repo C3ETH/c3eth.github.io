@@ -1,6 +1,6 @@
 ---
-title: Lobbying for favorable legislation
-linkTitle: Lobbying for favorable legislation
+title: Vận động để có luật pháp công bằng
+linkTitle: Vận động để có luật pháp công bằng
 type: docs
 hide_feedback: 'true'
 description: Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ độc tài và sự thỏa hiệp của luật pháp và các chính sách thuế không công bằng?
@@ -18,21 +18,21 @@ Thông qua thách thức này, chúng tôi có thể tài trợ cho các đề x
 
 - [Bitcoin hiện đang đấu thầu hợp pháp ở El Salvador, đánh dấu vị trí đầu tiên trên thế giới](https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first/)
 
-Lobby and educate rational politicians so that it becomes possible to plead for the creation of more favorable rules on taxation, use of cryptocurrencies and greater privacy for cryptocurrency users.
+Vận động và giáo dục các chính trị gia hợp lý để có thể cầu xin việc tạo ra các quy tắc thuận lợi hơn về thuế, sử dụng tiền điện tử và quyền riêng tư cao hơn cho người dùng tiền điện tử.
 
-In August 2021, the US Senate voted for unforgiving legislation on the crypto ecosystem. We have few voices to defend the our community in the political class. Initiatives like the Coin Center are important to defend our community. How can we defend ourselves from attacks by authoritarian governments and compromising legislation?
+Vào tháng 8 năm 2021, Thượng viện Hoa Kỳ đã bỏ phiếu cho luật không khoan nhượng đối với hệ sinh thái tiền điện tử. Chúng ta ít có tiếng nói để bảo vệ cộng đồng của chúng ta trong giai cấp chính trị. Các sáng kiến như Trung tâm tiền xu rất quan trọng để bảo vệ cộng đồng của chúng ta. Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ độc tài và luật pháp thỏa hiệp?
 
 - [Tiền điện tử bị mất lớn trong dự luật cơ sở hạ tầng của Thượng viện. Giờ thì sao?](https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what)
 
 ## tại sao nó lại quan trọng?
 
-So that we have favorable legislation, privacy, tax reduction and a positive environment for mass adoption of cryptocurrencies.
+Để chúng ta có luật pháp công bằng, quyền riêng tư, giảm thuế và một môi trường tích cực để áp dụng hàng loạt tiền điện tử.
 
 ## Thành công trông như thế nào?
 
 Chúng tôi đã quản lý để trì hoãn hoặc đảo ngược luật ảnh hưởng đến việc chấp nhận tiền điện tử và hỗ trợ các cộng đồng và tổ chức địa phương như Coincenter
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số khu vực pháp lý được ủng hộ thông qua vận động hành lang
 - Số lượng luật đã được sửa đổi
