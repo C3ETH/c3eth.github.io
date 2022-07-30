@@ -1,6 +1,6 @@
 ---
-title: Service Marketplace
-linkTitle: Service Marketplace
+title: Thị trường ngành dịch vụ
+linkTitle: Thị trường ngành dịch vụ
 type: blog
 description: Thiếu một nơi để tập hợp những người có kỹ năng có thể cung cấp dịch vụ hỗ trợ cho những người đề xuất và CA chưa có kinh nghiệm với chi phí hợp lý.
 ---
@@ -11,7 +11,7 @@ description: Thiếu một nơi để tập hợp những người có kỹ năn
 
 *Hỗ trợ phụ đề tiếng Anh / Nhật / Việt Vui lòng ghé qua để đưa ra nhận xét, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
-- **Challenge:** Miscellaneous Challenge
+- **Thử thách:** Thử thách hỗn hợp
 - **Đề xuất:** [Thị trường dịch vụ](https://cardano.ideascale.com/c/idea/404213)
 - **Quỹ yêu cầu:** 7400
 
