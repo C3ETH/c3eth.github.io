@@ -8,23 +8,23 @@ description: Làm thế nào chúng tôi có thể thúc đẩy một nhóm các
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26246) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
 
 ## Tóm tắt Chiến dịch
 
-Security of the network relies on a decentralised pool of SPO's to run it. Without proper support, smaller SPO's will struggle against big players moving in and pushing them out untill they have a majority market share. If these organizations use the same hosting providers for all their infrastructure, this adds additional risk.
+Bảo mật của mạng dựa vào một nhóm SPO phi tập trung để chạy nó. Nếu không có sự hỗ trợ thích hợp, các SPO nhỏ hơn sẽ phải vật lộn để chống lại những nhóm lớn gia nhập và đẩy họ ra ngoài cho đến khi họ chiếm phần lớn thị phần. Nếu các tổ chức này sử dụng cùng một nhà cung cấp dịch vụ lưu trữ cho tất cả cơ sở hạ tầng của họ, điều này làm tăng thêm rủi ro.
 
-On the other hand, running nodes and participating in the network can be a great way for community initiatives to support their projects. By supporting and promoting smaller mission focussed SPO's the security of the whole network benefits. Larger hosting providers are also notorious for caring little for their environmental footprint. By promoting SPO's which run on sustainable energy sources we are achieving two goals: A lower ecological footprint of the Cardano network and a more distributed and secure network in terms of infrastructure used.
+Mặt khác, chạy các nút và tham gia vào mạng lưới có thể là một cách tuyệt vời để các sáng kiến cộng đồng hỗ trợ các dự án của họ. Bằng cách hỗ trợ và thúc đẩy nhiệm vụ nhỏ hơn, SPO đã tập trung vào sự an toàn của toàn bộ mạng lưới mang lại lợi ích. Các nhà cung cấp dịch vụ lưu trữ lớn hơn cũng nổi tiếng vì ít quan tâm đến dấu ấn môi trường của họ. Bằng cách thúc đẩy SPO chạy trên các nguồn năng lượng bền vững, chúng ta đang đạt được hai mục tiêu: Dấu chân sinh thái thấp hơn của mạng Cardano và mạng phân tán và an toàn hơn về cơ sở hạ tầng được sử dụng.
 
-## Guiding Questions:
+## Hướng dẫn đặt câu hỏi
 
-Regarding Single Stake Pool Operators, Stake Pools connected to community project &amp; Stake Pools benefiting a public cause, which proposals would:
+Liên quan đến các nhà điều hành nhóm cổ phần lẻ, các nhóm cổ phần được kết nối với dự án cộng đồng và các nhóm cổ phần mang lại lợi ích cho mục tiêu công cộng, các đề xuất nào sẽ:
 
 - Cho phép quỹ cộng đồng được sử dụng để hỗ trợ các cổ phần này thông qua việc đặt cược
 - Giúp các chủ sở hữu ADA đưa ra quyết định đúng đắn khi chọn một nhóm cổ phần
 - Thúc đẩy sự phân phối đa dạng và phi tập trung của các cổ phần liên quan trên toàn cầu
 
-## Possible Directions:
+## Các định hướng tiềm năng
 
 - Thiết kế mô hình / hợp đồng thông minh để sử dụng quỹ cộng đồng để hỗ trợ các bên liên quan bằng cách đặt cược
 - Nền tảng / tổ chức để giúp SPO độc lập thúc đẩy và chứng minh tính hợp pháp
@@ -40,7 +40,7 @@ Một mạng tự lực phân tán toàn cầu là cách bảo vệ tốt nhất
 
 Một hệ sinh thái đa dạng và lành mạnh của các nhà khai thác cổ phần từ khắp nơi trên thế giới cùng điều hành mạng lưới trên vô số cơ sở hạ tầng
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - sự phân tán của các giáo khu trên toàn cầu
 - số tiền cộng đồng trong ada được đặt vào các dự án / SPO dựa trên ngo
