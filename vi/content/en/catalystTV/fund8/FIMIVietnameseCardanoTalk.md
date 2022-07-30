@@ -1,22 +1,22 @@
 ---
-title: FIMI-Vietnamese Cardano Talk
-linkTitle: FIMI-Vietnamese Cardano Talk
+title: FIMI-Trò chuyện về Cardano với người Việt
+linkTitle: FIMI-Trò chuyện về Cardano với người Việt
 type: blog
 description: Làm thế nào để nâng cao nhận thức của người Việt Nam về Cardano để nó có thể được áp dụng vào thực tế vào năm 2022 và sau đó?
 ---
 
 {{&lt;youtube qOxHYojoAlE&gt;}}
 
-## Catalyst TV - FIMI-Vietnamese Cardano Talk
+## Catalyst TV - FIMI-Trò chuyện về Cardano với người Việt
 
 *Hãy ghé qua để bình luận, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
 Làm thế nào để nâng cao nhận thức của người Việt Nam về Cardano để nó có thể được áp dụng vào thực tế vào năm 2022 và sau đó?
 
-Build a rewarding mechanism to encourage members to find out the news, documents of Cardano, then present them to the community every week.
+Xây dựng cơ chế khen thưởng để khuyến khích thành viên tìm hiểu tin tức, tài liệu của Cardano, sau đó giới thiệu cho cộng đồng hàng tuần.
 
 - **Thách thức:** Mở rộng quy mô Trung tâm cộng đồng của Cardano
-- **Proposal:** [FIMI-Vietnamese Cardano Talk](https://cardano.ideascale.com/c/idea/403743)
+- **Đề xuất:** [FIMI-Trò chuyện về Cardano với người Việt](https://cardano.ideascale.com/c/idea/403743)
 - **Quỹ yêu cầu:** 45000
 
 ### Gặp gỡ nhóm:
@@ -26,10 +26,10 @@ Build a rewarding mechanism to encourage members to find out the news, documents
 - Thạc sĩ tài chính
 - Quản lý cộng đồng
 - Plutus Pioneer
-- Influence and inspire trainer
+- Huấn luyện viên tạo ảnh hưởng và truyền cảm hứng
 - Giảng viên chính khóa học của Fimi
 
-### Further Information
+### Thông tin bổ sung
 
 **Cộng đồng FIMI** :
 
