@@ -1,6 +1,6 @@
 ---
-title: 'Catalyst Natives COTI: Pay with ADA Plug-in'
-linkTitle: " Catalyst Natives COTI: Pay with ADA Plug-in"
+title: 'COTI của Catalyst Native: Thanh toán bằng  ADA Plug-in'
+linkTitle: 'COTI của Catalyst Native: Thanh toán bằng  ADA Plug-in'
 type: docs
 hide_feedback: 'true'
 description: Điều gì sẽ thúc đẩy việc áp dụng quy mô lớn các ID phi tập trung trên Cardano?
@@ -12,7 +12,7 @@ Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-COTI has developed, together with a very productive and successful partnership with Cardano, a very user-friendly and scalable ADA payment solution for the community. As a result, different online merchants, from a small hotel in Europe to a big e-commerce website in Asia, can easily accept hundreds or thousands of ADA transactions when integrating ADA Pay into their site.
+COTI đã phát triển cùng với sự hợp tác hiệu quả và thành công với Cardano, một giải pháp thanh toán ADA rất thân thiện với người dùng và có thể mở rộng cho cộng đồng. Do đó, các thương gia trực tuyến khác nhau, từ một khách sạn nhỏ ở châu Âu đến một trang web thương mại điện tử lớn ở châu Á, có thể dễ dàng chấp nhận hàng trăm hoặc hàng nghìn giao dịch ADA khi tích hợp ADA Pay vào trang web của họ.
 
 Với Catalyst, chúng tôi đang đưa ra một thách thức kỹ thuật sáng tạo cho cộng đồng của mình để cho phép một cách mới và sáng tạo cho tất cả các doanh nghiệp vừa và nhỏ hiện đang sử dụng các nền tảng, chẳng hạn như Shopify và WooCommerce, để dễ dàng chấp nhận Thanh toán ADA với tích hợp liền mạch bằng cách thêm một trình cắm thêm vào trang web của họ.
 
@@ -30,14 +30,14 @@ Giao diện người dùng và luồng thanh toán của plugin có thân thiệ
 
 Sáng tạo; càng ít nhấp chuột cần thiết để hoàn thành giao dịch thì càng tốt.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Tổng số lượng nền tảng thương mại điện tử có thể được tích hợp vào thành phần mới.
 - Tỷ lệ tổng số lần giao dịch và giao dịch đã hoàn thành, đo lường hiệu quả của luồng thanh toán được đề xuất.
 - Khả năng mở rộng của trình cắm mà không ảnh hưởng đến chất lượng của dịch vụ.
 - Số lượng người bán có thể được tích hợp với plugin.
 
-## Guiding Questions:
+## Hướng dẫn đặt câu hỏi
 
 Chúng tôi muốn bạn xem xét những điều sau đây và đưa ra lý do về cách tiếp cận được lên kế hoạch trong các đề xuất của bạn.
 
