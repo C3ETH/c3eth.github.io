@@ -3,12 +3,12 @@ title: Sự kiện cộng đồng
 linkTitle: Sự kiện cộng đồng
 type: docs
 hide_feedback: 'true'
-description: How can we increase meaningful participation among the community in the next 6 months?
+description: Làm thế nào chúng ta có thể tăng cường sự tham gia tích cực trong cộng đồng trong 6 tháng tới?
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26234) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Community-Events) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/community-events)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26234) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Community-Events) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/community-events)
 
 ## Tóm tắt Chiến dịch
 
@@ -16,12 +16,12 @@ Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
 Những sự kiện này rất quan trọng và then chốt đối với sự thành công của Catalyst vì chúng đang mang cộng đồng lại với nhau và giới thiệu cũng như giới thiệu những người mới vào hệ sinh thái của chúng tôi. Hơn nữa, cộng đồng đã sử dụng các phiên này để hợp tác cảm nhận các vấn đề và các nhóm và sáng kiến mới cũng được thành lập. Nhìn chung, các sự kiện cộng đồng mang lại cho cộng đồng của chúng ta bộ mặt và dấu ấn cá nhân.
 
-## Guiding Questions
+## Hướng dẫn đặt câu hỏi
 
-- How can we increase meaningful participation in Project Catalyst among all stakeholders?
-- How can we increase voter-proposer interaction?
+- Làm thế nào chúng ta có thể tăng cường sự tham gia tích cực vào dự án Catalyst từ những nhà đầu tư?
+- Làm thế nào chúng ta có thể tăng tương tác giữa cử tri - người đề xuất?
 - Làm cách nào chúng ta có thể tham gia và tích hợp những người mới vào Project Catalyst?
-- How can we use events to build new teams?
+- Làm cách nào chúng ta có thể sử dụng các sự kiện để xây dựng những đội mới?
 - Làm thế nào các hội thảo có thể tăng cường sự hợp tác trong Project Catalyst?
 - Làm thế nào để tăng cường sự tham gia tích cực vào các sự kiện?
 - Làm thế nào để có thể tăng số lượng người tham gia các sự kiện? -Làm thế nào các sự kiện có thể giúp giữ cộng đồng lại với nhau?
