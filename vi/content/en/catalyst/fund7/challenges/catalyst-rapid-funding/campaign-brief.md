@@ -1,14 +1,14 @@
 ---
-title: Catalyst   - Rapid Funding Mechanisms
-linkTitle: Catalyst   - Rapid Funding Mechanisms
+title: Catalyst   - Cơ chế cấp vốn nhanh
+linkTitle: Catalyst   - Cơ chế cấp vốn nhanh
 type: docs
 hide_feedback: 'true'
-description: How can we distribute Cardano treasury funds more rapidly in a transparent, accountable, and safe manner?
+description: Làm cách nào để chúng ta có thể phân phối quỹ kho bạc Cardano nhanh chóng một cách minh bạch, có trách nhiệm và an toàn?
 ---
 
 Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26236) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26236) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms)
 
 ## Tóm tắt Chiến dịch
 
@@ -18,13 +18,13 @@ Chúng tôi cần khám phá các cách mở rộng thay thế cách chúng tôi
 
 ## tại sao nó lại quan trọng?
 
-Catalyst relies on continuous work by the community to progress and grow, rapid funding can support a wider array of work and personal needs
+Catalyst dựa vào tính liên tục trong công việc của cộng đồng để tiến bộ và phát triển, nguồn vốn nhanh chóng có thể hỗ trợ nhiều công việc và nhu cầu cá nhân hơn
 
 ## Thành công trông như thế nào?
 
 Đã triển khai các cơ chế tài trợ Catalyst nhanh chóng để cung cấp giá trị kinh tế bền vững cho những người đề xuất trong các hướng dẫn của Project Catalyst.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Các giải pháp cơ chế tài trợ được đệ trình có nhanh hơn Catalyst không?
 - Đề xuất này có thể mở rộng như thế nào? Làm thế nào nó sẽ mở rộng quy mô thành 10x? 100x? 1000x? Hơn?
