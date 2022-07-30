@@ -5,7 +5,7 @@ type: blog
 description: Có rất nhiều người thực sự muốn viết các hợp đồng thông minh và xây dựng các dự án trên Cardano. Nhưng Haskell là một rào cản lớn đối với người mới bắt đầu
 ---
 
-{{youtube mWvgegef6yc}}
+{{<youtube mWvgegef6yc>}}
 
 ## Catalyst TV- Bản dịch tiếng Việt / tiếng Nhật của Sách Haskell
 

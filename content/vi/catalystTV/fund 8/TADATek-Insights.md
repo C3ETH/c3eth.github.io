@@ -5,7 +5,7 @@ type: blog
 description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
 ---
 
-{{youtube 7LtMcfuz3gk}}
+{{<youtube 7LtMcfuz3gk>}}
 
 ## Catalyst TV - Tổng quan TADATek
 

@@ -5,7 +5,7 @@ type: blog
 description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
 ---
 
-{{youtube hS1OK-i7SW8}}
+{{<youtube hS1OK-i7SW8>}}
 
 ## Catalyst TV - Cardano NÓI KHÔNG với Ống hút nhựa | C4O
 

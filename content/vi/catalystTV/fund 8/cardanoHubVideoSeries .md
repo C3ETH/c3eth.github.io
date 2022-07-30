@@ -5,7 +5,7 @@ type: blog
 description: Người Indonesia thích đồ họa thông tin trực quan một cách đơn giản thông qua video để tìm hiểu về Cardano bằng ngôn ngữ địa phương   - Bahasa Indonesia
 ---
 
-{{youtube 6gFEJ9eGzsY}}
+{{<youtube 6gFEJ9eGzsY>}}
 
 ## Catalyst TV- Trung tâm Cardano ở Indonesia-Loạt video
 

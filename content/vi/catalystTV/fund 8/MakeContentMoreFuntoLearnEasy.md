@@ -5,7 +5,7 @@ type: blog
 description: Hướng dẫn cần nhiều phương tiện và âm thanh hơn để thú vị và dễ hiểu hơn
 ---
 
-{{youtube z9GE4ZxLqLI}}
+{{<youtube z9GE4ZxLqLI>}}
 
 ## Catalyst TV - Tạo nội dung thú vị hơn để dễ dàng tiếp thu
 

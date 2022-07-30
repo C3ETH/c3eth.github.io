@@ -5,7 +5,7 @@ type: blog
 description: Để tăng khả năng kiểm toán, chúng tôi cần đánh giá kết quả thực hiện các đề xuất do Catalyst tài trợ với khuôn khổ hệ thống
 ---
 
-{{youtube z1l1_cISTwU}}
+{{<youtube z1l1_cISTwU>}}
 
 ## Catalyst TV - P.I.E dành cho Cộng đồng lập trình / Game thủ-On-Chained /Thử thách hỗn hợp
 

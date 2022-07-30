@@ -5,7 +5,7 @@ type: blog
 description: Làm thế nào chúng tôi có thể cung cấp cho Doanh nhân Sinh viên một nơi để thu hút ý tưởng của họ với thế giới và cơ hội kết nối với các Kỹ sư?
 ---
 
-{{youtube A44Dg2rvfyk}}
+{{<youtube A44Dg2rvfyk>}}
 
 ## Catalyst TV - Thử thách &amp; chiêu mộ Sinh viên 🎓
 

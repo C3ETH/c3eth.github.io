@@ -5,7 +5,7 @@ type: blog
 description: Làm thế nào để nâng cao nhận thức của người Việt Nam về Cardano để nó có thể được áp dụng vào thực tế vào năm 2022 và sau đó?
 ---
 
-{{youtube qOxHYojoAlE}}
+{{<youtube qOxHYojoAlE>}}
 
 ## Catalyst TV - FIMI-Trò chuyện về Cardano với người Việt
 

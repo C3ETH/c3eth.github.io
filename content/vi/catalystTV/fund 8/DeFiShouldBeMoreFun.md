@@ -5,7 +5,7 @@ type: blog
 description: Thay vì đi theo thiết kế UX nhàm chán như hầu hết các DEX hiện tại, Miverse sẽ đưa ra một mô hình khác biệt cho hệ sinh thái DeFi & GameFi.
 ---
 
-{{youtube DxKtSamw_GI}}
+{{<youtube DxKtSamw_GI>}}
 
 ## Catalyst TV - Làm cho nội dung thú vị hơn để dễ tiếp thu hơn
 

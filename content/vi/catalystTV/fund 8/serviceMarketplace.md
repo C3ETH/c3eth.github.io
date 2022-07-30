@@ -5,7 +5,7 @@ type: blog
 description: Thiếu một nơi để tập hợp những người có kỹ năng có thể cung cấp dịch vụ hỗ trợ cho những người đề xuất và CA chưa có kinh nghiệm với chi phí hợp lý.
 ---
 
-{{youtube 0v4ECOGoyVM}}
+{{<youtube 0v4ECOGoyVM>}}
 
 ## Catalyst TV - Sách Haskell Bản dịch tiếng Việt / tiếng Nhật
 

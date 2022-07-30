@@ -8,7 +8,7 @@ type: blog
 
 ## description: "Token cho phép bạn thiết kế các hệ thống kinh tế với các biện pháp khuyến khích phức tạp nhưng việc hiểu được cách thiết kế các hệ thống này được bao phủ trong toán học."
 
-{{youtube RGzWTKHLM04}}
+{{<youtube RGzWTKHLM04>}}
 
 ## Catalyst TV - Tìm hiểu các yếu tố kỹ thuật chữ ký số
 

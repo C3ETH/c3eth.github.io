@@ -5,7 +5,7 @@ type: blog
 description: Hợp đồng thông minh của Cardano được xây dựng trên Haskell. Nhưng không có sách hay tài liệu nào về Haskell cho các nhà phát triển ở Việt Nam
 ---
 
-{{youtube bDACvliqIPU}}
+{{<youtube bDACvliqIPU>}}
 
 ## Catalyst TV- Bản dịch tiếng Việt / tiếng Nhật của Sách Haskell
 

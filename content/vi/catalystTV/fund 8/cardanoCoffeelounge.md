@@ -5,7 +5,7 @@ type: blog
 description: Cần đa dạng hóa phương pháp học và trao đổi kiến thức với các nhà phát triển có kinh nghiệm và Cardanian tại Việt Nam
 ---
 
-{{youtube SHcUhpdnX1Q}}
+{{<youtube SHcUhpdnX1Q>}}
 
 ## Catalyst TV - Cardano Coffee lounge tại Việt Nam
 
