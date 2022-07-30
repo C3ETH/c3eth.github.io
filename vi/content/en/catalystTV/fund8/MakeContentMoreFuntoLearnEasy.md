@@ -1,17 +1,17 @@
 ---
-title: Make Content More Fun to Learn Easy
-linkTitle: Make Content More Fun to Learn Easy
+title: Tạo nội dung thú vị hơn để dễ dàng tiếp thu
+linkTitle: Tạo nội dung thú vị hơn để dễ dàng tiếp thu
 type: blog
 description: Hướng dẫn cần nhiều phương tiện và âm thanh hơn để thú vị và dễ hiểu hơn
 ---
 
 {{&lt;youtube z9GE4ZxLqLI&gt;}}
 
-## Catalyst TV - Make Content More Fun to Learn Easy
+## Catalyst TV - Tạo nội dung thú vị hơn để dễ dàng tiếp thu
 
 Hãy ủng hộ đề xuất này để tạo nội dung dễ hiểu để chúng ta học Cardano một cách vui vẻ !!!
 
-F8: Film + Media (FAM) creatives unite! MAKE CONTENT MORE FUN TO LEARN EASY https://cardano.ideascale.com/c/idea/... Requested funds in USD: $5200
+F8: Quảng cáo Phim + Phương tiện (FAM) hợp nhất! Tạo nội dung thú vị hơn để dễ dàng tiếp thu https: //cardano.ideascale.com/c/idea / ... Số tiền yêu cầu bằng USD: $ 5200
 
 Để theo dõi tiến trình của chúng tôi, cộng đồng có thể kiểm tra:
 
@@ -27,7 +27,7 @@ Hướng dẫn cần nhiều phương tiện và âm thanh hơn để thú vị 
 - **Đề xuất:** [Làm cho nội dung thú vị hơn để dễ học](https://cardano.ideascale.com/c/idea/397512)
 - **Quỹ yêu cầu:** 5200
 
-### Further Information
+### Thông tin bổ sung
 
 #### Các kênh chính thức của Miverse
 
