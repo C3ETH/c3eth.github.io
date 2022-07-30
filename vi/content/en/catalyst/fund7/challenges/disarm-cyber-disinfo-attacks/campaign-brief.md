@@ -3,7 +3,7 @@ title: Giải trừ các cuộc tấn công phá hoại thông tin mạng
 linkTitle: Giải trừ các cuộc tấn công phá hoại thông tin mạng
 type: docs
 hide_feedback: 'true'
-description: How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?
+description: Làm thế nào chúng ta có thể ngăn chặn các xâm nhập làm mất ổn định Cardano thông qua các trường hợp tấn công Distributed Denial of Truth (DDoT)?
 ---
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
@@ -14,7 +14,7 @@ Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
 Trong một hệ thống bằng chứng cổ phần với sự quản lý phân tán, sự hiểu biết chung về sự thật và sự tin tưởng vào các nguồn xác thực của thông tin chính xác và có thể chứng minh có thể rất quan trọng để tránh chia rẽ cộng đồng thành hai hoặc nhiều phe thù địch.
 
-A distributed denial-of-truth (DDoT) attack could be defined as a malicious attempt to disrupt the normal operations of a community, service or network by overwhelming the target, its surrounding infrastructure and community with a flood of disinformation and malinformation.
+Một cuộc tấn công Distributed Denial of Truth (DDoT) có thể được định nghĩa là một nỗ lực độc hại nhằm phá vỡ các hoạt động bình thường của cộng đồng, dịch vụ hoặc mạng bằng cách áp đảo mục tiêu, cơ sở hạ tầng và cộng đồng xung quanh của nó bằng một loạt tin giả và thông tin sai lệch.
 
 Thông tin bịa đặt hoặc cố tình thao túng nội dung âm thanh / hình ảnh / văn bản, cố ý tạo ra thuyết âm mưu hoặc tin đồn hoặc để gieo rắc sự ngờ vực. Với thông tin sai lệch, thông tin xấu được lan truyền với mục đích lừa gạt.
 
@@ -22,13 +22,13 @@ Thông tin độc hại là việc cố ý công bố thông tin vì lợi ích 
 
 Các tình huống tấn công DDoT này có thể nổi lên như một cuộc tấn công kết hợp bên ngoài / bên trong và lây lan nhanh hơn trong các cộng đồng bộ lạc khốc liệt, chẳng hạn như cộng đồng tiền điện tử. Một cuộc tấn công DDoT có thể áp đảo hệ thống với thông tin sai lệch, dẫn đến sự suy giảm niềm tin / chia rẽ cộng đồng.
 
-"Right now everybody is implicitly assuming that the only possible victim is an election," says David Perlman, a former Twitter Inc. data scientist who is now developing ways for corporations to counter disinformation at the computer security company Leviathan Security Group Inc. "There's no reason that a company couldn't be a victim," he says.*
+David Perlman, cựu nhà khoa học dữ liệu của Twitter Inc., người hiện đang phát triển các cách để các tập đoàn chống lại thông tin sai lệch tại công ty bảo mật máy tính Leviathan Security Group Inc., cho biết: "không có lý do gì mà một công ty không thể là nạn nhân, "ông nói. *
 
 - [Các thương hiệu phải đối mặt với một mối đe dọa trực tuyến mới: Các cuộc tấn công thông tin](https://www.wsj.com/articles/brands-face-a-new-online-threat-disinformation-attacks-11602187365)
 
-A bad faith player may secretly prepare for this scenario out of particular interests that are not publicly visible initially. This can be done with the help of some major holders/exchanges/rival coins/investors and/or media personalities.
+Một kẻ có niềm tin sai lệch có thể bí mật chuẩn bị cho tình huống này vì những lợi ích cụ thể mà ban đầu không được công khai. Điều này có thể được thực hiện với sự trợ giúp của một số chủ sở hữu lớn / sàn giao dịch / đồng tiền đối thủ / nhà đầu tư và / hoặc các nhân vật truyền thông.
 
-We are all aware how a single person (Elon Musk) is already able to move crypto markets, while a handful of prominent Cardano personas with outside support might be able to do the same.
+Tất cả chúng ta đều biết cách một người (Elon Musk) có thể làm thị trường tiền điện tử thay đổi, trong khi một số ít nhân vật Cardano nổi bật với sự hỗ trợ từ bên ngoài có thể làm được điều tương tự.
 
 Những người đề xuất trong thách thức này sẽ tập trung vào việc cải thiện tính minh bạch của tất cả các phân đoạn của chuyển tiền kho bạc Cardano và thực hiện các hướng dẫn "thân thiện với người mới bắt đầu" về cách theo dõi các sự kiện tài chính ngay từ khi thành lập Cardano và các tổ chức sáng lập chính của nó.
 
@@ -44,9 +44,9 @@ Một số SPO cộng đồng nổi tiếng đã sát cánh với thực thể b
 
 Tin đồn lan truyền rằng một tổ chức sáng lập bị cáo buộc đã bí mật bòn rút tiền và điều đó đã được thực hiện đằng sau hậu trường. Một tin đồn khác lan truyền rằng một trong những thực thể Cardano đã cài đặt một cửa hậu và một số SPO thông báo rằng họ đã giảm cam kết vì sợ hãi. Sự hoảng loạn lan rộng. Các cáo buộc được khuếch đại thông qua phương tiện truyền thông xã hội.
 
-Truth is hard to establish - references are made to talks and private discussions, public allegations are difficult to verify.
+Sự thật thì khó xác định - các tài liệu tham khảo được đưa ra cho các cuộc nói chuyện và thảo luận riêng tư, các cáo buộc công khai rất khó xác minh.
 
-The general community has no way to verify the true merits of the claims - as they are undocumented. Two camps emerge. Cardano community splits along fault lines. This adds more fuel to the fire. ADA value plunges. The very sources of truth in the Cardano ecosystem come under question. The entire system teeters. A DDOT attack by a group of two dozen well organized distributed players is underway. Governance is rocked.
+Cộng đồng nói chung không có cách nào để xác minh giá trị thực của các tuyên bố - vì chúng không được ghi lại. Hai phe nổi lên. Cộng đồng Cardano chia rẽ dọc theo các đường đứt gãy. Điều này càng đổ thêm dầu vào lửa. Giá trị ADA giảm mạnh. Nguồn gốc của sự thật trong hệ sinh thái Cardano đang bị nghi ngờ. Toàn bộ hệ thống sụp đổ. Một cuộc tấn công DDOT từ một nhóm gồm hai chục người chơi phân tán được tổ chức tốt đang được tiến hành. Quyền quản trị bị lật đổ.
 
 ## Tại sao nó lại quan trọng?
 
@@ -56,7 +56,7 @@ Các hệ thống kế thừa đã bị đưa đến bờ vực bởi sự bất
 
 Sự thật về Cardano và các sự kiện đang diễn ra cũng như trong quá khứ rất dễ xác lập ngay cả đối với những người mới. Niềm tin không bị xói mòn. Tính minh bạch được nâng cao.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Dễ dàng truy cập thông tin về kho bạc Cardano và các quỹ của nó, giải ngân kho bạc, chính sách tiền tệ trong quá khứ, hiện tại và tương lai
 - Các giao dịch lịch sử từ ngân khố và các tổ chức sáng lập có thể dễ dàng được xác định bởi bất kỳ người dùng không quyền lực nào của Cardano bằng một vài cú nhấp chuột
