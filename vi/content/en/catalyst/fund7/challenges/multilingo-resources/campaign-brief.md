@@ -8,7 +8,7 @@ description: Làm thế nào chúng ta có thể thúc đẩy những người k
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26252) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26252/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Multilingual-resources) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/multilingual-resources)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26252) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26252/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Multilingual-resources) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/multilingual-resources)
 
 ## Tóm tắt Chiến dịch
 
@@ -26,7 +26,7 @@ Tăng cường sự chấp nhận và tham gia cộng đồng của những ngư
 
 Tăng số lượng tài nguyên bằng nhiều ngôn ngữ.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi: Liệu chúng tôi có quản lý để giúp những người không nói tiếng Anh dễ dàng hơn trong việc xây dựng và phát triển cộng đồng Cardano tại các khu vực địa phương của họ không?
 
