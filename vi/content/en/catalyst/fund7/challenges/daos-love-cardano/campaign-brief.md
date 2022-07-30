@@ -8,7 +8,7 @@ description: Làm thế nào chúng ta có thể biến Cardano trở thành l�
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26237) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26237) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 
 ## Tóm tắt Chiến dịch
 
@@ -30,13 +30,13 @@ Các dApp này bao gồm từ quản lý Kho bạc cơ bản, đến Ra quyết 
 
 ## tại sao nó lại quan trọng?
 
-Blockchain applications have moved from trading to DeFi, to NFT. DAOs is what follows. Cardano needs to be ready for when that happens.
+Các ứng dụng chuỗi khối đã chuyển từ giao dịch sang DeFi, sang NFT. DAO là những gì theo sau. Cardano cần phải sẵn sàng khi điều đó xảy ra.
 
 ## Thành công trông như thế nào?
 
 Ngày càng có nhiều giải pháp tốt hơn để quản lý DAO của bạn với Cardano so với bất kỳ blockchain nào khác.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số tiền ADA đến từ phí giao dịch của các DAO sau khi các giải pháp cho thách thức này được triển khai (&gt; so với số tiền được phân bổ của thách thức)
 - Số lượng DAO sử dụng Cardano làm chuỗi quản trị / quản lý trong 6 tháng.
