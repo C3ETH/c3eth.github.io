@@ -1,14 +1,14 @@
 ---
-title: Mini/Low-Budget Dapps & Integrations
-linkTitle: Mini/Low-Budget Dapps & Integrations
+title: Các Dapp Ngân sách thấp / Nhỏ & Tích hợp
+linkTitle: Các Dapp Ngân sách thấp / Nhỏ & Tích hợp
 type: docs
 hide_feedback: 'true'
-description: What Low Budget / Mini Decentralized Applications will provide the most value for end users in the next 3 months?
+description: Ngân sách ít / Ứng dụng phi tập trung nhỏ nào sẽ mang lại nhiều giá trị nhất cho người dùng cuối trong 3 tháng tới?
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26250) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Mini-Low-Budget-Dapps-and-Integrations) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/mini-low-budget-dapps-and-integrations)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26250) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Mini-Low-Budget-Dapps-and-Integrations) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/mini-low-budget-dapps-and-integrations)
 
 ## Tóm tắt Chiến dịch
 
@@ -22,7 +22,7 @@ Do đó, một số hướng dẫn cụ thể được đưa ra, ngoài những 
 
 Khi sắp phát hành hợp đồng thông minh, có thể hợp lý khi tạo ra một thách thức cụ thể để đảm bảo ít nhất 20 ứng dụng mới thu hút người dùng mới đến Cardano trong 3 tháng tới.
 
-## Guiding Questions
+## Hướng dẫn đặt câu hỏi
 
 - Các ứng dụng chính làm nền tảng cho hệ sinh thái ứng dụng trên các nền tảng khác là gì?
 - Các ứng dụng sinh lời nhiều nhất hoặc được sử dụng nhiều nhất trên các hệ sinh thái khác là gì?
@@ -41,7 +41,7 @@ Trong các quỹ gần đây, nhiều Dapp nhỏ đã không được tài trợ
 
 Ít nhất 20 ứng dụng phi tập trung nhỏ mới và khả thi được xây dựng trên Cardano trong thời gian ngắn, thu hút người dùng mới.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 Để đánh giá thách thức, chúng tôi sẽ tự hỏi: Những nỗ lực của chúng tôi có quản lý để thu hút người dùng đến với nền tảng không? Những nỗ lực của chúng tôi có dẫn đến các ứng dụng mới, khả thi được xây dựng trên Cardano không?
 
@@ -57,8 +57,8 @@ Việc sử dụng các ứng dụng được phát triển trong quá trình th
 
 Nếu ứng dụng sử dụng mã thông báo:
 
-- Number/growth of application tokens
-- Number/growth of distinct addresses holding application tokens
+- Số lượng / sự phát triển của chữ ký số ứng dụng
+- Số lượng / sự phát triển của các địa chỉ riêng biệt nắm giữ chữ ký số của ứng dụng
 - Khả năng tồn tại của các ứng dụng được phát triển trong quá trình thử thách:
 - Có bao nhiêu ứng dụng vẫn đang được phát triển trong 3 tháng tới?
 - Có bao nhiêu ứng dụng đã tạo ra lợi nhuận cho người tạo của chúng?
