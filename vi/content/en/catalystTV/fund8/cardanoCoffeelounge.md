@@ -1,8 +1,8 @@
 ---
-title: Cardano Coffee lounge in Vietnam
-linkTitle: Cardano Coffee lounge in Vietnam
+title: Quán cà phê Cardano tại Việt Nam
+linkTitle: Quán cà phê Cardano tại Việt Nam
 type: blog
-description: Need to diversify learning methods and exchange knowledge with experienced devs and Cardanian in Vietnam
+description: Cần đa dạng hóa phương pháp học và trao đổi kiến thức với các nhà phát triển có kinh nghiệm và Cardanian tại Việt Nam
 ---
 
 {{&lt;youtube SHcUhpdnX1Q&gt;}}
