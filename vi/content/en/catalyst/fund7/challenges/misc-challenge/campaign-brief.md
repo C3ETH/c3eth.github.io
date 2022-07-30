@@ -1,20 +1,20 @@
 ---
-title: Miscellaneous Challenge
+title: Thử thách hỗn hợp
 linkTitle: Thử thách khác
 type: docs
 hide_feedback: 'true'
-description: How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+description: Làm thế nào để chúng ta tạo ra một không gian cho các ý tưởng và dự án không phù hợp với bất kỳ Thách thức hiện tại nào khác?
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26248) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Miscellaneous-Challenge) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/miscellaneous-challenges)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26248) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Miscellaneous-Challenge) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/miscellaneous-challenges)
 
 ## Tóm tắt Chiến dịch
 
 Thử thách này được thiết kế để nắm bắt các dự án thú vị và có giá trị hiện không phù hợp với các thử thách khác.
 
-The only constrain to submit a proposal in this challenge is that the proposal needs to be somehow related to Cardano.
+Ràng buộc duy nhất để gửi một đề xuất trong thử thách này là đề xuất đó cần phải liên quan đến Cardano.
 
 ## Xác định sự phù hợp với thách thức
 
