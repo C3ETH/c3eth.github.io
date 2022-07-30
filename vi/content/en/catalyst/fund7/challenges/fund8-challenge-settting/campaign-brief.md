@@ -8,18 +8,18 @@ description: Những Thách thức nào mà cộng đồng nên ưu tiên giải
 
 Quy mô quỹ: **$ 12,800,000 trong Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26257) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting)
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26257) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified) và [Kho lưu trữ](https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting) và [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting)
 
 ## Tóm tắt Chiến dịch
 
-Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano's mission.
+Những thách thức do cộng đồng xác định là rất quan trọng đối với hoạt động tự quản của cộng đồng Cardano và tạo ra một cách độc đáo để đạt được nhiệm vụ của Cardano.
 
 Đặt ra thách thức khác với các thách thức khác vì nó là đề xuất những thách thức mới, liệu những thách thức thường xuyên có phải là đề xuất các sáng kiến để giải quyết thách thức hay không.
 
 Sau khi một đề xuất được cộng đồng chấp nhận, nhóm đề xuất có cơ hội nhận được phần thưởng khuyến khích "Nhóm thách thức" trị giá 2.500 đô la ada, nếu các điều kiện sau được đáp ứng:
 
 - Nhóm thử thách đưa ra thử thách cho cộng đồng khi bắt đầu quỹ sau.
-- The challenge team facilitates a challenge-focused breakout session in one of the after townhalls.
+- Nhóm thử thách tạo điều kiện cho một phiên đột phá tập trung vào thử thách tại một trong những khu sau toà thị chính.
 - Nhóm thử thách dẫn đầu một phiên hồi cứu thử thách trong "tuần hồi tố" của quỹ tiếp theo.
 - Nhóm thử thách tổ chức một phiên họp với các nhóm đề xuất đã nhận được tài trợ cho thử thách.
 
@@ -27,7 +27,7 @@ Nhóm thử thách theo dõi các chỉ số chính như được báo cáo bở
 
 Những hoạt động này có vẻ phức tạp, nhưng bạn sẽ nhận được hướng dẫn, đào tạo và hỗ trợ từ nhóm Catalyst và cộng đồng. Tất cả những gì bạn cần là sẵn sàng đại diện cho thử thách một cách công bằng và cân bằng và mong muốn tham gia. Khi các điều kiện được đáp ứng, đội của bạn sẽ đủ điều kiện để nhận phần thưởng.
 
-## Guiding Questions
+## Hướng dẫn đặt câu hỏi
 
 - Những thách thức nào sẽ thu hút số lượng cử tri cao nhất?
 - Những thách thức nào, nếu được giải quyết, sẽ tạo bàn đạp cho việc áp dụng Cardano?
