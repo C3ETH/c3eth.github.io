@@ -1,6 +1,6 @@
 ---
-title: Nation Building Dapps
-linkTitle: Nation Building Dapps
+title: Xây dựng Dapps cho quốc gia
+linkTitle: Xây dựng Dapps cho quốc gia
 type: docs
 hide_feedback: 'true'
 description: Những giải pháp Dapp cốt lõi nào có thể được cung cấp để các chính phủ áp dụng rộng rãi ở các nước đang phát triển?
@@ -30,7 +30,7 @@ Các nhà đề xuất khuyến nghị nên có được nền tảng kiến th�
 
 Việc áp dụng Dapps bởi Chính phủ các quốc gia đang phát triển, phối hợp với các Trung tâm Cộng đồng Địa phương và Đối tác Quốc tế
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số lượng đề xuất
 - Đề xuất xếp hạng CA
