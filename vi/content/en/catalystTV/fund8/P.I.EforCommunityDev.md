@@ -1,13 +1,13 @@
 ---
-title: P.I.E for Community Dev. Sector/Gamers-On-Chained/Miscellaneous-Challenge
-linkTitle: P.I.E for Community Dev. Sector/Gamers-On-Chained/Miscellaneous-Challenge
+title: P.I.E dành cho Cộng đồng lập trình / Game thủ-On-Chained /Thử thách hỗn hợp
+linkTitle: P.I.E dành cho Cộng đồng lập trình / Game thủ-On-Chained /Thử thách hỗn hợp
 type: blog
 description: Để tăng khả năng kiểm toán, chúng tôi cần đánh giá kết quả thực hiện các đề xuất do Catalyst tài trợ với khuôn khổ hệ thống
 ---
 
 {{&lt;youtube z1l1_cISTwU&gt;}}
 
-## Catalyst TV - P.I.E for Community Dev. Sector/Gamers-On-Chained/Miscellaneous-Challenge
+## Catalyst TV - P.I.E dành cho Cộng đồng lập trình / Game thủ-On-Chained /Thử thách hỗn hợp
 
 *Hãy ghé qua để bình luận, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
@@ -72,7 +72,7 @@ Chúng tôi đang chào đón các thành viên mới, vì vậy vui lòng tham 
 [**Telegram**](https://t.me/cryptoviewsofficial_chat)
 [**Bất hòa**](https://discord.gg/cpW5J37p)
 
-#### Our Partners
+#### Những cộng sự của chúng tôi
 
 **2Min Review**
 
