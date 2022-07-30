@@ -1,25 +1,25 @@
 ---
-title: DeFi should be more fun on Scaling/MetaVerse/Play
-linkTitle: DeFi should be more fun on Scaling/MetaVerse/Play
+title: DeFi nên thú vị hơn trên Scaling / MetaVerse / Play
+linkTitle: DeFi nên thú vị hơn trên Scaling / MetaVerse / Play
 type: blog
 description: Thay vì đi theo thiết kế UX nhàm chán như hầu hết các DEX hiện tại, Miverse sẽ đưa ra một mô hình khác biệt cho hệ sinh thái DeFi & GameFi.
 ---
 
 {{&lt;youtube DxKtSamw_GI&gt;}}
 
-## Catalyst TV - Make Content More Fun to Learn Easy
+## Catalyst TV - Làm cho nội dung thú vị hơn để dễ tiếp thu hơn
 
 *Hãy ghé qua để bình luận, thích và bình chọn cho đề xuất này từ cộng đồng Việt Nam.*
 
 Một đề xuất tuyệt vời cho những người yêu thích trò chơi, hãy bình chọn cho đội để biến cuộc phiêu lưu của anh ấy thành hiện thực!
 
-- **Challenge:** Gamers On - Chained
+- **Thử thách:** Gamers trên Blockchain
 
 - **Đề xuất:** [METAVERSE OF PLAY-TO-ENTERTAIN GAMER](https://cardano.ideascale.com/c/idea/397373)
 
 - **Quỹ yêu cầu:** 137417
 
-- **Challenge:** Gamers On - Chained
+- **Thử thách:** Gamers trên Blockchain
 
 - **Đề xuất:** [ĐỒ HỌA HQ CHO MIVERSE METAVERSE](https://cardano.ideascale.com/c/idea/397499)
 
@@ -58,13 +58,13 @@ Người sáng lập Unicorn Studio - Có hơn 11 năm phát triển trò chơi,
 
 [**Facebook**](https://www.facebook.com/ho.quochuy.75470)
 
-### Further Information
+### Thông tin bổ sung
 
 #### Studio Unicorn
 
 Unicorn studio là đối tác chính hiện tại của chúng tôi để phát triển giai đoạn đầu của dự án này. Với đội ngũ chuyên nghiệp gồm hơn 20 thành viên trong lĩnh vực phát triển trò chơi và blockchain, Unicorn studio sẽ giúp chúng tôi thực hiện đúng lộ trình và tạo ra trò chơi có chất lượng tốt nhất. Hơn nữa, Người sáng lập Christian Ho và Giám đốc điều hành Andy Nguyễn của studio Unicorn cũng là những thành viên chủ chốt của Miverse và sẽ giúp xây dựng một nhóm phát triển nội bộ độc lập để chúng tôi phát triển bền vững lâu dài sau thành công của giai đoạn đầu.
 
-For more info about the team members and their ability to develop this project, please check this [portfolio](https://drive.google.com/file/d/1zi696iR7UKfY_517Jua1o9an933wDXn1/view)
+Để biết thêm thông tin về các thành viên trong nhóm và khả năng phát triển dự án này của họ, vui lòng xem [danh mục đầu tư](https://drive.google.com/file/d/1zi696iR7UKfY_517Jua1o9an933wDXn1/view) này
 
 ##### Theo dõi hoạt động của nhóm
 
