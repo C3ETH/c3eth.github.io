@@ -18,19 +18,19 @@ Những ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người
 
 ### Tại sao nó lại quan trọng?
 
-Quality Dapps and integrations will increase utility &amp; adoption of Cardano. A broad funding challenge like this encourages more proposals.
+Các Dapp và tích hợp chất lượng sẽ làm tăng tiện ích và việc áp dụng Cardano. Một thách thức được tài trợ rộng rãi như thế này khuyến khích nhiều đề xuất hơn.
 
 ### Thành công trông như thế nào?
 
-Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
+Các ứng dụng mới lạ và khả thi được xây dựng trên Cardano thu hút được người dùng. Tích hợp quản lý để thu hút nhiều người áp dụng hơn.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
-To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
+Để đánh giá thách thức, chúng ta sẽ tự hỏi: Những nỗ lực của chúng ta có quản lý để thu hút người dùng đến với nền tảng không? Những nỗ lực của chúng tôi có dẫn đến các ứng dụng mới, khả thi được xây dựng trên Cardano không?
 
-Let an "application output" and an "application transaction" be an output and transactions that use the applications' script addresses, and an "application token" be a token that's issued by the application.
+Hãy để "đầu ra ứng dụng" và "giao dịch ứng dụng" là mục tiêu và những giao dịch sử dụng địa chỉ tập lệnh của ứng dụng; và "mã ứng dụng" là mã thông báo do ứng dụng phát hành.
 
-### Usage of applications developed during the challenge:
+### Sử dụng của các ứng dụng được phát triển trong thử thách
 
 - Số lượng / mức tăng trưởng của đầu ra ứng dụng
 - Số lượng / sự tăng trưởng của các giao dịch ứng dụng
@@ -38,15 +38,15 @@ Let an "application output" and an "application transaction" be an output and tr
 - Tổng / tăng trưởng sử dụng tài nguyên của các ứng dụng
 - Số lượng / sự phát triển của các địa chỉ riêng biệt được đề cập trong các giao dịch ứng dụng
 
-### If the application uses tokens:
+### Nếu ứng dụng sử dụng chữ ký điện tử:
 
-- Number/growth of application tokens
+- Số lượng / sự phát triển của chữ ký điện tử ứng dụng
 - Số lượng / sự phát triển của các địa chỉ riêng biệt nắm giữ mã thông báo ứng dụng
 - Khả năng tồn tại của các ứng dụng được phát triển trong quá trình thử thách:
 - Có bao nhiêu ứng dụng vẫn đang được phát triển vào cuối năm 2022?
-- How many of the applications made a profit for their creators?
+- Có bao nhiêu ứng dụng đã tạo ra lợi nhuận cho người phát triển?
 - Có bao nhiêu trong số các nhóm xây dựng các ứng dụng đã phát triển trong năm 2022?
-- How many of the teams which built the applications built (or plan to build) another application?
+- Có bao nhiêu nhóm phát triển ứng dụng (hoặc dự định phát triển) một ứng dụng khác?
 
 ## Tóm tắt thử thách
 
@@ -60,7 +60,7 @@ Thử thách này phù hợp với các công ty công nghệ hoặc blockchain 
 
 Đối với những người có kiến thức nền tảng liên quan nhưng không có đội ngũ đầy đủ hoặc báo cáo chính thức đã hoàn thành chi tiết giải pháp, dự án phải được coi là một dự án giai đoạn nghiên cứu và ngân sách phải ít hơn 10.000 đô la.
 
-### Guiding questions
+### Hướng dẫn đặt câu hỏi
 
 - Các ứng dụng chính làm nền tảng cho hệ sinh thái ứng dụng trên các nền tảng khác là gì?
 - Các ứng dụng sinh lời nhiều nhất hoặc được sử dụng nhiều nhất trên các hệ sinh thái khác là gì?
