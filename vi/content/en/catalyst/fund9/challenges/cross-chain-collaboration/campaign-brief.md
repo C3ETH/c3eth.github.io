@@ -1,6 +1,6 @@
 ---
-title: Cross-Chain Collaboration
-linkTitle: Cross-Chain Collaboration
+title: Chuỗi hợp tác chéo
+linkTitle: Chuỗi hợp tác chéo
 type: docs
 hide_feedback: 'true'
 description: Trong 6-12 tháng tới, làm thế nào chúng ta có thể tạo ra các kết nối mới giữa các cộng đồng blockchain và làm thế nào để chúng ta tăng cường sự hợp tác hiện có?
@@ -16,10 +16,10 @@ Quy mô quỹ: **900.000 USD thanh toán bằng Ada**
 
 #### Tiểu sử
 
-Why is this Challenge needed?
+Tại sao Thử thách này là cần thiết?
 
-- Tribalism &amp; maximalism are harmful.
-- We are in the multi-chain future.
+- Chủ nghĩa bộ lạc &amp; chủ nghĩa tối đa đều có hại.
+- Chúng ta đang ở trong tương lai đa chuỗi.
 - Khả năng tương tác là chìa khóa.
 - Chúng tôi cần các sáng kiến để tăng cường giao tiếp, điều phối và cộng tác giữa các chuỗi.
 - Chúng tôi có những thách thức chung. Hãy cùng nhau giải quyết những vấn đề đó.
@@ -50,7 +50,7 @@ Bạn có thể kết bạn với ai đó từ bên ngoài hệ sinh thái Carda
 - Các giải pháp do chất xúc tác tạo ra được các chuỗi và cộng đồng khác chấp nhận
 - Các dự án nghiên cứu, giáo dục, tiếp cận và đổi mới chung với các chuỗi và cộng đồng khác (ví dụ: podcast, hackathons, hội thảo trên web, trung tâm giao tiếp, tài nguyên giáo dục)
 
-### Who to collaborate with?
+### Đối tượng Cộng tác là ai?
 
 Bất kỳ chuỗi nào và cộng đồng của họ đều được hoan nghênh nhưng dưới đây là một số ý tưởng về vị trí ưu tiên:
 
@@ -75,13 +75,13 @@ Bất kỳ chuỗi nào và cộng đồng của họ đều được hoan nghê
 
 ### Tại sao nó lại quan trọng?
 
-We can be a catalyst for multi-chain awareness and interoperability of blockchains which guarantees shared success in the cryptoeconomy.
+Chúng ta có thể là Catalyst tạo nhận thức đa chuỗi và khả năng tương tác của các blockchain đảm bảo thành công chung trong kinh tế tiền điện tử.
 
-### What does Sucess look like?
+### Thành công trông như thế nào?
 
 Hợp tác tạo ra giá trị giữa Project Catalyst và các cộng đồng khác, thông qua cả các sáng kiến kỹ thuật và phi kỹ thuật.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Để đánh giá mức độ thành công của thử thách, chúng ta có thể theo dõi:
 
@@ -90,6 +90,6 @@ Hợp tác tạo ra giá trị giữa Project Catalyst và các cộng đồng k
 - Số lượng triển khai kỹ thuật kết nối Cardano với các blockchain khác
 - Ý tưởng từ các chuỗi khác do Catalyst thực hiện
 - Các dự án và dApps từ các chuỗi khác được triển khai trên Cardano
-- Catalyst-created solutions adopted by other chains/communities
+- Các giải pháp do Catalyst tạo ra được các chuỗi / cộng đồng khác chấp nhận
 - Số lượng sự kiện / hội thảo / phiên họp được sắp xếp với các cộng đồng khác
 - Số lượng các sáng kiến lâu dài với các nhóm chuỗi chéo (các thành viên từ các cộng đồng blockchain khác nhau cùng nhau)
