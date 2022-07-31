@@ -1,9 +1,9 @@
 ---
-title: Develper Ecosystem
-linkTitle: Develper Ecosystem
+title: Hệ sinh thái cho lập trình viên
+linkTitle: Hệ sinh thái cho lập trình viên
 type: docs
 hide_feedback: 'true'
-description: How can we create a positive developer experience that helps the developer focus on building successful apps?
+description: Làm cách nào để chúng tôi có thể tạo ra trải nghiệm tích cực cho nhà phát triển để giúp các lập trình viên tập trung vào việc xây dựng các ứng dụng thành công?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">
@@ -14,39 +14,39 @@ Quy mô quỹ: **1.000.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-How can we create a positive developer experience that helps the developer focus on building successful apps?
+Làm cách nào để chúng tôi có thể tạo ra trải nghiệm tích cực cho nhà phát triển để giúp các lập trình viên tập trung vào việc xây dựng các ứng dụng thành công?
 
 ### Tại sao nó lại quan trọng?
 
-Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.
+Việc tạo ra một trải nghiệm tuyệt vời nhằm khuyến khích các lập trình viên sẽ dẫn đến việc tăng khả năng chấp thuận, năng suất và khả năng sáng tạo của các nhà phát triển.
 
 ### Thành công trông như thế nào?
 
 Cardano có một hệ sinh thái nhà phát triển đang phát triển mạnh, các nhà phát triển có thể mở rộng quy mô kinh doanh của họ bằng cách kiếm tiền từ các dịch vụ mà họ cung cấp.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
-Key metric to measure
+Chỉ số chính để đánh giá
 
-At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for developers to build on top of Cardano?
+Khi kết thúc thử thách này, chúng ta sẽ tự hỏi: Liệu chúng ta có quản lý để giúp các lập trình viên xây dựng dựa trên Cardano dễ dàng hơn không?
 
-- Filling in gaps defined in the exploration stage
+- Lấp các khoảng trống được xác định trong giai đoạn khảo sát.
 - Số lượng nhà phát triển tích cực xây dựng trên Cardano
 - Số lượng repos trên Github bằng cách sử dụng công cụ. (Tăng hàng tháng)
-- Reduce wait time of unanswered communications with developers to 24 hours
+- Giảm thời gian chờ của các cuộc hội thoại không hồi âm với nhà phát triển xuống còn 24 giờ.
 - Ý thức cộng đồng và các cuộc trò chuyện. Có những người xung quanh để nói chuyện với
 
 ## Tóm tắt thử thách
 
-#### Guiding Questions
+#### Hướng dẫn đặt câu hỏi
 
 - Đâu là công cụ mà chúng ta cần ưu tiên đầu tiên
-- How do we attract developers from outside of our current community to participate in Catalyst?
+- Làm cách nào để chúng ta thu hút các lập trình viên từ bên ngoài cộng đồng hiện tại của chúng ta tham gia vào Catalyst?
 - Các nhà phát triển muốn gì và làm cách nào để họ lấy được nó từ hệ sinh thái nhà phát triển Cardano?
-- What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?
+- Điều gì sẽ khiến nó trở thành một lập trình viên  có động lực để nghiền ngẫm các tài liệu và mã bất kể việc tạo một ứng dụng khó đến mức nào?
 - Các nhà quản lý nhà phát triển doanh nghiệp đang tìm kiếm điều gì để có thể xây dựng các dự án doanh nghiệp - nội bộ hoặc thương mại?
 
-#### Potential Directions
+#### Các định hướng tiềm năng
 
 - Năng suất của nhà phát triển: IDE, các tập lệnh để tự động hóa mọi thứ
 - Cơ sở kiến thức &amp; Tài liệu
@@ -59,7 +59,7 @@ At the end of this challenge, we will be asking ourselves: Did we manage to make
 - Các cấu trúc hỗ trợ
 - Cơ cấu khuyến khích
 
-### How does this compare to the Open Source Development Ecosystem challenge?
+### Điều này so với thách thức Hệ sinh thái phát triển nguồn mở như thế nào?
 
 Sự khác biệt là ở tiêu đề. Mặc dù chúng tôi là những người ủng hộ nguồn mở, nhưng chúng tôi nhận ra rằng không phải tất cả các nhóm đều ở điểm mà họ cảm thấy thoải mái hoặc có khả năng tìm kiếm nguồn mở các giải pháp của họ. Một số API có thể là nguồn đóng vĩnh viễn, nhưng vẫn cung cấp tổng thể tích cực cho hệ sinh thái Cardano. Nếu bạn hoàn toàn sử dụng mã nguồn mở ngay từ ngày đầu tiên, hãy chắc chắn đồng hành với thử thách Hệ sinh thái phát triển nguồn mở (nếu đó là một lựa chọn). Chúng tôi đang root cho bạn. Tuy nhiên, chúng tôi tin rằng vẫn có chỗ cho cả hai vào thời điểm này.
 
