@@ -3,7 +3,7 @@ title: Phát triển Đông Á, Phát triển Cardano
 linkTitle: Phát triển Đông Á, Phát triển Cardano
 type: docs
 hide_feedback: 'true'
-description: How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
+description: Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Đông Á theo cách toàn diện và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến !
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Grow-East-Asia-Grow-Cardano-ab0989.png" style="width:500px;height500px">
@@ -22,7 +22,7 @@ Ví dụ, phần lớn Stake Pools cư trú ở Bắc Mỹ và Châu Âu. Mạng
 
 Cardano bắt đầu cuộc sống ở Đông Á (Nhật Bản và Hồng Kông), và Emurgo tập trung vào Đông Á. Hãy xây dựng dựa trên điều đó.
 
-#### What this is:
+#### Mục đích là gì:
 
 **Lời kêu gọi hành động;** Kích hoạt khả năng nhận biết của cộng đồng Cardano, thưởng cho cơ hội để biến thế giới trở nên tốt đẹp hơn. Đông Á là mảnh đất màu mỡ cho việc áp dụng Cardano. Tỷ suất sinh lợi trên ý định (ROI) có khả năng cao vì các dự án ở các nền kinh tế trẻ và đang phát triển gặp ít sức ì kinh tế hơn.
 
@@ -38,7 +38,7 @@ Cộng đồng Cardano nghiêng nhiều về Bắc Mỹ và Châu Âu. Sự phá
 
 Nhiều người trên khắp Châu Á và kết nối với Châu Á, đến với nhau và thành lập các nhóm để phát triển hệ sinh thái của chúng tôi.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi mình một số câu hỏi về chất lượng tham gia:
 
