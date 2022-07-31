@@ -1,9 +1,9 @@
 ---
-title: 'Film + Media (FAM) creatives unite! '
-linkTitle: 'Film + Media (FAM) creatives unite! '
+title: Điện ảnh và Truyền thông (FAM) hợp nhất!
+linkTitle: Điện ảnh và Truyền thông (FAM) hợp nhất!
 type: docs
 hide_feedback: 'true'
-description: Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent.
+description: Thị trường truyền thông + giải trí toàn cầu = 2 nghìn tỷ đô la. Một mạng lưới FAM phi tập trung để tạo ra cộng đồng truyền thông Cardano chất lượng là rất quan trọng nhưng vẫn chưa có.
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">
@@ -14,17 +14,17 @@ Quy mô quỹ: **150.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent.
+Thị trường truyền thông + giải trí toàn cầu = 2 nghìn tỷ đô la. Một mạng lưới FAM phi tập trung để tạo ra cộng đồng truyền thông Cardano chất lượng là rất quan trọng nhưng vẫn chưa có.
 
 ### Tại sao nó lại quan trọng?
 
-A challenge category for creatives has been absent so far. Diversity + human creativity in the arts can enrich the Cardano ecosystem + more
+Cho đến nay, danh mục thử thách dành cho sáng tạo đã không còn. Sự đa dạng cộng với sự sáng tạo của con người trong nghệ thuật có thể làm phong phú thêm hệ sinh thái Cardano và hơn thế nữa
 
 ### Thành công trông như thế nào?
 
 Các nhóm cộng tác bình đẳng để tạo ra các nền tảng + nội dung đa phương tiện chất lượng cao, toàn diện = nâng cao kiến thức + áp dụng Cardano
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Như một thước đo sức khỏe của hệ sinh thái:
 
