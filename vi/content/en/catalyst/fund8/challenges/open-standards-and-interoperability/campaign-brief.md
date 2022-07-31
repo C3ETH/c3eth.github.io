@@ -30,7 +30,7 @@ Một hệ sinh thái trung lập với nhà cung cấp để
 
 - cung cấp cơ sở hạ tầng cần thiết
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Việc áp dụng **các tiêu chuẩn mở** sẽ tăng lên giữa các dự án cardano. Về lâu dài, tất cả các dự án do cộng đồng tài trợ phải được công khai và minh bạch theo các tiêu chuẩn chung.
 
@@ -67,7 +67,7 @@ Như Charles Hoskinson đã đề cập "Mã Cardano là Mã nguồn mở, nhưn
 - Làm thế nào chúng ta có thể hạ thấp các rào cản và tăng cường sự tham gia cởi mở vào hệ sinh thái của chúng ta?
 - Làm thế nào chúng tôi có thể cung cấp cơ hội bình đẳng cho tất cả các dự án bất kể quy mô nào?
 
-### Possible directions
+### Các định hướng tiềm năng
 
 - Khuyến khích sự hợp tác giữa các dự án để giải quyết các vấn đề phức tạp
 - Đưa ra các tiêu chuẩn và quy trình chung và khuyến khích việc áp dụng chúng trong các dự án
@@ -83,6 +83,6 @@ Thật vậy, thách thức này là về việc thiết lập các tiêu chuẩ
 
 Nói ngắn gọn: Thách thức này là về tính mở, tiêu chuẩn hóa và khả năng tương tác giữa các dự án nguồn mở được tài trợ bởi cộng đồng, trong khi "nguồn mở" là về tăng số lượng / chất lượng của các dự án.
 
-#### References
+#### Tài liệu tham khảo
 
 `OPSTD` Almeida, Fernando &amp; José, Oliveira &amp; José, Cruz. (2011). Tiêu chuẩn mở và nguồn mở: Kích hoạt khả năng tương tác. Tạp chí Quốc tế về Kỹ thuật Phần mềm &amp; Ứng dụng. 2. 10.5121 / ijsea.2011.2101.
