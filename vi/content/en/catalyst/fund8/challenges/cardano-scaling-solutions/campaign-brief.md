@@ -3,7 +3,7 @@ title: Giải pháp mở rộng quy mô Cardano
 linkTitle: Giải pháp mở rộng quy mô Cardano
 type: docs
 hide_feedback: 'true'
-description: What research and scaling implementations can be introduced to help Cardano increase scalability?
+description: Nghiên cứu và triển khai mở rộng nào có thể giới thiệu để giúp Cardano tăng khả năng mở rộng?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" style="width:500px;height500px">
@@ -14,7 +14,7 @@ Quy mô quỹ: **400.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-What research and scaling implementations can be introduced to help Cardano increase scalability?
+Nghiên cứu và triển khai mở rộng nào có thể giới thiệu để giúp Cardano tăng khả năng mở rộng?
 
 ### Tại sao nó lại quan trọng?
 
@@ -24,7 +24,7 @@ Hydra sẽ không giải quyết mọi vấn đề về mở rộng quy mô tron
 
 Các giải pháp mở rộng quy mô được giới thiệu và triển khai bởi cộng đồng mà các dự án Cardano có thể bắt đầu sử dụng.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Số lượng các giải pháp mở rộng quy mô có sẵn cho cộng đồng để sử dụng trong các dự án của họ
 - Số lượng dự án được triển khai trên bất kỳ giải pháp mở rộng quy mô mới nào
@@ -34,7 +34,7 @@ Các giải pháp mở rộng quy mô được giới thiệu và triển khai b
 
 Để Cardano trở thành nhà lãnh đạo toàn cầu với tư cách là một blockchain hợp đồng thông minh, nó sẽ cần phải mở rộng quy mô để đáp ứng các yêu cầu xử lý hàng trăm triệu người dùng.
 
-### Current Scaling Situation
+### Thựuc tại tình hình mở rộng quy mô
 
 Hydra là dự án hàng đầu đang được IOG thực hiện để giúp Cardano mở rộng quy mô blockchain.
 
