@@ -42,15 +42,15 @@ Cũng như Châu Phi, tôi nghĩ chúng ta cũng nên tập trung đáng kể v�
 
 Ấn Độ có dân số khổng lồ 1,4 tỷ người.
 
-55% are under the age of 30yrs (Wikipedia, 2016 est.) There are a significant percentage of unbanked/rural people worldpoverty.io notes 100 million Indians (7%) live in extreme poverty Certain rural areas are already using Aadhaar Pay to pay for goods using their fingerprint see https://www.payaadhar. In 2019). So there is enough infrastructure and consumer devices in place to make this a serious market right away.
+55% dưới 30 tuổi (Wikipedia, ước tính năm 2016). Một tỷ lệ đáng kể người dân nông thôn / không có ngân hàng trên thế giới nghèo. đối với hàng hóa sử dụng dấu vân tay của họ, hãy xem tại https: //www.payaadhar. Trong năm 2019). Vì vậy, có đủ cơ sở hạ tầng và thiết bị tiêu dùng có thể lập tức biến Ấn Độ trở thành một thị trường thực thụ.
 
 Có một quỹ / thách thức Catalyst tập trung vào Ấn Độ sẽ rất hữu ích để tập hợp các nhóm và ý tưởng và đưa trái bóng Cardano lăn ở Ấn Độ. Tôi không phải là người Ấn Độ và không có mối liên hệ nào với Ấn Độ, nhưng tôi nghĩ rằng Cardano có thể hữu ích để giúp giải quyết các vấn đề mà họ phải đối mặt và cũng để phát triển hệ sinh thái Cardano.
 
 Về bề mặt, các vấn đề ở Ấn Độ có thể giống với Châu Phi hoặc Nam Mỹ, và sẽ có một số chồng chéo, nhưng lý tưởng nhất là người dân địa phương xác định và giải quyết các vấn đề địa phương.
 
-Emurgo has an office in India, but not sure what they are up to. IT in India is well established with a large pool of talent and skills available - we need to let them know about Cardano and the Catalyst funding. This proposal is intended to focus on India within a Fund8 challenge, with that challenge attracting actionable proposals to grow the community of developers and educators.
+Emurgo có văn phòng ở Ấn Độ, nhưng không chắc họ đang làm gì. Công nghệ thông tin ở Ấn Độ được thiết lập tốt với một lượng lớn nhân tài và kỹ năng sẵn có - chúng tôi cần cho họ biết về Cardano và nguồn tài trợ của Catalyst. Đề xuất này nhằm tập trung vào Ấn Độ trong một thách thức Quỹ 8, với thách thức đó thu hút các đề xuất có thể hành động để phát triển cộng đồng các nhà phát triển và nhà giáo dục.
 
-Some suggestions for that Fund8 challenge are:
+Một số gợi ý cho thử thách Quỹ 8 đó là:
 
 - Thiết lập các trung tâm Cardano địa phương để cập nhật thường xuyên (thế giới ảo hoặc thực)
 
@@ -70,4 +70,4 @@ Some suggestions for that Fund8 challenge are:
 
 Nên có bao nhiêu ADA / USD cho đề xuất này?
 
-I think it will take a few Catalyst rounds to build the Cardano interest in India, so the first round of investment during Fund8 should be $150k. Subsequent funding rounds can be determined at the time and then voted on by the community.
+Tôi nghĩ sẽ mất một vài vòng Catalyst để xây dựng sự quan tâm của Cardano ở Ấn Độ, do đó, vòng đầu tư đầu tiên trong QUỹ 8 sẽ là 150 nghìn đô la. Các vòng tài trợ tiếp theo có thể được xác định vào thời điểm đó và sau đó được cộng đồng bình chọn.
