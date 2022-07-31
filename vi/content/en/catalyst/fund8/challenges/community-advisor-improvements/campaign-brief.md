@@ -1,6 +1,6 @@
 ---
-title: Community Advisor Improvements
-linkTitle: Community Advisor Improvements
+title: Cải tiến Cố vấn Cộng đồng
+linkTitle: Cải tiến Cố vấn Cộng đồng
 type: docs
 hide_feedback: 'true'
 description: Cố vấn cộng đồng là một vai trò quan trọng đang phát triển của Project Catalyst và cần một địa điểm và ngân sách để gửi các đề xuất nhằm cải thiện hiệu suất của họ
@@ -18,13 +18,13 @@ Cố vấn cộng đồng là một vai trò quan trọng đang phát triển c�
 
 ### Tại sao nó lại quan trọng?
 
-Community Advisors are facing constantly challenges but dont have the possibility to actively co-design their acitivity.
+Cố vấn Cộng đồng đang phải đối mặt liên tục với những thách thức nhưng không có khả năng chủ động đồng thiết kế sự nhạy bén của họ.
 
 ### Thành công trông như thế nào?
 
 Cố vấn cộng đồng (CA) gửi đề xuất với tư cách là một Nhóm để cải thiện hiệu suất, hoạt động và sự phát triển của CAs.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Số lượng công cụ mới được phát triển
 - Số lượng các cơ chế mới để đánh giá và cho điểm các đề xuất
@@ -33,14 +33,14 @@ Cố vấn cộng đồng (CA) gửi đề xuất với tư cách là một Nhó
 
 ## Tóm tắt thử thách
 
-Community Advisors (CAs) and Veteran Community Advisors (vCAs) are key players of the current Project Catalyst governance process. They assess proposals and by doing that, provide feedback to proposers to improve their ideas for the next fund, and support voter on deciding which proposals are more ready and have higher chances of being successful and impact the Cardano ecosystem.
+Cố vấn Cộng đồng (CA) và Cựu Cố vấn Cộng đồng (vCA) là những người đóng vai trò quan trọng trong quy trình quản lý Project Catalyst hiện tại. Họ đánh giá các đề xuất và bằng cách làm đó, cung cấp phản hồi cho những người đề xuất để cải thiện ý tưởng của họ cho quỹ tiếp theo, đồng thời hỗ trợ cử tri quyết định đề xuất nào sẵn sàng hơn, có cơ hội thành công cao hơn và tác động đến hệ sinh thái Cardano.
 
-By improving the assessing process, we improve the whole Catalyst process as a consequence. Therefore, this challenge aims at accelerating the evolution of the whole assessing process of Catalyst.
+Bằng cách cải thiện quy trình đánh giá, chúng ta cải thiện toàn bộ quy trình Catalyst. Do đó, thử thách này nhằm mục đích đẩy nhanh sự phát triển của toàn bộ quá trình đánh giá Catalyst.
 
-#### Potential directions
+#### Các định hướng tiềm năng
 
-- Build new tools to improve (v)CA's work
-- Maintain general (v)CA resourses, in collaboration with the community and with IOG
+- Xây dựng các công cụ mới để cải thiện công việc của CA hoặc vCA
+- Duy trì nguồn lực chung của CA và vCA, phối hợp với cộng đồng và với IOG
 - Đánh giá các mô hình đánh giá và cho điểm đề xuất khác nhau
-- Develop reputation system(s) for (v)CAs
+- Phát triển hệ thống danh tiếng cho CA và vCA
 - Xây dựng và đánh giá các cơ chế đãi ngộ mới cho (v) CA
