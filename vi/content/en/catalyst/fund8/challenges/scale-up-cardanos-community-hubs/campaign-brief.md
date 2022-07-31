@@ -18,18 +18,18 @@ Làm cách nào để chúng tôi khuyến khích các Trung tâm cộng đồng
 
 ### Tại sao nó lại quan trọng?
 
-Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
+Không có người dùng ở cấp độ cơ bản, chúng ta đang xây dựng các sản phẩm thích hợp phục vụ chủ yếu là những người kỹ thuật có chuyên môn về blockchain.
 
 ### Thành công trông như thế nào?
 
 Các trung tâm cộng đồng địa phương trên khắp thế giới, nơi một người bình thường có thể tham gia bằng ngôn ngữ của họ và với sự hiểu biết văn hóa của riêng họ
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
-- How many new Hubs were launched in 2022?
+- Có bao nhiêu trung tâm mới được ra mắt trong 6 tháng tới?
 - Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu nhà phát triển vào hệ sinh thái Cardano?
 - Có bao nhiêu người dùng mới của Cardano đã được giới thiệu?
-- What was the total reach of the Hub's initial marketing launch?
+- Tổng phạm vi tiếp cận của lần ra mắt tiếp thị ban đầu của trung tâm là bao nhiêu?
 - Thử thách tập trung vào cộng đồng này đã đưa bao nhiêu tổ chức bên ngoài vào hệ sinh thái Cardano?
 
 ### Tóm tắt thử thách
@@ -92,7 +92,7 @@ Khi bạn **thúc đẩy việc áp dụng ở cấp độ cơ bản** , bạn �
 
 ![](https://i.imgur.com/MWddZex.gif)
 
-#### Extra reading (where we are going):
+#### Đọc thêm:
 
 - [Trung tâm kinh doanh Cumbria, Vương quốc Anh](https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub)
 - [Trung tâm kinh doanh Rwanda](https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year)
