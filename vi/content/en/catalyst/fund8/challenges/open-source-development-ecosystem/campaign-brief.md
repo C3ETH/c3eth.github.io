@@ -3,7 +3,7 @@ title: Hệ sinh thái phát triển nguồn mở
 linkTitle: Hệ sinh thái phát triển nguồn mở
 type: docs
 hide_feedback: 'true'
-description: How can we ensure that the Cardano ecosystem is built on a framework which is owned by the community and equally accessible to all?
+description: Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" style="width:500px;height500px">
@@ -14,7 +14,7 @@ Quy mô quỹ: **1.200.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-How can we ensure that the Cardano ecosystem is built on a framework which is owned by the community and equally accessible to all?
+Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?
 
 ### Tại sao nó lại quan trọng?
 
@@ -24,7 +24,7 @@ Chúng tôi cần phát triển toàn bộ hệ sinh thái gồm các chuyên gi
 
 Ngày càng nhiều chuyên gia tham gia hợp tác xây dựng cơ sở hạ tầng, công cụ, tiêu chuẩn, thư viện và tài liệu thuộc sở hữu cộng đồng
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - tăng số lượng và chất lượng của các dự án Mã nguồn mở Cardano
 - tăng số lượng người đóng góp
@@ -34,7 +34,7 @@ Ngày càng nhiều chuyên gia tham gia hợp tác xây dựng cơ sở hạ t�
 
 Trong những lần lặp đầu tiên, Catalyst bắt đầu là Thử thách do nhóm Catalyst đề xuất. Ban đầu, phần lớn ngân sách của nó được dành cho Hệ sinh thái nhà phát triển. Ví dụ, trong Quỹ 6, Hệ sinh thái nhà phát triển được chỉ định 1 triệu. USD, chiếm 25% trong tổng số 4 triệu. có sẵn cho Quỹ.
 
-In Fund 7, Catalyst released control of the budget to the community, which was able to choose the destination of the funding through voting. Unfortunately, the Developer Ecosystem challenge proposed for F7 was rejected because it did not receive enough votes. This led to the lack of an important resource stream that could have been used for the development of the Cardano technology.
+Trong Quỹ 7, Catalyst đã phát hành quyền kiểm soát ngân sách cho cộng đồng, cộng đồng có thể chọn điểm đến của nguồn tài trợ thông qua bỏ phiếu. Thật không may, thử thách Hệ sinh thái dành cho nhà phát triển được đề xuất cho Quỹ 7 đã bị từ chối vì không nhận được đủ số phiếu bầu. Điều này dẫn đến việc thiếu một nguồn tài nguyên quan trọng có thể được sử dụng cho sự phát triển của công nghệ Cardano.
 
 ### Thách thức về Hệ sinh thái Phát triển Nguồn mở
 
@@ -48,7 +48,7 @@ Ví dụ, một nhóm có thể được tài trợ để phát triển một d�
 
 Chất xúc tác tồn tại để dần dần hướng tới giai đoạn cuối cùng trong lộ trình của Cardano: Voltaire. Chúng tôi đang xây dựng các công cụ để hỗ trợ các hình thức quản trị và cộng tác mới, trên nền tảng công nghệ vẫn đang được phát triển. Cuối cùng, sự phát triển của công nghệ này cũng sẽ phải trở thành một phần của quá trình này. Một nhiệm vụ phức tạp và khó khăn như vậy đòi hỏi các chuyên gia từ nhiều lĩnh vực khác nhau phải làm việc cùng nhau vì một mục tiêu chung.
 
-#### Guiding questions
+#### Hướng dẫn đặt câu hỏi
 
 - Làm thế nào chúng ta có thể đảm bảo những nỗ lực trong tương lai được hưởng lợi từ công việc được tài trợ ngày hôm nay?
 - Làm thế nào để chúng ta liên kết giữa các nỗ lực cộng đồng nguồn mở khác nhau?
@@ -56,7 +56,7 @@ Chất xúc tác tồn tại để dần dần hướng tới giai đoạn cuố
 - Làm thế nào chúng ta có thể khuyến khích các chuyên gia cộng tác và chia sẻ kiến thức cũng như công việc của họ?
 - Làm thế nào chúng ta có thể phát triển một hệ sinh thái bền vững trong khi chia sẻ kiến thức và nỗ lực?
 
-#### Possible directions
+#### Các định hướng tiềm năng
 
 - Giáo dục để phát triển trong hệ sinh thái Cardano &amp; Catalyst
 - Phát triển các công cụ, khuôn khổ chung, cơ sở hạ tầng cốt lõi hoặc bằng chứng về các khái niệm
