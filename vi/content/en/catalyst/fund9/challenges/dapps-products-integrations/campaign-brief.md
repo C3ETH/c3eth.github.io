@@ -26,7 +26,7 @@ Các sản phẩm và tích hợp càng thú vị và hữu ích có thể đư�
 ### Các loại đề xuất bao gồm
 
 - **DeFi** - Đồng tiền ổn định, DEX, vay &amp; cho vay, tài sản tổng hợp, v.v.
-- **Marketplaces**
+- **Nơi trao đổi, buôn bán**
 - **Trò chơi** - Trò chơi thế giới mở, trò chơi bài, RPG, v.v.
 - **Vận tải &amp; hậu cần**
 - **Phần cứng** - Ví phần cứng, ATM cục bộ để tương tác với blockchain, v.v.
@@ -69,7 +69,7 @@ Tài liệu đầy đủ cho Danh mục tài trợ của Catalyst có thể đư
 
 Tỷ trọng ngân sách cho 7 hạng mục đã được xác định bằng quy trình quản trị cộng đồng. Kết quả bình chọn cho quá trình này có thể được tìm thấy [tại đây](https://catalyst-swarm.gitbook.io/catalyst-funding-categories/community-votes/fund-8-categories-budget-weighting/voting-results-fund-8)
 
-### In closing:
+### Kết:
 
 Các cơ hội tiềm năng mà Catalyst có thể cung cấp cho dapp chính hãng và các nhà phát triển sản phẩm đã tăng lên đáng kể. Tăng 32 lần trong khoảng thời gian một năm.
 
@@ -89,7 +89,7 @@ Dapps chất lượng, sản phẩm và tích hợp sẽ làm tăng tiện ích 
 
 Các ứng dụng và sản phẩm mới và khả thi được xây dựng trên Cardano thu hút người dùng. Tích hợp quản lý để thu hút nhiều người áp dụng hơn.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Theo dõi thành công cho danh mục này sẽ có nghĩa là:
 
