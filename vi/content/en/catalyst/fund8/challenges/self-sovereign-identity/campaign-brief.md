@@ -1,6 +1,6 @@
 ---
-title: Self-Sovereign Identity
-linkTitle: Self-Sovereign Identity
+title: Nhận dạng quyền tự chủ
+linkTitle: Nhận dạng quyền tự chủ
 type: docs
 hide_feedback: 'true'
 description: Làm thế nào chúng ta có thể thực hiện bước tiếp theo để hỗ trợ các nguyên tắc về bản sắc tự chủ?
@@ -24,7 +24,7 @@ Chúng tôi có tiềm năng trở thành những nhà lãnh đạo trong hệ s
 
 Nhận các dự án chất lượng cao; sự tham gia ngày càng nhiều vào các cuộc thảo luận của SSI; hợp tác với hệ sinh thái, quản trị và các nhóm làm việc
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Số lượng đề xuất giải quyết trực tiếp SSI theo cách có thể định lượng được
 - Chất lượng của các đề xuất được đo lường bằng sự quan tâm và sự tham gia của cộng đồng
