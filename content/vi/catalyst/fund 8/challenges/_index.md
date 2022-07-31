@@ -1,6 +1,6 @@
 ---
 title: "Thử thách Quỹ 8"
-linkTitle: "Thử thách Quỹ 8"
+linkTitle: "Thử thách"
 type: docs
 weight: 100
 hide_feedback: true
