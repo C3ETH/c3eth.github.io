@@ -14,17 +14,17 @@ Quy mô quỹ: **1.000.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-How can Cardano-based solutions help meet real business needs and what would be their impact?
+Các giải pháp dựa trên Cardano có thể giúp đáp ứng nhu cầu kinh doanh thực tế và tác động của chúng sẽ như thế nào?
 
 ### Tại sao nó lại quan trọng?
 
-Companies are finally discovering the power of blockchain technologies and Cardano is ready to onboard exciting B2B and B2C solutions.
+Các công ty cuối cùng cũng khám phá ra sức mạnh của công nghệ blockchain và Cardano đã sẵn sàng đưa vào các giải pháp thú vị vào B2B và B2C .
 
 ### Thành công trông như thế nào?
 
 Các sản phẩm và dịch vụ sáng tạo nhằm tăng hiệu quả, tính minh bạch và sự tham gia của các bên liên quan cũng như mở rộng hoạt động kinh doanh sang các lĩnh vực mới.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - của Cardano dApps hỗ trợ các giải pháp kinh doanh
 - của các công ty hiện có đề xuất các giải pháp dựa trên Cardano
