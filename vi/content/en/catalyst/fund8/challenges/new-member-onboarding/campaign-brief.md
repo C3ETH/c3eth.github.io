@@ -24,17 +24,17 @@ Sự thành công của Catalyst phụ thuộc vào sự sẵn có của các nh
 
 Một nền tảng đổi mới mở được bôi trơn, nơi mọi người hoàn thành các vai trò có ý nghĩa đối với họ và góp phần vào thành công chung.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Các chỉ số có thể được chia thành hai phần. Giới thiệu chung đề cập đến việc đưa mọi người vào và chuyển đổi họ từ những kẻ ẩn nấp đơn thuần thành những cử tri và những người đề xuất tiềm năng. Các thước đo quy trình đổi mới đề cập đến số lượng và chất lượng của các đề xuất và hoạt động xung quanh chúng.
 
 #### Giới thiệu chung
 
 - Đăng ký hàng tuần vào Cardano Ideascale
-- Townhall attendance
+- Tham gia vào Toà thị chính
 - Tham dự buổi học của Catalyst School
 - Tham gia phiên họp bầy đàn
-- Applications to leadership positions (e.g. Circle)
+- Nộp đơn vào các vị trí lãnh đạo (ví dụ: Circle)
 
 #### Quá trình đổi mới
 
@@ -50,7 +50,7 @@ Các chỉ số có thể được chia thành hai phần. Giới thiệu chung 
 
 Sự phát triển của Project Catalyst phụ thuộc vào sự tham gia có ý nghĩa từ những người đề xuất, cố vấn, cố vấn và cử tri, những người luôn mong muốn và có khả năng hoàn thành vai trò cũng như hiểu rõ trách nhiệm của mình.
 
-### Guiding questions
+### Hướng dẫn đặt câu hỏi
 
 - Làm cách nào chúng ta có thể chuyển đổi những người nắm giữ ADA thụ động thành những thành viên Catalyst tích cực?
 - Làm cách nào chúng ta có thể nâng cao nhận thức về Project Catalyst như một nền tảng đổi mới mở tích cực nhất?
