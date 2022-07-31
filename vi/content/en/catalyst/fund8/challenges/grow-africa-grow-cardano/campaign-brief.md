@@ -26,7 +26,7 @@ Cardano là blockchain được lựa chọn ở Châu Phi vào năm 2023.
 
 Các dự án và nhà phát triển ở Châu Phi sẽ không bị cô lập mà được nối mạng và phát triển.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Số lượng các dự án châu Phi mới được gieo vào năm 2022
 - Các đề xuất thể hiện rõ ràng các giải pháp trường hợp sử dụng công nghệ Cardano
