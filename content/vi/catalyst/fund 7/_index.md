@@ -6,4 +6,4 @@ hide_feedback: true
 ---
 
 <!-- This index page is yet to be udated.  -->
-The **Đề xuất từ Catalyst cho quỹ 7** runs from date x, to date y in these stategs.
+**Đề xuất từ Catalyst cho quỹ 7** từ ngày x tới ngày y trong các giai đoạn.

@@ -5,5 +5,5 @@ type: docs
 hide_feedback: true
 ---
 
-This index page is yet to be udated. 
-The **Đề xuất từ Catalyst cho quỹ 6** runs from date x, to date y in these stategs.
+<!-- This index page is yet to be udated.  -->
+**Đề xuất từ Catalyst cho quỹ 6** từ ngày x tới ngày y trong các giai đoạn
