@@ -1,6 +1,6 @@
 ---
-title: Lobbying for favorable legislation
-linkTitle: Lobbying for favorable legislation
+title: Vận động để có luật pháp công bằng
+linkTitle: Vận động để có luật pháp công bằng
 type: docs
 hide_feedback: 'true'
 description: Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ và sự xâm phạm pháp luật và các chính sách thuế không công bằng trên cơ sở liên tục?
@@ -26,7 +26,7 @@ Chúng tôi đã quản lý để trì hoãn hoặc đảo ngược luật ảnh
 
 ### Các chỉ số chính để đo lường
 
-- Number of jurisdictions favored through lobbying
+- Số khu vực pháp lý được ủng hộ thông qua vận động
 - Số lượng luật đã được sửa đổi
 - Số lượng chuyên gia về quy định, luật sư và các thành viên khác có liên quan
 - Số lượng quan hệ đối tác và cộng tác với các tổ chức và tổ chức phi lợi nhuận hoạt động vì cùng một mục đích
@@ -40,7 +40,7 @@ Thông qua thách thức này, chúng tôi có thể tài trợ cho các đề x
 
 https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first
 
-Lobby and educate rational politicians so that it becomes possible to plead for the creation of more favorable rules on taxation, use of cryptocurrencies, and greater privacy for cryptocurrency users.
+Vận động và giáo dục các chính trị gia hợp lý để có thể cầu xin việc tạo ra các quy tắc thuận lợi hơn về thuế, sử dụng tiền điện tử và quyền riêng tư cao hơn cho người dùng tiền điện tử.
 
 Vào tháng 8 năm 2021, Thượng viện Hoa Kỳ đã bỏ phiếu cho luật không khoan nhượng đối với hệ sinh thái tiền điện tử. Chúng tôi có ít tiếng nói để bảo vệ cộng đồng của chúng tôi trong giai cấp chính trị. Các sáng kiến như Trung tâm tiền xu rất quan trọng để bảo vệ cộng đồng của chúng ta. Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ độc tài và luật pháp thỏa hiệp?
 
