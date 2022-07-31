@@ -3,7 +3,7 @@ title: Phát triển Đông Á, Phát triển Cardano
 linkTitle: Phát triển Đông Á, Phát triển Cardano
 type: docs
 hide_feedback: thật
-description: How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
+description: Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Đông Á theo cách toàn diện và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến !
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
@@ -14,7 +14,7 @@ Quy mô quỹ: **150.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
+Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Đông Á theo cách toàn diện và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến !
 
 ### Tại sao nó lại quan trọng?
 
@@ -24,7 +24,7 @@ Cộng đồng Cardano nghiêng nhiều về Bắc Mỹ và Châu Âu. Sự phá
 
 Nhiều người trên khắp Châu Á và kết nối với Châu Á, đến với nhau và thành lập các nhóm để phát triển hệ sinh thái của chúng tôi.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi mình một số câu hỏi về chất lượng tham gia:
 
