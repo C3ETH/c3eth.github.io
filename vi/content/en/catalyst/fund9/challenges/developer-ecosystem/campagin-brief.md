@@ -1,9 +1,9 @@
 ---
-title: Develper Ecosystem
-linkTitle: Develper Ecosystem
+title: Hệ sinh thái cho lập trình viên
+linkTitle: Hệ sinh thái cho lập trình viên
 type: docs
 hide_feedback: 'true'
-description: How can we create a positive developer experience that helps the developer focus on building successful apps?
+description: Làm cách nào để chúng tôi có thể tạo ra trải nghiệm tích cực cho nhà phát triển để giúp các lập trình viên tập trung vào việc xây dựng các ứng dụng thành công?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">
@@ -19,12 +19,12 @@ Nếu không có môi trường hỗ trợ cho các nhà phát triển, các c�
 ### Câu hỏi hướng dẫn
 
 - Đâu là công cụ mà chúng ta cần ưu tiên đầu tiên
-- How do we attract developers from outside of our current community to participate in Catalyst?
+- Làm cách nào để chúng ta thu hút các lập trình viên từ bên ngoài cộng đồng hiện tại của chúng ta tham gia vào Catalyst?
 - Các nhà phát triển muốn gì và làm cách nào để họ lấy được nó từ hệ sinh thái nhà phát triển Cardano?
-- What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?
+- Điều gì sẽ khiến nó trở thành một lập trình viên  có động lực để nghiền ngẫm các tài liệu và mã bất kể việc tạo một ứng dụng khó đến mức nào?
 - Các nhà quản lý nhà phát triển doanh nghiệp đang tìm kiếm điều gì để có thể xây dựng các dự án doanh nghiệp - nội bộ hoặc thương mại?
 
-### Potential Directions
+### Các định hướng tiềm năng
 
 - Năng suất của nhà phát triển: IDE, các tập lệnh để tự động hóa mọi thứ
 - Cơ sở kiến thức &amp; Tài liệu
@@ -50,7 +50,7 @@ Việc tạo ra một trải nghiệm tuyệt vời khuyến khích các nhà ph
 
 Cardano thu hút các Nhà phát triển và nhà phát triển có năng lực cao có nguồn lực dồi dào để làm việc trên các nền tảng phù hợp với sở thích của họ.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi: Liệu chúng tôi có quản lý để giúp các nhà phát triển xây dựng dựa trên Cardano dễ dàng hơn không?
 
