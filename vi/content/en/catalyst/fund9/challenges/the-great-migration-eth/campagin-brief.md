@@ -22,13 +22,13 @@ Bạn có thể nghe Charles nói về tầm quan trọng của điều này tro
 
 ### Tại sao nó lại quan trọng?
 
-Many projects are stuck on EVM-based blockchains like Ethereum and are looking for an escape. Cardano can be faster and cheaper to use.
+Nhiều dự án đang bị mắc kẹt trên các blockchain dựa trên EVM như Ethereum và đang tìm kiếm giải pháp. Cardano có thể kaf giải pháp nhanh và rẻ hơn để sử dụng.
 
 ### Thành công trông như thế nào?
 
 Các dự án đã lên kế hoạch hoặc đã khởi chạy trên một triển khai blockchain dựa trên EVM trong hệ sinh thái Cardano và có thể thực hiện điều đó một cách dễ dàng.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Số lượng dự án di chuyển
 - Số lượng người dùng của các hợp đồng thông minh này sau khi chuyển sang hệ sinh thái Cardano (Các chỉ số có thể được cải thiện bằng cách tài trợ cho các dự án trực tiếp triển khai một cái gì đó hoặc các dự án giúp xây dựng công cụ để triển khai dễ dàng hơn)
