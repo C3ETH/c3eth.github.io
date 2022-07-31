@@ -44,7 +44,7 @@ Các ứng dụng chuỗi khối đã chuyển từ Tiền tệ sang DeFi, sang 
 
 Không có cách nào tốt hơn để quản lý DAO của bạn hơn là sử dụng Cardano DAO. Từ Doanh nghiệp Nhỏ đến Cộng đồng Toàn cầu .. Cardano DAOs cung cấp.
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
 - Số lượng cộng đồng tham gia cộng tác bằng cách sử dụng các công cụ tạo Cardano DAO.
 - Số tiền ADA đến từ phí giao dịch của các DAO sau khi các giải pháp cho thách thức này được triển khai (&gt; so với số tiền được phân bổ của thách thức)
