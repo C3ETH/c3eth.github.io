@@ -1,9 +1,9 @@
 ---
-title: legal & financial implementation
-linkTitle: legal & financial implementation
+title: Hoàn thiện pháp lý và tài chính
+linkTitle: Hoàn thiện pháp lý và tài chính
 type: docs
 hide_feedback: 'true'
-description: How can we build effective solutions to explore and provide legal & financial services and support to funded Proposers.
+description: Làm thế nào chúng ta có thể xây dựng các giải pháp hiệu quả để khám phá và cung cấp các dịch vụ pháp lý, tài chính và hỗ trợ cho các Nhà đề xuất đã được tài trợ.
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Legal-_-Financial-Implementations-9dbf3f.png" style="width:500px;height500px">
@@ -30,7 +30,7 @@ Khi nhận được Quỹ, nhiều Dự án mới nổi trong Catalyst phải đ
 
 Tiếp cận trực tiếp với các giải pháp cung cấp dịch vụ tài chính và pháp lý, hỗ trợ và hướng dẫn cho các Dự án mới nổi trong Hệ sinh thái xúc tác
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Trường hợp sử dụng - Có bao nhiêu đề xuất được tài trợ đang sử dụng các giải pháp và dịch vụ mới này
 - Tác động - Có bao nhiêu cách triển khai mới này tương hỗ với các đề xuất được tài trợ.
