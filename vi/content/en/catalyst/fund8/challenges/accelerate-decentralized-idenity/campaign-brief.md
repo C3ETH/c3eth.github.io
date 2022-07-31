@@ -3,7 +3,7 @@ title: Tăng tốc độ nhận dạng phi tập trung
 linkTitle: Tăng tốc độ nhận dạng phi tập trung
 type: docs
 hide_feedback: 'true'
-description: What solutions can we develop and implement with Atala PRISM to have the most positive impact and opportunities for rapid growth of Cardano
+description: Chúng ta có thể phát triển và triển khai những giải pháp nào với Atala PRISM và Cardano ngày nay để có tác động tích cực nhất và mở ra cơ hội cho sự phát triển nhanh chóng của mạng lưới Cardano?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" style="width:500px;height500px">
@@ -14,7 +14,7 @@ Quy mô quỹ: **500.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-What solutions can we develop and implement with Atala PRISM to have the most positive impact and opportunities for rapid growth of Cardano.
+Chúng ta có thể phát triển và triển khai những giải pháp nào với Atala PRISM và Cardano ngày nay để có tác động tích cực nhất và mở ra cơ hội cho sự phát triển nhanh chóng của mạng lưới Cardano?
 
 ### Tại sao nó lại quan trọng?
 
@@ -24,22 +24,22 @@ Bằng cách xác định thông tin đăng nhập có giá trị cao, chúng t�
 
 Khám phá các mẫu có thể lặp lại mở khóa khả năng của chúng tôi để tận dụng cơ sở hạ tầng phi tập trung Cardano. Xác định thông tin đăng nhập có giá trị cao.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Tổng số các cuộc thử nghiệm hoặc phóng thử nghiệm sản xuất được thực hiện vào năm 2022
-- Discovery of repeatable patterns in use-cases
+- Khám phá các mẫu có thể lặp trong các ca sử dụng
 - Số lượng tổ chức phát hành, chủ sở hữu và người xác minh
 - Số lượng xác minh được thực hiện trên thông tin đăng nhập trong sản xuất
 
 ## Tóm tắt thử thách
 
-Our challenge is an evolution of the mass decentralized identity (DID) adoption challenge from Funding Round 6, connecting everything we are learning with the first Atala PRISM Pioneer Program cohort.
+Thách thức của chúng tôi là sự phát triển của thách thức áp dụng nhận dạng phi tập trung (DID) hàng loạt từ Vòng tài trợ 6, kết nối mọi thứ chúng ta đang học với nhóm thuần tập Chương trình Tiên phong Atala PRISM đầu tiên.
 
 Nhóm thứ hai của Chương trình Tiên phong PRISM của Atala sẽ bắt đầu sau khi Catalyst Fund 7 hoàn thành. Từ bây giờ đến lúc đó, bất kỳ thành viên nào của Cộng đồng Catalyst có cảm hứng viết đề xuất sẽ có quyền truy cập vào tài liệu khóa học thuần tập đầu tiên của Chương trình PRISM của Atala trên Canvas. Vui lòng gửi đề xuất của bạn trên Ideascale, bao gồm cả địa chỉ email của bạn, để nhận được lời mời tham gia Canvas.
 
 Với quyền truy cập này, bạn sẽ tham gia cộng đồng Atala PRISM đang phát triển. Đội ngũ sản phẩm và kỹ sư Atala PRISM của chúng tôi sẽ có mặt trên kênh Discord chuyên dụng. Đưa vào nền tảng khuôn khổ quản trị Nhóm Dịch vụ Chuyên nghiệp của chúng tôi. Truy cập vào các cuộc trò chuyện trực tuyến với các nhà lãnh đạo hàng đầu trong không gian SSI, nơi chúng ta sẽ thảo luận về các xu hướng, trường hợp sử dụng và hơn thế nữa. Ngoài ra, chúng tôi sẽ hỗ trợ tăng trưởng các thông tin đăng nhập có giá trị cao và tạo điều kiện cho các đối tác từ khái niệm, phát triển đến thương mại hóa.
 
-## Areas of Focus
+## Trọng điểm
 
 ### Khả năng tương tác
 
@@ -59,19 +59,19 @@ Chúng tôi rất tò mò muốn xem liệu cộng đồng của chúng tôi có
 
 Đề xuất nên xem xét dành quỹ cho các chi phí pháp lý để thiết lập DAO và tài liệu pháp lý.
 
-##### Patterns of Commoning
+##### Nguồn cảm hứng
 
 Chúng tôi lấy cảm hứng từ công việc của Trust Over IP Foundation và các nguyên tắc từ 'Các mô hình khởi động.' Chúng tôi nhận thấy tiềm năng đổi mới bằng cách liên kết các cộng đồng có lợi ích chung theo các nguyên tắc này.
 
-How can these principles become plug-and-play code as technological primitives that other communities can leverage and unlock exponential growth and adoption?
+Làm thế nào những nguyên tắc này có thể trở thành mã plug-and-play như những công nghệ nguyên thủy mà các cộng đồng khác có thể tận dụng và mở khóa sự tăng trưởng và áp dụng theo cấp số nhân?
 
 Chúng tôi quan tâm đến việc khám phá một sân chơi phong phú về ý tưởng và đưa những ý tưởng này vào triển khai trong thế giới thực trên Cardano và Atala PRISM.
 
-##### Education, Career, and Emergent Reputation Primitives
+##### Giáo dục, nghề nghiệp và tạo dựng danh tiếng
 
 Nhiều dự án do Pioneer và Catalyst tài trợ của chúng tôi hỗ trợ các chương trình giáo dục và nghề nghiệp. Một trong những đặc điểm xác định của các cách tiếp cận này là việc tạo ra các lựa chọn thay thế cho giáo dục được công nhận và các con đường nghề nghiệp.
 
-We need our community to think about developing technology and governance primitives to support any community that wants to establish new education and career paths by providing tools:
+Chúng ta cần cộng đồng suy nghĩ về việc phát triển công nghệ và quản trị ban đầu để hỗ trợ bất kỳ cộng đồng nào muốn thiết lập nền giáo dục và con đường nghề nghiệp mới bằng cách cung cấp các công cụ:
 
 - Để giới thiệu các chuyên gia và giáo viên mới
 - Để mọi người trong cộng đồng phát triển và lớn mạnh
@@ -93,7 +93,7 @@ Mặt khác, phân phối hoặc thương mại theo hướng nhu cầu có ti�
 
 Đối với thách thức về chuỗi cung ứng, chúng tôi muốn giải quyết hai thách thức quan trọng:
 
-##### Small Producer Problem
+##### Vấn đề với nhà sản xuất nhỏ lẻ
 
 Làm thế nào chúng ta có thể tạo ra sự minh bạch khi quá trình từ dưới lên đáp ứng các chuỗi cung ứng được công nghiệp hóa, cắt giảm thông qua các thị trường phân phối tập trung và kết nối trực tiếp với người tiêu dùng?
 
@@ -104,21 +104,21 @@ Có nhiều vấn đề cần khắc phục. Ví dụ, các nhà máy đóng gó
 - Tiếp cận thị trường thông qua các kênh phân phối thay thế cho chuỗi cung ứng công nghiệp
 - Có thể thương lượng với tư cách cộng đồng về các điều khoản tốt hơn để các giá trị sản phẩm của họ được công nhận, phân phối và bán với giá trị nguyên vẹn về mặt thương mại và danh tiếng.
 
-##### The Last-Mile Problem
+##### Vấn đề ở cuối chặn
 
 Làm thế nào để một nhà phân phối địa phương tại thị trường địa phương có thể tương tác với các chuỗi cung ứng công nghiệp toàn cầu và được phép tiếp cận thị trường mà nếu không sẽ không thể tiếp cận được do thiếu bản sắc kinh tế hoặc vốn để tiếp cận hàng hóa ở quy mô mà chuỗi cung ứng công nghiệp yêu cầu?
 
 Thách thức này liên quan đến việc phân phối các sản phẩm cần thiết cho các cộng đồng địa phương có ít ảnh hưởng trên thị trường hoặc khả năng tiếp cận các công cụ tài chính, chẳng hạn như tín dụng, để tương tác với chuỗi cung ứng công nghiệp. Chúng tôi đang tìm kiếm công cụ từ dưới lên để thiết lập một mạng lưới cộng đồng. Các đại biểu trong các cộng đồng đó có thể tiếp cận nguồn tài chính và tín dụng cần thiết để tương tác với chuỗi cung ứng công nghiệp ở quy mô kinh tế cần thiết cho các giao dịch.
 
-An example of this problem is delivering health care supplies to rural and developing countries and economies. The funds from donors, the government, and other sources are available for these medical supplies. The donors will only release the funds once delivery is verified, and the medical supply companies will only send the goods to port once payment is received.
+Một ví dụ của vấn đề này là cung cấp các nguồn cung cấp dịch vụ chăm sóc sức khỏe cho các nước và nền kinh tế nông thôn đang phát triển. Nguồn vốn từ các nhà tài trợ, chính phủ và các nguồn khác luôn sẵn sàng cho những nguồn cung cấp y tế này. Các nhà tài trợ sẽ chỉ xuất quỹ sau khi việc giao hàng được xác nhận và các công ty cung cấp dịch vụ y tế sẽ chỉ gửi hàng đến cảng sau khi nhận được thanh toán.
 
 Tuy nhiên, các doanh nghiệp nhỏ địa phương phải duy trì sự minh bạch và giám sát hàng hóa trong quá trình giao và nhận hàng. Các doanh nghiệp này không có vốn hoặc không có khả năng vay vốn để trang trải chi phí vật tư y tế từ khâu giao hàng tại cảng đến các bệnh viện, phòng khám có nhu cầu.
 
 Giải quyết thách thức về chênh lệch tài chính là rất quan trọng. Chúng tôi tin rằng có tiềm năng to lớn để tạo ra các mạng lưới từ dưới lên gồm các cá nhân và doanh nghiệp nhỏ đáng tin cậy để lấp đầy khoảng trống này.
 
-##### A Proposed Pattern Language Outline (example)
+##### Đại cương ngôn ngữ mẫu để đề xuất (ví dụ minh hoạ)
 
-**Primitives**
+**Yếu tố gốc**
 
 - Nhận dạng kỹ thuật số
 - Thông tin xác thực có thể xác minh (VC)
@@ -128,7 +128,7 @@ Giải quyết thách thức về chênh lệch tài chính là rất quan trọ
 - Mã thông báo không thể thay thế (NFT)
 - Hợp đồng thông minh
 
-**Patterns**
+**Khuôn mẫu**
 
 - Cơ quan đăng ký tin cậy
 - Khung quản trị
