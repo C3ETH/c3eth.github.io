@@ -19,7 +19,7 @@ Không có gì bí mật khi Cardano được công nhận là một blockchain 
 - **Thị trường tiền điện tử của Châu Phi đã tăng 105 tỷ đô la trong năm ngoái (2020-2021)** . Châu Phi là biên giới tiếp theo của tiền điện tử - Diễn đàn Kinh tế Thế giới
 - **Alameda Research, Coinbase Ventures, Cadenza, CMT Digital, Distributed Global, GSR, Third Prime và Avon Ventures** : [African Crypto Exchange VALR Tăng 50 triệu đô la trong Series B do Pantera Capital dẫn dắt](https://www.coindesk.com/business/2022/03/01/african-crypto-exchange-valr-raises-50m-in-series-b-led-by-pantera-capital/)
 
-In Catalyst Fund7 the combined Africa funded projects amount was almost negligible compared to those from [western and developed economies](https://twitter.com/danny_cryptofay/status/1496078645319933954?s=20&t=Ohr06EIZW05vz_B4Fjk_JA)
+Trong Catalyst Quỹ 7, số tiền các dự án được tài trợ từ châu Phi kết hợp hầu như không đáng kể so với các dự án từ [các nền kinh tế phương Tây và phát triển](https://twitter.com/danny_cryptofay/status/1496078645319933954?s=20&t=Ohr06EIZW05vz_B4Fjk_JA)
 
 Điều này cần được đảo ngược thông qua hành động có chủ đích. Nếu không, các phần nhỏ hơn và nhỏ hơn của nguồn tài trợ Catalyst sẽ tiếp tục được phân bổ cho các dự án tập trung vào châu Phi và các nền kinh tế mới nổi khác do các rào cản đặc hữu.
 
@@ -33,7 +33,7 @@ Chúng ta cần xem xét các nguyên tắc cơ bản đang ngăn cản Châu Ph
 
 Những đổi mới thiết thực được đưa ra nhằm giải quyết những thách thức độc nhất mà lục địa này phải đối mặt. Một lộ trình rõ ràng chỉ ra việc tăng cường áp dụng.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - Số lượng đề xuất giải quyết các vấn đề cơ bản ngăn cản việc áp dụng Cardano ở châu Phi
 - Số lượng đề xuất đưa ra giải pháp cho các vấn đề về cơ sở hạ tầng và giáo dục
