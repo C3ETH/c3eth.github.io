@@ -18,7 +18,7 @@ Làm cách nào để chúng tôi có thể giúp dApp và các dự án khác m
 
 ### Tại sao nó lại quan trọng?
 
-Many projects are stuck on EVM-based blockchains like Ethereum and are looking for an escape. Cardano can be faster and cheaper to use.
+Nhiều dự án đang bị mắc kẹt trên các blockchain dựa trên EVM như Ethereum và đang tìm kiếm giải pháp. Cardano có thể kaf giải pháp nhanh và rẻ hơn để sử dụng.
 
 ### Thành công trông như thế nào?
 
@@ -37,6 +37,6 @@ Hệ sinh thái Cardano, mặc dù được viết bằng Haskell, luôn có k�
 
 Để thực hiện được phần này của lộ trình, nhiều nỗ lực hiện đang được tiến hành như KEVM, IELE, ERC20 Converter và Milkomeda. Các dự án này đang đạt đến điểm mà chúng đủ trưởng thành để mọi người có thể triển khai sử dụng chúng hoặc xây dựng công cụ cho chúng và vì vậy đã đến lúc bắt đầu chào đón các dự án đến với Cardano.
 
-You can hear Charles talk about the importance of this in his video "The Island, The Ocean and the Pond"
+Bạn có thể nghe Charles nói về tầm quan trọng của điều này trong video "The Island, The Ocean and the Pond" của anh ấy
 
 {{&lt;youtube k8a6tX53YPs&gt;}}
