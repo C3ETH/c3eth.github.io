@@ -1,6 +1,6 @@
 ---
-title: Gamers On   - Chained
-linkTitle: Gamers On   - Chained
+title: Game thủ trên Blockchain
+linkTitle: Game thủ trên Blockchain
 type: tài liệu
 hide_feedback: 'true'
 description: Những ứng dụng trò chơi Blockchain nào nên được phát triển để đạt được sự chấp nhận hàng loạt của Cardano?
@@ -18,7 +18,7 @@ Những ứng dụng trò chơi Blockchain nào nên được phát triển đ�
 
 ### Tại sao nó lại quan trọng?
 
-Gamers are ready to enter crypto. They just need a clear blockchain with enjoyable applications to engage on.
+Người chơi đã sẵn sàng tham gia thị trường tiền điện tử. Họ chỉ cần một blockchain rõ ràng với các ứng dụng thú vị để tham gia.
 
 ### Thành công trông như thế nào?
 
@@ -28,8 +28,8 @@ Cardano trở thành công cụ blockchain để phát triển các ứng dụng
 
 Các chỉ số chính để đo lường
 
-- Total users of gaming based applications built on Cardano
-- Number of gaming based applications building/built on Cardano
+- Số lượng người chơi các ứng dụng game đang phát triển /đã phát triển trên Cardano
+- Số lượng ứng dụng game đang phát triển /đã phát triển trên Cardano
 - Số tiền giá trị do người chơi tạo ra trong các ứng dụng chơi để kiếm tiền
 - Số lượng CNFT được tạo riêng cho chơi game
 - Số lượng mã thông báo có thể thay thế được tạo riêng cho trò chơi
@@ -39,12 +39,12 @@ Các chỉ số chính để đo lường
 - Số lượng nhận xét và kudo được đưa ra cho các đề xuất đã gửi
 - Số lượng ADA đã bỏ phiếu cho các đề xuất trong thử thách này
 - Số lượng Ví đã bỏ phiếu cho các đề xuất trong thử thách này
-- Amount and evolution of gaming based tokens and wallets
+- Số lượng và sự phát triển của chữ ký số và ví chơi game
 
 ## Tóm tắt thử thách
 
-We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.
+Chúng ta cần nâng cao nhận thức về thương hiệu của Catalyst trong cộng đồng phát triển game và đề xuất cách để người chơi tham gia vào hệ sinh thái Cardano thông qua thứ mà họ yêu thích, chơi game. Các đề xuất này có thể ở dạng xây dựng một trò chơi dựa trên Cardano, một công cụ dành cho nhà phát triển hoặc SDK để phát triển trò chơi dựa trên Cardano, một lớp blockchain tích hợp với các trò chơi hiện có hoặc bất kỳ thứ gì khác ưu tiên người chơi hoặc nhà phát triển trò chơi là kh.
 
 Có 2,5 tỷ người chơi game. Những game thủ này đang tìm kiếm con đường của họ vào tiền điện tử một cách thú vị và bổ ích. Hãy cung cấp cho họ một thư viện trò chơi và tích hợp để lựa chọn, củng cố Cardano khi chuyển sang chuỗi khối để chơi game.
 
-Lets on-chain these gamers.
+Hãy cho những game thủ lên sàn Cardano nào.
