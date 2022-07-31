@@ -1,9 +1,9 @@
 ---
-title: Cross Chain-Collaboration
-linkTitle: Cross Chain-Collaboration
+title: Chuỗi hợp tác chéo
+linkTitle: Chuỗi hợp tác chéo
 type: docs
 hide_feedback: 'true'
-description: How might we create connections and collaboration between Cardano and other blockchains in the next six months?
+description: Làm cách nào chúng ta có thể tạo ra sự kết nối và cộng tác giữa Cardano và các blockchain khác trong sáu tháng tới?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
@@ -14,17 +14,17 @@ Quy mô quỹ: **400.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-How might we create connections and collaboration between Cardano and other blockchains in the next six months?
+Làm cách nào chúng ta có thể tạo ra sự kết nối và cộng tác giữa Cardano và các blockchain khác trong sáu tháng tới?
 
 ### Tại sao nó lại quan trọng?
 
 Khả năng tương tác của các blockchain và nhận thức đa chuỗi đảm bảo thành công chung của toàn bộ nền kinh tế tiền điện tử.
 
-### What does Sucess look like?
+### Thành công trông như thế nào?
 
 Hợp tác tạo ra giá trị giữa Project Catalyst và các cộng đồng khác. Cả hai sáng kiến kỹ thuật và phi kỹ thuật đều được hoan nghênh.
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 Các chỉ số khách quan để đo lường thành công:
 
@@ -83,7 +83,7 @@ Chúng tôi là thành viên cộng đồng Catalyst dày dạn kinh nghiệm v�
 - Tomi Astikainen là Cố vấn cộng đồng kỳ cựu, người gần đây đã viết một cuốn sách dành cho các nhà đầu tư muốn trở thành nhà đầu tư tiền điện tử. Anh ấy là Đại sứ cấp cao cho Acala / Karura và là người lái xe trong cộng đồng Polkadot / Kusama ở Phần Lan.
 - Felix Weber là một thành viên tích cực của Dự án Catalyst, Đại sứ Cardano và là người khởi xướng / lãnh đạo một số Dự án và sáng kiến do cộng đồng dẫn dắt.
 
-### Our assessment of the maturity of this proposed challenge:
+### Đánh giá của chúng tôi về mức độ chín muồi của thách thức được đề xuất này:
 
 Ngăn xếp công nghệ Cardano cuối cùng cũng đủ trưởng thành để bắt đầu mời các đề xuất về khả năng tương tác và cộng tác chuỗi chéo. Thử thách được đề xuất của chúng tôi được cố ý bỏ ngỏ đã kết thúc và nó chào đón vô số các giải pháp khác nhau. Những ý tưởng đáng giá được gửi trong thử thách này sẽ giúp phát triển và cải thiện cộng đồng Cardano và Catalyst trong thời gian tới (6-9 tháng tới).
 
