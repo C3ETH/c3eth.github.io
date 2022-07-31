@@ -1,9 +1,9 @@
 ---
-title: dRep improvement and onboarding
-linkTitle: dRep improvement and onboarding
+title: Giới thiệu và cải tiến dRep
+linkTitle: Giới thiệu và cải tiến dRep
 type: docs
 hide_feedback: 'true'
-description: How do you achieve a diverse and many dRep participation and easy and proper voter delegation?
+description: Làm thế nào để bạn đạt được sự đa dạng và nhiều sự tham gia vào dRep cũng như phái đoàn cử tri dễ dàng và thích hợp?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-dRep-improvement-and-onboarding-150000-cce6a6.png" style="width:500px;height500px">
@@ -45,7 +45,7 @@ Sau một năm;
 - Hơn 200 dRep từ hơn 100 quốc gia đã tham gia.
 - Hơn 50% cử tri đang bỏ phiếu “cẩn thận”
 
-### Key Metrics to measure
+### Các chỉ số chính để đánh giá
 
 - **Tính đa dạng của dRep:** Nó có dẫn đến việc giới thiệu các dRep đa dạng với các ngôn ngữ khác nhau, nguồn gốc quốc gia, nghề nghiệp, giới tính, độ tuổi, tôn giáo, v.v. không?
 - **Số lượng dRep:** Có bao nhiêu dRep đã được tích hợp?
