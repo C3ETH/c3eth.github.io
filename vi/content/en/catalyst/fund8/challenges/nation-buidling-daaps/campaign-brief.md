@@ -1,9 +1,9 @@
 ---
-title: Nation Building Dapps
-linkTitle: Nation Building Dapps
+title: Xây dựng Dapps cho quốc gia
+linkTitle: Xây dựng Dapps cho quốc gia
 type: docs
 hide_feedback: 'true'
-description: What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
+description: Những giải pháp cốt lõi nào của Xây dựng Dapps cho quốc gia có thể được cung cấp cho những người dùng rộng rãi có được ở các nước đang phát triển?
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" style="width:500px;height500px">
@@ -14,11 +14,11 @@ Quy mô quỹ: **800.000 USD thanh toán bằng Ada**
 
 ## Tóm tắt Chiến dịch
 
-What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
+Những giải pháp cốt lõi nào của Xây dựng Dapps cho quốc gia có thể được cung cấp cho những người dùng rộng rãi có được ở các nước đang phát triển?
 
 ### Tại sao nó lại quan trọng?
 
-For the poor nations with no basic foundations, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity.
+Đối với các quốc gia nghèo không có nền tảng cơ bản, các giải pháp Xây dựng Dapps cho quốc gia sẽ là nền tảng xây dựng cho sự thịnh vượng bền vững.
 
 ### Thành công trông như thế nào?
 
@@ -40,7 +40,7 @@ Tăng cường sử dụng Dapp ở các quốc gia đang phát triển, phối 
 
 ## Tóm tắt thử thách
 
-For the poor nations with no foundations to stand on, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity. The 2017 Findex report shows that about a quarter of unbanked adults live in the poorest 20 percent of households in their country. Proposals in Nation Building Dapps will be able to help provide digital identities to these people and help them out of poverty. We want to encourage Cardano blockchain solutions that will be able to provide nations with decentralized solutions to their infrastructure by eliminating a single point of failure, protecting national, corporate, and individual data, property, and assets.
+Đối với các quốc gia nghèo không có nền tảng để đứng vững, các giải pháp Xây dựng Dapps cho quốc gia sẽ là nền tảng tạo nên sự thịnh vượng bền vững. Báo cáo Findex năm 2017 cho thấy khoảng một phần tư số người trưởng thành không có tài khoản ngân hàng sống trong 20% hộ gia đình nghèo nhất ở đất nước của họ. Các đề xuất trong Nation Building Dapps sẽ có thể giúp cung cấp danh tính kỹ thuật số cho những người này và giúp họ thoát nghèo. Chúng tôi muốn khuyến khích các giải pháp blockchain Cardano có thể cung cấp cho các quốc gia các giải pháp phi tập trung cho cơ sở hạ tầng của họ bằng cách loại bỏ một điểm lỗi duy nhất, bảo vệ dữ liệu, tài sản và tài sản của quốc gia, doanh nghiệp và cá nhân.
 
 https://globalfindex.worldbank.org/sites/globalfindex/files/cha Chapter/2017%20Findex%20full%20report_chapter2.pdf
 
