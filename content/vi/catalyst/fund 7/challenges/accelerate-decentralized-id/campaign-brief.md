@@ -1,9 +1,9 @@
 ---
-title: Tăng tốc độ nhận dạng phi tập trung
-linkTitle: Tăng tốc độ nhận dạng phi tập trung
+title: "Tăng tốc độ nhận dạng phi tập trung"
+linkTitle: "Tăng tốc độ nhận dạng phi tập trung"
 type: docs
-hide_feedback: 'true'
-description: Chúng ta có thể phát triển và triển khai những giải pháp nào với Atala PRISM và Cardano ngày nay để có tác động tích cực nhất và mở ra cơ hội cho sự phát triển nhanh chóng của mạng lưới Cardano?
+hide_feedback: true
+description: "Chúng ta có thể phát triển và triển khai những giải pháp nào với Atala PRISM và Cardano ngày nay để có tác động tích cực nhất và mở ra cơ hội cho sự phát triển nhanh chóng của mạng lưới Cardano?"
 ---
 
 Quy mô quỹ: **$ 425,000 USD thanh toán bằng Ada**

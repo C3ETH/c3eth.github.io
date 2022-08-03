@@ -1,9 +1,9 @@
 ---
-title: Mở rộng quy mô các trung tâm cộng đồng của Cardano
-linkTitle: Mở rộng quy mô các trung tâm cộng đồng của Cardano
+title: "Mở rộng quy mô các trung tâm cộng đồng của Cardano"
+linkTitle: "Mở rộng quy mô các trung tâm cộng đồng của Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào để chúng tôi khuyến khích các Trung tâm cộng đồng địa phương thúc đẩy việc áp dụng và nhận thức về Cardano vào năm 2022?
+hide_feedback: true
+description: "Làm cách nào để chúng tôi khuyến khích các Trung tâm cộng đồng địa phương thúc đẩy việc áp dụng và nhận thức về Cardano vào năm 2022?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/07-Scale-UP-Cardanos-Community-Hubs-f2a538.png" style="width:500px;height500px">

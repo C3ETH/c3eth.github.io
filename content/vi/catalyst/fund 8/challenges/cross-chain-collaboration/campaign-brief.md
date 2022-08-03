@@ -1,9 +1,9 @@
 ---
-title: Chuỗi hợp tác chéo
-linkTitle: Chuỗi hợp tác chéo
+title: "Chuỗi hợp tác chéo"
+linkTitle: "Chuỗi hợp tác chéo"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào chúng ta có thể tạo ra sự kết nối và cộng tác giữa Cardano và các blockchain khác trong sáu tháng tới?
+hide_feedback: true
+description: "Làm cách nào chúng ta có thể tạo ra sự kết nối và cộng tác giữa Cardano và các blockchain khác trong sáu tháng tới?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">

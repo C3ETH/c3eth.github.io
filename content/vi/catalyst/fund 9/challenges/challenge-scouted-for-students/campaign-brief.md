@@ -2,8 +2,8 @@
 title: "Thử thách & chiêu mộ sinh viên \U0001F393"
 linkTitle: "Thử thách & chiêu mộ sinh viên \U0001F393"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng tôi có thể cung cấp cho Sinh viên một nơi để thu hút ý tưởng của họ với thế giới và cơ hội kết nối với các Kỹ sư?
+hide_feedback: true
+description: "Làm thế nào chúng tôi có thể cung cấp cho Sinh viên một nơi để thu hút ý tưởng của họ với thế giới và cơ hội kết nối với các Kỹ sư?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Challenge-_-Scouted-for-Students-fe0972.png" style="width:500px;height500px">

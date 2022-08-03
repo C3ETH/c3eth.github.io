@@ -1,9 +1,9 @@
 ---
-title: Cải thiện và phát triển khả năng kiểm toán
-linkTitle: Cải thiện và phát triển khả năng kiểm toán
+title: "Cải thiện và phát triển khả năng kiểm toán"
+linkTitle: "Cải thiện và phát triển khả năng kiểm toán"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để làm cho quá trình đánh giá các đề xuất được tài trợ hiệu quả, phân tán và minh bạch?
+hide_feedback: true
+description: "Làm thế nào để làm cho quá trình đánh giá các đề xuất được tài trợ hiệu quả, phân tán và minh bạch?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" style="width:500px;height500px">

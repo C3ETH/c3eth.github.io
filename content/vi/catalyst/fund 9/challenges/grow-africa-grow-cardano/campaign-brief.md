@@ -1,9 +1,9 @@
 ---
-title: Phát triển Châu Phi, Phát triển Cardano
-linkTitle: Phát triển Châu Phi, Phát triển Cardano
+title: "Phát triển Châu Phi, Phát triển Cardano"
+linkTitle: "Phát triển Châu Phi, Phát triển Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để chúng ta chuẩn bị cho Châu Phi cho một tương lai của việc áp dụng Cardano trên diện rộng? Làm thế nào để chúng ta tiếp tục gieo mầm và phát triển việc áp dụng vào năm 2022 và hơn thế nữa?
+hide_feedback: true
+description: "Làm thế nào để chúng ta chuẩn bị cho Châu Phi cho một tương lai của việc áp dụng Cardano trên diện rộng? Làm thế nào để chúng ta tiếp tục gieo mầm và phát triển việc áp dụng vào năm 2022 và hơn thế nữa?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Grow-Africa-Grow-Cardano-933cde.png" style="width:500px;height500px">

@@ -1,8 +1,8 @@
 ---
-title: Phát triển Châu Phi, Phát triển Cardano
-linkTitle: Phát triển Châu Phi, Phát triển Cardano
+title: "Phát triển Châu Phi, Phát triển Cardano"
+linkTitle: "Phát triển Châu Phi, Phát triển Cardano"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm thế nào để chúng ta gieo hạt và trồng Cardano ở Châu Phi?

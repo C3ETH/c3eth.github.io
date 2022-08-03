@@ -1,9 +1,9 @@
 ---
-title: Game thủ trên Blockchain
-linkTitle: Game thủ trên Blockchain
-type: tài liệu
-hide_feedback: 'true'
-description: Những ứng dụng trò chơi Blockchain nào nên được phát triển để đạt được sự chấp nhận hàng loạt của Cardano?
+title: "Game thủ trên Blockchain"
+linkTitle: "Game thủ trên Blockchain"
+type: docs
+hide_feedback: true
+description: "Những ứng dụng trò chơi Blockchain nào nên được phát triển để đạt được sự chấp nhận hàng loạt của Cardano?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" style="width:500px;height500px">

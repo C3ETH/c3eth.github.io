@@ -1,9 +1,9 @@
 ---
-title: Sự kiện cộng đồng
-linkTitle: Sự kiện cộng đồng
+title: "Sự kiện cộng đồng"
+linkTitle: "Sự kiện cộng đồng"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể tăng cường sự tham gia tích cực trong cộng đồng trong 6 tháng tới?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể tăng cường sự tham gia tích cực trong cộng đồng trong 6 tháng tới?"
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**

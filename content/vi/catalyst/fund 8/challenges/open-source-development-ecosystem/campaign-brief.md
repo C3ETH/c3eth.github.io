@@ -1,9 +1,9 @@
 ---
-title: Hệ sinh thái phát triển nguồn mở
-linkTitle: Hệ sinh thái phát triển nguồn mở
+title: "Hệ sinh thái phát triển nguồn mở"
+linkTitle: "Hệ sinh thái phát triển nguồn mở"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" style="width:500px;height500px">

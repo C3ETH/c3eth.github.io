@@ -1,9 +1,9 @@
 ---
-title: Phát triển Đông Á, Phát triển Cardano
-linkTitle: Phát triển Đông Á, Phát triển Cardano
+title: "Phát triển Đông Á, Phát triển Cardano"
+linkTitle: "Phát triển Đông Á, Phát triển Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Đông Á theo cách toàn diện và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến !
+hide_feedback: true
+description: "Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Đông Á theo cách toàn diện và hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào các sáng kiến !"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Grow-East-Asia-Grow-Cardano-ab0989.png" style="width:500px;height500px">

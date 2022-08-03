@@ -1,9 +1,9 @@
 ---
-title: 'COTI của Catalyst Native: Thanh toán bằng  ADA Plug-in'
-linkTitle: 'COTI của Catalyst Native: Thanh toán bằng  ADA Plug-in'
+title: "COTI của Catalyst Native: Thanh toán bằng  ADA Plug-in"
+linkTitle: "COTI của Catalyst Native: Thanh toán bằng  ADA Plug-in"
 type: docs
-hide_feedback: 'true'
-description: Điều gì sẽ thúc đẩy việc áp dụng quy mô lớn các ID phi tập trung trên Cardano?
+hide_feedback: true
+description: "Điều gì sẽ thúc đẩy việc áp dụng quy mô lớn các ID phi tập trung trên Cardano?"
 ---
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**

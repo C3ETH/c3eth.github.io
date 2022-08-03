@@ -1,8 +1,8 @@
 ---
-title: Cải thiện và phát triển khả năng kiểm toán
-linkTitle: Cải thiện và phát triển khả năng kiểm toán
+title: "Cải thiện và phát triển khả năng kiểm toán"
+linkTitle: "Cải thiện và phát triển khả năng kiểm toán"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm thế nào để làm cho quá trình đánh giá các đề xuất được tài trợ hiệu quả, phân tán và minh bạch?

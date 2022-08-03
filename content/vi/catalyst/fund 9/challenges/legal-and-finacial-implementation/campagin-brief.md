@@ -1,9 +1,9 @@
 ---
-title: Hoàn thiện pháp lý và tài chính
-linkTitle: Hoàn thiện pháp lý và tài chính
+title: "Hoàn thiện pháp lý và tài chính"
+linkTitle: "Hoàn thiện pháp lý và tài chính"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể xây dựng các giải pháp hiệu quả để khám phá và cung cấp các dịch vụ pháp lý, tài chính và hỗ trợ cho các Nhà đề xuất đã được tài trợ.
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể xây dựng các giải pháp hiệu quả để khám phá và cung cấp các dịch vụ pháp lý, tài chính và hỗ trợ cho các Nhà đề xuất đã được tài trợ."
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Legal-_-Financial-Implementations-9dbf3f.png" style="width:500px;height500px">

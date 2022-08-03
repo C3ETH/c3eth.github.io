@@ -1,8 +1,8 @@
 ---
-title: Mở rộng quy mô hệ sinh thái DeFi của Cardano
-linkTitle: Mở rộng quy mô hệ sinh thái DeFi của Cardano
+title: "Mở rộng quy mô hệ sinh thái DeFi của Cardano"
+linkTitle: "Mở rộng quy mô hệ sinh thái DeFi của Cardano"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm thế nào chúng tôi có thể khuyến khích các nhóm DeFi xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?

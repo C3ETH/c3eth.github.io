@@ -1,8 +1,8 @@
 ---
-title: Cardano NÓI KHÔNG với Ống hút nhựa | C4O
-linkTitle: Cardano NÓI KHÔNG với Ống hút nhựa | C4O
+title: "Cardano NÓI KHÔNG với Ống hút nhựa | C4O"
+linkTitle: "Cardano NÓI KHÔNG với Ống hút nhựa | C4O"
 type: blog
-description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
+description: "Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam."
 ---
 
 {{<youtube hS1OK-i7SW8>}}

@@ -1,9 +1,9 @@
 ---
-title: Xây dựng Dapps cho quốc gia
-linkTitle: Xây dựng Dapps cho quốc gia
+title: "Xây dựng Dapps cho quốc gia"
+linkTitle: "Xây dựng Dapps cho quốc gia"
 type: docs
-hide_feedback: 'true'
-description: Những giải pháp Dapp cốt lõi nào có thể được cung cấp để các chính phủ áp dụng rộng rãi ở các nước đang phát triển?
+hide_feedback: true
+description: "Những giải pháp Dapp cốt lõi nào có thể được cung cấp để các chính phủ áp dụng rộng rãi ở các nước đang phát triển?"
 ---
 
 Quy mô quỹ: **600.000 đô la Mỹ được thanh toán bằng Ada**

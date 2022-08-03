@@ -1,9 +1,9 @@
 ---
-title: Hệ sinh thái dành cho nhà phát triển nguồn mở
-linkTitle: Hệ sinh thái dành cho nhà phát triển nguồn mở
+title: "Hệ sinh thái dành cho nhà phát triển nguồn mở"
+linkTitle: "Hệ sinh thái dành cho nhà phát triển nguồn mở"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể đảm bảo rằng hệ sinh thái cardano được xây dựng trên một khuôn khổ do cộng đồng sở hữu và tất cả mọi người đều có thể truy cập?"
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**

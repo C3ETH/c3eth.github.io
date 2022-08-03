@@ -1,9 +1,9 @@
 ---
-title: Giải pháp kinh doanh B2B & B2C
-linkTitle: Giải pháp kinh doanh B2B & B2C
+title: "Giải pháp kinh doanh B2B & B2C"
+linkTitle: "Giải pháp kinh doanh B2B & B2C"
 type: docs
-hide_feedback: 'true'
-description: Các giải pháp dựa trên Cardano có thể giúp đáp ứng nhu cầu kinh doanh thực tế như thế nào và tác động của chúng sẽ như thế nào?
+hide_feedback: true
+description: "Các giải pháp dựa trên Cardano có thể giúp đáp ứng nhu cầu kinh doanh thực tế như thế nào và tác động của chúng sẽ như thế nào?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">

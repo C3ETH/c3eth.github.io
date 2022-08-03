@@ -1,9 +1,9 @@
 ---
-title: Thử thách hỗn hợp
-linkTitle: Thử thách khác
+title: "Thử thách hỗn hợp"
+linkTitle: "Thử thách hỗn hợp"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để chúng ta tạo ra một không gian cho các ý tưởng và dự án không phù hợp với bất kỳ Thách thức hiện tại nào khác?
+hide_feedback: true
+description: "Làm thế nào để chúng ta tạo ra một không gian cho các ý tưởng và dự án không phù hợp với bất kỳ Thách thức hiện tại nào khác?"
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**

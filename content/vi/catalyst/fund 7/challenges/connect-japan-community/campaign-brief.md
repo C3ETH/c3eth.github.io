@@ -1,9 +1,9 @@
 ---
-title: Kết nối Nhật Bản / Cộng đồng 日本
-linkTitle: Kết nối Nhật Bản / Cộng đồng 日本
+title: "Kết nối Nhật Bản / Cộng đồng 日本"
+linkTitle: "Kết nối Nhật Bản / Cộng đồng 日本"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể tăng cường sự tham gia có ý nghĩa trong cộng đồng trong 6 tháng tới?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể tăng cường sự tham gia có ý nghĩa trong cộng đồng trong 6 tháng tới?"
 ---
 
 Quy mô quỹ: **50.000 USD được thanh toán bằng Ada**

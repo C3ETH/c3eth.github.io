@@ -1,8 +1,8 @@
 ---
-title: DApps & Tích hợp
-linkTitle: DApps & Tích hợp
-type: tài liệu
-hide_feedback: 'true'
+title: "DApps & Tích hợp"
+linkTitle: "DApps & Tích hợp"
+type: docs
+hide_feedback: true
 ---
 
 Ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người dùng cuối vào năm 2021?

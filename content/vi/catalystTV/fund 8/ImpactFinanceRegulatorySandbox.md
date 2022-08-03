@@ -1,8 +1,8 @@
 ---
-title: Hộp cát quy định tác động tài chính
-linkTitle: Hộp cát quy định tác động tài chính
+title: "Hộp cát quy định tác động tài chính"
+linkTitle: "Hộp cát quy định tác động tài chính"
 type: blog
-description: Các quy định của thị trường tài chính nhằm mục đích bảo vệ các nhà đầu tư nhưng lại khiến việc tài trợ cho các khoản đầu tư có tác động xã hội và môi trường nhỏ hơn trở nên đắt đỏ.
+description: "Các quy định của thị trường tài chính nhằm mục đích bảo vệ các nhà đầu tư nhưng lại khiến việc tài trợ cho các khoản đầu tư có tác động xã hội và môi trường nhỏ hơn trở nên đắt đỏ."
 ---
 
 {{<youtube J0PS2OudR3Q>}}

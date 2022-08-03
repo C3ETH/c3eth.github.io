@@ -1,9 +1,9 @@
 ---
-title: Cải tiến Cố vấn Cộng đồng
-linkTitle: Cải tiến Cố vấn Cộng đồng
+title: "Cải tiến Cố vấn Cộng đồng"
+linkTitle: "Cải tiến Cố vấn Cộng đồng"
 type: docs
-hide_feedback: 'true'
-description: Cố vấn cộng đồng là một vai trò quan trọng đang phát triển của Project Catalyst và cần một địa điểm và ngân sách để gửi các đề xuất nhằm cải thiện hiệu suất của họ
+hide_feedback: true
+description: "Cố vấn cộng đồng là một vai trò quan trọng đang phát triển của Project Catalyst và cần một địa điểm và ngân sách để gửi các đề xuất nhằm cải thiện hiệu suất của họ"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/21-Community-Advisor-Improvements-dbdbe2.png" style="width:500px;height500px">

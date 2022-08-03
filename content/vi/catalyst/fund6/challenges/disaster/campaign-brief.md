@@ -1,8 +1,8 @@
 ---
-title: 'Thảm họa: Khi tất cả bị đe dọa'
-linkTitle: 'Thảm họa: Khi tất cả bị đe dọa'
+title: "Thảm họa: Khi tất cả bị đe dọa"
+linkTitle: "Thảm họa: Khi tất cả bị đe dọa"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm cách nào để chúng tôi có thể giúp các SPO đối phó với rủi ro &amp; lập kế hoạch, phát triển và tham gia vào các thử nghiệm khắc phục thảm họa một cách an toàn và không có trục trặc và phi tập trung?

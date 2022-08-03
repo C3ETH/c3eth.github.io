@@ -1,9 +1,9 @@
 ---
-title: Catalyst   - Cơ chế cấp vốn nhanh
-linkTitle: Catalyst   - Cơ chế cấp vốn nhanh
+title: "Catalyst   - Cơ chế cấp vốn nhanh"
+linkTitle: "Catalyst   - Cơ chế cấp vốn nhanh"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào để chúng ta có thể phân phối quỹ kho bạc Cardano nhanh chóng một cách minh bạch, có trách nhiệm và an toàn?
+hide_feedback: true
+description: "Làm cách nào để chúng ta có thể phân phối quỹ kho bạc Cardano nhanh chóng một cách minh bạch, có trách nhiệm và an toàn?"
 ---
 
 Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**

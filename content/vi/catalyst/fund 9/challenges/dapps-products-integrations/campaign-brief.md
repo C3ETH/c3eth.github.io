@@ -1,9 +1,9 @@
 ---
-title: Dapps, Sản phẩm & Tích hợp
-linkTitle: Dapps, Sản phẩm & Tích hợp
+title: "Dapps, Sản phẩm & Tích hợp"
+linkTitle: "Dapps, Sản phẩm & Tích hợp"
 type: docs
-hide_feedback: 'true'
-description: Những dapp, sản phẩm và tích hợp nào có thể được triển khai để mang lại các trường hợp sử dụng hiệu quả cho hệ sinh thái Cardano giúp thúc đẩy nhiều người áp dụng hơn?
+hide_feedback: true
+description: "Những dapp, sản phẩm và tích hợp nào có thể được triển khai để mang lại các trường hợp sử dụng hiệu quả cho hệ sinh thái Cardano giúp thúc đẩy nhiều người áp dụng hơn?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps-products-_-integrations-45d612.png" style="width:500px;height500px">

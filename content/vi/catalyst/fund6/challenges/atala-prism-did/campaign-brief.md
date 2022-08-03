@@ -1,8 +1,8 @@
 ---
-title: Áp dụng quy mô lớn của Atala PRISM DID
-linkTitle: Áp dụng quy mô lớn của Atala PRISM DID
+title: "Áp dụng quy mô lớn của Atala PRISM DID"
+linkTitle: "Áp dụng quy mô lớn của Atala PRISM DID"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Điều gì sẽ thúc đẩy việc áp dụng quy mô lớn các ID phi tập trung trên Cardano?

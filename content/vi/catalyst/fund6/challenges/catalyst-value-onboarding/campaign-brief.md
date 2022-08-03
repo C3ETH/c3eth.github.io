@@ -1,8 +1,8 @@
 ---
-title: Giới thiệu giá trị xúc tác
-linkTitle: Giới thiệu giá trị xúc tác
-type: tài liệu
-hide_feedback: thật
+title: "Giới thiệu giá trị xúc tác"
+linkTitle: "Giới thiệu giá trị xúc tác"
+type: docs
+hide_feedback: true
 ---
 
 Làm thế nào chúng ta có thể khuyến khích sự tham gia có ý nghĩa vào Dự án Catalyst từ các thành viên cộng đồng trong hai quỹ tiếp theo?

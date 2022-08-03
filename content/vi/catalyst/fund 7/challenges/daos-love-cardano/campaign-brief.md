@@ -1,9 +1,9 @@
 ---
-title: DAOs ❤ Cardano
-linkTitle: DAOs ❤ Cardano
+title: "DAOs ❤ Cardano"
+linkTitle: "DAOs ❤ Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể biến Cardano trở thành lựa chọn hàng đầu cho các DAO tự quản lý?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể biến Cardano trở thành lựa chọn hàng đầu cho các DAO tự quản lý?"
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**

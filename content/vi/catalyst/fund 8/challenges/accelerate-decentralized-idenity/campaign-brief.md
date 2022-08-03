@@ -1,9 +1,9 @@
 ---
-title: Tăng tốc độ nhận dạng phi tập trung
-linkTitle: Tăng tốc độ nhận dạng phi tập trung
+title: "Tăng tốc độ nhận dạng phi tập trung"
+linkTitle: "Tăng tốc độ nhận dạng phi tập trung"
 type: docs
-hide_feedback: 'true'
-description: Chúng ta có thể phát triển và triển khai những giải pháp nào với Atala PRISM và Cardano ngày nay để có tác động tích cực nhất và mở ra cơ hội cho sự phát triển nhanh chóng của mạng lưới Cardano?
+hide_feedback: true
+description: "Chúng ta có thể phát triển và triển khai những giải pháp nào với Atala PRISM và Cardano ngày nay để có tác động tích cực nhất và mở ra cơ hội cho sự phát triển nhanh chóng của mạng lưới Cardano?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" style="width:500px;height500px">

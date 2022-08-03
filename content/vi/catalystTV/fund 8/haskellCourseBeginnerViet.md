@@ -1,8 +1,8 @@
 ---
-title: Khóa học Haskell cho người mới bắt đầu / tiếng Việt
-linkTitle: Khóa học Haskell cho người mới bắt đầu / tiếng Việt
+title: "Khóa học Haskell cho người mới bắt đầu / tiếng Việt"
+linkTitle: "Khóa học Haskell cho người mới bắt đầu / tiếng Việt"
 type: blog
-description: Có rất nhiều người thực sự muốn viết các hợp đồng thông minh và xây dựng các dự án trên Cardano. Nhưng Haskell là một rào cản lớn đối với người mới bắt đầu
+description: "Có rất nhiều người thực sự muốn viết các hợp đồng thông minh và xây dựng các dự án trên Cardano. Nhưng Haskell là một rào cản lớn đối với người mới bắt đầu"
 ---
 
 {{<youtube mWvgegef6yc>}}

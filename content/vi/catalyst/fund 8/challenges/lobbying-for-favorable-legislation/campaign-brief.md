@@ -1,9 +1,9 @@
 ---
-title: Vận động để có luật pháp công bằng
-linkTitle: Vận động để có luật pháp công bằng
+title: "Vận động để có luật pháp công bằng"
+linkTitle: "Vận động để có luật pháp công bằng"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ và sự xâm phạm pháp luật và các chính sách thuế không công bằng trên cơ sở liên tục?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ và sự xâm phạm pháp luật và các chính sách thuế không công bằng trên cơ sở liên tục?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" style="width:500px;height500px">

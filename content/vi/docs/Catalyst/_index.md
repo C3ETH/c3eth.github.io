@@ -4,7 +4,7 @@ linkTitle: "Catalyst Guides"
 hide_feedback: true
 weight: 4
 description: >
-  Người tham gia cần hiểu gì về Project Catalyst để gửi đề xuất, trở thành cố vấn cộng đồng hoặc bỏ phiếu?
+  "Người tham gia cần hiểu gì về Project Catalyst để gửi đề xuất, trở thành cố vấn cộng đồng hoặc bỏ phiếu?"
 
 
 ---

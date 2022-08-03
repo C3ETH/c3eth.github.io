@@ -1,9 +1,9 @@
 ---
-title: Cuộc di cư vĩ đại (từ Ethereum)
-linkTitle: Cuộc di cư vĩ đại (từ Ethereum)
+title: "Cuộc di cư vĩ đại (từ Ethereum)"
+linkTitle: "Cuộc di cư vĩ đại (từ Ethereum)"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào để chúng tôi có thể giúp dApp và các dự án khác mở rộng hoặc chuyển hoàn toàn từ Ethereum sang Cardano một cách dễ dàng và nhanh chóng?
+hide_feedback: true
+description: "Làm cách nào để chúng tôi có thể giúp dApp và các dự án khác mở rộng hoặc chuyển hoàn toàn từ Ethereum sang Cardano một cách dễ dàng và nhanh chóng?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-The-Great-Migration-from-Ethereum-d703ec.png" style="width:500px;height500px">

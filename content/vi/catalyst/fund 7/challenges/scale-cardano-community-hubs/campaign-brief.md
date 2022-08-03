@@ -1,9 +1,9 @@
 ---
-title: Mở rộng quy mô các trung tâm cộng đồng của Cardano
-linkTitle: Mở rộng quy mô các trung tâm cộng đồng của Cardano
+title: "Mở rộng quy mô các trung tâm cộng đồng của Cardano"
+linkTitle: "Mở rộng quy mô các trung tâm cộng đồng của Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào để chúng tôi khuyến khích các Trung tâm cộng đồng địa phương thúc đẩy việc áp dụng và nhận thức về Cardano trong 6 tháng tới?
+hide_feedback: true
+description: "Làm cách nào để chúng tôi khuyến khích các Trung tâm cộng đồng địa phương thúc đẩy việc áp dụng và nhận thức về Cardano trong 6 tháng tới?"
 ---
 
 {{&lt;youtube nJkH2MtPhX8&gt;}}

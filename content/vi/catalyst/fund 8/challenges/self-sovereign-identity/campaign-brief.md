@@ -1,9 +1,9 @@
 ---
-title: Nhận dạng quyền tự chủ
-linkTitle: Nhận dạng quyền tự chủ
+title: "Nhận dạng quyền tự chủ"
+linkTitle: "Nhận dạng quyền tự chủ"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể thực hiện bước tiếp theo để hỗ trợ các nguyên tắc về bản sắc tự chủ?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể thực hiện bước tiếp theo để hỗ trợ các nguyên tắc về bản sắc tự chủ?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" style="width:500px;height500px">

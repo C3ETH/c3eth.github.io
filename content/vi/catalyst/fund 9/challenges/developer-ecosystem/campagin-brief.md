@@ -1,9 +1,9 @@
 ---
-title: Hệ sinh thái cho lập trình viên
-linkTitle: Hệ sinh thái cho lập trình viên
+title: "Hệ sinh thái cho lập trình viên"
+linkTitle:  "Hệ sinh thái cho lập trình viên"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào để chúng tôi có thể tạo ra trải nghiệm tích cực cho nhà phát triển để giúp các lập trình viên tập trung vào việc xây dựng các ứng dụng thành công?
+hide_feedback: true
+description: "Làm cách nào để chúng tôi có thể tạo ra trải nghiệm tích cực cho nhà phát triển để giúp các lập trình viên tập trung vào việc xây dựng các ứng dụng thành công?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">

@@ -1,9 +1,9 @@
 ---
-title: DApps   - Tích hợp
-linkTitle: DApps   - Tích hợp
+title: "DApps   - Tích hợp"
+linkTitle: "DApps   - Tích hợp"
 type: docs
-hide_feedback: 'true'
-description: Những ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người dùng cuối vào năm 2022?
+hide_feedback: true
+description: "Những ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người dùng cuối vào năm 2022?"
 ---
 
 Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**

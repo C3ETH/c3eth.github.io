@@ -1,9 +1,9 @@
 ---
-title: Thử thách hỗn hợp
-linkTitle: Thử thách hỗn hợp
-type: tài liệu
-hide_feedback: thật
-description: Làm thế nào để chúng ta tạo ra một không gian cho các ý tưởng và dự án không phù hợp với bất kỳ Thách thức hiện tại nào khác?
+title: "Thử thách hỗn hợp"
+linkTitle: "Thử thách hỗn hợp"
+type: docs
+hide_feedback: true
+description: "Làm thế nào để chúng ta tạo ra một không gian cho các ý tưởng và dự án không phù hợp với bất kỳ Thách thức hiện tại nào khác?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">

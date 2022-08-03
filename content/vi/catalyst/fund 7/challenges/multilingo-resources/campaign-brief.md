@@ -1,9 +1,9 @@
 ---
-title: Tài nguyên đa ngôn ngữ
-linkTitle: Tài nguyên đa ngôn ngữ
+title: "Tài nguyên đa ngôn ngữ"
+linkTitle: "Tài nguyên đa ngôn ngữ"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể thúc đẩy những người không nói tiếng Anh học hỏi và phát triển hệ sinh thái Cardano trong 3-6 tháng tới?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể thúc đẩy những người không nói tiếng Anh học hỏi và phát triển hệ sinh thái Cardano trong 3-6 tháng tới?"
 ---
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**

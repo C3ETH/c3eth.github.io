@@ -1,9 +1,9 @@
 ---
-title: Xây dựng Dapps cho quốc gia
-linkTitle: Xây dựng Dapps cho quốc gia
+title: "Xây dựng Dapps cho quốc gia"
+linkTitle: "Xây dựng Dapps cho quốc gia"
 type: docs
-hide_feedback: 'true'
-description: Những giải pháp cốt lõi nào của Xây dựng Dapps cho quốc gia có thể được cung cấp cho những người dùng rộng rãi có được ở các nước đang phát triển?
+hide_feedback: true
+description: "Những giải pháp cốt lõi nào của Xây dựng Dapps cho quốc gia có thể được cung cấp cho những người dùng rộng rãi có được ở các nước đang phát triển?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" style="width:500px;height500px">

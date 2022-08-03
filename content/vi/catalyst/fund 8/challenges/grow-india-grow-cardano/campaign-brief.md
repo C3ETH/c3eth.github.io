@@ -1,9 +1,9 @@
 ---
-title: Phát triển Ấn Độ, Phát triển Cardano
-linkTitle: Phát triển Ấn Độ, Phát triển Cardano
-type: tài liệu
-hide_feedback: 'true'
-description: Làm cách nào để chúng tôi có thể phát triển và áp dụng Cardano ở Ấn Độ?
+title: "Phát triển Ấn Độ, Phát triển Cardano"
+linkTitle: "Phát triển Ấn Độ, Phát triển Cardano"
+type: docs
+hide_feedback: true
+description: "Làm cách nào để chúng tôi có thể phát triển và áp dụng Cardano ở Ấn Độ?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" style="width:500px;height500px">

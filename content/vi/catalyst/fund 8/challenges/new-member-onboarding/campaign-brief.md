@@ -1,9 +1,9 @@
 ---
-title: Giới thiệu thành viên mới
-linkTitle: Giới thiệu thành viên mới
+title: "Giới thiệu thành viên mới"
+linkTitle: "Giới thiệu thành viên mới"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào chúng ta có thể giúp các thành viên Catalyst mới đảm nhận các vai trò và trách nhiệm phù hợp vào năm 2022 nhanh hơn và dễ dàng hơn?
+hide_feedback: true
+description: "Làm cách nào chúng ta có thể giúp các thành viên Catalyst mới đảm nhận các vai trò và trách nhiệm phù hợp vào năm 2022 nhanh hơn và dễ dàng hơn?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" style="width:500px;height500px">

@@ -1,9 +1,9 @@
 ---
-title: Phát triển Châu Mỹ Latinh, Phát triển Cardano
-linkTitle: Phát triển Châu Mỹ Latinh, Phát triển Cardano
+title: "Phát triển Châu Mỹ Latinh, Phát triển Cardano"
+linkTitle: "Phát triển Châu Mỹ Latinh, Phát triển Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Mỹ Latinh?
+hide_feedback: true
+description: "Làm thế nào để chúng ta phát triển hệ sinh thái Cardano ở Mỹ Latinh?"
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**

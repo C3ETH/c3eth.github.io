@@ -1,9 +1,9 @@
 ---
-title: Thục giục Catalyst & Cố vấn
-linkTitle: Thục đẩy Catalyst & Cố vấn
+title: "Thục đẩy Catalyst & Cố vấn"
+linkTitle: "Thục đẩy Catalyst & Cố vấn"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào Catalyst có thể khai thác hỏa lực chuyên nghiệp để khởi động một môi trường máy gia tốc nhằm khuếch đại và thương mại hóa các dự án được tài trợ?
+hide_feedback: true
+description: "Làm thế nào Catalyst có thể khai thác hỏa lực chuyên nghiệp để khởi động một môi trường máy gia tốc nhằm khuếch đại và thương mại hóa các dự án được tài trợ?"
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**

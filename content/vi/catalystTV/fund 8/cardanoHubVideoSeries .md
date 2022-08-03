@@ -1,8 +1,8 @@
 ---
-title: Trung tâm Cardano ở Indonesia-Loạt video
-linkTitle: Trung tâm Cardano ở Indonesia-Loạt video
+title: "Trung tâm Cardano ở Indonesia-Loạt video"
+linkTitle: "Trung tâm Cardano ở Indonesia-Loạt video"
 type: blog
-description: Người Indonesia thích đồ họa thông tin trực quan một cách đơn giản thông qua video để tìm hiểu về Cardano bằng ngôn ngữ địa phương   - Bahasa Indonesia
+description: "Người Indonesia thích đồ họa thông tin trực quan một cách đơn giản thông qua video để tìm hiểu về Cardano bằng ngôn ngữ địa phương   - Bahasa Indonesia"
 ---
 
 {{<youtube 6gFEJ9eGzsY>}}

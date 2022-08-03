@@ -1,9 +1,9 @@
 ---
-title: Các Dapp Ngân sách thấp / Nhỏ & Tích hợp
-linkTitle: Các Dapp Ngân sách thấp / Nhỏ & Tích hợp
+title: "Các Dapp Ngân sách thấp / Nhỏ & Tích hợp"
+linkTitle: "Các Dapp Ngân sách thấp / Nhỏ & Tích hợp"
 type: docs
-hide_feedback: 'true'
-description: Ngân sách ít / Ứng dụng phi tập trung nhỏ nào sẽ mang lại nhiều giá trị nhất cho người dùng cuối trong 3 tháng tới?
+hide_feedback: true
+description: "Ngân sách ít / Ứng dụng phi tập trung nhỏ nào sẽ mang lại nhiều giá trị nhất cho người dùng cuối trong 3 tháng tới?"
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**

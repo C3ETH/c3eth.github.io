@@ -1,9 +1,9 @@
 ---
-title: Giải pháp mở rộng quy mô Cardano
-linkTitle: Giải pháp mở rộng quy mô Cardano
+title: "Giải pháp mở rộng quy mô Cardano"
+linkTitle: "Giải pháp mở rộng quy mô Cardano"
 type: docs
-hide_feedback: 'true'
-description: Nghiên cứu và triển khai mở rộng nào có thể giới thiệu để giúp Cardano tăng khả năng mở rộng?
+hide_feedback: true
+description: "Nghiên cứu và triển khai mở rộng nào có thể giới thiệu để giúp Cardano tăng khả năng mở rộng?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" style="width:500px;height500px">

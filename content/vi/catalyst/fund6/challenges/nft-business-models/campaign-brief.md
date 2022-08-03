@@ -1,8 +1,8 @@
 ---
-title: Mô hình kinh doanh NFT
-linkTitle: Mô hình kinh doanh NFT
+title: "Mô hình kinh doanh NFT"
+linkTitle: "Mô hình kinh doanh NFT"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Những trường hợp sử dụng không phải Nghệ thuật nào của NFT có thể phân biệt Cardano là blockchain được lựa chọn cho các doanh nghiệp dựa trên NFT?

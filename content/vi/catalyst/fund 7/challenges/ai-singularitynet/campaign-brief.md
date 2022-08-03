@@ -1,9 +1,9 @@
 ---
-title: Thị trường đáng giá 5T của A.I. & SingularityNet
-linkTitle: Thị trường đáng giá 5T của A.I. & SingularityNet
+title: "Thị trường đáng giá 5T của A.I. & SingularityNet"
+linkTitle: "Thị trường đáng giá 5T của A.I. & SingularityNet"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào chúng ta có thể tạo mối quan hệ hợp tác cùng có lợi với SingularityNet và các nhà phát triển và nhà nghiên cứu A.I.?
+hide_feedback: true
+description: "Làm cách nào chúng ta có thể tạo mối quan hệ hợp tác cùng có lợi với SingularityNet và các nhà phát triển và nhà nghiên cứu A.I.?"
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**

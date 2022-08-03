@@ -1,8 +1,8 @@
 ---
-title: Thử thách siêu dữ liệu
-linkTitle: Thử thách siêu dữ liệu
+title: "Thử thách siêu dữ liệu"
+linkTitle: "Thử thách siêu dữ liệu"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm cách nào chúng ta có thể sử dụng siêu dữ liệu giao dịch để giải quyết các vấn đề trong thế giới thực?

@@ -1,8 +1,8 @@
 ---
-title: Thiết lập thách thức của Quỹ 7
-linkTitle: Thiết lập thách thức của Quỹ 7
+title: "Thiết lập thách thức của Quỹ 7"
+linkTitle: "Thiết lập thách thức của Quỹ 7"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Những Thách thức nào mà cộng đồng nên ưu tiên giải quyết trong Fund7?

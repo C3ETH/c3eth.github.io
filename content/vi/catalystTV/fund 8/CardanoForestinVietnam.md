@@ -1,8 +1,8 @@
 ---
-title: Rừng Cardano ở Việt Nam
-linkTitle: Rừng Cardano ở Việt Nam
+title: "Rừng Cardano ở Việt Nam"
+linkTitle: "Rừng Cardano ở Việt Nam"
 type: blog
-description: một dự án NFT để giúp cứu hành tinh bằng cách trồng cây. Ở Việt Nam, hầu hết mọi người đều biết về tiền điện tử, nhưng họ có ít kiến thức về các ứng dụng khác của blockchain, như là các chữ ký số không thể thay thế. Giải pháp là sử dụng NFT trên Cardano Blockchain để quản lý công việc trồng rừng tại Việt Nam.
+description: "Một dự án NFT để giúp cứu hành tinh bằng cách trồng cây. Ở Việt Nam, hầu hết mọi người đều biết về tiền điện tử, nhưng họ có ít kiến thức về các ứng dụng khác của blockchain, như là các chữ ký số không thể thay thế. Giải pháp là sử dụng NFT trên Cardano Blockchain để quản lý công việc trồng rừng tại Việt Nam."
 ---
 
 {{<youtube HMJi1OwT6Fg>}}

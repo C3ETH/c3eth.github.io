@@ -1,9 +1,9 @@
 ---
-title: Game thủ trên Blockchain
-linkTitle: Game thủ trên Blockchain
+title: "Game thủ trên Blockchain"
+linkTitle: "Game thủ trên Blockchain"
 type: docs
-hide_feedback: 'true'
-description: Những ứng dụng trò chơi Blockchain nào nên được phát triển để đạt được sự chấp nhận hàng loạt của Cardano?
+hide_feedback: true
+description: "Những ứng dụng trò chơi Blockchain nào nên được phát triển để đạt được sự chấp nhận hàng loạt của Cardano?"
 ---
 
 Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**

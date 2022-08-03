@@ -1,9 +1,9 @@
 ---
-title: Giải trừ các cuộc tấn công phá hoại thông tin mạng
-linkTitle: Giải trừ các cuộc tấn công phá hoại thông tin mạng
+title: "Giải trừ các cuộc tấn công phá hoại thông tin mạng"
+linkTitle: "Giải trừ các cuộc tấn công phá hoại thông tin mạng"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể ngăn chặn các xâm nhập làm mất ổn định Cardano thông qua các trường hợp tấn công Distributed Denial of Truth (DDoT)?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể ngăn chặn các xâm nhập làm mất ổn định Cardano thông qua các trường hợp tấn công Distributed Denial of Truth (DDoT)?"
 ---
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**

@@ -1,8 +1,8 @@
 ---
-title: Cảnh báo về mối đe dọa mới nổi của Cardano
-linkTitle: Cảnh báo về mối đe dọa mới nổi của Cardano
+title: "Cảnh báo về mối đe dọa mới nổi của Cardano"
+linkTitle: "Cảnh báo về mối đe dọa mới nổi của Cardano"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm thế nào chúng ta có thể giúp các cổ đông xác định các mối đe dọa nghiêm trọng tới hệ thống đang nổi lên đối với chuỗi khối Cardano trước khi một mối đe dọa vượt qua hệ thống?

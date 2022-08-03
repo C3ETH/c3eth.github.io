@@ -1,8 +1,8 @@
 ---
-title: Ra quyết định phân tán
-linkTitle: Ra quyết định phân tán
+title: "Ra quyết định phân tán"
+linkTitle: "Ra quyết định phân tán"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm cách nào để chúng tôi có thể giúp cộng đồng Catalyst tiến bộ hơn trong việc đưa ra quyết định phân tán trong hai vòng Catalyst tiếp theo?

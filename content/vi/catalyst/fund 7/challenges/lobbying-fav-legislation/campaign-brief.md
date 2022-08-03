@@ -1,9 +1,9 @@
 ---
-title: Vận động để có luật pháp công bằng
-linkTitle: Vận động để có luật pháp công bằng
+title: "Vận động để có luật pháp công bằng"
+linkTitle: "Vận động để có luật pháp công bằng"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ độc tài và sự thỏa hiệp của luật pháp và các chính sách thuế không công bằng?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể tự bảo vệ mình khỏi các cuộc tấn công của các chính phủ độc tài và sự thỏa hiệp của luật pháp và các chính sách thuế không công bằng?"
 ---
 
 Quy mô quỹ: **$ 75,000 USD thanh toán bằng Ada**

@@ -1,8 +1,8 @@
 ---
-title: Hệ sinh thái cho nhà phát triển
-linkTitle: Hệ sinh thái cho nhà phát triển
+title: "Hệ sinh thái cho nhà phát triển"
+linkTitle: "Hệ sinh thái cho nhà phát triển"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm cách nào để chúng tôi có thể tạo ra trải nghiệm tích cực cho nhà phát triển để giúp nhà phát triển tập trung vào việc xây dựng các ứng dụng thành công?

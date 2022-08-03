@@ -1,8 +1,8 @@
 ---
-title: DeFi nên thú vị hơn trên Scaling / MetaVerse / Play
-linkTitle: DeFi nên thú vị hơn trên Scaling / MetaVerse / Play
+title: "DeFi nên thú vị hơn trên Scaling / MetaVerse / Play"
+linkTitle: "DeFi nên thú vị hơn trên Scaling / MetaVerse / Play"
 type: blog
-description: Thay vì đi theo thiết kế UX nhàm chán như hầu hết các DEX hiện tại, Miverse sẽ đưa ra một mô hình khác biệt cho hệ sinh thái DeFi & GameFi.
+description: "Thay vì đi theo thiết kế UX nhàm chán như hầu hết các DEX hiện tại, Miverse sẽ đưa ra một mô hình khác biệt cho hệ sinh thái DeFi & GameFi."
 ---
 
 {{<youtube DxKtSamw_GI>}}

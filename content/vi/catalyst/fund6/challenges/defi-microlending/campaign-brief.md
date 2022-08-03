@@ -1,8 +1,8 @@
 ---
-title: DeFi và cho vay vi mô ở Châu Phi
-linkTitle: DeFi và cho vay vi mô ở Châu Phi
+title: "DeFi và cho vay vi mô ở Châu Phi"
+linkTitle: "DeFi và cho vay vi mô ở Châu Phi"
 type: docs
-hide_feedback: thật
+hide_feedback: true
 ---
 
 Quy mô quỹ: **$ 90,000 USD thanh toán bằng Ada**

@@ -1,9 +1,9 @@
 ---
-title: Tạo dựng cơ sở của Cardano DeFi
-linkTitle: Tạo dựng cơ sở của Cardano DeFi
+title: "Tạo dựng cơ sở của Cardano DeFi"
+linkTitle: "Tạo dựng cơ sở của Cardano DeFi"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để khuyến khích các nhóm mới triển khai Giải pháp Defi trên Cardano?
+hide_feedback: true
+description: "Làm thế nào để khuyến khích các nhóm mới triển khai Giải pháp Defi trên Cardano?"
 ---
 
 Quy mô quỹ: **200.000 USD được thanh toán bằng Ada**

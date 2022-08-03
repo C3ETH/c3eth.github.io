@@ -1,11 +1,11 @@
 ---
-title: Kết nối người khởi nghiệp Đông Á
-linkTitle: Kết nối người khởi nghiệp Đông Á
+title: "Kết nối người khởi nghiệp Đông Á"
+linkTitle: "Kết nối người khởi nghiệp Đông Á"
 type: docs
-hide_feedback: 'true'
-weight: '30'
-description: >
-  Không có sáng kiến nào của Cardano để thu hút và thu hút các doanh nhân Đông Á ở bất kỳ đâu, bằng ngôn ngữ địa phương của họ. Chúng tôi đề xuất sử dụng Tòa thị chính phía Đông và các sự kiện ảo được nhắm mục tiêu để thiết lập và hỗ trợ mạng lưới các doanh nhân Đông Á.
+hide_feedback: true
+weight: 30
+description: 
+  "Không có sáng kiến nào của Cardano để thu hút và thu hút các doanh nhân Đông Á ở bất kỳ đâu, bằng ngôn ngữ địa phương của họ. Chúng tôi đề xuất sử dụng Tòa thị chính phía Đông và các sự kiện ảo được nhắm mục tiêu để thiết lập và hỗ trợ mạng lưới các doanh nhân Đông Á."
 ---
 
 {{< youtube Ibm36IXxnYA >}}

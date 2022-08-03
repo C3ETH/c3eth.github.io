@@ -1,8 +1,8 @@
 ---
-title: Quán cà phê Cardano tại Việt Nam
-linkTitle: Quán cà phê Cardano tại Việt Nam
+title: "Quán cà phê Cardano tại Việt Nam"
+linkTitle: "Quán cà phê Cardano tại Việt Nam"
 type: blog
-description: Cần đa dạng hóa phương pháp học và trao đổi kiến thức với các nhà phát triển có kinh nghiệm và Cardanian tại Việt Nam
+description: "Cần đa dạng hóa phương pháp học và trao đổi kiến thức với các nhà phát triển có kinh nghiệm và Cardanian tại Việt Nam"
 ---
 
 {{<youtube SHcUhpdnX1Q>}}

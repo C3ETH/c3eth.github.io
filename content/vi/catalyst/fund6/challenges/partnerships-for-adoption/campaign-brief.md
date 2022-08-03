@@ -1,8 +1,8 @@
 ---
-title: Quan hệ đối tác để áp dụng toàn cầu
-linkTitle: Quan hệ đối tác để áp dụng toàn cầu
+title: "Quan hệ đối tác để áp dụng toàn cầu"
+linkTitle: "Quan hệ đối tác để áp dụng toàn cầu"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Cardano có thể tham gia vào quan hệ đối tác toàn cầu với Chương trình Phát triển Liên hợp quốc và Nhóm Ngân hàng Thế giới, để thúc đẩy việc áp dụng hàng loạt không?

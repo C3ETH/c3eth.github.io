@@ -1,9 +1,9 @@
 ---
-title: Xây dựng trên Blockfrost
-linkTitle: Xây dựng trên Blockfrost
+title: "Xây dựng trên Blockfrost"
+linkTitle: "Xây dựng trên Blockfrost"
 type: docs
-hide_feedback: 'true'
-description: Làm cách nào chúng ta có thể mở rộng hệ sinh thái Blockfrost để thúc đẩy sự chấp nhận của các nhà phát triển trên Cardano?
+hide_feedback: true
+description: "Làm cách nào chúng ta có thể mở rộng hệ sinh thái Blockfrost để thúc đẩy sự chấp nhận của các nhà phát triển trên Cardano?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Building-on-Blockfrost-fdb9c3.png" style="width:500px;height500px">

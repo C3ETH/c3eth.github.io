@@ -1,8 +1,8 @@
 ---
-title: Hộp công cụ khởi nghiệp DLT
-linkTitle: Hộp công cụ khởi nghiệp DLT
+title: "Hộp công cụ khởi nghiệp DLT"
+linkTitle: "Hộp công cụ khởi nghiệp DLT"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm thế nào các doanh nhân giai đoạn đầu có thể phát triển kỹ năng của họ để thực hiện và truyền đạt những ý tưởng tuyệt vời để cử tri / các bên liên quan đánh giá cao dự án?

@@ -1,8 +1,8 @@
 ---
-title: Báo cáo thị trường hàng năm của Cardano
-linkTitle: Báo cáo thị trường hàng năm của Cardano
+title: "Báo cáo thị trường hàng năm của Cardano"
+linkTitle: "Báo cáo thị trường hàng năm của Cardano"
 type: blog
-description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
+description: "Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam."
 ---
 
 {{<  youtube gZyouiBW2Eo >}}

@@ -1,9 +1,9 @@
 ---
-title: Thúc đẩy DeFi của Cardano
-linkTitle: Thúc đẩy DeFi của Cardano
+title: "Thúc đẩy DeFi của Cardano"
+linkTitle: "Thúc đẩy DeFi của Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng tôi có thể khuyến khích các nhóm DeFi xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?
+hide_feedback: true
+description: "Làm thế nào chúng tôi có thể khuyến khích các nhóm DeFi xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?"
 ---
 
 Quy mô quỹ: **500.000 đô la Mỹ được thanh toán bằng Ada**

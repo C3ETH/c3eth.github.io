@@ -1,9 +1,9 @@
 ---
-title: DApps và tích hợp
-linkTitle: DApps và tích hợp
+title: "DApps và tích hợp"
+linkTitle: "DApps và tích hợp"
 type: docs
-hide_feedback: 'true'
-description: Những ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người dùng cuối vào năm 2022?
+hide_feedback: true
+description: "Những ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người dùng cuối vào năm 2022?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" style="width:500px;height500px">

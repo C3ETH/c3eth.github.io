@@ -1,9 +1,9 @@
 ---
-title: Thiết lập thử thách Fund8
-linkTitle: Thiết lập thử thách Fund8
+title: "Thiết lập thử thách Fund8"
+linkTitle: "Thiết lập thử thách Fund8"
 type: docs
-hide_feedback: 'true'
-description: Những Thách thức nào mà cộng đồng nên ưu tiên giải quyết trong Fund8?
+hide_feedback: true
+description: "Những Thách thức nào mà cộng đồng nên ưu tiên giải quyết trong Fund8?"
 ---
 
 Quy mô quỹ: **$ 12,800,000 trong Ada**

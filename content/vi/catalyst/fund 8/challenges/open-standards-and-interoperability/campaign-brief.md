@@ -1,9 +1,9 @@
 ---
-title: Tiêu chuẩn mở & khả năng tương tác
-linkTitle: Tiêu chuẩn mở & khả năng tương tác
+title: "Tiêu chuẩn mở & khả năng tương tác"
+linkTitle: "Tiêu chuẩn mở & khả năng tương tác"
 type: docs
-hide_feedback: 'true'
-description: Chúng ta có thể xây dựng một Hệ sinh thái mở để thúc đẩy tăng trưởng, trao cơ hội bình đẳng cho tất cả mọi người và tăng sức mạnh tổng hợp giữa các dự án Cardano không?
+hide_feedback: true
+description: "Chúng ta có thể xây dựng một Hệ sinh thái mở để thúc đẩy tăng trưởng, trao cơ hội bình đẳng cho tất cả mọi người và tăng sức mạnh tổng hợp giữa các dự án Cardano không?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" style="width:500px;height500px">

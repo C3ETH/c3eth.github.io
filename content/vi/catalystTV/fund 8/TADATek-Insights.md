@@ -1,8 +1,8 @@
 ---
-title: Cái nhìn thấu suốt của TADATek
-linkTitle: Cái nhìn thấu suốt của TADATek
+title: "Cái nhìn thấu suốt của TADATek"
+linkTitle: "Cái nhìn thấu suốt của TADATek"
 type: blog
-description: Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam.
+description: "Nhiệm vụ của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam."
 ---
 
 {{<youtube 7LtMcfuz3gk>}}

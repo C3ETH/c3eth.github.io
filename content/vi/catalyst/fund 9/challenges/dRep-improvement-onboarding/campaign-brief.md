@@ -1,9 +1,9 @@
 ---
-title: Giới thiệu và cải tiến dRep
-linkTitle: Giới thiệu và cải tiến dRep
+title: "Giới thiệu và cải tiến dRep"
+linkTitle: "Giới thiệu và cải tiến dRep"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào để bạn đạt được sự đa dạng và nhiều sự tham gia vào dRep cũng như phái đoàn cử tri dễ dàng và thích hợp?
+hide_feedback: true
+description: "Làm thế nào để bạn đạt được sự đa dạng và nhiều sự tham gia vào dRep cũng như phái đoàn cử tri dễ dàng và thích hợp?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-dRep-improvement-and-onboarding-150000-cce6a6.png" style="width:500px;height500px">

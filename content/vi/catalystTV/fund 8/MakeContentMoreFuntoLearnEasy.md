@@ -1,8 +1,8 @@
 ---
-title: Tạo nội dung thú vị hơn để dễ dàng tiếp thu
-linkTitle: Tạo nội dung thú vị hơn để dễ dàng tiếp thu
+title: "Tạo nội dung thú vị hơn để dễ dàng tiếp thu"
+linkTitle: "Tạo nội dung thú vị hơn để dễ dàng tiếp thu"
 type: blog
-description: Hướng dẫn cần nhiều phương tiện và âm thanh hơn để thú vị và dễ hiểu hơn
+description: "Hướng dẫn cần nhiều phương tiện và âm thanh hơn để thú vị và dễ hiểu hơn"
 ---
 
 {{<youtube z9GE4ZxLqLI>}}

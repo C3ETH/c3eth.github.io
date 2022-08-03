@@ -1,9 +1,9 @@
 ---
-title: DAOs ❤ Cardano
-linkTitle: DAOs ❤ Cardano
+title: "DAOs ❤ Cardano"
+linkTitle: "DAOs ❤ Cardano"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng ta có thể biến Cardano trở thành lựa chọn hàng đầu để xây dựng các DAO? Chúng tôi có thể cung cấp những công cụ nào để tạo ra và hoạt động hiệu quả cho DAO?
+hide_feedback: true
+description: "Làm thế nào chúng ta có thể biến Cardano trở thành lựa chọn hàng đầu để xây dựng các DAO? Chúng tôi có thể cung cấp những công cụ nào để tạo ra và hoạt động hiệu quả cho DAO?"
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/07-DAOs-_3-Cardano-1000000-1ddda3.png" style="width:500px;height500px">

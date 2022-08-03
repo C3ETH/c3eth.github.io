@@ -1,8 +1,8 @@
 ---
-title: Thị trường ngành dịch vụ
-linkTitle: Thị trường ngành dịch vụ
+title: "Thị trường ngành dịch vụ"
+linkTitle: "Thị trường ngành dịch vụ"
 type: blog
-description: Thiếu một nơi để tập hợp những người có kỹ năng có thể cung cấp dịch vụ hỗ trợ cho những người đề xuất và CA chưa có kinh nghiệm với chi phí hợp lý.
+description: "Thiếu một nơi để tập hợp những người có kỹ năng có thể cung cấp dịch vụ hỗ trợ cho những người đề xuất và CA chưa có kinh nghiệm với chi phí hợp lý."
 ---
 
 {{<youtube 0v4ECOGoyVM>}}

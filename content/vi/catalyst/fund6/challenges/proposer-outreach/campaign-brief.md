@@ -1,8 +1,8 @@
 ---
-title: Tiếp cận nhà đề xuất
-linkTitle: Tiếp cận nhà đề xuất
+title: "Tiếp cận nhà đề xuất"
+linkTitle: "Tiếp cận nhà đề xuất"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
 Làm thế nào chúng tôi có thể khuyến khích các doanh nhân từ bên ngoài hệ sinh thái Cardano gửi đề xuất cho Catalyst trong hai quỹ tiếp theo?

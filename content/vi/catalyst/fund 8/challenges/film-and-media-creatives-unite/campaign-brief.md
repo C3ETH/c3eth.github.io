@@ -1,9 +1,9 @@
 ---
-title: Điện ảnh và Truyền thông (FAM) hợp nhất!
-linkTitle: Điện ảnh và Truyền thông (FAM) hợp nhất!
+title: "Điện ảnh và Truyền thông (FAM) hợp nhất!"
+linkTitle: "Điện ảnh và Truyền thông (FAM) hợp nhất!"
 type: docs
-hide_feedback: 'true'
-description: Thị trường truyền thông + giải trí toàn cầu = 2 nghìn tỷ đô la. Một mạng lưới FAM phi tập trung để tạo ra cộng đồng truyền thông Cardano chất lượng là rất quan trọng nhưng vẫn chưa có.
+hide_feedback: true
+description: "Thị trường truyền thông + giải trí toàn cầu = 2 nghìn tỷ đô la. Một mạng lưới FAM phi tập trung để tạo ra cộng đồng truyền thông Cardano chất lượng là rất quan trọng nhưng vẫn chưa có."
 ---
 
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">

@@ -2,8 +2,8 @@
 title: "Indep bền vững toàn cầu. SPO's"
 linkTitle: "Indep bền vững toàn cầu. SPO's"
 type: docs
-hide_feedback: 'true'
-description: Làm thế nào chúng tôi có thể thúc đẩy một nhóm các nhà khai thác phi tập trung, phân phối toàn cầu và bền vững để điều hành mạng Cardano
+hide_feedback: true
+description: "Làm thế nào chúng tôi có thể thúc đẩy một nhóm các nhà khai thác phi tập trung, phân phối toàn cầu và bền vững để điều hành mạng Cardano"
 ---
 
 Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
