@@ -1,52 +1,53 @@
 ---
-title: "Đưa ra quyết định phân bổ"
-linkTitle: "Đưa ra quyết định phân bổ"
+title: "Ra quyết định phân tán"
+linkTitle: "Ra quyết định phân tán"
 type: docs
 hide_feedback: true
 ---
-Làm cách nào để giúp cộng đồng Catalyst làm tốt hơn trong việc đưa ra quyết định phân bổ trong hai vòng Catalyst tiếp theo?
 
-Giá trị quỹ: **$75,000 USD paid in Ada**
+Làm cách nào để chúng tôi có thể giúp cộng đồng Catalyst tiến bộ hơn trong việc đưa ra quyết định phân tán trong hai vòng Catalyst tiếp theo?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26104) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified).
+Quy mô quỹ: **$ 75,000 USD thanh toán bằng Ada**
 
-## Campaign Brief
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26104) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified) .
 
-High-quality and decentralized decision-making, will increase treasury ROI and legitimize decentralized governance.
+## Tóm tắt Chiến dịch
 
-## How success looks like
+Việc ra quyết định phi tập trung và chất lượng cao sẽ làm tăng ROI của kho bạc và hợp pháp hóa việc quản trị phi tập trung.
 
-The community is consciously improving decision-making processes while growing a group of committed and collaborative leaders.
+## Thành công trông như thế nào
 
-## Key metrics to measure
+Cộng đồng đang cải tiến một cách có ý thức các quy trình ra quyết định đồng thời phát triển một nhóm các nhà lãnh đạo cam kết và hợp tác.
 
-- To assess ROI of this challenge we will ask ourselves: Did we get better at distributed decision making?
-- Community confidence: avg rating or % of Catalyst members who approve of overall results of a funding round.
-- Community participation: number of Catalyst participants contributing to improving Catalyst decision making systems
-- Measured overall
-- Impact of individual initiatives
-- Proof of iteration: round over round, is there evidence that "pain points" are evolving? (Failure would look like seeing the same problems emerging each funding round)
-- Re-election rates: if proposers receive subsequent funding, this can be seen as a sign of success
-- Embracing failure: is the community able to see value in & learn from proposals that did not work out?
+## Các chỉ số chính để đánh giá
 
-## Guiding questions
+- Để đánh giá ROI của thử thách này, chúng ta sẽ tự hỏi: Liệu chúng ta có tiến bộ hơn trong việc ra quyết định phân tán không?
+- Niềm tin của cộng đồng: xếp hạng trung bình hoặc% thành viên Catalyst phê duyệt kết quả tổng thể của vòng tài trợ.
+- Sự tham gia của cộng đồng: số lượng người tham gia Catalyst góp phần cải thiện hệ thống ra quyết định của Catalyst
+- Đo lường tổng thể
+- Tác động của các sáng kiến cá nhân
+- Bằng chứng của sự lặp lại: vòng qua vòng, có bằng chứng cho thấy "điểm đau" đang phát triển? (Thất bại sẽ giống như gặp các vấn đề giống nhau xuất hiện trong mỗi vòng tài trợ)
+- Tỷ lệ tái bầu cử: nếu những người đề xuất nhận được tài trợ tiếp theo, đây có thể được coi là một dấu hiệu thành công
+- Chấp nhận thất bại: liệu cộng đồng có thể nhìn thấy giá trị và học hỏi từ các đề xuất không hiệu quả không?
 
-How do we encourage people to participate in decision making?
+## Hướng dẫn đặt câu hỏi
 
-How do we ensure the group of decision makers is diverse and accessible to newcomers?
+Làm thế nào để chúng ta khuyến khích mọi người tham gia vào quá trình ra quyết định?
 
-How can we ensure that the Catalyst process keeps iterating to improve?
+Làm thế nào để chúng ta đảm bảo nhóm những người ra quyết định đa dạng và dễ tiếp cận đối với những người mới?
 
-How will we include the community in decision making?
+Làm cách nào chúng ta có thể đảm bảo rằng quy trình Catalyst liên tục lặp lại để cải thiện?
 
-## Potential directions
+Chúng ta sẽ đưa cộng đồng vào quá trình ra quyết định như thế nào?
 
-- Software that supports decision making or iteration
-- Experiments in social, collaboration, or meeting structures that encourage improved decision making
-- Community advisor training
-- Low effort ways to engage voters in assessing proposals and tapping into existing insights.
+## Các định hướng tiềm năng
 
-## Prior Campaigns
+- Phần mềm hỗ trợ ra quyết định hoặc lặp lại
+- Thử nghiệm trong các cấu trúc xã hội, cộng tác hoặc cuộc họp khuyến khích việc ra quyết định được cải thiện
+- Đào tạo cố vấn cộng đồng
+- Các cách cố gắng thấp để thu hút cử tri đánh giá các đề xuất và khai thác thông tin chi tiết hiện có.
 
-1. [Fund 5 Distributed decision making](https://cardano.ideascale.com/a/campaign-home/25942)
-2. [Fund 4 Distributed decision making](https://cardano.ideascale.com/a/campaign-home/25870)
+## Các chiến dịch trước đó
+
+1. [Quỹ 5 Ra quyết định phân tán](https://cardano.ideascale.com/a/campaign-home/25942)
+2. [Quỹ 4 Ra quyết định phân tán](https://cardano.ideascale.com/a/campaign-home/25870)

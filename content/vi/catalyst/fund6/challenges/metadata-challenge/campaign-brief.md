@@ -4,56 +4,57 @@ linkTitle: "Thử thách siêu dữ liệu"
 type: docs
 hide_feedback: true
 ---
-Làm cách nào chúng ta có thể sử dụng giao dịch siêu dữ liệu để giải quyết các vấn đề trong thế giới thực?
 
-Giá trị quỹ: **$100,000 USD paid in Ada**
+Làm cách nào chúng ta có thể sử dụng siêu dữ liệu giao dịch để giải quyết các vấn đề trong thế giới thực?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26107) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified).
+Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
-## Campaign Brief
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26107) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified) .
 
-With transaction metadata, Cardano can be utilized as a network to store small proofs of events or documents. This utility has been used in the past to implement product anti-counterfeit solutions as well as traceability solutions. Smart contracts are not necessary to take advantage of this functionality.
+## Tóm tắt Chiến dịch
 
-This challenge is for you if you have problems that involve:
+Với siêu dữ liệu giao dịch, Cardano có thể được sử dụng như một mạng lưới để lưu trữ các bằng chứng nhỏ về các sự kiện hoặc tài liệu. Tiện ích này đã được sử dụng trong quá khứ để thực hiện các giải pháp chống hàng giả sản phẩm cũng như các giải pháp truy xuất nguồn gốc. Hợp đồng thông minh không cần thiết để tận dụng chức năng này.
 
-- Demonstrate to external parties that a specific document has not been tampered with.
-- Demonstrate to external parties that a specific event took place.
-- Demonstrate to external parties that a document existed at a specific date/time.
-- Demonstrate any or all of the above without revealing the document or the event's data (because of privacy concerns).
+Thử thách này dành cho bạn nếu bạn gặp vấn đề liên quan đến:
 
-IOHK is pleased to announce that we will support and provide expert advice to the proposal winners. The same team that created the New Balance and Beefchain solutions will be offering these services to the proposal winners for 6 months after the winners are announced:
+- Chứng minh với các bên bên ngoài rằng một tài liệu cụ thể không bị giả mạo.
+- Chứng minh với các bên bên ngoài rằng một sự kiện cụ thể đã diễn ra.
+- Chứng minh với các bên bên ngoài rằng một tài liệu đã tồn tại vào một ngày / giờ cụ thể.
+- Thể hiện bất kỳ hoặc tất cả những điều trên mà không tiết lộ tài liệu hoặc dữ liệu của sự kiện (vì lo ngại về quyền riêng tư).
 
-- 1 hr a week of expert advice from IOHK's solutions architects and technical consultants.
-- Email address for offline queries.
-- Architectural/design/technical reviews.
+IOHK vui mừng thông báo rằng chúng tôi sẽ hỗ trợ và cung cấp lời khuyên chuyên môn cho những người chiến thắng đề xuất. Cùng một nhóm đã tạo ra các giải pháp New Balance và Beefchain sẽ cung cấp các dịch vụ này cho những người chiến thắng đề xuất trong 6 tháng sau khi những người chiến thắng được công bố:
 
-## How success looks like
+- 1 giờ một tuần tư vấn chuyên môn từ các kiến trúc sư giải pháp của IOHK và chuyên gia tư vấn kỹ thuật.
+- Địa chỉ email cho các truy vấn ngoại tuyến.
+- Đánh giá kiến trúc / thiết kế / kỹ thuật.
 
-Prototypes are built that utilize metadata to solve real life problems. The prototypes are presented to the Catalyst community in any of the town halls.
+## Thành công trông như thế nào
 
-## Key metrics to measure
+Các nguyên mẫu được xây dựng sử dụng siêu dữ liệu để giải quyết các vấn đề trong cuộc sống thực. Các nguyên mẫu được giới thiệu cho cộng đồng Catalyst tại bất kỳ tòa thị chính nào.
 
-At the end of this challenge, we will be asking ourselves:
+## Các chỉ số chính để đánh giá
 
-- Potential amount of users that can be brought onto Cardano.
-- Community feedback (positive/negative) about the prototypes after presentation.
-- Followup Catalyst proposals.
+Khi kết thúc thử thách này, chúng tôi sẽ tự hỏi bản thân:
 
-## Guiding questions
+- Lượng người dùng tiềm năng có thể được đưa vào Cardano.
+- Phản hồi của cộng đồng (tích cực / tiêu cực) về các nguyên mẫu sau khi trình bày.
+- Tiếp theo các đề xuất của Catalyst.
 
-- What is the target audience?
-- Who are the potential users of the platform?
-- What is the problem that metadata is solving?
-- Why does the target audience care about the solution? Why would they install/use the solution?
-- Does the solution need hardware components?
-- What would retain the user on the solution? That is, after installation, why would you keep using it? What value does it bring to the user (continuously)?
+## Hướng dẫn đặt câu hỏi
 
-## Potential directions
+- Đối tượng mục tiêu là gì?
+- Người dùng tiềm năng của nền tảng là ai?
+- Vấn đề mà siêu dữ liệu đang giải quyết là gì?
+- Tại sao đối tượng mục tiêu quan tâm đến giải pháp? Tại sao họ cài đặt / sử dụng giải pháp?
+- Giải pháp có cần các thành phần phần cứng không?
+- Điều gì sẽ giữ chân người dùng trên giải pháp? Đó là, sau khi cài đặt, tại sao bạn sẽ tiếp tục sử dụng nó? Nó mang lại giá trị gì cho người dùng (liên tục)?
 
-- Traceability
-- Product Authentication
-- Auditable decentralized document workflows (i.e. HelloSign solutions or similar).
+## Các định hướng tiềm năng
 
-## Prior Challenges
+- Truy xuất nguồn gốc
+- Xác thực sản phẩm
+- Quy trình công việc tài liệu phi tập trung có thể kiểm toán (ví dụ như các giải pháp HelloSign hoặc tương tự).
 
-1. [Fund 5: Metadata challenge](https://cardano.ideascale.com/a/campaign-home/25945)
+## Những thách thức trước
+
+1. [Quỹ 5: Thử thách siêu dữ liệu](https://cardano.ideascale.com/a/campaign-home/25945)

@@ -1,11 +1,11 @@
 ---
-title: Xây dựng Đông Á tương lai ngay hôm nay!
-linkTitle: Xây dựng Đông Á  tương lai ngay hôm nay!
+title: "Xây dựng Đông Á tương lai ngay hôm nay!"
+linkTitle: "Xây dựng Đông Á  tương lai ngay hôm nay!"
 type: docs
-hide_feedback: 'true'
-weight: '50'
+hide_feedback: true
+weight: 50
 description: >
-  Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa. Chúng tôi đề xuất thiết lập một hệ thống dịch thuật sẽ dịch các tài liệu và Catalyst qua nhiều ngôn ngữ nhất có thể ở Đông Á.
+  "Mặc dù có dân số hàng tỷ người, nhưng người Đông Á ít có mặt trong Catalyst do thiếu nội dung bản địa hóa. Chúng tôi đề xuất thiết lập một hệ thống dịch thuật sẽ dịch các tài liệu và Catalyst qua nhiều ngôn ngữ nhất có thể ở Đông Á."
 ---
 {{< youtube TR37P2F7QNk >}}
 

@@ -4,34 +4,36 @@ linkTitle: "Tiếp cận nhà đề xuất"
 type: docs
 hide_feedback: true
 ---
-Làm cách nào để khuyến khích các doanh nhân từ bên ngoài hệ sinh thái Cardano gửi đề xuất cho Catalyst trong hai quỹ đầu tư tiếp theo?
 
-Giá trị quỹ: **$100,000 USD paid in Ada**
+Làm thế nào chúng tôi có thể khuyến khích các doanh nhân từ bên ngoài hệ sinh thái Cardano gửi đề xuất cho Catalyst trong hai quỹ tiếp theo?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26105) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified).
+Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
-## Campaign Brief
-Outside proposers will inject vitality and diversity to the community while increasing the overall quality of proposals.
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26105) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified) .
 
-Cardano has ambitious plans to reach 1 billion people. To make this goal a reality, we must attract the brightest entrepreneurs from across the globe and encourage them to submit ideas which will have a positive impact on the ecosystem. The best ideas will be funded, providing entrepreneurs with a more democratized route to capital and ensuring that location is not a barrier to entry.
+## Tóm tắt Chiến dịch
 
-We must increase brand awareness of Catalyst amongst the entrepreneur community, via multi platform proposer outreach campaigns. From content creation to media coverage, hackathons and live events - we want the community to submit their ideas that will attract and engage this audience.
+Những người đề xuất bên ngoài sẽ truyền sức sống và sự đa dạng cho cộng đồng đồng thời tăng chất lượng tổng thể của các đề xuất.
 
-## How success looks like
+Cardano có kế hoạch đầy tham vọng để tiếp cận 1 tỷ người. Để biến mục tiêu này thành hiện thực, chúng ta phải thu hút những doanh nhân sáng giá nhất trên toàn cầu và khuyến khích họ gửi những ý tưởng có tác động tích cực đến hệ sinh thái. Các ý tưởng tốt nhất sẽ được tài trợ, cung cấp cho các doanh nhân một con đường dân chủ hóa hơn đến nguồn vốn và đảm bảo rằng vị trí đó không phải là rào cản gia nhập.
 
-Bright entrepreneurs, and specialized firms from across the globe learn about Catalyst and submit high impact proposals.
+Chúng tôi phải nâng cao nhận thức về thương hiệu của Catalyst trong cộng đồng doanh nhân, thông qua các chiến dịch tiếp cận người đề xuất đa nền tảng. Từ sáng tạo nội dung đến đưa tin trên phương tiện truyền thông, hackathons và các sự kiện trực tiếp - chúng tôi muốn cộng đồng gửi ý tưởng của họ để thu hút và tương tác với khán giả.
 
-## Key metric to measure
+## Thành công trông như thế nào
 
-To assess ROI of this challenge we will ask ourselves:
+Các doanh nhân sáng giá và các công ty chuyên ngành trên toàn cầu tìm hiểu về Catalyst và gửi các đề xuất có tác động cao.
 
-Did we get proposals from outside our ecosystem?
+## Chỉ số chính để đánh giá
 
-- Media coverage
-- Ideas submitted from new members of the community.
-- Community advisor rating of top 10% of "outsider" proposals
+Để đánh giá ROI của thử thách này, chúng ta sẽ tự hỏi:
 
-## Prior Challenges
+Chúng ta có nhận được đề xuất từ bên ngoài hệ sinh thái của mình không?
 
-1. [Fund 5: Proposer Outreach](https://cardano.ideascale.com/a/campaign-home/25943)
-2. [Fund 4: Proposer Outreach](https://cardano.ideascale.com/a/campaign-home/25871)
+- Bảo hiểm truyền thông
+- Ý tưởng được gửi từ các thành viên mới của cộng đồng.
+- Cố vấn cộng đồng xếp hạng về 10% hàng đầu đề xuất từ "người ngoài"
+
+## Những thách thức trước
+
+1. [Quỹ 5: Tiếp cận nhà đề xuất](https://cardano.ideascale.com/a/campaign-home/25943)
+2. [Quỹ 4: Tiếp cận nhà đề xuất](https://cardano.ideascale.com/a/campaign-home/25871)

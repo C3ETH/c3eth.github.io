@@ -1,6 +1,6 @@
 ---
-title: Tòa thị chính phía đông của Cộng đồng Catalyst Cardano
-linkTitle: Tòa thị chính phía đông của Cộng đồng Catalyst Cardano
+title: "Tòa thị chính phía đông của Cộng đồng Catalyst Cardano"
+linkTitle: "Tòa thị chính phía đông của Cộng đồng Catalyst Cardano"
 ---
 {{< blocks/cover title="Chào mừng bạn đến với Cộng đồng Tòa thị chính phía Đông" image_anchor="top" height="med" color="primary" >}}
 <div class="mx-auto">
@@ -66,8 +66,8 @@ Chúng tôi đang trợ giúp các thành viên cộng đồng từ nhiều qu�
  Để tạo Cardano và Catalyt dễ tiếp cận hơn trên toàn cầu, chúng tôi dịch tài liệu và các đề xuất liên quan. <a href="/docs/internationalisation/"></a>Tìm hiểu cách chúng tôi dịch sang nhiều ngôn ngữ ở Đông bán cầu.</a>.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contribute" url="https://github.com/c3eth/c3eth.github.io" %}}
-Bản địa hóa nội dung Cardano Catalyst để cho phép người dùng tham gia rộng rãi nhất cần mọi người giúp đỡ. Nói một ngôn ngữ chưa được đại diện ở đây? Chúng tôi thực hiện quy trình đóng góp [Yêu cầu kéo](https://github.com/c3eth/c3eth.github.io/pulls) **trên GitHub** . Người dùng mới luôn được chào đón!
+{{% blocks/feature icon="fab fa-github" title="Đóng góp" url="https://github.com/c3eth/c3eth.github.io" %}}
+Bản địa hóa nội dung Cardano Catalyst để cho phép người dùng tham gia rộng rãi nhất cần mọi người giúp đỡ. Nói một ngôn ngữ chưa được đại diện ở đây? Chúng tôi thực hiện quy trình đóng góp [Pull Request](https://github.com/c3eth/c3eth.github.io/pulls) **trên GitHub** . Người dùng mới luôn được chào đón!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fas fa-graduation-cap" title="Tìm hiểu" url="/docs/catalyst/" %}}

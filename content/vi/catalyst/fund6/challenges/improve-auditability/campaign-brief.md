@@ -4,61 +4,62 @@ linkTitle: "Cải thiện và phát triển khả năng kiểm toán"
 type: docs
 hide_feedback: true
 ---
-Làm cách nào để quá trình kiểm tra các đề xuất được tài trợ hiệu quả, phân bổ và minh bạch?
 
-Giá trị quỹ: **$100,000 USD paid in Ada**
+Làm thế nào để làm cho quá trình đánh giá các đề xuất được tài trợ hiệu quả, phân tán và minh bạch?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26119) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26119/stage/unspecified).
+Quy mô quỹ: **100.000 đô la Mỹ được thanh toán bằng Ada**
 
-## Campaign Brief
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26119) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26119/stage/unspecified) .
 
-When Fund7 happens we will be close to 100 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.
+## Tóm tắt Chiến dịch
 
-Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.
+Khi Quỹ 7 diễn ra, chúng ta sẽ có gần 100 đề xuất được tài trợ. Điều cực kỳ quan trọng là các đề xuất này phải được đánh giá / kiểm toán để xem liệu chúng có mang lại hiệu quả hay không và ROI có phù hợp với những gì đã được thiết lập ban đầu hay không.
 
-The Auditability challenge aims to ensure transparency in the use of Cardano's treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.
+Hiện tại, IOG chịu trách nhiệm theo dõi sự phát triển của các đề xuất được tài trợ này, nhưng khi có hàng trăm đề xuất được tài trợ thì đây sẽ là một công việc quá sức đối với IOG.
 
-Some directions that this challenge can take:
+Thách thức về khả năng kiểm toán nhằm đảm bảo tính minh bạch trong việc sử dụng các nguồn ngân quỹ của Cardano, điều này sẽ cho phép cộng đồng Cardano có thêm thông tin về việc phát triển các đề xuất được tài trợ thông qua hệ thống kiểm tra và số dư.
 
-- Podcasts with teams from funded proposals.
+Một số hướng mà thử thách này có thể thực hiện:
 
-- Smart contract audits.
+- Podcast với các nhóm từ các đề xuất được tài trợ.
 
-- Platforms / Websites that perform:
+- Kiểm toán hợp đồng thông minh.
 
-- Reporting on metrics, spending of financial resources.
+- Nền tảng / Trang web thực hiện:
 
-- Metrics on the development of Dapps (txs, volume, unique wallets, etc …)
+- Báo cáo về số liệu, tình hình chi tiêu các nguồn tài chính.
 
-- Metrics on Number of onboarded developers, number of commits in funded proposal repositories.
+- Các chỉ số về sự phát triển của Dapps (txs, khối lượng, ví duy nhất, v.v.)
 
-- Social media engagement indicators metrics.
+- Các chỉ số về Số lượng nhà phát triển được giới thiệu, số lượng cam kết trong kho đề xuất được tài trợ.
 
-## Why is it important?
+- Chỉ số chỉ số tương tác trên mạng xã hội.
 
-It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
+## Tại sao nó lại quan trọng?
 
-## How does success look like?
+Điều quan trọng là các đề xuất được tài trợ phải được đánh giá để xem liệu chúng có đang cung cấp những gì đã được thiết lập trong sứ mệnh của mình hay không ..
 
-Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
+## Thành công trông như thế nào?
 
-## Key Metrics to measure
+Một số dự án đánh giá các đề xuất được tài trợ, cung cấp các báo cáo, bài báo và số liệu về sự phát triển và thực hiện các dự án.
 
-### Number of funded proposals audited
+## Các chỉ số chính để đánh giá
 
-Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that success metrics are thought out in relation to each challenge.
+### Số lượng các đề xuất được tài trợ đã được kiểm toán
 
-### Number of reports, articles and videos/podcasts on:
+Xét rằng ý tưởng là để kiểm tra và báo cáo về sự phát triển của các đề xuất trong các thách thức khác nhau, điều quan trọng là các chỉ số thành công phải được nghĩ ra liên quan đến từng thách thức.
 
-- Performance
-- Achievements
-- Financials
-- Number of onboarded developers.
-- Number of commits in funded proposal repositories (Github)
-- Indicators of: transactions, volume and unique wallets interacting with dapps.
-- Number of smart contracts audited.
-- Social media engagement indicators.
+### Số lượng báo cáo, bài báo và video / podcast trên:
 
-## References
+- Thể hiện
+- Thành tựu
+- Tài chính
+- Số lượng nhà phát triển được giới thiệu.
+- Số lượng cam kết trong kho đề xuất được tài trợ (Github)
+- Các chỉ số về: giao dịch, khối lượng và ví duy nhất tương tác với dapp.
+- Số lượng hợp đồng thông minh đã được kiểm toán.
+- Các chỉ số tương tác trên mạng xã hội.
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/25946/stage/unspecified)
+## Tài liệu tham khảo
+
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/25946/stage/unspecified)

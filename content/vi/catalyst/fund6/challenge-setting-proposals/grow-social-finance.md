@@ -1,10 +1,10 @@
 ---
-title: Phát triển tài chính xã hội và môi trường
-linkTitle: Phát triển tài chính xã hội và môi trường
+title: "Phát triển tài chính xã hội và môi trường"
+linkTitle: "Phát triển tài chính xã hội và môi trường"
 type: docs
-hide_feedback: 'true'
-weight: '20'
-description: Để giải quyết các tình trạng khẩn cấp liên quan về khí hậu và các thách thức kinh tế, chúng ta cần xây dựng các giải pháp tài chính phù hợp để thúc đẩy sự thay đổi. Chúng ta có thể xây dựng những giải pháp nào trên Cardano để tài trợ cho sự đổi mới xã hội và môi trường?
+hide_feedback: true
+weight: 20
+description: "Để giải quyết các tình trạng khẩn cấp liên quan về khí hậu và các thách thức kinh tế, chúng ta cần xây dựng các giải pháp tài chính phù hợp để thúc đẩy sự thay đổi. Chúng ta có thể xây dựng những giải pháp nào trên Cardano để tài trợ cho sự đổi mới xã hội và môi trường?"
 ---
 
 **Thử thách:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})

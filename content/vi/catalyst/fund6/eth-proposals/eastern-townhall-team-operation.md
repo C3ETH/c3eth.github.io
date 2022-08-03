@@ -1,11 +1,11 @@
 ---
-title: Hoạt động của phòng họp mặt phía Đông
-linkTitle: Hoạt động của phòng họp mặt phía Đông
+title: "Hoạt động của phòng họp mặt phía Đông"
+linkTitle: "Hoạt động của phòng họp mặt phía Đông"
 type: docs
-hide_feedback: 'true'
-weight: '20'
-description: >
-  Tham gia vào dự án Catalyst sẽ rất khó khăn khi bạn sống vào múi giờ ở bán cầu phía đông và ngôn ngữ của bạn không phải là tiếng Anh. Chúng tôi đề xuất rằng Eastern TownHall được tài trợ để hỗ trợ các nước khu vực phía đông tổ chức các sự kiện và biên dịch các nội dung. Mục đích là tăng lượng người tham gia lên 20% cho mỗi quỹ.
+hide_feedback: true
+weight: 20
+description: 
+  "Tham gia vào dự án Catalyst sẽ rất khó khăn khi bạn sống vào múi giờ ở bán cầu phía đông và ngôn ngữ của bạn không phải là tiếng Anh. Chúng tôi đề xuất rằng Eastern TownHall được tài trợ để hỗ trợ các nước khu vực phía đông tổ chức các sự kiện và biên dịch các nội dung. Mục đích là tăng lượng người tham gia lên 20% cho mỗi quỹ."
 ---
 {{< youtube MzemrlXpqnY >}}
 

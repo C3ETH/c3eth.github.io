@@ -1,6 +1,6 @@
 ---
-title: "Community Proposals"
-linkTitle: "Community Proposals"
+title: "Đề xuất cộng đồng"
+linkTitle: "Đề xuất cộng đồng"
 type: docs
 weight: 30
 hide_feedback: true
@@ -9,5 +9,5 @@ description: >
     TODO - Customize site navigation and search here.  
 ---
 
-This index page is yet to be udated. 
-This is the **Catalyst Proposals for fund 6** section. It will update for each fund.
+<!-- This index page is yet to be udated.  -->
+Đây là **Đề xuất Catalyst cho Quỹ 6**. Phần này sẽ được cập nhập cho mỗi quỹ.

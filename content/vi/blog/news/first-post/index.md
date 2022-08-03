@@ -1,8 +1,8 @@
 ---
 date: '2021-09-18'
-title: Buổi họp Thị trấn Đông bán cầu thứ 8
-linkTitle: Buổi họp Thị trấn Đông bán cầu thứ 8
-description: Một buổi gặp mặt tuyệt vời, nơi chúng tôi bắt đầu nói về Ideafest, Cardano Summit và Hackathons sắp tới.
+title: "Buổi họp Thị trấn Đông bán cầu thứ 8"
+linkTitle: "Buổi họp Thị trấn Đông bán cầu thứ 8"
+description: "Một buổi gặp mặt tuyệt vời, nơi chúng tôi bắt đầu nói về Ideafest, Cardano Summit và Hackathons sắp tới."
 author: Robert & Stephen
 resources:
 - src: "**.{png,jpg}"

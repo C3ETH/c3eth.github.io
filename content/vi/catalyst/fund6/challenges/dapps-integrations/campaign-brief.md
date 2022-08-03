@@ -1,68 +1,68 @@
 ---
-title: "DApps & Integrations"
-linkTitle: "DApps & Integrations"
+title: "DApps & Tích hợp"
+linkTitle: "DApps & Tích hợp"
 type: docs
 hide_feedback: true
 ---
 
-What applications will provide the most value for end users in 2021?
+Ứng dụng nào sẽ cung cấp nhiều giá trị nhất cho người dùng cuối vào năm 2021?
 
-Fund Size: **$250,000 USD paid in Ada**
+Quy mô quỹ: **250.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26103) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified).
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26103) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified) .
 
-## Tóm tắt chiến dịch
+## Tóm tắt Chiến dịch
 
-Quality Dapps and integrations will increase utility & adoption of Cardano.
+Các Dapp và tích hợp chất lượng sẽ làm tăng sự tiện ích và việc áp dụng Cardano.
 
-## How success looks like
+## Thành công trông như thế nào
 
-Các ứng dụng mới và khả thi được xây dựng hàng đầu của Cardano thu hút nhiều người dùng. Integrations manage to pull in more adoption.
+Các ứng dụng mới lạ và khả thi được xây dựng trên Cardano thu hút được người dùng. Tích hợp quản lý để thu hút nhiều người áp dụng hơn.
 
-## Key metric to measure
+## Chỉ số chính để đánh giá
 
-To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
+Để đánh giá thách thức, chúng tôi sẽ tự hỏi: Những nỗ lực của chúng tôi có quản lý để thu hút người dùng đến với nền tảng không? Những nỗ lực của chúng tôi có dẫn đến các ứng dụng mới, khả thi được xây dựng trên Cardano không?
 
-Let an "application output" and an "application transaction" be an outputs and transactions that use the applications' script addresses; and an "application token" be a token that's issued by the application.
+Hãy để "đầu ra ứng dụng" và "giao dịch ứng dụng" là mục tiêu và những giao dịch sử dụng địa chỉ tập lệnh của ứng dụng; và "mã ứng dụng" là mã thông báo do ứng dụng phát hành.
 
-## Usage of applications developed during the challenge
+## Sử dụng của các ứng dụng được phát triển trong thử thách
 
-- Number/growth of application output
-- Number/growth of application transactions
-- Total volume of Ada involved in application transactions
-- Total/growth of resource usage by applications
-- Number/growth of distinct addresses mentioned in application transactions
-- If the application uses tokens:
-- Number/growth of application tokens
-- Number/growth of distinct addresses holding application tokens
+- Số lượng / mức tăng trưởng của đầu ra ứng dụng
+- Số lượng / sự tăng trưởng của các giao dịch ứng dụng
+- Tổng lượng Ada tham gia vào các giao dịch ứng dụng
+- Tổng / tăng trưởng sử dụng tài nguyên của các ứng dụng
+- Số lượng / sự phát triển của các địa chỉ riêng biệt được đề cập trong các giao dịch ứng dụng
+- Nếu ứng dụng sử dụng mã thông báo:
+- Số lượng / sự phát triển của mã thông báo ứng dụng
+- Số lượng / sự phát triển của các địa chỉ riêng biệt nắm giữ chữ ký số của ứng dụng
 
-## Viability of applications developed during the challenge
+## Khả năng tồn tại của các ứng dụng được phát triển trong quá trình thử thách
 
-- How many of the applications are still being developed at the end of 2021?
-- How many of the applications made a profit for their creators?
-- How many of the teams which built the applications grew during 2021?
-- How many of the teams which built the applications built (or plan to build) another application?
+- Có bao nhiêu ứng dụng vẫn đang được phát triển vào cuối năm 2021?
+- Có bao nhiêu ứng dụng đã tạo ra lợi nhuận cho người phát triển?
+- Có bao nhiêu trong số các nhóm xây dựng các ứng dụng đã phát triển trong năm 2021?
+- Có bao nhiêu nhóm phát triển ứng dụng (hoặc dự định phát triển) một ứng dụng khác?
 
-## Guiding questions
+## Hướng dẫn đặt câu hỏi
 
-What are the key applications that underpin the application ecosystem on other platforms?
+Các ứng dụng chính làm nền tảng cho hệ sinh thái ứng dụng trên các nền tảng khác là gì?
 
-What are the most profitable or most used applications on other ecosystems?
+Các ứng dụng sinh lời nhiều nhất hoặc được sử dụng nhiều nhất trên các hệ sinh thái khác là gì?
 
-What needs do users of Cardano have that could be solved by new applications?
+Những nhu cầu nào mà người dùng Cardano có thể được giải quyết bằng các ứng dụng mới?
 
-What applications deliver the highest amount of value with the least amount of technical sophistication?
+Những ứng dụng nào mang lại lượng giá trị cao nhất với ít độ phức tạp về mặt kỹ thuật nhất?
 
-## Potential directions
+## Các định hướng tiềm năng
 
-- Swaps, both simple and fancy variants (multi-party etc.)
-- Escrow, both simple and fancy variants
-- Integrations with existing products
+- Hoán đổi, cả biến thể đơn giản và ưa thích (nhiều bên, v.v.)
+- Ký quỹ, cả hai biến thể đơn giản và lạ mắt
+- Tích hợp với các sản phẩm hiện có
 
-## Prior Challenges
+## Những thách thức trước
 
-1. [Fund 5 DApps & Integrations](https://cardano.ideascale.com/a/campaign-home/25941)
-2. [Fund 4 DApps & Integrations](https://cardano.ideascale.com/a/campaign-home/25869)
+1. [Quỹ 5 DApps &amp; Tích hợp](https://cardano.ideascale.com/a/campaign-home/25941)
+2. [Quỹ 4 DApps &amp; Tích hợp](https://cardano.ideascale.com/a/campaign-home/25869)
 3. [Fund 3 DApps Creation](https://cardano.ideascale.com/a/campaign-home/25797)
 4. [Fund 2 Challenge](https://cardano.ideascale.com/a/campaign-home/25652)
-5. [Fund 1 Challenge](https://cardano.ideascale.com/a/campaign-home/25604)
+5. [Thử thách Quỹ 1](https://cardano.ideascale.com/a/campaign-home/25604)

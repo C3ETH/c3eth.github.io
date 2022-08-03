@@ -3,8 +3,8 @@ title: "Thử thách dự án Catalyst và hướng dẫn viết dự án"
 linkTitle: "Thử thách dự án Catalyst và hướng dẫn viết dự án"
 hide_feedback: true
 weight: 4
-description: >
-  Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. 
+description: 
+  "Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. "
 ---
 Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. Những phát biểu vấn đề, giải pháp, kinh nghiệm liên quan, và số quỹ được yêu cầu sẽ được trình bày trong ứng dụng bỏ phiếu. Điều này sẽ cho phép mọi người tìm hiểu về dự án trước khi bỏ phiếu.
 

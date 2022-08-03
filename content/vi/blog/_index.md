@@ -1,6 +1,6 @@
 ---
-title: Trang cá nhân Docsy
-linkTitle: Trang cá nhân
+title: "Blog"
+linkTitle: "Blog"
 menu:
   main:
     weight: '40'
