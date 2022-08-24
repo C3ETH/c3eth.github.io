@@ -50,7 +50,7 @@ linkTitle: "Tòa thị chính phía đông của Cộng đồng Catalyst Cardano
 Chúng tôi đang trợ giúp các thành viên cộng đồng từ nhiều quốc gia và ngôn ngữ ở múi giờ phía đông.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-language" title="Giao tiếp" %}}
+{{% blocks/feature icon="fas fa-language" title="Trò chuyện" %}}
 <p>>Một trọng tâm cụ thể là bản địa hóa nội dung của Cardano Catalyst và nội dung trên máy bay để cho phép sự tham gia rộng rãi nhất có thể.</p>
 {{% /blocks/feature %}}
 
