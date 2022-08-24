@@ -2,7 +2,7 @@
 title: Báo cáo thị trường hàng năm của Cardano
 linkTitle: Báo cáo thị trường hàng năm của Cardano
 type: Blog
-description: Our mission is to bring the most comprehensive knowledge about Cardano to the community in Vietnam.
+description: '"Sứ mệnh của chúng tôi là mang đến những kiến thức toàn diện nhất về Cardano cho cộng đồng tại Việt Nam."'
 ---
 
 {{&lt;youtube gZyouiBW2Eo&gt;}}
