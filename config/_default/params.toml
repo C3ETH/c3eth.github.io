@@ -42,7 +42,7 @@ schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/c3eth"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/C3ETH/c3eth"
+schemaGitHub = "https://github.com/C3ETH/c3eth.github.io"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -86,7 +86,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/C3ETH/c3eth.git"
+docsRepo = "https://github.com/C3ETH/c3eth.github.io.git"
 docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = true
