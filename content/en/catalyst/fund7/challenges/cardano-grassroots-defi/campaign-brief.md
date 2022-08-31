@@ -10,6 +10,7 @@ Fund Size: **$200,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26243) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26243/stage/unspecified).
 
 ## Campaign Brief
+
 Currently, the vast majority of DeFi dapps and assets flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it, the unbanked.
 
 Over the past year several DeFi projects have been moving to more scalable blockchains, such as Binance Smart Chain, Polkadot, Cosmos, Solana, among others. Second layer solutions are also being used as alternatives to Ethereum main chain, Polygon has been a great example.
@@ -33,6 +34,7 @@ Cardano arrives to change this paradigm and bring security to users.
 Privacy and resistance to censorship are also important but often overlooked in favor of subsidizing (yield farming). How to encourage DeFi projects to seek resilience, safety, research-based economic models and critical thinking?
 
 ## Potential Directions
+
 - DEXs
 - Oracles
 - Algorithmic stable coins
@@ -41,6 +43,7 @@ Privacy and resistance to censorship are also important but often overlooked in 
 - Research for open source new financial models (bonding curves)
 
 ## Rational For Budget Distrobution
+
 New or less popular teams have difficulty competing with influential and popular teams in the Cardano community. Even ensuring a good score is difficult to get engagement in the voting stage to compete with consolidated and influential teams in the Cardano community.
 
 This challenge intends to sow new teams, who have never received funding from Catalyst so they can have a chance to show their value to the community.
@@ -48,19 +51,22 @@ This challenge intends to sow new teams, who have never received funding from Ca
 Each new team can request up to 25% of the total $200,000 USD budget, also know as $50,000 USD.
 
 E.g.
+
 - Team A with 2 proposals of $25,000 USD
 - Team B with 5 proposals of $10,000 USD
 - Team C with 1 proposal of $50,000 USD
 - Team D with 1 proposal of $15,000 USD + 1 proposal of $35,000 US
 
 ## Why is it Important?
+
 So that new teams can have a kickstart in their projects without having to resort to ICOs and VCs allocation.
 
-
 ## How does success look like?
+
 At least 4 new teams deploying DeFi Dapps on Cardano in 2022 + Managing to form a community in order to gain competitiveness/sustainability
 
 ## Key Metrics to measure
+
 - How many DeFi dapps were launched on Cardano mainnet within 3, 6 and 12 months after funding.
 - How many daily active users are the DeFi dapps funded in this cohort attracting.
 - How long does each dapp take to be launched.

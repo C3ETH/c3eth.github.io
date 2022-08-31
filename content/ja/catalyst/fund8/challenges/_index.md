@@ -1,11 +1,9 @@
 ---
-title: 'Fund 8 Challenges'
-linkTitle: 'Challenges'
-type: docs
-weight: 100
-hide_feedback: true
-icon: fas fa-tools
-description: Catalyst Fund 8 Challenges
+title : "Challenges fund 8"
+description: "Challenges Fund 8"
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
 ---
-
-このインデックスページはまだ更新されていません。これは、**ファンド8セクションのCatalystチャレンジです**。ファンドごとに更新されます。

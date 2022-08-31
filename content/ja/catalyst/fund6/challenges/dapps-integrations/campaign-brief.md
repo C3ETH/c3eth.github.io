@@ -1,67 +1,68 @@
 ---
-title: "DApps & 統合"
-linkTitle: "DApps & 統合"
+title: "DApps & Integrations"
+linkTitle: "DApps & Integrations"
 type: docs
 hide_feedback: true
 ---
-どのアプリケーションが2021年にエンドユーザーに最も価値を提供するでしょうか?
 
-予算規模: **$250,000 USD paid in Ada**
+What applications will provide the most value for end users in 2021?
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26103) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified)。
+Fund Size: **$250,000 USD paid in Ada**
 
-## キャンペーン概要
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26103) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified).
 
-質の高いDappsと統合は、ユーティリティ & Cardanoの採用を増加させます。
+## Campaign Brief
 
-## 成功するとどのような未来が見えますか？
+Quality Dapps and integrations will increase utility & adoption of Cardano.
 
-素晴らしく実行可能なアプリケーションは、Cardanoのトップに構築されユーザーを引き付けます。 統合はより多くの採用を引き寄せ管理します。
+## How success looks like
 
-## 測定する主要なメトリック
+Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
 
-課題を評価するために私たち自身に問いかける: 私たちの努力は、プラットフォームにユーザーを引き付けることに成功しましたか? 私たちの努力はCardanoの上に構築された新しい実行可能なアプリケーションになりましたか?
+## Key metric to measure
 
-"アプリケーション出力"と"アプリケーショントランザクション"をアプリケーションのスクリプトアドレスを使用する出力とトランザクションとします。 「アプリケーション・トークン」とは、アプリケーションが発行するトークンのこととします。
+To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
 
-## チャレンジで開発されたアプリケーションの利用
+Let an "application output" and an "application transaction" be an outputs and transactions that use the applications' script addresses; and an "application token" be a token that's issued by the application.
 
-- アプリケーション出力の数/成長
-- アプリケーション・トランザクションの数/成長
-- アプリケーション・トランザクションに関与するAdaの合計量
-- アプリケーションによる資源使用量の合計/増加
-- アプリケーション・トランザクションに記載されている個別のアドレスの数/成長
-- アプリケーションがトークンを使用する場合:
-- アプリケーション・トークンの数/成長
-- アプリケーション・トークンを保持する個別のアドレスの数/成長
+## Usage of applications developed during the challenge
 
-## チャレンジで開発されたアプリケーションの生存率
+- Number/growth of application output
+- Number/growth of application transactions
+- Total volume of Ada involved in application transactions
+- Total/growth of resource usage by applications
+- Number/growth of distinct addresses mentioned in application transactions
+- If the application uses tokens:
+- Number/growth of application tokens
+- Number/growth of distinct addresses holding application tokens
 
-- 2021年の終わりには、どのくらいのアプリケーションが開発されていますか?
-- どのくらいのアプリケーションがクリエイターに利益をもたらしましたか?
-- 2021年にアプリケーションを構築したチームの数はどれくらいに増えたでしょうか?
-- アプリケーションを構築したチームで別のアプリケーションを構築する予定のチームはどれくらいですか?
+## Viability of applications developed during the challenge
 
-## ガイドの質問
+- How many of the applications are still being developed at the end of 2021?
+- How many of the applications made a profit for their creators?
+- How many of the teams which built the applications grew during 2021?
+- How many of the teams which built the applications built (or plan to build) another application?
 
-他のプラットフォームのアプリケーションエコシステムを支える重要なアプリケーションは何ですか?
+## Guiding questions
 
-他のエコシステムで最も収益性の高いアプリケーションや最も使用されているアプリケーションは何ですか?
+What are the key applications that underpin the application ecosystem on other platforms?
 
-Cardanoのユーザーは、新しいアプリケーションで解決できるようにするには、何が必要ですか?
+What are the most profitable or most used applications on other ecosystems?
 
-どのアプリケーションが、最も洗練された技術で最高の価値を提供しますか?
+What needs do users of Cardano have that could be solved by new applications?
 
-## 潜在的な方向性
+What applications deliver the highest amount of value with the least amount of technical sophistication?
 
-- スワップ、シンプルでファンシーなバリエーション（マルチパーティーなど）
-- エスクロー、シンプルでファンシーなバリエーション
-- 既存の製品との統合
+## Potential directions
 
-## 以前のチャレンジ
+- Swaps, both simple and fancy variants (multi-party etc.)
+- Escrow, both simple and fancy variants
+- Integrations with existing products
 
-1. [Fund 5 DApps & 統合](https://cardano.ideascale.com/a/campaign-home/25941)
-2. [Fund 4 DApps & 統合](https://cardano.ideascale.com/a/campaign-home/25869)
-3. [Fund 3 DAppsの作成](https://cardano.ideascale.com/a/campaign-home/25797)
-4. [Fund 2チャレンジ](https://cardano.ideascale.com/a/campaign-home/25652)
-5. [Fund 1チャレンジ](https://cardano.ideascale.com/a/campaign-home/25604)
+## Prior Challenges
+
+1. [Fund 5 DApps & Integrations](https://cardano.ideascale.com/a/campaign-home/25941)
+2. [Fund 4 DApps & Integrations](https://cardano.ideascale.com/a/campaign-home/25869)
+3. [Fund 3 DApps Creation](https://cardano.ideascale.com/a/campaign-home/25797)
+4. [Fund 2 Challenge](https://cardano.ideascale.com/a/campaign-home/25652)
+5. [Fund 1 Challenge](https://cardano.ideascale.com/a/campaign-home/25604)

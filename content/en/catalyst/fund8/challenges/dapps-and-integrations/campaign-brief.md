@@ -12,15 +12,19 @@ Fund Size: **2,500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/383335) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 What applications will provide the most value for end users in 2022?
 
 ### Why is it important?
+
 Quality Dapps and integrations will increase utility & adoption of Cardano. A broad funding challenge like this encourages more proposals.
 
 ### What does success look like?
+
 Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
 
 ### Key Metrics to measure
+
 To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
 
 Let an "application output" and an "application transaction" be an output and transactions that use the applications' script addresses, and an "application token" be a token that's issued by the application.
@@ -44,15 +48,16 @@ Let an "application output" and an "application transaction" be an output and tr
 - How many of the teams which built the applications built (or plan to build) another application?
 
 ## Challenge Brief
+
 Cardano is an ecosystem that sets itself apart through its rigorous research and strives to do things correctly. We expect all dApp projects applying for funding to aspire to the highest possible levels of certification. To understand what this refers to and practically means, please watch Charles Hoskinson's video on this topic: "DApp certification and Community Curation".
 
 {{< youtube Y7zcYSQarI0 >}}
 
-This challenge is suitable for incorporated technology or blockchain companies and larger projects with competent teams that already have deployed MVPs. Ideally, these are projects that have a proven user base. Projects that satisfy such criteria are welcome to apply for more than $100,000 if that can be justified and clearly budgeted for.  
+This challenge is suitable for incorporated technology or blockchain companies and larger projects with competent teams that already have deployed MVPs. Ideally, these are projects that have a proven user base. Projects that satisfy such criteria are welcome to apply for more than $100,000 if that can be justified and clearly budgeted for.
 
 For smaller teams (4-5 people) with proven competence, relevant experience and technical skills with sketches/whitepaper detailing how they would go about to launch their proposal, the budgets would typically be in the range $40,000-$80,000.
 
-For people with the relevant background but without a full team or completed whitepaper detailing the solution, the project ought to be considered as a research stage project and budgets should less than $10,000. 
+For people with the relevant background but without a full team or completed whitepaper detailing the solution, the project ought to be considered as a research stage project and budgets should less than $10,000.
 
 ### Guiding questions
 

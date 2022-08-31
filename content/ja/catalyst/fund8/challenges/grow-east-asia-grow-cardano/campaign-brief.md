@@ -1,70 +1,70 @@
 ---
-title: 'Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる'
-linkTitle: 'Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる'
+title: "Grow East Asia, Grow Cardano"
+linkTitle: "Grow East Asia, Grow Cardano"
 type: docs
 hide_feedback: true
-description: '東アジアのカルダノ生態系を包括的かつ支援的な方法でどのように成長させるのでしょうか？私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブ！'
+description: "How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
 
 Fund Size: **150,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/382067)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/382067) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-東アジアのカルダノ生態系を包括的かつ支援的な方法でどのように成長させるのでしょうか？私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブ！
+How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-カルダノコミュニティは、北米とヨーロッパに大きく傾いています。他の場所で成長するには、コミュニティとしてのサポートとイニシアチブが必要です。
+The Cardano community leans heavily toward North America and Europe. Growth elsewhere requires our support and initiative as a community.
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-アジア全体でアジアにつながり、私たちのエコシステムを成長させるために集まってチームを形成する幅広い人々。
+A broad spectrum of people across Asia and connected to Asia, coming together and forming teams to grow our ecosystem.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-このチャレンジの最後に、参加の質についていくつか質問します。
+At the end of this challenge, we will be asking ourselves some questions about the quality of participation:
 
-ProjectCatalystの東アジアの参加者からの提案の数
+The number of proposals originating from East Asian participants in Project Catalyst
 
-東アジアのチームから発信された資金提供された提案の量と質。
+The quantity and quality of funded proposals originating from East Asian teams.
 
-資金提供されたプロジェクトの観察された影響（KPIを満たす）。
+The observed impact of funded projects (meeting their KPIs).
 
-東アジアの住民とのカルダノコミュニティとCatalystチームの参加を増やしましたか？
+Did we increase the participation of the Cardano community and Catalyst teams with East Asian residents?
 
-勢いとエンゲージメントの代理指標として、デイリー/マンスリーアクティブウォレット（DAW / MAW）が増加しましたか？
+Was there an increase in Daily/Monthly Active Wallets (DAW/MAW) as a proxy measure of momentum and engagement
 
-東アジアに拠点を置くステークプールとステークプールオペレーターの数を増やしましたか？
+Did we increase the number of Stake Pools and Stake Pool Operators based in East Asia?
 
-また、提案の質についていくつか具体的な質問をします。
+We will also be asking some specific questions about the quality of the proposals:
 
-資金提供を受けたプロジェクトの進捗状況、失敗、成功について、東アジア全体にカルダノソリューションを展開する際のニュアンスを理解するのに役立つ良いフィードバックはありますか？
+Is there good feedback on funded project progress, failure or success, that help us understand the nuances of deploying Cardano solutions across East Asia?
 
-ソリューションの新規性と適切性は何ですか？
+What is the novelty and appropriateness of solutions?
 
-私たちは東アジアでカルダノを使用している人々の生活を改善するために順調に進んでいますか？
+Are we on track to improve the lives of people using Cardano in East Asia?
 
-提案のパフォーマンスを測定するために、社会的および環境的影響評価が使用されましたか？
+Was social and environmental impact evaluation used to measure proposal performance?
 
-Catalystの範囲を超えた提案の持続可能性とは何ですか？
+What is the sustainability of proposals beyond the scope of Catalyst?
 
-## チャレンジブリーフ
+## Challenge Brief
 
-アフリカと同様に、ブロックチェーンとカルダノネットワークに関する東アジアの一般の人々の意識レベルを高めることは、Catalystコミュニティの優先事項であるはずです。このチャレンジでは、カルダノについて学んだ人々がコミュニティのサポートを活用し、カルダノネットワークを構築または使用するための資金を提供します。
+As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
 
-この課題の提案の性質は制限がありません。彼らの唯一の要件は、東アジアを起源とするか、それに焦点を合わせ、東アジアのチームメンバーを含めるか、東アジアの参加者に焦点を当てることです。
+The nature of the proposals for this challenge is open-ended. Their only requirement is to originate or focus on East Asia and include east Asian team members or focus on East Asian participants.
 
-たとえば、ステークプールの圧倒的多数は北米とヨーロッパにあります。ステークプールが世界中に均等に分散されている場合、カルダノネットワークはより回復力があります。 Catalystコミュニティは、ステップアップして意図的にそれを実現する必要があります。
+For instance, the overwhelming majority of Stake Pools reside in North America and Europe. The Cardano network will be more resilient when Stake Pools are evenly distributed across the globe. The Catalyst community needs to step up and intentionally make that happen.
 
-カルダノは東アジア（日本と香港）で始まり、エムルゴは東アジアに焦点を当てています。その上に構築しましょう。
+Cardano started life in East Asia (Japan and Hong Kong), and Emurgo focuses on East Asia. Let's build upon that.
 
-これは何ですか：
+## What this is:
 
-行動の呼びかけ。カルダノコミュニティの認識能力を活性化し、世界をより良い場所にする機会に報いる。東アジアは、カルダノを採用するための肥沃な土地です。若くて発展途上国のプロジェクトは経済的慣性に直面していないため、意図収益率（ROI）は高くなる可能性があります。
+A call to action; Activate the Cardano community's ability to recognise, reward the opportunity to make the world a better place. East Asia is fertile ground for the adoption of Cardano. The return on intention (ROI) is likely to be high because projects in young and developing economies face less economic inertia.
 
-資金調達の課題を通じて世界のさまざまな地域に直接かつ意図的に取り組むことで、私たちのコミュニティはよりアクセスしやすくなります。それは私たちをより弾力的にします。それは私たちが私たちの生態系を構成するコミュニティのニーズを学び、理解するのに役立ちます。
+Addressing different parts of the world directly and intentionally through funding challenges makes our community more accessible. It makes us more resilient. It helps us learn and understand the needs of communities that make up our ecosystem.
 
-成果を上げるには投票が必要なビジョンです。チャレンジが成功すると、受益者はカルダノコミュニティ全体になります。それは、私たちの偏見を閉じ、私たちの多くが生まれた恩恵を欠いている善良な人々に私たちの目、心、心を開き、特権的な状況が少ない他の人々が立ち上がって成功できるようにするための呼びかけです。
+It is a vision that needs votes to become an achievement. When the challenge succeeds, the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the benefits many of us were born with—allowing others with fewer privileged circumstances to rise and succeed.

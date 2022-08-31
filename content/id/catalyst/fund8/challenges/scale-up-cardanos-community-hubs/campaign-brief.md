@@ -56,7 +56,7 @@ Pusat Kegiatan Komunitas Lokal di seluruh dunia di mana rata-rata orang dapat me
 
 Sementara permintaan yang meningkat menunjukkan kepada kita bahwa ada kebutuhan, fokus kita untuk tantangan berikutnya harus berada di sisi lain. **Pasokan modal.**
 
-Sementara fakta telah membuktikan perlunya tantangan Pusat Kegiatan Komunitas, ada banyak tantangan lain yang sama pentingnya yang bersaing untuk mendapatkan posisi di Fund 8, jadi kita harus bertindak sesuai dengan itu. **Kita harus membuat permintaan anggaran yang memungkinkan orang lain juga mengejar tujuan mereka ** di dalam ekosistem, baik makro, untuk Catalyst maupun mikro, dalam Tantangan itu sendiri.
+Sementara fakta telah membuktikan perlunya tantangan Pusat Kegiatan Komunitas, ada banyak tantangan lain yang sama pentingnya yang bersaing untuk mendapatkan posisi di Fund 8, jadi kita harus bertindak sesuai dengan itu. **Kita harus membuat permintaan anggaran yang memungkinkan orang lain juga mengejar tujuan mereka** di dalam ekosistem, baik makro, untuk Catalyst maupun mikro, dalam Tantangan itu sendiri.
 
 Sementara kita **Menumbuhkan pusat kegiatan komunitas** , kita perlu **Menurunkan pengeluaran modal individu**, untuk memastikan bahwa kami dapat menyebar sejauh mungkin, secepat mungkin, itulah sebabnya kami bekerja dari prinsip pertama.
 
@@ -88,9 +88,9 @@ Dalam istilah yang lebih sederhana, pertimbangkan mengapa sebuah pusat kegiatan 
 
 Saat Anda **mendorong adopsi di tingkat dasar**, Anda melakukan lebih dari sekadar 'membangun produk keren', Anda **memberdayakan orang untuk mengubah hidup mereka** dengan cara yang tidak pernah mereka bayangkan sendiri.
 
-![](https://i.imgur.com/bZQvrLI.jpeg)
+![image](https://i.imgur.com/bZQvrLI.jpeg)
 
-![](https://i.imgur.com/MWddZex.gif)
+![image](https://i.imgur.com/MWddZex.gif)
 
 #### Bacaan ekstra (ke mana kita akan pergi):
 

@@ -1,8 +1,13 @@
 ---
 title: Dapps & Integrasinya
 linkTitle: Dapps & Integrasinya
-type: docs
-hide_feedback: 'true'
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Aplikasi apa yang akan memberikan benefit paling untuk pengguna di tahun 2021?

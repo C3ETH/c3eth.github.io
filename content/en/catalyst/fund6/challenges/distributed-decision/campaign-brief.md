@@ -1,8 +1,13 @@
 ---
 title: "Distributed decision making"
 linkTitle: "Distributed decision making"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?

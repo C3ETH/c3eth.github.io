@@ -1,8 +1,13 @@
 ---
 title: "Scale-UP Cardano's DeFi Ecosystem "
 linkTitle: "Scale-UP Cardano's DeFi Ecosystem "
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
 

@@ -10,6 +10,7 @@ Fund Size: **$425,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26254) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26254/stage/unspecified).
 
 ## Campaign Brief
+
 Our challenge is an evolution of the mass decentralized identity (DID) adoption challenge from Funding Round 6, connecting everything we are learning with the first Atala PRISM Pioneer Program cohort.
 
 The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst Fund 7 is complete. Between now and then, any member of the Catalyst Community inspired to write a proposal will get access to the Atala PRISM Pioneer Program first cohort course materials on Canvas. Please submit your proposal on Ideascale, including your email address, to get an invitation to Canvas.
@@ -17,14 +18,17 @@ The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst
 With this access, you'll join the growing Atala PRISM community. Our Atala PRISM product team and engineers will be available via a dedicated Discord channel. Inclusion in our Professional Services Group governance framework foundry. Access to fireside chats with the top leaders in the SSI space, where we'll discuss trends, use cases, and much more. In addition, we will support the growth of high-value credentials and enable partners from concept, to development, to commercialization.
 
 ### **Areas of focus**
-##### **Interoperability**
+
+#### **Interoperability**
+
 Most digital credentials sit on Hyperledger Indy ledgers, including those issued by governments in Germany, Canada, and the UK.
 
 The best-performing platform will gain the largest market share. For many reasons, we believe our platform is superior. Therefore, Cardano and Atala PRISM must include a plan to interact with these other ecosystems to maximize market share.
 
 We encourage Catalyst proposals to achieve full interoperability. Deliverables should optimize the user experience (UX) for Atala PRISM credentials while remaining compatible with other platforms.
 
-##### **Self-governance of Emergent Communities**
+#### **Self-governance of Emergent Communities**
+
 ##### DAO Governance in Practice
 
 New legislation in Wyoming allows for a decentralized autonomous organization (DAO) to be registered with the state. We challenge the community to establish a DAO under the new laws. It could manage an impact or development goal with shared common resources governed by the DAO.
@@ -46,6 +50,7 @@ We are interested in exploring a rich playground of ideas and bringing these to 
 Many of our Pioneer and Catalyst-funded projects support education and career programs. One of the defining characteristics of these approaches is the creation of alternatives to accredited education and career paths.
 
 We need our community to think about developing technology and governance primitives to support any community that wants to establish new education and career paths by providing tools:
+
 - For onboarding new experts and teachers
 - For people in the community to develop and grow
 - For maintaining a reputation as a skilled employee, laborer, consultant, mentor, teacher, etc.
@@ -53,6 +58,7 @@ We need our community to think about developing technology and governance primit
 When reputation standards change, we need ways to self-heal and self-monitor for bad actors, harmful actions, or bad outcomes.
 
 ##### **Circular Supply Chain**
+
 The global supply chain focuses on creating a new economic infrastructure. The goal is replacing or integrating with legacy systems such as record-keeping, bills of lading, centrally managed systems of record, and distribution networks. Centralization has many challenges, the least of which is a lack of resilience in the global supply chain, as we have all seen and continue to experience in the COVID era.
 
 Supply chains tend to start as decentralized. Markets and trade routes emerge from the bottom of the producer market and are aggregated into centralized supply chains, eventually working their way down to the consumer. We want to explore new patterns of commerce in bottom-up supply chains that could open and expand the local reputation network into markets that are currently inaccessible, such as:
@@ -89,20 +95,24 @@ However, local small businesses must maintain transparency and oversight of the 
 Addressing the challenge of the financial gap is vital. We believe that there is enormous potential to create bottom-up networks of trusted individuals and small businesses to fill this gap.
 
 ## Why is it Important?
+
 How individuals interact with their communities and the broader economy helps us understand which credentials improve their daily lives. By identifying these high-value, high-impact credentials, we can establish governance framework foundries for launching pilot programs and driving growth. Ultimately, this will cause further adoption of Cardano and Atala PRISM technology.
 
 ## How does success look like?
+
 Discover repeatable patterns that unlock our ability to leverage the Cardano decentralized infrastructure. Identify high-value credentials and use cases. Once identified, we can form stakeholder governance framework working groups. These groups will allow us to foster the development of community, partner, and vendor ecosystems to launch into commercial and production environments.
 
 ## Key Metrics to measure
+
 - The sum of realized production pilots or launches in 2022
 - Discovery of repeatable patterns in use-cases
 - The number of issuers, holders, and verifiers
 - The number of verifications performed on credentials in production
 
-#### **A Proposed Pattern Language Outline (example)**
+### **A Proposed Pattern Language Outline (example)**
 
-##### **Primitives**
+**Primitives**
+
 - Digital Identity
 - Verifiable Credential (VC)
 - Verifiable Presentation Request
@@ -111,7 +121,8 @@ Discover repeatable patterns that unlock our ability to leverage the Cardano dec
 - Non-fungible token (NFT)
 - Smart Contract
 
-##### **Patterns**
+**Patterns**
+
 - Trust Registry
 - Governance Framework
 - Token Curated Registry
@@ -126,6 +137,7 @@ Discover repeatable patterns that unlock our ability to leverage the Cardano dec
 
 With that as background, we are suggesting proposals in the following three areas:
 
-1. Interoperability between Cardano and Indy anchored DIDs/VCs.
-2. Self-governance of Emergent Communities
-2. Circular Supply Chain
+- Interoperability between Cardano and Indy anchored DIDs/VCs.
+- Self-governance of Emergent Communities
+- Circular Supply Chain
+

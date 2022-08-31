@@ -1,5 +1,4 @@
-blank_issues_enabled: false
 contact_links:
-  - name: Eastern Townhall Community Support
-    url: https://github.com/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination/discussions
-    about: Please ask and answer questions here.
+  - name: Question 🙋
+    url: https://github.com/h-enk/doks/discussions/categories/q-a
+    about: Ask your question in Doks Discussions

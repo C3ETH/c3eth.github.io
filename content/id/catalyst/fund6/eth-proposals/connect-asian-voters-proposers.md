@@ -1,11 +1,8 @@
 ---
-title: Menghubungkan Pemilih dan Pengusul Asia
-linkTitle: Menghubungkan Pemilih dan Pengusul Asia
-type: docs
-hide_feedback: 'true'
-weight: '40'
-description: >
-  Ada hambatan, seperti kurangnya informasi tepercaya untuk memilih yang disebabkan oleh perbedaan bahasa & eksklusivitas budaya. Kami mengusulkan untuk memberikan informasi tepercaya dengan bertemu orang-orang di mana mereka berada, dalam bahasa dan budaya lokal mereka.
+title: "Menghubungkan Pemilih dan Pengusul Asia"
+weight: 40
+description:
+  "Ada hambatan, seperti kurangnya informasi tepercaya untuk memilih yang disebabkan oleh perbedaan bahasa & eksklusivitas budaya. Kami mengusulkan untuk memberikan informasi tepercaya dengan bertemu orang-orang di mana mereka berada, dalam bahasa dan budaya lokal mereka."
 ---
 
 {{< youtube BT2-0tnZnzc >}}

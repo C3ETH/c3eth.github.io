@@ -12,15 +12,19 @@ Fund Size: **1,000,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/384822) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 
 ### Why is it important?
+
 Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.
 
 ### What does success look like?
+
 Cardano has a thriving dev ecosystem, developers are able to scale their businesses by monetizing the services that they provide.
 
 ### Key Metrics to measure
+
 Key metric to measure
 
 At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for developers to build on top of Cardano?
@@ -32,6 +36,7 @@ At the end of this challenge, we will be asking ourselves: Did we manage to make
 - A sense of community and conversations. Having people around to talk with
 
 ## Challenge Brief
+
 #### Guiding Questions
 
 - What are the the tools that we need to prioritize first

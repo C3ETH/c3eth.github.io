@@ -1,77 +1,80 @@
 ---
-title: CardanoのDeFiを後押し
-linkTitle: CardanoのDeFiを後押し
+title: "Boosting Cardano's DeFi"
+linkTitle: "Boosting Cardano's DeFi"
 type: docs
 hide_feedback: true
-description: DeFiチームが今後6か月以内にCardanoでオープンファイナンスソリューションを構築/展開するようにどのように奨励できますか？
+description: "How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?"
 ---
-
-ファンドサイズ： **Adaで支払われた$ 500,000 USD**
+Fund Size: **$500,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26233) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi)
 
-## キャンペーン概要
+## Campaign Brief
 
-前の課題（ScaleUP CardanoのDeFiエコシステム）は成功を示し、Liqwid Finance、Minswap、ErgoDEXなどの人気のあるDeFiプロジェクトが、ベンチャーキャピタルの参加なしに、コミュニティ/ユーザーベースの公正な立ち上げモデルで財務省から資金提供されることを可能にしました。
+The previous challenge(ScaleUP Cardano's DeFi Ecosystem) demonstrated success and allowed popular DeFi projects such as Liqwid Finance, Minswap and ErgoDEX to be funded by the treasury, without the participation of venture capitals and with fair launch models, allowing sustainable distribution of the supply among the community/userbase.
 
-ERGODEXの提案が残余予算の中で2番目に投票された提案であったという事実は、Fund5で提示された提案の競争力を実証するための重要な指標です。
+The fact that ERGODEX's proposal was the second best voted proposal in the Left-Over budget is an important indicator to demonstrate the competitiveness of the proposals presented in Fund5.
 
-現在、DeFi dappsとアセットフローの大部分はEthereumブロックチェーンで発生しますが、混雑と取引手数料の増加により、DeFiの使用はますますエリート化され、DeFiから最も恩恵を受ける可能性のある人々、つまり銀行口座を持たない人々が除外されています。
+Currently, the vast majority of DeFi dapps and assets flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it, the unbanked.
 
-過去1年間で、Binance Smart Chain、Polkadot、Cosmos、Solanaなど、いくつかのDeFiプロジェクトがよりスケーラブルなブロックチェーンに移行しています。イーサリアムのメインチェーンの代替として第2層のソリューションも使用されており、Polygonはその好例です。
+Over the past year several DeFi projects have been moving to more scalable blockchains, such as Binance Smart Chain, Polkadot, Cosmos, Solana, among others. Second layer solutions are also being used as alternatives to Ethereum main chain, Polygon has been a great example.
 
-この移行とブリッジの作成シナリオでは、一部のプロジェクトがCardanoを使用してDeFiプロジェクトを作成しています。
+In this migration and bridges creation scenario, some projects are turning to Cardano to create their DeFi projects.
 
-Cardanoはついにスマートコントラクトを提供し、それがDeFiの多くの革新への扉を開きます。近い将来、スケーラブルなブロックチェーンだけでなく、安全なブロックチェーンと集約されたガバナンスレイヤーも提供できるようになります。この一連の特徴により、カルダノは目立つ場所に配置され、市場シェアを獲得してユーザーベースを拡大する絶好の機会があります。
+Cardano is finally delivering smart contracts and that opens a door to a lot of innovation in DeFi. We can offer not only a scalable blockchain, but also a secure blockchain and aggregated governance layer in the near future. This set of characteristics place Cardano in a prominent place and with a good opportunity to gain market share and expand the user base.
 
-Catalystを使用すると、DeFiプロジェクトに資金を提供し、DeFiプロジェクトに不可欠な側面である分散化と回復力を高めることができます。多くのプロジェクトは、財源の不足のためにベンチャーキャピタルの参加を受け入れることになります。通常、VCがDeFiプロジェクトに参加すると、供給分配の大部分がVCに割り当てられ、分散化が損なわれ、その結果、これらのプロジェクトのセキュリティが損なわれます。
+With Catalyst, we have the opportunity to fund DeFi projects and allow them to have greater decentralization and resilience, which are essential aspects for DeFi projects. Many projects end up accepting the participation of Venture Capitals due to lack of financial resources. The participation of VCs in DeFi projects usually ends up causing a large part of the supply distribution to be alocated to VCs and this compromises the decentralization and consequently the security of these projects.
 
-今日のDeFiエコシステムは、脆弱性に満ちたプロジェクトに引き継がれ、ハッキングは一定であり、経済モデルは他のプロジェクトからコピーされ、分散化はもはや優先事項ではなく、ユーザーのことを考えて経済モデル/結合曲線/アルゴリズムを作成することに専念しているプロジェクトはほとんどありません。ニーズ。
+The DeFi ecosystem today is taken over by projects full of vulnerabilities, hacks are constant, economic models are copied from other projects, decentralization is no longer a priority and few projects are dedicated to create economic models/bonding curves/algorithms thinking about the users' needs.
 
-バグ、ハッキング、脆弱性はイーサリアムのスマートコントラクトに固有のものではないことが1年で明らかになりました。 Binance SmartChainとCosmosで実行されているDappも脆弱性に悩まされていました。
+It has become clear over the year that bugs, hacks and vulnerabilities are not unique to smart contracts on Ethereum. Dapps running on Binance Smart Chain and Cosmos suffered from vulnerabilities as well.
 
-- [ハッカーは、3つのチェーンにまたがるPolyエクスプロイトで少なくとも6億ドルを盗んだ](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
+- [Hackers stole at least $600M in Poly exploit across three chains](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
 
-[Thorchainは500万ドルのエクスプロイトに苦しんでおり、開発者は修正を出しました](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
+[Thorchain suffers $5 million exploit, developers have put out a fix](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
 
-Cardanoは、このパラダイムを変更し、ユーザーにセキュリティをもたらすために到着しました。
+Cardano arrives to change this paradigm and bring security to users.
 
-プライバシーと検閲への抵抗も重要ですが、助成金（収量農業）を支持して見過ごされがちです。 DeFiプロジェクトに、レジリエンス、安全性、研究ベースの経済モデル、批判的思考を求めるように促すにはどうすればよいですか？
+Privacy and resistance to censorship are also important but often overlooked in favor of subsidizing (yield farming). How to encourage DeFi projects to seek resilience, safety, research-based economic models and critical thinking?
 
-## 考えられる方向
+## Potential Directions
 
-- DEX
-- オラクル
-- アルゴリズムの安定したコイン
-- dappsの借用/貸し出し
-- デリバティブ
-- オープンソースの新しい財務モデルの研究（結合曲線）
+- DEXs
+- Oracles
+- Algorithmic stable coins
+- Borrowing/Lending dapps
+- Derivatives
+- Research for open source new financial models (bonding curves)
 
-## 予算配分の合理性
+## Rational For Budget Distrobution
 
-資金提供を受けたチームと提案の多様性を促進するために、各チームは合計$ 500,000USDの予算または$ 100,000 USDの最大20％を要求できます。
+To encourage greater diversity of funded teams and proposals each team can request up to 20% of the total $500,000 USD budget or $100,000 USD.
 
-例-$ 50,000USDの2つの提案を持つチームA- $ 100,000USDの1つの提案を持つチームB- $ 80,000USDの1つの提案を持つチームC + $ 20,000USの1つの提案
+E.g.
+    - Team A with 2 proposals of $50,000 USD
+    - Team B with 1 proposal of $100,000 USD
+    - Team C with 1 proposal of $80,000 USD + 1 proposal of $20,000 US
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-Defi dAppsは、グローバルユーザーに金融サービスへの信頼できないオンデマンドアクセスを提供するため、これは重要です。
+It's important because Defi dApps provide trustless on-demand access to financial services for global users
 
-## 成功はどのように見えますか？
 
-クロスコラボレーションとプロトコル間での構成可能性の推進に重点を置いた、CardanoでのDeFiの競争環境。
+## How does success look like?
 
-## 測定する主要な指標
+A competitive environment for DeFi on Cardano with an emphasis on cross-collaboration & driving composability across protocols.
 
-- 資金提供後3、6、12か月以内にCardanoメインネットで起動されたDeFidappの数。
-- 各dappが起動するのにかかる時間。
-- このコホートで資金提供されているDeFidappsは、毎日何人のアクティブユーザーを引き付けていますか。
-- 資金提供されたDeFidappは、リリース後3、6、および12か月でキャプチャできるTotal Value Locked（TVL）の量を示します。
-- 各dappで見つかったバグと脆弱性の数。
-- バグまたは脆弱性のために失われたリソースの量。
-- テストネットに参加しているユーザーの数。
-- トークンホルダー/一意のウォレットの数（dappにトークンがある場合）。
-- チームとコミュニティ間の供給の分配。
-- リストされたペアの数（DEXの場合）。
-- 上場資産の数（ローン+貸付ダップ、デリバティブ、合成資産の場合）。
-- コミュニティに提供された記事とオープンソースの財務モデル研究の数。
+## Key Metrics to measure
+
+- How many DeFi dapps were launched on Cardano mainnet within 3, 6 and 12 months after funding.
+- How long does each dapp take to be launched.
+- How many daily active users are the DeFi dapps funded in this cohort attracting.
+- How much Total Value Locked (TVL) are the funded DeFi dapps able to capture 3, 6 and 12 months after launch.
+- Number of bugs and vulnerabilities found in each dapp.
+- Amount of resources lost due to bugs or vulnerabilities.
+- Number of users participating in testnets.
+- Number of token holders/unique wallets(when dapp has a token).
+- Distribution of supply between the team and the community.
+- Numbers of listed pairs (in case of DEXs).
+- Number of listed assets (cases of loan+lending dapps, derivatives and synthetic assets).
+- Number of articles and open source financial models research delivered to the community.

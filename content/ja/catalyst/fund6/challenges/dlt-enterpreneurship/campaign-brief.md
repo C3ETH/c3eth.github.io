@@ -1,41 +1,41 @@
 ---
-title: "DLT起業ツールボックス"
-linkTitle: "DLT起業ツールボックス"
+title: "DLT Entrepreneurship Toolbox"
+linkTitle: "DLT Entrepreneurship Toolbox"
 type: docs
 hide_feedback: true
 ---
 
-初期段階の起業家は、有権者/ステークホルダーがプロジェクトを評価するため、 偉大なアイデアを実行 & 伝達するスキルをどう開発できますか?
+How can early stage entrepreneurs develop their skills to execute & communicate great ideas so voters/stakeholders value the project?
 
-予算規模: **$150,000 USD paid in Ada**
+Fund Size: **$150,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26113) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified)。
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26113) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-あなたの背景が何であれ、自信を持って初期段階のベンチャーのすべての重要な要素を伝えることは、経験の浅い起業家にとって大変なことがあります。
+Whatever your background, confidently communicating all the important elements of an early stage venture can be overwhelming for inexperienced entrepreneurs.
 
-さまざまな段階にある、ますます多様化するProject Catalyst起業家のグループとチームと利害関係者が協力して効果的にコミュニケーションできるようにするには、さらに多くのことを行う必要があります。
+More should be done to help an increasingly diverse group of Project Catalyst entrepreneurs, at different stages of self-development, plus their teams and stakeholders to collaborate and communicate effectively.
 
-これはProjectCatalystにとって重要です。時間の経過とともに、最も強力なアイデアは、最も首尾一貫して伝達され、最終的に有権者、特に専門家の評価者と明確に共鳴するアイデアになるからです。
+This is important to Project Catalyst as, over time, the strongest ideas will be those that are the most coherently communicated and which ultimately resonate clearly with voters - particularly Expert evaluators!
 
-このチャレンジは、経験の浅い起業家が重要な起業家精神のスキルを学び、適用して、有意義なCatalystプロジェクトでチームや利害関係者と協力できるようにすることを目的としています。 これはまた、持続可能な影響を確保し、投資と意思に対し利益になることを助けます。
+This challenge seeks to help inexperienced entrepreneurs to learn and apply vital entrepreneurship skills so they can collaborate with teams and stakeholders on meaningful Catalyst projects. This also helps ensure sustainable impact and a positive return on investment and intention is made.
 
-## なぜ重要なのか？
+## Why is it important?
 
-起業家の強みは野心とビジョンですが、投票者の心を射止めるのに十分な明確なアイデアを伝えるための構造を欠いていることが多いです
+Entrepreneurs strengths are ambition and vision but often lack structure to communicate ideas clearly enough to win voter hearts & minds
 
-## 成功するとどのような未来が見えますか？
+## How does success look like?
 
-Catalystに提出された提案の質が高く、起業家はプロジェクトの原則、USP、戦略、目標を自信を持って提示するようになります。
+Higher quality of proposal submitted to Catalyst so entrepreneurs become confident presenting project principles, USP, strategy, objectives
 
-## 測定する主要なメトリック
+## Key Metrics to measure
 
-- ツールを使用しているユーザー数
-- ツールボックスを使った提案者のスコアと、ツールボックスを使わない提案者のスコアの違い。
-- 構想の開始からプロジェクトの実施まで、プロジェクトチームの起業家スキルの基本的なギャップがありません。
-- Catalyst開発プロジェクトの範囲を超えたベンチャー計画の持続可能性。
+- Number of users, using the tools
+- Difference in score of applicants using the toolbox and those not using the tools.
+- Gaps that are filled in the entrepreneurial skills base of project teams from the start of ideation through project delivery.
+- Sustainability of venture plans beyond the scope of Catalyst development project.
 
-## 参照
+## References
 
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/DLT-Entrepreneurship-Toolbox/341809-48088)
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/DLT-Entrepreneurship-Toolbox/341809-48088)

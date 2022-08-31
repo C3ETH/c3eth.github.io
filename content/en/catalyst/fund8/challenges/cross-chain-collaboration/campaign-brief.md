@@ -12,15 +12,19 @@ Fund Size: **400,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/381705) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How might we create connections and collaboration between Cardano and other blockchains in the next six months?
 
 ### Why is it important?
+
 Interoperability of blockchains and multi-chain awareness guarantees shared success of the cryptoeconomy as a whole.
 
 ### What does Sucess look like?
+
 Collaborative value creation between Project Catalyst and other communities. Both technical and non-technical initiatives are welcome.
 
 ### Key Metrics to measure
+
 Objective metrics to measure success:
 
 - Mainnet and testnet transaction volume growth
@@ -32,8 +36,8 @@ Objective metrics to measure success:
 - Number of events / workshops / sessions arranged with other communities
 - Number of permanent initiatives with cross-chain teams (members from different blockchain communities together)
 
-
 ## Challenge Brief
+
 The success of Bitcoin spawned numerous off-shoot experiments and the arrival of Ethereum increased tribalism. As the number of altcoins grew, unhealthy "maximalism" emerged. The future is multi-chain, however, and the cryptoeconomy thrives when interoperability and cross-chain collaboration are cherished and encouraged.
 
 There are multiple next generation blockchains with cadres of zealous supporters, highly skilled developers and innovative technologies that Cardano and Project Catalyst can learn from. And, vice versa, we can help other networks thrive by offering the good practices developed in Catalyst. IOG has recently formed the UTXO alliance and started collaboration with numerous partners like COTI and SingularityNET. It's a good start but more is needed to address the lack of communication, coordination and collaboration between blockchain communities. Missing awareness of each other's doings forces us to duplicate our efforts. When we are separate we are not able to learn from each other's achievements or failures.
@@ -50,14 +54,13 @@ Cardano has a strong, open and inclusive community, let's make this a real super
 
 [Polkadot](https://wiki.polkadot.network/docs/learn-video-tutorials) (and its canary network **Kusama**) is a light-weight and quickly updateable design where the Relay Chain offers shared security and cross-chain communication, allowing the connected Parachains to focus on fast deployment of services. Its unique crowdloan mechanism invites the community of token holders to voice out which projects should be implemented first. The Nominated Proof of Stake network offers advanced governance mechanisms as well.
 
-
-Academically impressive and technologically sound [Algorand](https://www.algorand.com/technology) has a unique consensus mechanism Pure Proof of Stake and we can learn a lot from their governance model. 
+Academically impressive and technologically sound [Algorand](https://www.algorand.com/technology) has a unique consensus mechanism Pure Proof of Stake and we can learn a lot from their governance model.
 
 Boasting a throughput beyond 4,500 tps and near-instant finality, the EVM-compatible Avalanche has quickly become the go-to choice for multiple DeFi projects. It has an innovative multi-chain architecture that utilizes both DAG and Blockchain technologies.
 
 - [Avax](https://www.avax.network)
 
-Other examples could be e.g. [Fantom](https://fantom.foundation/intro-to-fantom), [Solana](https://solana.com/ecosystem), [IOTA](https://www.iota.org/), [Polygon](https://polygon.technology/get-started), [Nervos](https://www.nervos.org) or **any community that is ready for multi-chain reality**. Or the proposal can come from a project / solution built on any of these. 
+Other examples could be e.g. [Fantom](https://fantom.foundation/intro-to-fantom), [Solana](https://solana.com/ecosystem), [IOTA](https://www.iota.org/), [Polygon](https://polygon.technology/get-started), [Nervos](https://www.nervos.org) or **any community that is ready for multi-chain reality**. Or the proposal can come from a project / solution built on any of these.
 
 ### Proposals you can submit to this challenge
 
@@ -84,6 +87,7 @@ We are seasoned Catalyst community members and "interoperability maximalists" wh
 Cardano technology stack is finally mature enough to start inviting proposals for cross-chain collaboration and interoperability. Our proposed challenge is intentionally left open ended and it welcomes a multitude of different solutions. Worthwhile ideas submitted in this challenge should help grow and improve the Cardano and Catalyst community in the near term (next 6-9 months).
 
 This challenge is therefore aligned with the Fund8 strategic goals:
+
 - It helps prepare people to make contributions to the Cardano and Catalyst ecosystem.
 - It helps turn Cardano into an open source project recognized also beyond our community.
 - It accelerates the growth and evolution of our developer & app ecosystem by inviting contributions from the rest of the blockchain space.

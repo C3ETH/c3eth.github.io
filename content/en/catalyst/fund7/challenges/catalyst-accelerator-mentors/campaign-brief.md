@@ -25,15 +25,18 @@ Proposers should give strong consideration to providing evidence of their experi
 
 We anticipate that a number of proposals that address this challenge will be funded in Fund 7 and we hope the community takes a portfolio approach to select projects from different parts of the world or a variety of themes relevant to the adoption of Cardano-based projects and the Cardano ecosystem as a whole.
 
-## why is it Important?
+## Why is it Important?
+
 Knowledge is power and enabling project's to tap into to a distributed network of professional mentors and supporters will enable ventures to grow stronger and faster. Catalyst wants organizations and groups who have a track record of business incubation and acceleration to apply.
 
 
 ## How does success look like?
+
 - Access to financial, human, and intellectual capital to fuel the success of Catalyst-funded projects
 - Programmes that share in the spirit of co-creation, willing to collaborate with us at Catalyst, Cardano stakeholders, and the Catalyst cohorts.
 
 ## Key Metrics to measure
+
 - Number of projects that can be accelerated in the scope of the funding
 - Number of mentors and investors that can be onboarded into the ecosystem
 - Distribution of programmes across the world to serve different audiences

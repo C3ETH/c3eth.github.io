@@ -1,245 +1,110 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Cardano Catalyst Community Eastern Town Hall"
+baseurl = "https://jennyberry.github.io/new-eth/"
+canonifyURLs = true
+disableAliases = true
+disableHugoGeneratorInject = true
+enableEmoji = true
+enableGitInfo = false
 enableRobotsTXT = true
+paginate = 7
+rssLimit = 10
 
-# Hugo allows theme composition (and inheritance). The precedence is from left to right.
-theme = ["docsy"]
-
-# Will give values to .Lastmod etc.
-# enableGitInfo = true
-
-# Language settings
-contentDir = "content/en"
+# Multilingual
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-# Useful when translating.
-enableMissingTranslationPlaceholders = true
+disableLanguages = ["de", "nl"]
+# defaultContentLanguageInSubdir = true
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
-
-# Highlighting config
-pygmentsCodeFences = true
-pygmentsUseClasses = false
-# Use the new Chroma Go highlighter in Hugo.
-pygmentsUseClassic = false
-#pygmentsOptions = "linenos=table"
-# See https://help.farbox.com/pygments.html
-pygmentsStyle = "tango"
-
-# Configure how URLs look like per section.
-[permalinks]
-blog = "/:section/:year/:month/:day/:slug/"
-
-## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
-[blackfriday]
-plainIDAnchors = true
-hrefTargetBlank = true
-angledQuotes = false
-latexDashes = true
-
-# Image processing configuration.
-[imaging]
-resampleFilter = "CatmullRom"
-quality = 75
-anchor = "smart"
-
-[services]
-[services.googleAnalytics]
-# Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-00000000-0"
-
-# Language configuration
-
-[languages]
-
-[languages.en]
-title = "Catalyst Eastern Town Hall"
-description = "The Cardano Catalyst Community Eastern Townhall, is helping communities across countries and languages in the eastern timezones."
-languageName ="English"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-# Weight used for sorting.
-weight = 1
-
-[languages.vi]
-title = "Tòa thị chính Catalyst Eastern"
-description = "Cộng đồng Cardano Catalyst Eastern Townhall đang giúp đỡ các cộng đồng trên khắp các quốc gia và ngôn ngữ ở múi giờ phía đông."
-languageName ="Tiếng Việt"
-contentDir = "content/vi"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.id]
-title = "Catalyst Eastern Town Hall"
-description = "Cardano Catalyst Community Eastern Townhall membantu masyarakat lintas negara dan bahasa di zona waktu timur."
-languageName ="Indonesian"
-contentDir = "content/id"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.ja]
-title = "CATALYST 東部タウンホール"
-description = "カルダノ触媒コミュニティ東部タウンホールは、東部のタイムゾーンで国や言語を越えたコミュニティを支援しています。"
-languageName ="日本語"
-contentDir = "content/ja"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.ko]
-title = "촉매 이스턴 타운 홀"
-description="카르다노 촉매 커뮤니티 동부 타운홀은 동부 시간대의 국가와 언어를 아우르는 지역사회를 돕고 있습니다."
-languageName ="한국어"
-contentDir = "content/ko"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.fil]
-title = "Eastern Town Hall ng Project Catalyst"
-description = "Ang komunidad ng Cardano Project Catalyst, tumutulong sa mga komunidad na kabilang sa mga bansa at mga wikang sakop ng mga eastern timezone"
-languageName ="Filipino"
-contentDir = "content/fil"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-      # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-      style = "tango"
-      # Uncomment if you want your chosen highlight style used for code blocks without a specified language
-      # guessSyntax = "true"
-
-# Below are menu items
-
-[menu]
-[[menu.main]]
-	name = "Catalyst TV"
-	weight = 25
-	  url = "/catalystTV/"
-	pre = "<i class='fas fa-tv'></i>"
-# post = "<span class='alert'>New!</span>"  # add 'new!' alert next to nav button
-
-# Everything below this are Site Params
-
-# Comment out if you don't want the "print entire section" link enabled.
+# add redirects/headers
 [outputs]
-section = ["HTML", "print", "RSS"]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+section = ["HTML", "RSS", "SITEMAP"]
 
-[params]
-copyright = "Catalyst Community"
-privacy_policy = "https://c3eth.github.io/privacy"
+# remove .{ext} from text/netlify
+[mediaTypes."text/netlify"]
+suffixes = [""]
+delimiter = ""
 
-# First one is picked as the Twitter card image if not set on page.
-# images = ["images/project-illustration.png"]
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+mediaType = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
 
-# Menu title if your navbar has a versions selector to access old versions of your site.
-# This menu appears only if you have at least one [params.versions] set.
-version_menu = "Releases"
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+mediaType = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
 
-# Flag used in the "version-banner" partial to decide whether to display a
-# banner on every page indicating that this is an archived version of the docs.
-# Set this flag to "true" if you want to display the banner.
-archived_version = false
+# add output format for section sitemap.xml
+[outputFormats.SITEMAP]
+mediaType = "application/xml"
+baseName = "sitemap"
+isHTML = false
+isPlainText = true
+noUgly = true
+rel  = "sitemap"
 
-# The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the
-# current doc set.
-version = "0.0"
+[caches]
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "10s"
 
-# A link to latest version of the docs. Used in the "version-banner" partial to
-# point people to the main doc site.
-url_latest_version = "https://c3eth.github.io/docs"
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
-# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/c3eth/c3eth.github.io"
-# An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/c3eth/c3eth.github.io"
+[taxonomies]
+  contributor = "contributors"
+  category = "categories"
+  tag = "tags"
 
-# Specify a value here if your content directory is not in your repo's root directory
-# github_subdir = ""
+[permalinks]
+  blog = "/blog/:title/"
+# docs = "/docs/1.0/:sections[1:]/:title/"
 
-# Uncomment this if you have a newer GitHub repo with "main" as the default branch,
-# or specify a new value if you want to reference another branch in your GitHub links
-github_branch= "main"
+[minify.tdewolff.html]
+  keepWhitespace = false
 
-# Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+    [[related.indices]]
+    name = "categories"
+    weight = 100
+    [[related.indices]]
+    name = "tags"
+    weight = 80
+    [[related.indices]]
+    name = "date"
+    weight = 10
 
-# Enable Algolia DocSearch
-algolia_docsearch = false
-
-# Enable Lunr.js offline search
-offlineSearch = false
-
-# Enable syntax highlighting and copy buttons on code blocks with Prism
-prism_syntax_highlighting = false
-
-# User interface configuration
-[params.ui]
-# Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = true
-# sidebar_menu_foldable = true
-#  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = false
-#  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
-#  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
-navbar_logo = true
-# Set to true to disable the About link in the site footer
-footer_about_disable = false
-
-# Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
-# This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
-# If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
-# add "hide_feedback: true" to the page's front matter.
-[params.ui.feedback]
-enable = true
-# The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/c3eth/c3eth.github.io/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/c3eth/c3eth.github.io/issues/new">tell us how we can improve</a>.'
-
-# Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page,
-# add "hide_readingtime: true" to the page's front matter
-[params.ui.readingtime]
-enable = false
-
-[params.links]
-# End user relevant links. These will show up on left side of footer and in the community page if you have one.
-[[params.links.user]]
-	name = "Meetup"
-	url = "https://www.meetup.com/Catalyst-Swarm-Sessions"
-	icon = "fab fa-meetup"
-  desc = "Register for our weekly townhalls."
-
-[[params.links.user]]
-	name = "Discord"
-	url = "https://discord.gg/6T825EyvrG"
-	icon = "fab fa-discord"
-  desc = "Chat with other peopel in the eastern hemisphere."
-
-[[params.links.user]]
-	name = "Telegram"
-	url = "https://t.me/joinchat/ODKTOvGnrHEwNTc6"
-	icon = "fab fa-telegram"
-  desc = "Chat with other peopel in the eastern hemisphere."
-
-# Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-
-[[params.links.developer]]
-	name = "GitHub"
-	url = "https://github.com/c3eth"
-	icon = "fab fa-github"
-  desc = "Development takes place here!"
-
-[[params.links.developer]]
-	name = "Stack Overflow"
-	url = "https://cardano.stackexchange.com/"
-	icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
-
-[params.mermaid]
-enable = true
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.80.0"
+    max = ""
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "node_modules/flexsearch"
+    target = "assets/js/vendor/flexsearch"
+  [[module.mounts]]
+    source = "node_modules/katex"
+    target = "assets/js/vendor/katex"
+  [[module.mounts]]
+    source = "node_modules/mermaid"
+    target = "assets/js/vendor/mermaid"
+  [[module.mounts]]
+    source = "node_modules/@hyas/images/layouts"
+    target = "layouts"

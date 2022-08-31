@@ -1,142 +1,143 @@
 ---
-title: 分散型アイデンティティを加速する
-linkTitle: 分散型アイデンティティを加速する
+title: "Accelerate Decentralized Identity"
+linkTitle: "Accelerate Decentralized Identity"
 type: docs
 hide_feedback: true
-description: 最もプラスの影響を与え、Cardanoネットワークの急速な成長の機会を開くことができるAtala PRISMとCardanoを使用して開発および実装できるソリューションは何ですか？
+description: "What solutions can we develop and implement with Atala PRISM and Cardano today to have the most positive impact and open up opportunities for the rapid growth of the Cardano network?"
 ---
+Fund Size: **$425,000 USD paid in Ada**
 
-ファンドサイズ： **Adaで支払われた425,000米ドル**
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26254) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26254/stage/unspecified).
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26254)と[アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26254/stage/unspecified)。
+## Campaign Brief
 
-## キャンペーン概要
+Our challenge is an evolution of the mass decentralized identity (DID) adoption challenge from Funding Round 6, connecting everything we are learning with the first Atala PRISM Pioneer Program cohort.
 
-私たちの課題は、資金調達ラウンド6からの大量分散型アイデンティティ（DID）採用の課題の進化であり、私たちが学んでいるすべてのものを最初のAtalaPRISMパイオニアプログラムコホートに接続します。
+The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst Fund 7 is complete. Between now and then, any member of the Catalyst Community inspired to write a proposal will get access to the Atala PRISM Pioneer Program first cohort course materials on Canvas. Please submit your proposal on Ideascale, including your email address, to get an invitation to Canvas.
 
-Atala PRISMパイオニアプログラムの2番目のコホートは、Catalyst Fund7が完了すると開始されます。その間、提案書を作成するように促されたCatalystコミュニティのメンバーは、CanvasのAtalaPRISMパイオニアプログラムの最初のコホートコースの資料にアクセスできます。 Canvasへの招待状を受け取るには、メールアドレスを含むIdeascaleで提案を送信してください。
+With this access, you'll join the growing Atala PRISM community. Our Atala PRISM product team and engineers will be available via a dedicated Discord channel. Inclusion in our Professional Services Group governance framework foundry. Access to fireside chats with the top leaders in the SSI space, where we'll discuss trends, use cases, and much more. In addition, we will support the growth of high-value credentials and enable partners from concept, to development, to commercialization.
 
-このアクセスにより、成長するAtalaPRISMコミュニティに参加できます。 Atala PRISM製品チームとエンジニアは、専用のDiscordチャネルを介して利用できます。プロフェッショナルサービスグループのガバナンスフレームワークファウンドリに含まれています。 SSIスペースのトップリーダーとの炉辺談話へのアクセス。ここでは、トレンドやユースケースなどについて話し合います。さらに、価値の高いクレデンシャルの成長をサポートし、パートナーがコンセプトから開発、商業化に至るまでを可能にします。
+### **Areas of focus**
 
-### **重点分野**
+#### **Interoperability**
 
-##### **相互運用性**
+Most digital credentials sit on Hyperledger Indy ledgers, including those issued by governments in Germany, Canada, and the UK.
 
-ドイツ、カナダ、英国の政府によって発行されたものを含め、ほとんどのデジタルクレデンシャルはHyperledgerIndy元帳にあります。
+The best-performing platform will gain the largest market share. For many reasons, we believe our platform is superior. Therefore, Cardano and Atala PRISM must include a plan to interact with these other ecosystems to maximize market share.
 
-最高のパフォーマンスを発揮するプラットフォームは、最大の市場シェアを獲得します。多くの理由で、私たちは私たちのプラットフォームが優れていると信じています。したがって、CardanoとAtala PRISMには、市場シェアを最大化するためにこれらの他のエコシステムと相互作用する計画を含める必要があります。
+We encourage Catalyst proposals to achieve full interoperability. Deliverables should optimize the user experience (UX) for Atala PRISM credentials while remaining compatible with other platforms.
 
-完全な相互運用性を実現するために、Catalystの提案をお勧めします。成果物は、他のプラットフォームとの互換性を維持しながら、Atala PRISMクレデンシャルのユーザーエクスペリエンス（UX）を最適化する必要があります。
+#### **Self-governance of Emergent Communities**
 
-##### **新興コミュニティの自治**
+##### DAO Governance in Practice
 
-##### DAOガバナンスの実践
+New legislation in Wyoming allows for a decentralized autonomous organization (DAO) to be registered with the state. We challenge the community to establish a DAO under the new laws. It could manage an impact or development goal with shared common resources governed by the DAO.
 
-ワイオミング州の新しい法律では、分散型自律組織（DAO）を州に登録することができます。私たちは、新しい法律の下でDAOを設立するようにコミュニティに挑戦します。 DAOが管理する共有共有リソースを使用して、影響または開発の目標を管理できます。
+We are curious to see if our community proposes a DAO. With a funded proposal, we could facilitate introductions to legal experts in Wyoming.
 
-私たちのコミュニティがDAOを提案しているかどうかを知りたいと思っています。資金提供を受けた提案により、ワイオミング州の法律専門家への紹介を容易にすることができました。
+The proposal should consider setting aside funds for legal expenses to establish the DAO and legal documentation.
 
-提案では、DAOと法的文書を確立するために、法定費用のための資金を確保することを検討する必要があります。
+##### Patterns of Commoning
 
-##### 共通化のパターン
+We draw inspiration from the work of the [Trust Over IP Foundation](https://wiki.trustoverip.org/display/HOME/YOMA+Ecosystem+Task+Force) and the principles from 'Patterns of Commoning.' We see the potential for innovation by linking communities with shared interests under these principles.
 
-[Trust Over IP Foundationの活動](https://wiki.trustoverip.org/display/HOME/YOMA+Ecosystem+Task+Force)と、「PatternsofCommoning」の原則からインスピレーションを得ています。私たちは、これらの原則の下でコミュニティを共通の利益と結びつけることにより、イノベーションの可能性を見出しています。
+How can these principles become plug-and-play code as technological primitives that other communities can leverage and unlock exponential growth and adoption?
 
-これらの原則は、他のコミュニティが指数関数的成長と採用を活用および解き放つことができる技術的プリミティブとして、どのようにしてプラグアンドプレイコードになることができますか？
+We are interested in exploring a rich playground of ideas and bringing these to real-world implementations on Cardano and Atala PRISM.
 
-私たちは、アイデアの豊富な遊び場を探索し、それらをCardanoおよびAtalaPRISMの実際の実装に持ち込むことに関心があります。
+##### Education, Career, and Emergent Reputation Primitives
 
-##### 教育、キャリア、および創発的な評判のプリミティブ
+Many of our Pioneer and Catalyst-funded projects support education and career programs. One of the defining characteristics of these approaches is the creation of alternatives to accredited education and career paths.
 
-PioneerとCatalystが資金提供するプロジェクトの多くは、教育とキャリアプログラムをサポートしています。これらのアプローチの明確な特徴の1つは、認定された教育とキャリアパスに代わるものを作成することです。
+We need our community to think about developing technology and governance primitives to support any community that wants to establish new education and career paths by providing tools:
 
-ツールを提供することで新しい教育とキャリアパスを確立したいコミュニティをサポートするために、テクノロジーとガバナンスのプリミティブの開発についてコミュニティが考える必要があります。
+- For onboarding new experts and teachers
+- For people in the community to develop and grow
+- For maintaining a reputation as a skilled employee, laborer, consultant, mentor, teacher, etc.
 
-- 新しい専門家や教師のオンボーディング
-- コミュニティの人々が発展し成長するために
-- 熟練労働者、労働者、コンサルタント、メンター、教師などとしての評判を維持するため。
+When reputation standards change, we need ways to self-heal and self-monitor for bad actors, harmful actions, or bad outcomes.
 
-レピュテーションの基準が変更された場合、悪意のある人物、有害な行動、または悪い結果を自己回復および自己監視する方法が必要です。
+##### **Circular Supply Chain**
 
-##### **循環サプライチェーン**
+The global supply chain focuses on creating a new economic infrastructure. The goal is replacing or integrating with legacy systems such as record-keeping, bills of lading, centrally managed systems of record, and distribution networks. Centralization has many challenges, the least of which is a lack of resilience in the global supply chain, as we have all seen and continue to experience in the COVID era.
 
-グローバルサプライチェーンは、新しい経済インフラの構築に重点を置いています。目標は、記録管理、船荷証券、一元管理された記録システム、流通ネットワークなどのレガシーシステムを置き換えるか統合することです。中央集権化には多くの課題がありますが、その中で最も少ないのは、COVIDの時代に私たち全員が見てきたように、グローバルなサプライチェーンにおける回復力の欠如です。
+Supply chains tend to start as decentralized. Markets and trade routes emerge from the bottom of the producer market and are aggregated into centralized supply chains, eventually working their way down to the consumer. We want to explore new patterns of commerce in bottom-up supply chains that could open and expand the local reputation network into markets that are currently inaccessible, such as:
 
-サプライチェーンは分散型として開始する傾向があります。市場と貿易ルートは生産者市場の底から現れ、一元化されたサプライチェーンに集約され、最終的には消費者に到達します。ボトムアップのサプライチェーンにおける新しい商取引のパターンを探求したいと考えています。これにより、ローカルの評判ネットワークが開かれ、現在アクセスできない市場に拡大する可能性があります。
+- Regenerative agriculture
+- Locally produced art
+- Other forms of local commerce
 
-- 再生農業
-- 地元で制作されたアート
-- 他の形態のローカルコマース
+On the other side, distribution or demand-driven commerce has the potential to build a market force from the bottom-up that can engage the industrial global supply chain in ways that are not possible without establishing the voice and economic strength of the community digitally.
 
-一方、流通または需要主導型の商取引は、コミュニティの声と経済力をデジタルで確立しなければ不可能な方法で産業のグローバルサプライチェーンに関与できるボトムアップから市場の力を構築する可能性があります。
+For the supply chain challenge, we want to address two significant challenges:
 
-サプライチェーンの課題については、次の2つの重要な課題に対処したいと考えています。
+##### Small Producer Problem
 
-##### 小さな生産者の問題
+How can we create transparency as the bottom-up process meets the industrialized supply chains, cuts through the centralized distribution markets, and connects directly to the consumer?
 
-ボトムアッププロセスが工業化されたサプライチェーンに適合し、一元化された流通市場を切り抜け、消費者に直接つながるときに、どうすれば透明性を生み出すことができるでしょうか。
+For example, small producers like a family ranch in Wyoming have no way to get information about the value of their product through these global aggregation and distribution networks. Currently, a solution such as the [BeefChain project](https://beefchain.com/) is supporting small ranchers.
 
-たとえば、ワイオミング州の家族牧場のような小規模生産者は、これらのグローバルな集約および流通ネットワークを通じて自社製品の価値に関する情報を入手する方法がありません。現在、[BeefChainプロジェクト](https://beefchain.com/)などのソリューションは、小規模牧場主をサポートしています。
+There are multiple issues to overcome. For example, packaging plants are the entry point to the aggregation, so there is little or no incentive to deal with the small producer. We want to address this problem by building general-purpose tooling to assist communities in self-organizing and self-governing production according to agreed standards. We propose that if these communities can connect and grow, they will either:
 
-克服すべき問題は複数あります。たとえば、包装工場は集合体への入り口であるため、小規模生産者と取引するインセンティブはほとんどまたはまったくありません。私たちは、合意された基準に従ってコミュニティが自己組織化および自治生産を支援するための汎用ツールを構築することにより、この問題に対処したいと考えています。これらのコミュニティがつながり、成長できるのであれば、次のいずれかを行うことを提案します。
+Reach the market through alternative distribution channels to industrial supply chains
+Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.
 
-産業サプライチェーンへの代替流通チャネルを通じて市場に到達する製品の価値を認識し、流通させ、価値を維持して商業的および評判を維持するためのより良い条件について、コミュニティとして交渉できるようにします。
+##### The Last-Mile Problem
 
-##### ラストワンマイルの問題
+How can a local distributor in a local market interact with global industrial supply chains and be given access to the market that otherwise would be inaccessible due to a lack of economic identity or capital to access the goods at the scale required by industrial supply chains?
 
-ローカル市場のローカルディストリビューターは、どのようにしてグローバルな産業サプライチェーンと相互作用し、産業サプライチェーンに必要な規模で商品にアクセスするための経済的アイデンティティや資本が不足しているためにアクセスできない市場へのアクセスを許可できますか？
+This challenge deals with distributing necessary products to local communities with little market clout or access to financial tools, such as credit, to interact with the industrial supply chain. We're looking for bottom-up tooling to establish a network of communities. Delegates in those communities can access the finance and credit necessary to interact with the industrial supply chain at the economic scale required for transactions.
 
-この課題は、市場の影響力がほとんどない、またはクレジットなどの金融ツールにアクセスして産業サプライチェーンと相互作用する必要のある製品を地域コミュニティに配布することを扱います。コミュニティのネットワークを確立するためのボトムアップツールを探しています。これらのコミュニティの代表者は、取引に必要な経済規模で産業サプライチェーンと対話するために必要な資金とクレジットにアクセスできます。
+An example of this problem is delivering health care supplies to rural and developing countries and economies. The funds from donors, the government, and other sources are available for these medical supplies. The donors will only release the funds once delivery is verified, and the medical supply companies will only send the goods to port once payment is received.
 
-この問題の例は、農村部や発展途上国、経済に医療用品を届けることです。これらの医薬品には、ドナー、政府、その他の資金源からの資金が利用できます。ドナーは配達が確認された後にのみ資金を解放し、医療供給会社は支払いが受領された後にのみ商品を港に送ります。
+However, local small businesses must maintain transparency and oversight of the goods during delivery and receiving. These businesses do not have the funds or the ability to borrow capital to cover medical supplies costs from the delivery at the port to the hospitals and clinics that need them.
 
-ただし、地元の中小企業は、配達と受け取りの際に商品の透明性と監視を維持する必要があります。これらの企業には、港での医療用品の配達からそれらを必要とする病院や診療所への医療費を賄うための資金や資金を借りる能力がありません。
+Addressing the challenge of the financial gap is vital. We believe that there is enormous potential to create bottom-up networks of trusted individuals and small businesses to fill this gap.
 
-財政的ギャップの課題に取り組むことは非常に重要です。このギャップを埋めるために、信頼できる個人や中小企業のボトムアップネットワークを構築する大きな可能性があると私たちは信じています。
+## Why is it Important?
 
-## どうしてそれが重要ですか？
+How individuals interact with their communities and the broader economy helps us understand which credentials improve their daily lives. By identifying these high-value, high-impact credentials, we can establish governance framework foundries for launching pilot programs and driving growth. Ultimately, this will cause further adoption of Cardano and Atala PRISM technology.
 
-個人がコミュニティやより広い経済とどのように相互作用するかは、どのクレデンシャルが日常生活を改善するかを理解するのに役立ちます。これらの価値が高く、影響力の大きい資格を特定することで、パイロットプログラムを立ち上げ、成長を促進するためのガバナンスフレームワークファウンドリを確立できます。最終的に、これにより、CardanoおよびAtalaPRISMテクノロジーがさらに採用されるようになります。
+## How does success look like?
 
-## 成功はどのように見えますか？
+Discover repeatable patterns that unlock our ability to leverage the Cardano decentralized infrastructure. Identify high-value credentials and use cases. Once identified, we can form stakeholder governance framework working groups. These groups will allow us to foster the development of community, partner, and vendor ecosystems to launch into commercial and production environments.
 
-Cardano分散型インフラストラクチャを活用する能力を解き放つ反復可能なパターンを発見してください。価値の高いクレデンシャルとユースケースを特定します。識別されると、ステークホルダーガバナンスフレームワークワーキンググループを形成できます。これらのグループにより、コミュニティ、パートナー、ベンダーのエコシステムの開発を促進し、商用環境と本番環境に導入できるようになります。
+## Key Metrics to measure
 
-## 測定する主要な指標
+- The sum of realized production pilots or launches in 2022
+- Discovery of repeatable patterns in use-cases
+- The number of issuers, holders, and verifiers
+- The number of verifications performed on credentials in production
 
-- 2022年に実現された生産パイロットまたは発売の合計
-- ユースケースでの繰り返し可能なパターンの発見
-- 発行者、保有者、検証者の数
-- 本番環境でクレデンシャルに対して実行された検証の数
+### **A Proposed Pattern Language Outline (example)**
 
-#### **提案されたパターン言語の概要（例）**
+**Primitives**
 
-##### **プリミティブ**
+- Digital Identity
+- Verifiable Credential (VC)
+- Verifiable Presentation Request
+- Verifiable Presentation Proof
+- Cryptocurrency
+- Non-fungible token (NFT)
+- Smart Contract
 
-- デジタルアイデンティティ
-- 検証可能な資格情報（VC）
-- 検証可能なプレゼンテーションリクエスト
-- 検証可能なプレゼンテーション証明
-- 暗号通貨
-- 非代替トークン（NFT）
-- スマートコントラクト
+**Patterns**
 
-##### **パターン**
+- Trust Registry
+- Governance Framework
+- Token Curated Registry
+- Community member recognition and onboarding process
+- Establishing Individual Reputation
+- Community as a whole group Interaction with an external party
+- Community member as an individual interaction with an external party
+- Community medium of exchange
+- Recognition of external Trust Registry
+- Recognition of external Governance Framework
+- Acceptance of Governance Framework by an external party
 
-- トラストレジストリ
-- ガバナンスフレームワーク
-- トークンキュレーションレジストリ
-- コミュニティメンバーの認識とオンボーディングプロセス
-- 個人の評判を確立する
-- グループ全体としてのコミュニティ外部関係者との相互作用
-- 外部関係者との個別のやり取りをするコミュニティメンバー
-- 取引所のコミュニティ媒体
-- 外部の信頼レジストリの認識
-- 外部ガバナンスフレームワークの認識
-- 外部関係者によるガバナンスフレームワークの受け入れ
+With that as background, we are suggesting proposals in the following three areas:
 
-それを背景に、以下の3つの分野で提案を行っています。
+- Interoperability between Cardano and Indy anchored DIDs/VCs.
+- Self-governance of Emergent Communities
+- Circular Supply Chain
 
-1. CardanoとIndyに固定されたDID / VC間の相互運用性。
-2. 新興コミュニティの自治
-3. 循環サプライチェーン

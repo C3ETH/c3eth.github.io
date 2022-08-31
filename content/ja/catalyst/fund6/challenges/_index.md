@@ -1,12 +1,9 @@
 ---
-title: "Fund 6 Challenges"
-linkTitle: "Challenges"
-type: docs
-weight: 100
-hide_feedback: true
-icon: fas fa-tools
-description: >
-    TODO - Customize site navigation and search here.  
+title : "Challenges fund 6"
+description: "Challenges"
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
 ---
-
-このインデックスページはまだ更新されていません。これはファンド6セクションのCatalyst提案です。ファンドごとに更新されます。

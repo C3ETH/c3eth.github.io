@@ -1,67 +1,67 @@
 ---
-title: 'Develper Ecosystem(開発者エコシステム)'
-linkTitle: 'Develper Ecosystem(開発者エコシステム)'
+title: "Develper Ecosystem"
+linkTitle: "Develper Ecosystem"
 type: docs
 hide_feedback: true
-description: '開発者が成功するアプリの構築に集中できるように、どうすれば前向きな開発者エクスペリエンスを作成できますか'
+description: "How can we create a positive developer experience that helps the developer focus on building successful apps?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">
 
 Fund Size: **1,000,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/384822)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/384822) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-開発者が成功するアプリの構築に集中できるように、どうすれば前向きな開発者エクスペリエンスを作成できますか？
+How can we create a positive developer experience that helps the developer focus on building successful apps?
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-開発者にインセンティブを与える素晴らしいエクスペリエンスを作成すると、開発者の採用、生産性、創造性が向上します。
+Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-Cardanoには繁栄している開発エコシステムがあり、開発者は提供するサービスを収益化することでビジネスを拡大できます。
+Cardano has a thriving dev ecosystem, developers are able to scale their businesses by monetizing the services that they provide.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-測定する重要な指標
+Key metric to measure
 
-このチャレンジの最後に、私たちは自分自身に問いかけます。開発者がカルダノの上に構築するのを簡単にすることができましたか？
+At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for developers to build on top of Cardano?
 
-- 探索段階で定義されたギャップを埋める
-- Cardanoの上に積極的に構築している開発者の数
-- ツールを使用したGithub上のリポジトリの数。 （月間増加）
-- 開発者との未回答の通信の待機時間を24時間に短縮します
-- コミュニティと会話の感覚。周りに人と話をする
+- Filling in gaps defined in the exploration stage
+- Number of developers actively building on top of Cardano
+- Number of repos on Github using the tooling. (Month over month increase)
+- Reduce wait time of unanswered communications with developers to 24 hours
+- A sense of community and conversations. Having people around to talk with
 
-## チャレンジブリーフ
+## Challenge Brief
 
-#### ガイドの質問
+#### Guiding Questions
 
-- 最初に優先順位を付ける必要があるツールは何ですか
-- 現在のコミュニティ外の開発者をCatalystに参加させるにはどうすればよいですか？
-- 開発者は何を望んでおり、Cardano開発エコシステムからどのようにそれを取得しますか？
-- アプリの作成がどれほど困難であっても、開発者がドキュメントとコードを精査する意欲を高めるにはどうすればよいでしょうか。
-- エンタープライズプロジェクト（社内または商用）を構築できるようにするために、エンタープライズ開発マネージャーは何を求めていますか？
+- What are the the tools that we need to prioritize first
+- How do we attract developers from outside of our current community to participate in Catalyst?
+- What do developers want, and how do they get it from the Cardano dev ecosystem?
+- What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?
+- What are enterprise dev managers looking for in order to be able to build out enterprise projects - either internal or commercial?
 
-#### 潜在的な方向性
+#### Potential Directions
 
-- 開発者の生産性：IDE、自動化するスクリプト
-- ナレッジベースとドキュメント
-- 展開、テスト、および監視のフレームワーク
-- サンプル、レシピ、テンプレート
-- ハッカソン
-- DEFIとトークン化
-- ダッシュボード
-- API、およびオラクル。
-- サポート構造
-- インセンティブ構造
+- Developer productivity: IDE's, scripts to automate stuff
+- Knowledge base & Documentation
+- Deployment, testing, and monitoring frameworks
+- Samples, recipes and templates
+- Hackathons
+- DEFI and tokenization
+- Dashboards
+- API's, and oracles.
+- Support structures
+- Incentivization structures
 
-### これは、オープンソース開発エコシステムの課題とどのように比較されますか？
+### How does this compare to the Open Source Development Ecosystem challenge?
 
-違いはタイトルにあります。私たちはオープンソースを提唱していますが、すべてのチームがソリューションをオープンソース化できると感じているわけではないことを認識しています。一部のAPIは永久にクローズドソースである可能性がありますが、それでもCardanoエコシステムに全体的な正味のプラスを提供します。初日からオープンソースにオールインしている場合は、間違いなくオープンソース開発エコシステムチャレンジに参加してください（それがオプションの場合）。私たちはあなたを応援しています。ただし、現時点では両方の余地があると考えています。
+The difference is in the title. While we are advocates of open source, we recognize that not all teams are at the point where they feel comfortable or capable of open sourcing their solutions. Some APIs may be closed source forever, but still provide an overall net positive for the Cardano ecosystem. If you are all-in on open source from day one, definitely go with the Open Source Development Ecosystem challenge (if that's an option). We are rooting for you. We believe, however, there's room for both at this point.
 
-2021年12月1日からのCatalystタウンホールには、この議論専用の小会議室がありました。利用可能になり次第、コメントとして添付します。
+The Catalyst Town Hall from December 1st 2021 had a breakout room dedicated to this discussion. Once it becomes available it shall be attached as a comment.
 
 https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088

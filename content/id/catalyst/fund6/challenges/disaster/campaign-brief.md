@@ -1,8 +1,13 @@
 ---
 title: 'Bencana: Ketika semua dipertaruhkan'
 linkTitle: 'Bencana: Ketika semua dipertaruhkan'
-type: docs
-hide_feedback: 'true'
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Bagaimana kami dapat membantu SPO mengatasi risiko &amp; merencanakan, mengembangkan, dan berpartisipasi dalam uji pemulihan bencana dengan cara yang aman dan terdesentralisasi?

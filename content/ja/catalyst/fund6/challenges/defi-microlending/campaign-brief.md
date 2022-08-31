@@ -1,29 +1,30 @@
 ---
-title: "アフリカのためのDeFiとマイクロレンディング"
-linkTitle: "アフリカのためのDeFiとマイクロレンディング"
+title: "DeFi and Microlending for Africa"
+linkTitle: "DeFi and Microlending for Africa"
 type: docs
 hide_feedback: true
 ---
-予算規模: **$90,000 USD paid in Ada**
 
-アフリカに合ったマイクロレンディングとDefi dAppソリューションの作成を可能にするにはどうすればよいでしょうか?
+Fund Size: **$90,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26112) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified)。
+How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
 
-## なぜ重要なのか？
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26112) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified).
 
-歴史的文化に基づいて、アフリカのコンテキスト & に特化したマイクロレンディングとDeFiのdAppsは、ユーザーの採用を加速します
+## Why is it important?
 
-## 成功するとどのような未来が見えますか？
+Microlending and DeFi dApps targeted specifically to the African context & based on historical cultural norms will accelerate user adoption
 
-企業は、アフリカのマイクロレンディングとDefiの文脈に対処する、よく研究された提案を提出することを確信しています
+## How does success look like?
 
-## 測定する主要なメトリック
+Businesses are confident to submit well-researched proposals that address the African micro-lending and decentralized finance context
 
-- 提出された提案はよく研究され、実行可能であり、伝統的なアフリカの金融文化の規範と実践に対処します
-- 3つ以上の資金調達に成功し、次の3ラウンド以内に開始されたマイクロレンディングとDefi dAppに資金を供給しました。
-- 2年以内に提案のターゲットの市場でユーザーが最低の50%に採用される
+## Key Metrics to measure
 
-## 参照
+- Submitted proposals well researched, viable and addresses traditional African financial cultural norms and practices
+- 3 or more successfully funded micro-lending and Defi dApp launched within the next 3 funding rounds
+- Minimum 50% user adoption in funded proposal's target market within 2 years
 
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)

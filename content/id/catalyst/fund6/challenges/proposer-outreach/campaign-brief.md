@@ -1,8 +1,13 @@
 ---
 title: Menjangkau para pengaju proposal
 linkTitle: Menjangkau para pengaju proposal
-type: docs
-hide_feedback: 'true'
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Bagaimana caranya kita dapat mendorong agar entrepreneurs diluar ekosistem Cardano untuk mengirimkan proposal dalam Catalyst di kedua funding berikutnya?

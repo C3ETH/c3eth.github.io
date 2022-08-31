@@ -1,58 +1,61 @@
 ---
-title: 'Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)'
-linkTitle: 'Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)'
+title: "Film + Media (FAM) creatives unite! "
+linkTitle: "Film + Media (FAM) creatives unite! "
 type: docs
 hide_feedback: true
-description: '世界のエンターテインメント+メディア市場= 2兆ドル。高品質のカルダノコミュニティメディアを作成するための分散型FAMネットワークは不可欠ですが、存在しません。'
+description: "Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent."
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">
 
 Fund Size: **150,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383633)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/383633) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-世界のエンターテインメント+メディア市場= 2兆ドル。高品質のカルダノコミュニティメディアを作成するための分散型FAMネットワークは不可欠ですが、存在しません。
+Global entertainment+media market = $2 trillion. A decentralized FAM network to produce quality Cardano community media is vital yet absent.
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-クリエイティブのチャレンジカテゴリはこれまでありませんでした。芸術における多様性+人間の創造性は、カルダノの生態系を豊かにすることができます
+A challenge category for creatives has been absent so far. Diversity + human creativity in the arts can enrich the Cardano ecosystem + more
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-包括的で高品質のマルチメディアコンテンツを作成するために公平に協力するチーム+プラットフォーム=知識の増加+カルダノの採用
+Teams collaborating equitably to produce inclusive, high quality multimedia content + platforms = increase knowledge + adoption of Cardano
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-生態系の健全性の尺度として：
+As a measure of the health of the ecosystem:
 
-- マルチメディアプロジェクトの
-- マルチメディアプラットフォームの
-- 多言語チームの
-- 分散型映画クルーの
-- 分散型ニュースチームの
-- 分散型コンテンツ作成チームの
-- リソース（RAWフッテージなど）を共有する分散型マルチメディアプロジェクトを活用して、現場でフッテージを撮影するために移動することによる不要なコストとCO2排出を回避します。
+- of multimedia projects
+- of multimedia platforms
+- of multilingual teams
+- of decentralised film crews
+- of decentralised news teams
+- of decentralised content creation teams
+- of decentralised multimedia projects sharing resources (eg RAW footage) to avoid unnecessary costs and CO2 emissions from travelling to shoot footage on site
 
-## チャレンジブリーフ
+## Challenge Brief
 
-**クリエイティブ、作家、アーティスト、映画製作者、写真家などが公平に協力することで、文化の多様性でエコシステムを豊かにすることができます。**
+**Creatives, writers, artists, filmmakers, photographers +more, collaborating equitably, can enrich the ecosystem with their cultural diversity.**
 
-カルダノには強力なYouTubeコミュニティがありますが、明らかにYouTubeがすべてではなく、多くの観点で好評を得ていません。 YouTube、従来のメディア、テレビ、映画の間の架け橋が必要です。メディアに対して明確なメッセージを伝える必要があります。
+Cardano has a strong YouTube community, but obviously YouTube is not everything and it's not received well in many perspectives.
+We need a bridge between YouTube, the traditional media, TV and film. We need to communicate a clear message towards media.
 
-全国のメディアやテレビ局が日常の番組で喜んで使用する教育的で刺激的なコンテンツを作成することが重要です。
+It's crucial to create educational and inspiring content which the national media and TV stations would gladly use in their daily programmes.
 
-この初期段階では、YouTuberとTV＆Filmの専門家の間の協力は歓迎されるだけでなく、必要とされています。このための特定の課題を作成することは、教育とインスピレーションの両方の門を開くはずです。
+In this early stage, the cooperation between YouTubers and TV & Film professionals is not only welcomed, it's needed.
+Creating a specific challenge for this should open the gates for both education and inspiration.
 
-Film and Media（FAM）チャレンジは、次のことを可能にすることで、世界中の視聴者にカルダノの知識と採用を促進することを目的としています。
+The Film and Media (FAM) Challenge aims to boost knowledge and adoption of Cardano for global audiences by enabling:
 
-- 専門家やクリエイティブがつながり、コラボレーションし、調整するのを容易にするためのチャレンジプラットフォーム
+- a challenge platform for the facilitation of professionals and creatives to connect, collaborate and coordinate
 
-- カルダノエコシステム内の多数のストーリーにスポットライトを当てるプロジェクトの立ち上げ
+- the launch of projects that spotlight the multitude of stories within the Cardano ecosystem
 
-- カルダノのブロックチェーンが、気候緊急事態へのソリューションを必要とする世界で「グリーンブロックチェーン」ソリューションである方法を示すマルチメディアプロジェクト
+- multimedia projects that illustrate how Cardano's blockchain is the 'green blockchain' solution in a world that needs solutions to the climate emergency
 
-このクリエイティブグループが触媒となるアイデアをプラットフォーム化するための専用のチャレンジカテゴリは、これまで存在していませんでした。これにより、影響力のある可能性のあるプロジェクトが、「適切」ではないチャレンジカテゴリでの位置を見つけるのに苦労しています。 FAMチャレンジカテゴリは、高品質で教育的で刺激的な多言語マルチメディアコンテンツをもたらすアイデアや提案の提出の流れを解き放つことができます。
+A dedicated challenge category for this creative group to platform their catalysing ideas has been absent thus far.
+This has led to potentially impactful projects struggling to find their place in Challenge categories that are not quite the 'right fit'. The FAM challenge category can unlock a flow of submission of ideas and proposals that bring about high quality, educational and inspirational multi-lingual multi-media content.
 
-カルダノエコシステム内およびマルチセクターエコシステム間でグローバルにブリッジを構築するのに役立つコンテンツ。そのため、世界中のFAMクリエイティブがステップアップします。あなたは私たちが待ち望んでいたものです。
+Content that helps build bridges within the Cardano ecosystem and across multi sectoral ecosystems, globally. So FAM creatives, in all corners of the world, step up. You are the ones we have been waiting for.

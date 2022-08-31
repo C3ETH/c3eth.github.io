@@ -1,8 +1,13 @@
 ---
 title: "Scale-UP Cardano's Community Hubs"
 linkTitle: "Scale-UP Cardano's Community Hubs"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
 
@@ -39,6 +44,7 @@ Local Community Hubs across the world where the average person can take part in 
 ## Prior Challenges
 
 1. [Fund4: Local Community Centers](https://cardano.ideascale.com/a/campaign-home/25873)
+
 ## References
 
 1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)

@@ -1,53 +1,54 @@
 ---
-title: "Fund7 チャレンジ設定"
-linkTitle: "Fund7 チャレンジ設定"
+title: "Fund 7 Challenge Setting"
+linkTitle: "Fund 7 Challenge Setting"
 type: docs
 hide_feedback: true
 ---
-コミュニティは、Fund7でどのような課題を優先すべきでしょうか?
 
-予算規模: **$5,400,000 USD paid in Ada**
+What Challenges should the community prioritize to address in Fund7?
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26120) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified)。
+Fund Size: **$5,400,000 USD paid in Ada**
 
-## キャンペーン概要
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26120) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified).
 
-コミュニティ定義の課題は、Cardanoコミュニティの自己ガバナンスにとって重要であり、Cardanoの使命を達成するための独自の方法を生み出します。
+## Campaign Brief
 
-チャレンジの設定は、通常のチャレンジがチャレンジに対処するためのイニシアチブの提案であるかどうかにかかわらず、新しいチャレンジの提案に関するものであるため、他のチャレンジとは異なります。
+Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano's mission.
 
-コミュニティが提案を受け入れると、次の条件が満たされた場合、提案チームは2,500ドル相当のadaの「チャレンジチーム」インセンティブを受け取る機会があります。
+Challenge setting is different from other challenges as it's about proposing new challenges, whether regular challenges are about proposing initiatives to address challenges.
 
-- チャレンジチームは、次のファンドの開始時にコミュニティにチャレンジを提示します。
-- チャレンジチームは、タウンホール後の1つでチャレンジに焦点を当てたブレイクアウトセッションを促進します。
-- チャレンジチームは次のファンドの「振り返り週間」でチャレンジレトロスペクティブセッションをリードしています。
-- チャレンジチームは、チャレンジのための資金を受け取った提案チームとのセッションを促進します。
-- チャレンジチームは、資金提供された提案によって報告される主要な指標を追跡します 資金を受けてから3ヶ月後、チャレンジが対応されているかどうかを反省し、彼らのアプローチで重要な進歩を遂げているチームを強調表示します。
+Once a proposal is accepted by the community, the proposing team has an opportunity to receive a "Challenge team" incentive of $2,500 worth of ada, if the following conditions are met:
 
-これらの活動は複雑に見えるかもしれませんが、Catalystチームとコミュニティからガイドライン、トレーニング、サポートを受けることができます。 あなたが必要とするのは、公正でバランスのとれた方法で挑戦を表現する意欲と参加したいという願望だけです。 条件が満たされると、あなたのチームは報酬を受け取る資格があります。
+- The challenge team presents the challenge to the community at the start of the following fund.
+- The challenge team facilitates a challenge-focused breakout session in one of the after townhalls.
+- The challenge team leads a challenge retrospective session during the next fund's "retrospective week".
+- The challenge team facilitates a session with the proposing teams that received funding for the challenge.
+- The challenge team tracks the key metrics as reported by funded proposals, 3 months after receiving funding and presents their reflection on whether the Challenge is getting addressed and highlight teams that are making significant headway in their approach.
 
-## 成功するとどのような未来が見えますか？
+These activities might seem complicated, but you will receive guidelines, training and support from the Catalyst team and community. All you need is a willingness to represent the challenge in a fair and balanced way and a desire to participate. Once the conditions are met, your team will be eligible to receive the reward.
 
-コミュニティは、影響力のある独創的な提案を刺激する重要で魅力的なチャレンジが含まれるように投票します。
+## How success looks like
 
-## 測定する主要なメトリック
+The community votes to include important and engaging challenges that inspire impactful and original proposals.
 
-このチャレンジのROIを評価するために、私たちは自問します:
+## Key metrics to measure
 
-- 選択された課題は、提案の質とコミュニティのエンゲージメントという点でどの程度うまく機能しましたか?
-- 上位10%の提案チャレンジに対するコミュニティアドバイザーの平均スコアは何ですか?
-- チャレンジに対処するために作成された上位10%の提案について、コミュニティアドバイザーの平均スコアは何ですか?
-- このチャレンジはどのくらいの投票者のエンゲージメントを生み出しましたか?
-- チャレンジの全体的な予算と比較して、どのくらいの提案がコミュニティによって承認されましたか? (超過したチャレンジ)
+To assess ROI of this challenge we will ask ourselves:
 
-## ガイドの質問
+- How well did the selected challenges perform in terms of proposal quality and community engagement?
+- What is the average Community Advisor score for the top 10% proposed Challenges?
+- What is the average Community Advisor score for the top 10% proposals generated to address the challenge?
+- How much voter engagement did the challenge generate?
+- How many proposals in the challenge were approved by the community, compared to the overall budget of the challenge? (Challenge overage)
 
-- 最も多くの有権者が関与することとなるチャレンジは何でしょうか?
-- どのチャレンジに対処すれば、Cardanoの採用のためのスプリングボードになりますか?
-- どのチャレンジに対処すれば、Cardanoのミッションを前進させるでしょうか?
+## Guiding questions
 
-## 以前のチャレンジ
+- What challenges will engage the highest number of voters?
+- Which challenges, if addressed, will provide a springboard for Cardano adoption?
+- Which challenges, if addressed, will advance Cardano's mission?
 
-1. [Fund 5:Fund6チャレンジ設定](https://cardano.ideascale.com/a/campaign-home/25946)
-2. [Fund 4:Fund 5チャレンジ設定](https://cardano.ideascale.com/a/campaign-home/25874)
-3. [Fund 3:F3:コミュニティの選択](https://cardano.ideascale.com/a/campaign-home/25800)
+## Prior Challenges
+
+1. [Fund 5: Fund6 challenge setting](https://cardano.ideascale.com/a/campaign-home/25946)
+2. [Fund 4: Fund5 challenge setting](https://cardano.ideascale.com/a/campaign-home/25874)
+3. [Fund 3:  F3: Community choice](https://cardano.ideascale.com/a/campaign-home/25800)

@@ -1,14 +1,11 @@
 ---
 title: 'A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar'
-linkTitle: 'A.I. & SingularityNet sebuah pasar bernilai 5 Triliun Dollar'
-type: docs
-hide_feedback: true
 description: 'Bagaimana kita dapat menciptakan kemitraan yang saling menguntungkan dengan SingularityNet dan pengembang dan peneliti A.I. lainnya?'
 ---
 
 Pendanaan: **500,000 USD dibayarkan dalam ADA**
 
-[Campaign page (Halaman Kampanye)](https://cardano.ideascale.com/a/campaign-home/26247) dan [telusuri berbagai ide ](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified)dan [Git Repository](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market)
+[Campaign page (Halaman Kampanye)](https://cardano.ideascale.com/a/campaign-home/26247) dan [telusuri berbagai ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified)dan [Git Repository](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) dan [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market)
 
 ## Sekilas tentang Kampanye
 

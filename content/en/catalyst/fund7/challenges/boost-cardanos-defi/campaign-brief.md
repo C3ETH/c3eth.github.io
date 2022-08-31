@@ -38,6 +38,7 @@ Cardano arrives to change this paradigm and bring security to users.
 Privacy and resistance to censorship are also important but often overlooked in favor of subsidizing (yield farming). How to encourage DeFi projects to seek resilience, safety, research-based economic models and critical thinking?
 
 ## Potential Directions
+
 - DEXs
 - Oracles
 - Algorithmic stable coins
@@ -46,6 +47,7 @@ Privacy and resistance to censorship are also important but often overlooked in 
 - Research for open source new financial models (bonding curves)
 
 ## Rational For Budget Distrobution
+
 To encourage greater diversity of funded teams and proposals each team can request up to 20% of the total $500,000 USD budget or $100,000 USD.
 
 E.g.
@@ -53,7 +55,8 @@ E.g.
     - Team B with 1 proposal of $100,000 USD
     - Team C with 1 proposal of $80,000 USD + 1 proposal of $20,000 US
 
-## why is it Important?
+## Why is it Important?
+
 It's important because Defi dApps provide trustless on-demand access to financial services for global users
 
 

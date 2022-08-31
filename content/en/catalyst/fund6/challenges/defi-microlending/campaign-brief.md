@@ -1,8 +1,13 @@
 ---
 title: "DeFi and Microlending for Africa"
 linkTitle: "DeFi and Microlending for Africa"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Fund Size: **$90,000 USD paid in Ada**

@@ -1,33 +1,34 @@
 ---
-title: "Quan hệ đối tác cho việc phát triển toàn cầu"
-linkTitle: "Quan hệ đối tác cho việc phát triển toàn cầu"
+title: "Quan hệ đối tác để áp dụng toàn cầu"
+linkTitle: "Quan hệ đối tác để áp dụng toàn cầu"
 type: docs
 hide_feedback: true
 ---
 
-How can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?
+Cardano có thể tham gia vào quan hệ đối tác toàn cầu với Chương trình Phát triển Liên hợp quốc và Nhóm Ngân hàng Thế giới, để thúc đẩy việc áp dụng hàng loạt không?
 
-Fund Size: **$30,000 USD paid in Ada**
+Quy mô quỹ: **30.000 USD được thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26114) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified).
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26114) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified) .
 
-## Campaign Brief
+## Tóm tắt Chiến dịch
 
-Partnership protocols aim to support nation building and support sustainable development goals by providing blockchain solutions to local governments and populations. Cardano´s work would be part of wider development projects undertaking. Proposers to provide a partnership framework model for each of the international bodies in question for Cardano Foundation further implementation.
+Các giao thức đối tác nhằm mục đích hỗ trợ xây dựng quốc gia và hỗ trợ các mục tiêu phát triển bền vững bằng cách cung cấp các giải pháp blockchain cho chính quyền địa phương và người dân. Công việc của Cardano sẽ là một phần của các dự án phát triển rộng lớn hơn đang thực hiện. Những người đề xuất cung cấp mô hình khung quan hệ đối tác cho từng tổ chức quốc tế được đề cập để Quỹ Cardano triển khai thêm.
 
-## Why is it important?
+## Tại sao nó lại quan trọng?
 
-Collaboration with International bodies working in the developing world will accelerate mass adoption for Cardano´s blockchain solutions.
+Sự hợp tác với các cơ quan Quốc tế làm việc trong thế giới đang phát triển sẽ đẩy nhanh việc áp dụng hàng loạt cho các giải pháp blockchain của Cardano.
 
-## How does success look like?
+## Thành công trông như thế nào?
 
-Establishment of Local Community Centers in 130 countries backed by Cardano Foundation working in synergy with international bodies
+Thành lập các Trung tâm Cộng đồng Địa phương tại 130 quốc gia do Quỹ Cardano hỗ trợ, hợp tác với các tổ chức quốc tế
 
-## Key Metrics to measure
+## Các chỉ số chính để đánh giá
 
-- 10 proposals put forward for voting
-- Partnerships formalized with in 3 months by Cardano Foundation
-- Local Community Centers established with in 6 months
-## References
+- 10 đề xuất được đưa ra để bỏ phiếu
+- Các quan hệ đối tác được chính thức hóa trong 3 tháng bởi Cardano Foundation
+- Trung tâm cộng đồng địa phương được thành lập sau 6 tháng
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)
+## Tài liệu tham khảo
+
+1. [Đề xuất cài đặt thử thách ban đầu](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)

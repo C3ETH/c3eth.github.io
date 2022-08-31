@@ -1,95 +1,95 @@
 ---
-title: 'Cross Chain-Collaboration(クロスチェーン-コラボレーション)'
-linkTitle: 'Cross Chain-Collaboration(クロスチェーン-コラボレーション)'
+title: "Cross Chain-Collaboration"
+linkTitle: "Cross Chain-Collaboration"
 type: docs
 hide_feedback: true
-description: '今後6か月で、Cardanoと他のブロックチェーン間の接続とコラボレーションをどのように作成できるでしょうか'
+description: "How might we create connections and collaboration between Cardano and other blockchains in the next six months?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
 
 Fund Size: **400,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381705)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/381705) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-今後6か月で、Cardanoと他のブロックチェーン間の接続とコラボレーションをどのように作成できるでしょうか。
+How might we create connections and collaboration between Cardano and other blockchains in the next six months?
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-ブロックチェーンとマルチチェーン認識の相互運用性は、全体として暗号経済の共有された成功を保証します。
+Interoperability of blockchains and multi-chain awareness guarantees shared success of the cryptoeconomy as a whole.
 
-### 成功はどのように見えますか？
+### What does Sucess look like?
 
-ProjectCatalystと他のコミュニティ間の協調的な価値創造。技術的イニシアチブと非技術的イニシアチブの両方を歓迎します。
+Collaborative value creation between Project Catalyst and other communities. Both technical and non-technical initiatives are welcome.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-成功を測定するための客観的な指標：
+Objective metrics to measure success:
 
-- メインネットとテストネットのトランザクション量の増加
-- 他のブロックチェーンコミュニティからの参加者を含む提案の数
-- Cardanoを他のブロックチェーンに接続する技術的な実装の数
-- Catalystによって実装された他のチェーンからのアイデア
-- Cardanoに実装された他のチェーンのプロジェクトとdApp
-- 他のチェーン/コミュニティで採用されているCatalystで作成されたソリューション
-- 他のコミュニティとアレンジされたイベント/ワークショップ/セッションの数
-- クロスチェーンチーム（異なるブロックチェーンコミュニティのメンバーが一緒にいる）による永続的なイニシアチブの数
+- Mainnet and testnet transaction volume growth
+- Number of proposals including participants from other blockchain communities
+- Number of technical implementations connecting Cardano to other blockchains
+- Ideas from other chains implemented by Catalyst
+- Projects and dApps from other chains implemented on Cardano
+- Catalyst-created solutions adopted by other chains/communities
+- Number of events / workshops / sessions arranged with other communities
+- Number of permanent initiatives with cross-chain teams (members from different blockchain communities together)
 
-## チャレンジブリーフ
+## Challenge Brief
 
-ビットコインの成功は多くのオフシュート実験を生み出し、イーサリアムの到着は部族主義を増加させました。アルトコインの数が増えるにつれて、不健康な「過剰主義」が出現しました。ただし、将来はマルチチェーンであり、相互運用性とクロスチェーンコラボレーションが大切にされ、奨励されると、暗号経済は繁栄します。
+The success of Bitcoin spawned numerous off-shoot experiments and the arrival of Ethereum increased tribalism. As the number of altcoins grew, unhealthy "maximalism" emerged. The future is multi-chain, however, and the cryptoeconomy thrives when interoperability and cross-chain collaboration are cherished and encouraged.
 
-熱心なサポーターの幹部、高度なスキルを持つ開発者、CardanoとProjectCatalystから学ぶことができる革新的なテクノロジーを備えた次世代のブロックチェーンが複数あります。また、その逆に、Catalystで開発されたグッドプラクティスを提供することで、他のネットワークの繁栄を支援できます。 IOGは最近UTXOアライアンスを結成し、COTIやSingularityNETなどの多数のパートナーとのコラボレーションを開始しました。これは良いスタートですが、ブロックチェーンコミュニティ間のコミュニケーション、調整、コラボレーションの欠如に対処するには、さらに多くのことが必要です。お互いの行動に対する認識が欠けていると、私たちは自分たちの努力を複製せざるを得なくなります。私たちが離れているとき、私たちはお互いの成果や失敗から学ぶことができません。
+There are multiple next generation blockchains with cadres of zealous supporters, highly skilled developers and innovative technologies that Cardano and Project Catalyst can learn from. And, vice versa, we can help other networks thrive by offering the good practices developed in Catalyst. IOG has recently formed the UTXO alliance and started collaboration with numerous partners like COTI and SingularityNET. It's a good start but more is needed to address the lack of communication, coordination and collaboration between blockchain communities. Missing awareness of each other's doings forces us to duplicate our efforts. When we are separate we are not able to learn from each other's achievements or failures.
 
-カルダノには強力でオープンで包括的なコミュニティがあります。これを真のスーパーパワーにして、強力な絆を築く最初のコミュニティになりましょう。さまざまなコミュニティの人々が共通の基盤を見つけ、知識、リソース、スキル、アイデア、ビジョンを互いに共有できる、豊かでオープンで安全な環境を作りましょう。そこに出て、サイロを壊し、私たちの間に橋と存在感を築きましょう。
+Cardano has a strong, open and inclusive community, let's make this a real super power and let's be the first ones to forge strong bonds. Let's create an enriching, open and safe environment, where people from different communities can find common ground and share knowledge, resources, skills, ideas and visions with one another. Let's go out there, break the silos and build bridges and presence between us.
 
-**調査およびコラボレーションする可能性のあるDLT /ブロックチェーンエンティティ、コミュニティ、およびプロジェクトの例を次に示します。**
+**Here are some examples of potential DLT/Blockchain entities, communities and projects to explore and collaborate with:**
 
-**Cosmos**は、それ自体をブロックチェーンのインターネットと呼んでおり、他のブロックチェーンがブロックチェーン間通信プロトコル（IBC）を介して簡単に接続できるようにします。 Binance Smart Chain、Terra、Thorchain、OasisNetworkなどの大規模なプロジェクトはCosmosSDK上に構築されています。
+**Cosmos**, dubbing itself the Internet of Blockchains, makes it easy for other blockchains to connect to it via their Inter-Blockchain Communication protocol (IBC). Massive projects like Binance Smart Chain, Terra, Thorchain and Oasis Network are built on the Cosmos SDK.
 
 - [TenderMint](https://tendermint.com/sdk/)
 - [Cosmos Intro](https://v1.cosmos.network/intro)
 - [Cosmos Network](https://cosmos.network/ecosystem/apps)
 
-[Polkadot](https://wiki.polkadot.network/docs/learn-video-tutorials) （およびそのカナリアネットワーク**Kusama** ）は、リレーチェーンが共有セキュリティとクロスチェーン通信を提供し、接続されたパラチェーンがサービスの迅速な展開に集中できるようにする、軽量で迅速に更新可能な設計です。その独自のクラウドローンメカニズムにより、トークン所有者のコミュニティは、どのプロジェクトを最初に実装する必要があるかを表明することができます。ノミネートされたプルーフオブステークネットワークは、高度なガバナンスメカニズムも提供します。
+[Polkadot](https://wiki.polkadot.network/docs/learn-video-tutorials) (and its canary network **Kusama**) is a light-weight and quickly updateable design where the Relay Chain offers shared security and cross-chain communication, allowing the connected Parachains to focus on fast deployment of services. Its unique crowdloan mechanism invites the community of token holders to voice out which projects should be implemented first. The Nominated Proof of Stake network offers advanced governance mechanisms as well.
 
-学術的に印象的で技術的に健全な[Algorand](https://www.algorand.com/technology)には、独自のコンセンサスメカニズムであるPure Proof of Stakeがあり、そのガバナンスモデルから多くのことを学ぶことができます。
+Academically impressive and technologically sound [Algorand](https://www.algorand.com/technology) has a unique consensus mechanism Pure Proof of Stake and we can learn a lot from their governance model.
 
-4,500 tpsを超えるスループットとほぼ瞬時のファイナリティを誇る、EVM互換のAvalancheは、すぐに複数のDeFiプロジェクトの頼りになる選択肢になりました。 DAGテクノロジーとブロックチェーンテクノロジーの両方を利用する革新的なマルチチェーンアーキテクチャを備えています。
+Boasting a throughput beyond 4,500 tps and near-instant finality, the EVM-compatible Avalanche has quickly become the go-to choice for multiple DeFi projects. It has an innovative multi-chain architecture that utilizes both DAG and Blockchain technologies.
 
 - [Avax](https://www.avax.network)
 
-他の例としては、 [Fantom](https://fantom.foundation/intro-to-fantom) 、 [Solana](https://solana.com/ecosystem) 、 [IOTA](https://www.iota.org/) 、 [Polygon](https://polygon.technology/get-started) 、 [Nervos](https://www.nervos.org) 、または**マルチチェーンリアリティの準備ができているコミュニティ**などがあります。または、これらのいずれかに基づいて構築されたプロジェクト/ソリューションから提案を作成することもできます。
+Other examples could be e.g. [Fantom](https://fantom.foundation/intro-to-fantom), [Solana](https://solana.com/ecosystem), [IOTA](https://www.iota.org/), [Polygon](https://polygon.technology/get-started), [Nervos](https://www.nervos.org) or **any community that is ready for multi-chain reality**. Or the proposal can come from a project / solution built on any of these.
 
-### このチャレンジに提出できる提案
+### Proposals you can submit to this challenge
 
-これは、クロスチェーンコラボレーション、共同イノベーション、相互運用性を対象とした提案を歓迎する、制限のない課題です。これらは、コミュニティ主導のプロジェクト、イニシアチブ、ソリューション、ツール、またはサービスであればどれでもかまいません。たとえば、次のことを意味します。
+This is an open-ended challenge that welcomes any proposal geared for cross-chain collaboration, co-innovation and interoperability. These can be any community-led projects, initiatives, solutions, tools or services. It could mean for instance:
 
-- Cardanoを他のブロックチェーンに接続する新しい技術的実装（SDK、API、ブリッジなど）
-- Voltaireロードマップの一部として実装された他のチェーンからのガバナンスのアイデア
-- 他のチェーンからカルダノに拡大するすでに成功したプロジェクト
-- カルダノベースのプロジェクトを他のチェーンに拡大
-- クロスチェーンデータを解釈および操作するためのオラクルおよびその他のツール
-- 他のチェーンやコミュニティで採用されているCatalystで作成されたソリューション
-- 他のチェーンやコミュニティとの一般的な研究、教育、アウトリーチ、イノベーションプロジェクト（ポッドキャスト、ハッカソン、ウェビナー、コミュニケーションハブ、教育リソースなど）
+- New technical implementations connecting Cardano to other blockchains and vice versa (SDKs, APIs, bridges etc)
+- Governance ideas from other chains implemented as part of the Voltaire road map
+- Already successful projects expanding from other chains to Cardano
+- Expansion of Cardano-based projects into other chains
+- Oracles and other tools to interpret and interact with cross-chain data
+- Catalyst-created solutions adopted by other chains and communities
+- Common research, education, outreach and innovation projects with other chains and communities (e.g. podcasts, hackathons,   webinars, communication hubs, educational resources)
 
-### チャレンジチーム
+### Challenge Team
 
-私たちは経験豊富なCatalystコミュニティのメンバーであり、1つのチェーンがすべてを支配するべきだとは信じていない「相互運用性の最大主義者」です。
+We are seasoned Catalyst community members and "interoperability maximalists" who don't believe that any one chain should rule them all.
 
-- FilipBlagojevićは、ファンド2、Plutus Pioneer、Atala Pioneer、およびEmurgoAcademyの研修生以来アクティブなProjectCatalystメンバーです。
-- Tomi Astikainenは、暗号通貨投資家になりたい人のために最近本を書いたベテランコミュニティアドバイザーです。彼はAcala / Karuraのシニアアンバサダーであり、フィンランドのPolkadot / Kusamaコミュニティのドライバーです。
-- Felix Weberは、アクティブなProject Catalystメンバーであり、Cardano Ambassadorであり、いくつかのコミュニティ主導のプロジェクトおよびイニシアチブのイニシエーター/リーダーです。
+- Filip Blagojević is an active Project Catalyst member since Fund 2, Plutus Pioneer, Atala Pioneer and Emurgo Academy trainee.
+- Tomi Astikainen is a Veteran Community Advisor who has recently written a book for wannabe crypto investors. He is a Senior Ambassador for Acala/Karura and a driver in the Polkadot/Kusama community in Finland.
+- Felix Weber is an active Project Catalyst member, Cardano Ambassador and initiator/leader of several community led Projects and initiatives.
 
-### この提案された課題の成熟度に関する私たちの評価：
+### Our assessment of the maturity of this proposed challenge:
 
-Cardanoテクノロジースタックは、クロスチェーンコラボレーションと相互運用性の提案を募集し始めるのに十分成熟しています。私たちが提案する課題は、意図的に自由形式のままにしており、さまざまなソリューションを歓迎しています。このチャレンジで提出された価値のあるアイデアは、近い将来（次の6〜9か月）にカルダノとカタリストのコミュニティを成長させ、改善するのに役立つはずです。
+Cardano technology stack is finally mature enough to start inviting proposals for cross-chain collaboration and interoperability. Our proposed challenge is intentionally left open ended and it welcomes a multitude of different solutions. Worthwhile ideas submitted in this challenge should help grow and improve the Cardano and Catalyst community in the near term (next 6-9 months).
 
-したがって、この課題は、Fund8の戦略目標と一致しています。
+This challenge is therefore aligned with the Fund8 strategic goals:
 
-- これは、人々がカルダノとカタリストのエコシステムに貢献する準備をするのに役立ちます。
-- これは、Cardanoを私たちのコミュニティを超えて認識されているオープンソースプロジェクトに変えるのに役立ちます。
-- 残りのブロックチェーンスペースからの貢献を招待することで、開発者とアプリのエコシステムの成長と進化を加速します。
+- It helps prepare people to make contributions to the Cardano and Catalyst ecosystem.
+- It helps turn Cardano into an open source project recognized also beyond our community.
+- It accelerates the growth and evolution of our developer & app ecosystem by inviting contributions from the rest of the blockchain space.
 
-$ 400,000 USDの予算は、Fund8の総財務配分の適度な2.5％です。相互運用性とクロスチェーンコラボレーションイニシアチブを開始するには十分なはずですが、大規模なインフラストラクチャプロジェクトには不十分な場合があります。したがって、**長期的なビジョンとロードマップを含むが、当初は非常に範囲が狭い「最小実行可能」および「概念実証」の提案を提出することをお勧めします**。
+The budget of $400,000 USD is a moderate 2,5% of the total treasury allocation for Fund8. It should be sufficient to kickstart interoperability and cross-chain collaboration initiatives but might not be enough for any large scale infrastructure projects. Therefore, **we encourage submission of "minimum viable" and "proof of concept" proposals that do include long-term vision and roadmap but which are initially scoped quite small**.
