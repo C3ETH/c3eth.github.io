@@ -1,6 +1,6 @@
 ---
-title: What is a cryptocurrency?
-description: What is a cryptocurrency?.
+title: '"Tiền điện tử là gì?"'
+description: '"Tiền điện tử là gì?"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
@@ -22,9 +22,9 @@ Lovelace là mệnh giá nhỏ nhất của ada. Một ada = 1.000.000 lần yê
 
 ### Native tokens
 
-Cardano also supports the creation of native tokens ‒ digital assets that are created for specific purposes. This means that users, developers, and businesses can use the Cardano blockchain to create tokens that represent a footprint of value (whether defined by the community, market state, or self-governed entity). A token can be fungible (interchangeable) or non-fungible (unique), and act as a payment unit, reward, trading asset, or information holder.
+Cardano cũng hỗ trợ tạo native tokens - tài sản kỹ thuật số được tạo ra cho các mục đích cụ thể. Điều này có nghĩa là người dùng, nhà phát triển và doanh nghiệp có thể sử dụng chuỗi khối Cardano để tạo mã thông báo đại diện cho dấu ấn giá trị (cho dù được xác định bởi cộng đồng, trạng thái thị trường hay thực thể tự quản). Một token có thể thay thế được (có thể thay thế cho nhau) hoặc không thể thay thế (duy nhất) và hoạt động như một đơn vị thanh toán, phần thưởng, tài sản giao dịch hoặc chủ sở hữu thông tin.
 
 **Chủ đề liên quan**
 
 - [Chính sách tiền tệ Cardano](https://docs.cardano.org/explore-cardano/monetary-policy)
-- [Learn about native tokens](https://docs.cardano.org/native-tokens/learn)
+- [Tìm hiểu về native tokens](https://docs.cardano.org/native-tokens/learn)
