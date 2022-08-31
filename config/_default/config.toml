@@ -1,4 +1,4 @@
-baseurl = "https://jennyberry.github.io/new-eth/"
+baseurl = "/"
 canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
