@@ -1,10 +1,10 @@
 ---
-title: '"Các nút Cardano"'
-description: '"Các nút Cardano"'
+title: 'Các nút Cardano'
+description: 'Các nút Cardano'
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06 08:48:23 +0000
+lastmod: 2020-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
