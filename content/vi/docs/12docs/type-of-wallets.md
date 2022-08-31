@@ -1,6 +1,6 @@
 ---
-title: Types of wallets
-description: Types of wallets
+title: '"Các loại ví"'
+description: '"Các loại ví"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
@@ -10,9 +10,9 @@ images: []
 
 Ví tiền điện tử là một nơi an toàn và bảo mật, nơi người dùng có thể giữ tiền kỹ thuật số của họ.
 
-> *Remember, only a wallet that you have private keys to (a password that provides access to your cryptocurrency) is considered to be safe to store your personal funds. It is highly **not recommended** to store cryptocurrency on exchanges, as this increases the risk of funds loss.*
+> *Hãy nhớ rằng chỉ một ví mà bạn có khóa cá nhân (mật khẩu cung cấp quyền truy cập vào tiền điện tử của bạn) mới được coi là an toàn để lưu trữ tiền cá nhân của bạn. Chúng tôi đặc biệt **không đề xuất** lưu trữ tiền điện tử trên các sàn giao dịch, vì điều này làm tăng nguy cơ mất tiền.*
 >
-> *Not your keys, not your coins ‒ they say.*
+> *Không phải chìa khóa của bạn thì không phải tiền của bạn - họ nói.*
 
 Ví tiền điện tử có nhiều dạng khác nhau, từ ứng dụng trên máy tính để bàn và thiết bị di động đến thiết bị phần cứng (giống USB) và ví giấy. Tất cả các ví được thiết kế để cho phép lưu trữ tiền điện tử và cho phép gửi và nhận tiền. Về mặt kỹ thuật, tiền điện tử không được lưu trữ trong ví - hồ sơ của nó nằm trên blockchain và có thể được truy cập bằng cách sử dụng các khóa cá nhân duy nhất, cấp quyền thực hiện giao dịch. Mất khóa cá nhân của bạn có nghĩa là mất quyền truy cập vào các quỹ kỹ thuật số của bạn. Đó là lý do tại sao điều quan trọng là phải giữ cho chìa khóa của bạn an toàn và ngoại tuyến.
 
@@ -46,7 +46,7 @@ Daedalus là một nút đầy đủ, ví máy tính để bàn. Daedalus tải 
 
 Để cài đặt Daedalus, hãy làm theo các bước sau:
 
-1. First, read [system requirements](https://iohk.zendesk.com/hc/en-us/articles/360010496553). Please note that Daedalus is a resource-intensive application. If you want to manage ada quickly and easily you can try Yoroi or AdaLite wallets.
+1. Đầu tiên, hãy đọc [các yêu cầu hệ thống](https://iohk.zendesk.com/hc/en-us/articles/360010496553) . Lưu ý rằng Daedalus là một ứng dụng sử dụng nhiều tài nguyên. Nếu bạn muốn quản lý ada một cách nhanh chóng và dễ dàng, bạn có thể dùng thử ví Yoroi hoặc AdaLite.
 2. Truy cập [trang web chính thức của Daedalus](https://daedaluswallet.io/) .
 3. Làm theo các [hướng dẫn cài đặt](https://iohk.zendesk.com/hc/en-us/articles/360011602173-Quick-start-guide#:~:text=Go%20to%20https%3A%2F%2Fdaedaluswallet,Daedalus%20wallet%20on%20your%20Machine.) này.
 
@@ -70,9 +70,9 @@ Xem [cách sử dụng ví phần cứng với Daedalus](https://iohk.zendesk.co
 - Ellipal
 - AdaLite
 - Ví Infinito
-- Atomic Wallet
+- Ví Atomic
 - Guarda
 - Tangem
 - Ví SimpleHold
-- Coin Wallet
+- Ví Coin
 - NuFi
