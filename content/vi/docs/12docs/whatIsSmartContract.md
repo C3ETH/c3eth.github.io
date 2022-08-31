@@ -1,6 +1,6 @@
 ---
-title: What is a Smart Contract?
-description: What is a Smart Contract?.
+title: '"Hợp đồng thông minh là gì?"'
+description: '"Hợp đồng thông minh là gì?"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
@@ -21,5 +21,5 @@ Cardano sẽ giới thiệu hỗ trợ hợp đồng thông minh vào năm 2021.
 
 **Chủ đề liên quan**
 
-- [Marlware explainer](https://docs.cardano.org/marlowe/learn-about-marlowe)
-- [Plutus explainer](https://docs.cardano.org/plutus/learn-about-plutus)
+- [Giải thích về Marlware](https://docs.cardano.org/marlowe/learn-about-marlowe)
+- [Giải thích về Plutus](https://docs.cardano.org/plutus/learn-about-plutus)
