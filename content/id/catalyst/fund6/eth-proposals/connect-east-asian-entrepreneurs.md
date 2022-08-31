@@ -1,11 +1,8 @@
 ---
-title: Menghubungkan Entrepreneur Asia Timur
-linkTitle: Menghubungkan Entrepreneur Asia Timur
-type: docs
-hide_feedback: 'true'
-weight: '30'
-description: >
-  Tidak ada inisiatif Cardano untuk menarik dan melibatkan entrepreneur Asia Timur di tempat mereka berada, dalam bahasa lokal mereka. Kami mengusulkan untuk menggunakan Eastern Town Hall & acara virtual yang ditargetkan untuk membangun dan mendukung jaringan entrepreneur Asia Timur.
+title: "Menghubungkan Entrepreneur Asia Timur"
+weight: 30
+description:
+  "Tidak ada inisiatif Cardano untuk menarik dan melibatkan entrepreneur Asia Timur di tempat mereka berada, dalam bahasa lokal mereka. Kami mengusulkan untuk menggunakan Eastern Town Hall & acara virtual yang ditargetkan untuk membangun dan mendukung jaringan entrepreneur Asia Timur."
 ---
 {{< youtube aa4gZrgzoWM >}}
 

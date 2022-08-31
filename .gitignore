@@ -1,24 +1,6 @@
-.DS_store
-
-### Hugo ###
-# Generated files by hugo
-/public/
-/resources/_gen/
-node_modules/
-tech-doc-hugo
+node_modules
+public
+resources
+.netlify
 .hugo_build.lock
-
-# Themes
-/themes/
-
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
-
-### Code ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+shell.nix

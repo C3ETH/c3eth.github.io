@@ -1,11 +1,8 @@
 ---
-title: Trang cá nhân Docsy
-linkTitle: Trang cá nhân
-menu:
-  main:
-    weight: '40'
+title: "Blog"
+description: "The Doks Blog."
+date: 2020-10-06T08:49:55+00:00
+lastmod: 2020-10-06T08:49:55+00:00
+draft: false
+images: []
 ---
-
-Đây là phần **blog** . Nó có hai danh mục: Tin tức và Bản phát hành.
-
-Các tệp trong các thư mục này sẽ được liệt kê theo thứ tự thời gian ngược lại.

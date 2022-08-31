@@ -12,21 +12,26 @@ Fund Size: **500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/383978) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26443/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 What solutions can we develop and implement with Atala PRISM to have the most positive impact and opportunities for rapid growth of Cardano.
 
 ### Why is it important?
+
 By identifying high-value credentials, we can establish governance framework foundries for launching pilot programs and driving growth.
 
 ### What does success look like?
+
 Discover repeatable patterns that unlock our ability to leverage the Cardano decentralized infrastructure. Identify high-value credentials.
 
 ### Key Metrics to measure
+
 - The sum of realized production pilots or launches in 2022
 - Discovery of repeatable patterns in use-cases
 - The number of issuers, holders, and verifiers
 - The number of verifications performed on credentials in production
 
 ## Challenge Brief
+
 Our challenge is an evolution of the mass decentralized identity (DID) adoption challenge from Funding Round 6, connecting everything we are learning with the first Atala PRISM Pioneer Program cohort.
 
 The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst Fund 7 is complete. Between now and then, any member of the Catalyst Community inspired to write a proposal will get access to the Atala PRISM Pioneer Program first cohort course materials on Canvas. Please submit your proposal on Ideascale, including your email address, to get an invitation to Canvas.
@@ -36,6 +41,7 @@ With this access, you'll join the growing Atala PRISM community. Our Atala PRISM
 ## Areas of Focus
 
 ### Interoperability
+
 Most digital credentials sit on Hyperledger Indy ledgers, including those issued by governments in Germany, Canada, and the UK.
 
 The best-performing platform will gain the largest market share. For many reasons, we believe our platform is superior. Therefore, Cardano and Atala PRISM must include a plan to interact with these other ecosystems to maximize market share.

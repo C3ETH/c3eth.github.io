@@ -1,44 +1,44 @@
 ---
-title: "Cardanoコミュニティハブの拡大"
-linkTitle: "Cardanoコミュニティハブの拡大"
-type: docs
-hide_feedback: true
+title: "Scale-UP Cardano's Community Hubs"
+linkTitle: "Scale-UP Cardano's Community Hubs"
+
 ---
-今後6ヶ月間で、ローカル・コミュニティ・ハブがCardanoの採用と認知を促進するにはどうすればよいでしょうか?
+How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
 
-予算規模: **$100,000 USD paid in Ada**
+Fund Size: **$100,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26118) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26118/stage/unspecified)。
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26118) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26118/stage/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-世界の約78億人の人口のうち、64.5億人は英語を話さない。
+Out of the world's approximately 7.8 billion inhabitants, 6.45 billion do not speak English.
 
-西洋社会に住んでいる私たちは、この事実を定期的に忘れています, そして私たちの多くは、それを考えたことがありません.
+Living in the Western world, we forget this fact regularly, and many of us have never even considered it.
 
-今それを考えてみましょう 真にグローバルなエコシステムを構築し 誰もが自分の能力を最大限に発揮できるようにしましょう
+Let's consider it now and start to build an ecosystem that is truly global, allowing everyone to participate to the best of their ability.
 
-あなたが採用を現場レベルでドライブするとき、あなたは単に「クールな製品を構築する」以上のことをしています。 自分で想像もしなかった方法で人々の生活を変える力を与えているのです
+When you drive adoption at the ground level, you are doing more than just 'building cool products', you are empowering people to change their lives in ways they could have never imagined by themselves.
 
-## なぜ重要なのか？
+## Why is it important?
 
-ユーザーが地上にいない場合、ブロックチェーンの専門知識を持つ技術者を中心にサービスを提供するニッチな製品を構築することになります。
+Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
 
-## 成功するとどのような未来が見えますか？
+## How does success look like?
 
-平均的な人が自分の言語や文化的理解を持って参加できる世界中のローカルコミュニティハブ
+Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding
 
-## 測定する主要なメトリック
+## Key Metrics to measure
 
-- 今後6ヶ月間にいくつの新しいハブが立ち上げられましたか?
-- このコミュニティに焦点を当てたチャレンジは、Cardanoエコシステムにどれだけの開発者をもたらしましたか?
-- Cardanoの新しいユーザーは何人登録されましたか?
-- ハブの最初のマーケティングローンチの総範囲はどのようなものでしたか?
-- このコミュニティに焦点を当てたチャレンジは、Cardanoエコシステムにどれだけの外部組織をもたらしましたか?
+- How many new Hubs were launched in the next 6 months?
+- How many developers did this community-focused challenge bring into the Cardano ecosystem?
+- How many new users of Cardano were onboarded?
+- What was the total reach of the Hub's initial marketing launch?
+- How many external organizations did this community-focused challenge bring into the Cardano ecosystem?
 
-## 以前のチャレンジ
+## Prior Challenges
 
-1. [Fund4: ローカルコミュニティーセンター](https://cardano.ideascale.com/a/campaign-home/25873)
-## 参照
+1. [Fund4: Local Community Centers](https://cardano.ideascale.com/a/campaign-home/25873)
 
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)

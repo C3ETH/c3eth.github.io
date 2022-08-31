@@ -1,8 +1,5 @@
 ---
 title: 'Menumbuhkan Partisipasi Akar Rumput dalam Cardano DeFi'
-linkTitle: 'Menumbuhkan Partisipasi Akar Rumput dalam Cardano DeFi'
-type: docs
-hide_feedback: true
 description: 'Bagaimana mendorong tim baru dalam mewujudkan solusi DeFi di Cardano?'
 ---
 

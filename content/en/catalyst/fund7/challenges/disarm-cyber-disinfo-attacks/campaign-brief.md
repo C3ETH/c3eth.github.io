@@ -1,8 +1,6 @@
 ---
 title: "Disarm cyber disinformation attacks"
 linkTitle: "Disarm cyber disinformation attacks"
-type: docs
-hide_feedback: true
 description: "How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?"
 ---
 Fund Size: **$100,000 USD paid in Ada**
@@ -10,6 +8,7 @@ Fund Size: **$100,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26239) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Disarm-cyber-disinformation-attacks) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/disarm-cyber-disinformation-attacks)
 
 ## Campaign Brief
+
 In a proof of stake system with distributed governance a common understanding of truth and reliance on authentic sources of correct and provable information can be crucial for avoiding a splitting of the community into two or more feuding camps.
 
 A distributed denial-of-truth (DDoT) attack could be defined as a malicious attempt to disrupt the normal operations of a community, service or network by overwhelming the target, its surrounding infrastructure and community with a flood of disinformation and malinformation.
@@ -47,12 +46,15 @@ Truth is hard to establish - references are made to talks and private discussion
 The general community has no way to verify the true merits of the claims - as they are undocumented. Two camps emerge. Cardano community splits along fault lines. This adds more fuel to the fire. ADA value plunges. The very sources of truth in the Cardano ecosystem come under question. The entire system teeters. A DDOT attack by a group of two dozen well organized distributed players is underway. Governance is rocked.
 
 ## Why is it Important?
+
 Legacy systems have been brought to the brink by the inability of stakeholders, participants and the public to agree on what is truth.
 
 ## How does success look like?
+
 Truth about Cardano and ongoing and past events is easy to establish even for newcomers. Trust not being eroded. Transparency is enhanced.
 
 ## Key Metrics to measure
+
 - Easier access to information about the Cardano treasury and its funds, treasury disbursement, past, current and future monetary policy
 - Historical transactions from the treasury and founding entities can be easily identified by any non-power user of Cardano with a couple of clicks
 - Treasury 101 information sources are established explaining the basics of how the Treasury works and how all Treasury-related facts can be verified independently - with how-to-guides

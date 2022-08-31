@@ -1,43 +1,44 @@
 ---
-title: 'Miscellaneous Challenge(その他の課題)'
-linkTitle: 'Miscellaneous Challenge(その他の課題)'
+title: "Miscellaneous Challenge"
+linkTitle: "Miscellaneous Challenge"
 type: docs
 hide_feedback: true
-description: '他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？'
+description: "How do we create a space for ideas and projects that do not fit any of the other current Challenges?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">
 
 Fund Size: **500,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/381326)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/381326) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？
+How do we create a space for ideas and projects that do not fit any of the other current Challenges?
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-その他のチャレンジを作成すると、他のチャレンジに適合しない場合でも、特定のファンドで優れたアイデアに資金を提供できるようになります。
+Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don't fit any other Challenge.
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-他のチャレンジではカバーされない問題に焦点を当てた素晴らしいアイデアに資金を提供します。
+Funding great ideas that focus on problems that are not covered by any other Challenge.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-このチャレンジの最後に、私たちは自分自身に問いかけます。このチャレンジはコミュニティにとって価値があったのでしょうか？
+At the end of this challenge, we will be asking ourselves: was this challenge valuable to the community?
 
-- コミュニティによって承認された、他の課題にうまく適合しない提案にうまく資金を提供します。
-- その他のチャレンジで提出された提案に基づいて、以下の基金で提案される可能性のある特定されたチャレンジの数。
+- Successfully fund proposals, approved by the community, that don't fit well any other challenges.
+- Number of identified possible Challenges to be proposed in the following Funds based on proposals submitted in the Miscellaneous Challenge.
 
-## チャレンジブリーフ
 
-この課題は、現在他の課題に適合していない、興味深く価値のあるプロジェクトをキャプチャするように設計されています。
+## Challenge Brief
 
-このチャレンジで提案を提出するための唯一の制約は、提案が何らかの形でカルダノに関連している必要があるということです。
+This challenge is designed to capture interesting and valuable projects that do not currently fit into other challenges.
 
-### チャレンジアラインメントの定義
+The only constrain to submit a proposal in this challenge is that the proposal needs to be somehow related to Cardano.
 
-評価段階で、コミュニティアドバイザーは、このチャレンジで提出された提案が他の既存のチャレンジのいずれかに適しているかどうかを評価する必要があります。
+### Defining the challenge Alignment
 
-これが当てはまる場合、つまり、提案がチャレンジの目標と十分に一致している別のチャレンジがある場合、この提案は「その他のチャレンジ」とあまり一致していません。
+During the assessment stage, Community Advisors should evaluate if proposals submitted in this challenge would be a good fit in any of the other existing challenges.
+
+If this is the case, i.e., there is another challenge where the proposal would be well aligned with the challenge goals, then this proposal is not so well aligned with the 'Miscellaneous Challenge'.

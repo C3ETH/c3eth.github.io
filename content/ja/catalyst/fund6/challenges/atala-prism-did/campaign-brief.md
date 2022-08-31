@@ -1,43 +1,48 @@
 ---
-title: "Atala PRISM DID 大規模な採用"
-linkTitle: "Atala PRISM DID 大規模な採用"
-type: docs
-hide_feedback: true
+title: "Atala PRISM DID Mass-Scale Adoption"
+description: "Atala PRISM DID Mass-Scale Adoption"
+draft: flase
+menu:
+    catalyst:
+        parent: "challenge-setting-proposals"
+
+weight: 220
+toc: true
 ---
-CardanoのDIDの大規模な採用を推進するには？
+What will drive mass-scale adoption of decentralized IDs on Cardano?
 
-予算規模: **$250,000 USD paid in Ada**
+Fund Size: **$250,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26116) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified)。
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26116) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-Cardanoエコシステムへの使いやすいオンランプとして、DID (リリース時にはAtala PRISMが望ましい) 使用例の大規模な採用を促進する手段または方法を提案します。 これには、ユーザーまたはエンティティにデジタルの自分の権利確立を開始するためのDIDを提供するあらゆる方法が含まれます。 これがどのように大規模に実装されているかを考えてみてください。一度dApps、ツール、DeFiなどのサービスの顧客になれる、何百万人ものユーザーを引き込んでみましょう。
+Propose a means or way to drive mass-scale adoption of DID usage as an easy-to-use onramp to the Cardano ecosystem (preferably Atala PRISM when released). This can include any method that will offer users or entities a decentralized ID to start defining their digital self-sovereignty. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.
 
-私たちは思考的指導者のコミュニティであり、行動で自分の考えを示す時です。 個人識別情報(PII)の自己の主権の存在と所有を確立するために、DIDを使用することで、制度の分散化が進み、個人や団体に利益をもたらします。
+We are a community of thought leaders and it is time to demonstrate our thoughts with actions. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.
 
-このチャレンジは、DIDをCardanoエコシステムに組み込むことで、PIIをDIDテクノロジーと標準で保護し制御することを要求する草の根活動で地面を変えていく小さな方法です。
+This Challenge is about small ways we can incorporate DIDs into the Cardano ecosystem to start the ground swell at the grassroots that demands PII be secured and controlled with DID technologies and standards.
 
-Cardanoコミュニティが交換可能で相互運用可能な（WW DID標準による）DIDの大量採用を計画していることを**世界に知らせ、私たちの個人的なDIDの起源が私たちのホームブロックチェーンであるCardanoに結びつけることについて深く考慮します。**
+It is about **signaling to the world** that the Cardano community plans mass-adoption of DID that is interchangeable, interoperable (by WW DID standards) and **we care deeply that the origin of our personal DID is tied to our home blockchain—Cardano.**
 
-私たちはAtala PRISMのDIDのインスタンス化をサポートしたいです。 これは、Cardanoプラットフォームにユーザーを引き込むためにDIDを必要とするアイデアや概念を構築するということです。 そして、PRISMはオープンスタンダードで構築されているので、誰でも可能性を考え、提案することができます。
+While we prefer to support Atala PRISM's instantiation of DID, this is more about building ideas and concepts that require DID to draw users to the Cardano platform. And since PRISM is building to the open standards, those are available for anyone to imagine possibilities and offer proposals.
 
-このチャレンジに対するコミュニティの反応をIOHKは見失いません。 IOHKは素晴らしいアイデアや提案の広がりを見ることで、計画されたPRISMコンポーネントのオープンソーシングのためのタイムラインの迅速化に役立ちます。
+It won't be lost on IOHK how the community responses to this Challenge. Should IOHK see a ground swell of great ideas and proposals, that could help them justify expediting timelines for their planned open sourcing of PRISM components.
 
-## なぜ重要なのか？
+## Why is it important?
 
-Atala PRISM DIDはCardanoブロックチェーンとエコシステムへのゲートウェイです。 オンボードユーザーにとって不可欠である技術と市場を構築します。
+Atala PRISM DID is a gateway to the Cardano blockchain and ecosystem. Building technology and marketecture that on-boards users is crucial.
 
-## 成功するとどのような未来が見えますか？
+## How does success look like?
 
-Cardanoのユーザーベース、ネットワークユーティリティ、ネットワーク価値 & ADA流動性を実質的に成長させることができる多くの高品質なアイデアが提案されます。
+Many high quality ideas will be proposed that can substantially grow Cardano's user-base, network-utility, network-value & ADA circulation.
 
-## 測定する主要なメトリック
+## Key Metrics to measure
 
-- 定量化可能な方法でDIDの使用事例に直接対応する提案の数。
-- コミュニティの関心と関与によって測定された提案の質.
-- Fund7が資金を供給したプロジェクトの結果は、CardanoブロックチェーンでのDIDの大量採用とそのユーティリティーに大きな影響を与えます。
+- The number of proposals that directly address DID use cases in a quantifiable manner.
+- The quality of proposals measured by community interest and engagement.
+- Results of any Fund7 funded projects significantly impacting mass-scale adoption of DID's and their utility on the Cardano blockchain.
 
-## 参照
+## References
 
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)

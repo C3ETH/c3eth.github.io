@@ -17,6 +17,7 @@ There are already many community-driven events taking place in the wider Catalys
 These events are important and critical for the success of Catalyst because they are bringing the community together and they introduce and onboard new people to our ecosystem. Furthermore the community has used these sessions for collaborative problems sensing and also new teams and initiatives were established. Overall, community events give our community its face and personal touch.
 
 ## Guiding Questions
+
 - How can we increase meaningful participation in Project Catalyst among all stakeholders?
 - How can we increase voter-proposer interaction?
 - How can we onboard and integrate new people into Project Catalyst?
@@ -26,31 +27,38 @@ These events are important and critical for the success of Catalyst because they
 - How can the number of participants in events be increased?
 -How can events help keep the community together?
 
-## why is it Important?
+## Why is it Important?
+
 Community-driven projects like Catalyst need organized events to connect, discuss ideas, solve problems together and initiate collaboration.
 
 ## How does success look like?
+
 A diverse community characterized by high engagement, collaborative problem sensing and strong execution teams.
 
 ## Key Metrics to measure
+
 Increase active participation in Project Catalyst among all stakeholders:
 
 ### Proposers
+
 - Number of proposals
 - Quality of proposals (CA rating)
 - Number of successfully implemented proposals
 
 ### Voters
+
 - Number of registered wallets
 - Amount of registered ADA
 - Number of votes
 
 ### Community Advisors
+
 - Number of active CAs/vCAs
 - Number of assessments
 - Number of high quality assessments
 
 ### Increase active participation in community events:
+
 - Number of community events
 - Number of participants
 - Diversity of participants

@@ -12,15 +12,19 @@ Fund Size: **500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/381022) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in 2022?
 
 ### Why is it important?
+
 Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
 
 ### What does success look like?
+
 Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding
 
 ### Key Metrics to measure
+
 - How many new Hubs were launched in 2022?
 - How many developers did this community-focused challenge bring into the Cardano ecosystem?
 - How many new users of Cardano were onboarded?
@@ -28,6 +32,7 @@ Local Community Hubs across the world where the average person can take part in 
 - How many external organizations did this community-focused challenge bring into the Cardano ecosystem?
 
 ### Challenge Brief
+
 ***Challenge Updates***
 
 **Top 3 Challenge Category in Fund 7** by number of submissions (see attached).
@@ -83,9 +88,9 @@ In simpler terms, consider why a hub exists, in the context of it's location, ac
 
 When you **drive adoption at the ground level**, you are doing more than just 'building cool products', you are **empowering people to change their lives** in ways they could have never imagined by themselves.
 
-![](https://i.imgur.com/bZQvrLI.jpeg)
+![Scale-Up Cardano](https://i.imgur.com/bZQvrLI.jpeg)
 
-![](https://i.imgur.com/MWddZex.gif)
+![Scale-Up Cardano](https://i.imgur.com/MWddZex.gif)
 
 #### Extra reading (where we are going):
 

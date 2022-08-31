@@ -1,46 +1,46 @@
 ---
-title: 'Improve and Grow Auditability(監査可能性の向上と成長)'
-linkTitle: 'Improve and Grow Auditability(監査可能性の向上と成長)'
+title: "Improve and Grow Auditability"
+linkTitle: "Improve and Grow Auditability "
 type: docs
 hide_feedback: true
-description: '資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？'
+description: "How to make the auditing process of funded proposals efficient, distributed and transparent?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" style="width:500px;height500px">
 
 Fund Size: **200,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383480)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/383480) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？
+How to make the auditing process of funded proposals efficient, distributed and transparent?
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-資金提供された提案が、彼らの使命で確立されたものを提供しているかどうかを確認するために評価されることが重要です。
+It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-資金提供された提案を評価し、プロジェクトの開発と実施に関するレポート、記事、指標を提供するいくつかのプロジェクト。
+Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-- 監査された資金提供された提案の数
-- さまざまな課題での提案の作成について監査および報告することが目的であることを考えると、各課題に関連して成功指標を検討することが重要です。
-- 上のレポート、記事、ビデオ/ポッドキャストの数：
-- パフォーマンス
-- 実績
-- 財務
-- オンボーディングされた開発者の数。
-- 資金提供されたプロポーザルリポジトリ（Github）のコミット数
-- 指標：dappsと相互作用するトランザクション、ボリューム、および固有のウォレット。
-- 監査されたスマートコントラクトの数。
-- ソーシャルメディアエンゲージメント指標。
+- Number of funded proposals audited
+- Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that - - - success metrics are thought out in relation to each challenge.
+- Number of reports, articles and videos/podcasts on:
+- Performance
+- Achievements
+- Financials
+- Number of onboarded developers.
+- Number of commits in funded proposal repositories (Github)
+- Indicators of: transactions, volume and unique wallets interacting with dapps.
+- Number of smart contracts audited.
+- Social media engagement indicators.
 
-## チャレンジブリーフ
+## Challenge Brief
 
-Fund7が発生すると、300近くの資金提供された提案があります。これらの提案が提供されているかどうか、およびROIが最初に確立されたものと一致しているかどうかを確認するために、これらの提案を評価/監査することが非常に重要です。
+When Fund7 happens we will be close to 300 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.
 
-現在、IOGはこれらの資金提供された提案の開発を監視していますが、資金提供された提案が何百もある場合、これはIOGにとって圧倒的な作業になります。
+Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.
 
-監査可能性の課題は、カルダノの財務リソースの使用における透明性を確保することを目的としています。これにより、カルダノコミュニティは、チェックアンドバランスシステムを通じて資金提供された提案の開発に関するより多くの情報を得ることができます。
+The Auditability challenge aims to ensure transparency in the use of Cardano's treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.

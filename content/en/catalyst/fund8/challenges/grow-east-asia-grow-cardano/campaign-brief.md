@@ -12,15 +12,19 @@ Fund Size: **150,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/382067) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How do we grow the Cardano ecosystem in East Asia in an inclusive and supportive way? The same way we do in Africa, focused initiatives!
 
 ### Why is it important?
+
 The Cardano community leans heavily toward North America and Europe. Growth elsewhere requires our support and initiative as a community.
 
 ### What does success look like?
+
 A broad spectrum of people across Asia and connected to Asia, coming together and forming teams to grow our ecosystem.
 
 ### Key Metrics to measure
+
 At the end of this challenge, we will be asking ourselves some questions about the quality of participation:
 
 The number of proposals originating from East Asian participants in Project Catalyst
@@ -48,6 +52,7 @@ Was social and environmental impact evaluation used to measure proposal performa
 What is the sustainability of proposals beyond the scope of Catalyst?
 
 ## Challenge Brief
+
 As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
 
 The nature of the proposals for this challenge is open-ended. Their only requirement is to originate or focus on East Asia and include east Asian team members or focus on East Asian participants.
@@ -56,7 +61,7 @@ For instance, the overwhelming majority of Stake Pools reside in North America a
 
 Cardano started life in East Asia (Japan and Hong Kong), and Emurgo focuses on East Asia. Let's build upon that.
 
-What this is:
+## What this is:
 
 A call to action; Activate the Cardano community's ability to recognise, reward the opportunity to make the world a better place. East Asia is fertile ground for the adoption of Cardano. The return on intention (ROI) is likely to be high because projects in young and developing economies face less economic inertia.
 

@@ -1,8 +1,13 @@
 ---
 title: "Metadata challenge"
 linkTitle: "Metadata challenge"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we utilize transaction metadata to solve real world problems?

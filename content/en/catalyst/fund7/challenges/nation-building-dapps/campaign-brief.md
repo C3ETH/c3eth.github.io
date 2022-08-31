@@ -10,6 +10,7 @@ Fund Size: **$600,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26249) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26249/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Nation-Building-Dapps) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/nation-building-dapps)
 
 ## Campaign Brief
+
 Dapp proposals should cover foundational Registry solutions, namely:
 
 National ID & Civil Registry, Property Registration, Medical & Vaccination, Education Census, Revenue Service, Business Incorporations, Elections Voting, Customs & Border Control, Criminal Records, Employment Census, Vehicle Registration, Licensing & Certifications.
@@ -22,12 +23,15 @@ It is further advised Proposers to obtain a knowledge base over research done in
 
 
 ## Why is it Important?
+
 For the poor nations with no foundations to stand on, Government Dapp solutions will be the building blocks enabling sustainable prosperity
 
 ## How does success look like?
+
 Dapps adoption by Governments across developing nations, in collaboration with Local Community Centers and International Partnerships
 
 ## Key Metrics to measure
+
 - Number of proposals
 - Proposals CA ratings
 - Diversity of Dapp's use cases

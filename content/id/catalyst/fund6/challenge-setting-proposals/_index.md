@@ -1,13 +1,12 @@
 ---
-title: "Challenge Setting Proposals"
-linkTitle: "Challenge Setting Proposals"
-type: docs
-weight: 20
-hide_feedback: true
-icon: fas fa-fire
-description: >
-    TODO - Customize site navigation and search here. 
+title : "Challenge setting proposals"
+description: "Challenge setting fund 6"
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
+menu:
+catalyst:
+parent: "catalyst-fund-6"
 ---
-
-This index page is yet to be udated. 
-This is the **Catalyst Proposals for fund 6** section. It will update for each fund.

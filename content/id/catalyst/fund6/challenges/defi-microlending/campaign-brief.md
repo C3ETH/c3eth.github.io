@@ -1,8 +1,13 @@
 ---
 title: DeFi dan Pinjaman Mikro untuk Afrika
 linkTitle: DeFi dan Pinjaman Mikro untuk Afrika
-type: docs
-hide_feedback: 'true'
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Ukuran Dana: **$90,000 di Ada**

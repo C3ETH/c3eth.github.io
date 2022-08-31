@@ -1,43 +1,41 @@
 ---
-title: "Cardano新たな脅威のアラーム"
-linkTitle: "Cardano新たな脅威のアラーム"
+title: "Cardano Emerging Threat Alarm"
+linkTitle: "Cardano Emerging Threat Alarm"
 type: docs
 hide_feedback: true
 ---
 
-# 
+How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?
 
-脅威がシステムを壊す前に、ステークホルダーがCardanoブロックチェーンの深刻な脅威を特定するのをどのように支援できますか？
+Fund Size: **$50,000 USD paid in Ada**
 
-予算規模: **$50,000 USD paid in Ada**
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26110) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified).
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26110) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified)。
+## Campaign Brief
 
-## キャンペーン概要
+Blockchain systems are a complex amalgam of technological, economic and social components that rely and are used by many stakeholders from different geographies and backgrounds. These systems are not isolated from the real world and unexpected threats may emerge from the dynamic interaction.
 
-ブロックチェーンシステムは、さまざまな地域や背景から多くの利害関係者によって頼られ、使用されている技術的、経済的、社会的要素の複雑な統合です。 これらのシステムは現実世界から隔離されておらず、ダイナミックな相互作用から予想外の脅威が生じる可能性があります。
+Cardano stakeholders (users, SPOs, DApp developers, partners, Exchanges, governments, companies) need a resilient system that is able to identify and grade developing threats to its own existence.
 
-Cardanoステークホルダー(ユーザー、SPO、DApp開発者、パートナー、交流、政府)。 企業) は、脅威を特定し、評価することができる強靭なシステムが必要です。
+## Why is it important?
 
-## なぜ重要なのか？
+Cardano complexity increases with decentralization, native tokens, multi-asset support, smart contracts and new users. Threats will emerge.
 
-分散化、ネイティブトークン、マルチアセットサポート、スマートコントラクト、新しいユーザーによってCardanoの複雑さが増します。 脅威が出現するでしょう。
+## How does success look like?
 
-## 成功するとどのような未来が見えますか？
+Stable evolution. Cardano successfully onboards new users, developers, DApps, tokens, SPOs, oracles, companies. Threats are identified
 
-安定した進化。 Cardanoは正常に新しいユーザー、開発者、DApps、トークン、SPO、オラクル、企業をオンボード。 脅威が特定されます
+## Key Metrics to measure
 
-## 測定する主要なメトリック
+At the end of this challenge, we should be asking ourselves: Did we manage to create a simple mechanism for identifying novel, emerging systemic threats to the Cardano ecosystem? We can't see the future now, but as events unfold we may be able to use our collective wisdom and senses to detect new dangers for the Cardano blockchain and its usage.
 
-この課題の終わりに、私たちは自分自身に問いかける必要があります。Cardanoエコシステムに対する新たな脅威を特定するためのシンプルなメカニズムを作成することができましたか？ 今、未来ることはできませんが、イベントが展開するにつれて、私たちの集合的な知恵と感覚を使用して、Cardanoブロックチェーンとその使用法の新しい危険性を検出できる可能性があります。
+- Number of potential threats that have been submitted.
+- Grading of the submitted threats by urgency
+- Number of threats that have been identified as serious and systemic.
+- Grouping of threat sources into categories and types to determine wider danger areas
+- Number of Cardano stakeholders interacting with the threat alert mechanism
+- Number of Catalyst proposals submitted and accepted for funding in subsequent funding rounds to directly address the most pressing identified threats.
 
-- 送信された潜在的な脅威の数。
-- 提出された脅威の緊急度による評価
-- 深刻かつシステム的な脅威として識別された脅威の数。
-- より広い危険領域を決定するために、脅威源をカテゴリとタイプにグループ分けします
-- 脅威アラートメカニズムと相互作用しているCardanoステークホルダーの数
-- その後の資金調達ラウンドで資金調達のために提出され、受け入れられたCatalyst 提案の数は、最も緊急に特定された脅威に直接対処します。
+## References
 
-## 参照
-
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088)
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088)

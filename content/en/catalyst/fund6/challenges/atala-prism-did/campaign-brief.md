@@ -1,10 +1,14 @@
 ---
 title: "Atala PRISM DID Mass-Scale Adoption"
-linkTitle: "Atala PRISM DID Mass-Scale Adoption"
-type: docs
-hide_feedback: true
----
+description: "Atala PRISM DID Mass-Scale Adoption"
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
 
+weight: 220
+toc: true
+---
 What will drive mass-scale adoption of decentralized IDs on Cardano?
 
 Fund Size: **$250,000 USD paid in Ada**

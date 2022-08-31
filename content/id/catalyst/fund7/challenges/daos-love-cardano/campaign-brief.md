@@ -16,12 +16,12 @@ Saat ini jika DAO (bahkan yang ditujukan untuk membangun produk dan layanan di s
 
 DApps ini berkisar dari manajemen Treasury dasar, hingga pengambilan keputusan di DAO dan bahkan layanan pendukung seperti Decentralized Justice. Beberapa dari mereka adalah:
 
-- https://aragon.org
-- https://daostack.io
-- https://colony.io
-- https://www.molochdao.com
-- https://abridged.io
-- https://kleros.io
+- <https://aragon.org>
+- <https://daostack.io>
+- <https://colony.io>
+- <https://www.molochdao.com>
+- <https://abridged.io>
+- <https://kleros.io>
 
 ### Cardano membutuhkan:
 

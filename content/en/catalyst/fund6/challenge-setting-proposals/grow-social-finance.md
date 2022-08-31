@@ -1,15 +1,11 @@
 ---
 title: "Grow Social & Environmental Finance"
-linkTitle: "Grow Social & Environmental Finance"
-type: docs
 hide_feedback: true
 weight: 20
-description: > 
+description: >
    To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
 
 ---
-**Challenge:** [Fund 7 Challenge Setting]({{< relref "../challenges/fund7-challenge-setting/campaign-brief.md" >}})
-
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
 
 **Requested Amount (USD):** $250,000
@@ -42,7 +38,7 @@ At the moment there are very few usage metrics addressing Social & Environmental
 
 * Daily/Monthly Active Wallets (DAW/MAW) - Measure of momentum and engagement
 * Average Order Value - Measures who are using services, how much and how often.
-* Total Value Locked (TLV) - Measure of confidence in DeFi market protocols. 
+* Total Value Locked (TLV) - Measure of confidence in DeFi market protocols.
 * Take Rate (Rake) - Measure of efficiency
 * Gross Merchandise Volume (GMV) - Total value of services transacted.
 
@@ -63,8 +59,8 @@ Delivering an outcome that has an impact is a lot harder than just delivering a 
 * Challenges around the “attribution” of impact – meaning the allocation of an impact-related claim to an investor risks “double-counting.”
 * Roadblocks in monetizing impacts – illiquid impact markets, uncertain returns, high transaction costs.
 
-Propose market solutions, financial mechanisms, or means of measuring impact. Think about how these can be deployed at scale to affect positively millions of people. Think about how the results of your proposal can be embedded or reused in different market contexts, or integrated with existing providers. 
+Propose market solutions, financial mechanisms, or means of measuring impact. Think about how these can be deployed at scale to affect positively millions of people. Think about how the results of your proposal can be embedded or reused in different market contexts, or integrated with existing providers.
 
-Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education. 
+Igniting impact investment on Cardano will provide capital to address the world’s most pressing challenges in sectors such as sustainable agriculture, renewable energy, conservation, microfinance, and affordable and accessible basic services including housing, healthcare, and education.
 
 To achieve impact requires cooperation and collaboration, something Cardano can enable. Could the answer to better managing the world’s resources lie not in government or big investors but instead in technologies that empower peer-to-peer assistance. Community-based finance or data-driven crowdfunding for instance. How can we leverage the awesome power of the Cardano ecosystem to be that catalyst?

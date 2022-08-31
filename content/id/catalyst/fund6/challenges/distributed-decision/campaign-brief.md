@@ -1,8 +1,13 @@
 ---
 title: "Pembuatan keputusan yang terdistribusi"
 linkTitle: "Pembuatan keputusan yang terdistribusi"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 Bagaimana kita dapat membantu komunitas Catalyst untuk dapat lebih baik membuat keputusan yang terdistribusi dalam dua fund Catalyst berikutnya?
 

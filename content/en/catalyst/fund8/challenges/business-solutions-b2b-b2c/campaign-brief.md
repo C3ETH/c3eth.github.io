@@ -1,8 +1,6 @@
 ---
 title: "Business Solutions B2B & B2C"
 linkTitle: "Business Solutions B2B & B2C"
-type: docs
-hide_feedback: true
 description: "How can Cardano-based solutions help meet real business needs and what would be their impact?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">
@@ -12,15 +10,19 @@ Fund Size: **1,000,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/382660) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How can Cardano-based solutions help meet real business needs and what would be their impact?
 
 ### Why is it important?
+
 Companies are finally discovering the power of blockchain technologies and Cardano is ready to onboard exciting B2B and B2C solutions.
 
 ### What does success look like?
+
 Innovative products and services that increase efficiency, transparency, and stakeholder engagement as well as expand business to new areas.
 
 ### Key Metrics to measure
+
 - of Cardano dApps supporting business solutions
 - of existing companies proposing Cardano-based solutions
 - of partnerships,joint ventures created between companies
@@ -31,6 +33,7 @@ Innovative products and services that increase efficiency, transparency, and sta
 
 
 ## Challenge Brief
+
 For years blockchain has held a promise that has not been properly filled. Spot solutions for e.g. traceability, supply chain management, identification and payments have been implemented but large scale benefits of this promising technology are yet to be seen. Based on years of rigorous research and development, Cardano is one of the most serious contenders to fulfill this promise.
 
 Recent and upcoming technological developments in Cardano—smart contracts, Yoroi dApp connector, larger block size (higher throughput), sidechains and state channels, to name a few—are gearing Cardano to be ready for large scale adoption in 2022.

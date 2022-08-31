@@ -1,8 +1,13 @@
 ---
 title: "Fund 7 Challenge Setting"
 linkTitle: "Fund 7 Challenge Setting"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 What Challenges should the community prioritize to address in Fund7?

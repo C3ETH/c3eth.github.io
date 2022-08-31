@@ -12,20 +12,25 @@ Fund Size: **400,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/383094) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 What research and scaling implementations can be introduced to help Cardano increase scalability?
 
 ### Why is it important?
+
 Hydra will not solve every scaling problem in Cardano, more scaling solutions are needed as alternatives.
 
 ### What does success look like?
+
 Scaling solutions that are introduced and implemented by the community that Cardano projects can start using.
 
 ### Key Metrics to measure
+
 - Number of scaling solutions available to the community to use within their projects
 - Number of projects launched on any of the new scaling solutions
 - Novel ideas generated from research on different scaling approaches
 
 ## Challenge Brief
+
 For Cardano to become a global leader as a smart contract blockchain it will need to scale to meet the requirements of handling hundreds of millions of users.
 
 ### Current Scaling Situation
@@ -58,9 +63,11 @@ Scalability topic areas:
 - State channels
 
 ### Size of Proposals
+
 Scaling solutions are inherently complex and require significant engineering effort. As a result proposers should not be discouraged from making proposals that request most of the challenge budget. A single proposal team is both welcome and encouraged to request the entire budget if they can demonstrate an articulated plan with the technical expertise to address the challenge of scaling solutions that are suitable for growing Cardano.
 
 ### Budget rationale
+
 High technical expertise is needed for scalability solutions. Projects will likely take many months of engineering effort to implement viable solutions.
 
 ### Follow on funding rounds

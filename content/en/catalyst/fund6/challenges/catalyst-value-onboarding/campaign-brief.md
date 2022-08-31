@@ -1,8 +1,12 @@
 ---
 title: "Catalyst value onboarding"
-linkTitle: "Catalyst value onboarding"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?

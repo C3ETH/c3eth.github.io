@@ -1,8 +1,13 @@
 ---
 title: "Adopsi Massal Atala PRISM DID"
-linkTitle: "Adopsi Massal Atala PRISM DID"
-type: docs
-hide_feedback: true
+descripstion: "Adopsi Massal Atala PRISM DID"
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 Apa yang akan mendorong adopsi massal IDs yang terdensentralisasi diatas Cardano?
 
@@ -40,4 +45,4 @@ Banyak proposal berkualitas tinggi yang akan diajukan serta dapat secara substan
 
 ## Referensi
 
-1. [Sumber awal Proposal Tantangan yang Ditentukan](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)
+- [Sumber awal Proposal Tantangan yang Ditentukan](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)

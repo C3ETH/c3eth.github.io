@@ -1,0 +1,120 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Catalyst Eastern Townhall"
+titleSeparator = "-"
+titleAddition = "Home"
+description = "Welcome to our network of Eastern Cardano Community Network. We act and operate united and aligned across languages, cultures and mentalilites to explore the highest potential of human collaboration."
+
+## Documentation
+# docsVersion = "0.3"
+
+# Set site logo or disable
+siteLogo = true
+siteLogoLight = "/images/logo-light.png"
+siteLogoDark = "/images/logo-dark.png"
+siteLogoWidth = "280px" # width adjustment or set 'auto'
+
+## Open Graph
+images = ["c3eth-display.png"]
+ogLocale = "en_US"
+domainTLD = "doks.netlify.app"
+titleHome = "Eastern Town Hall"
+
+## Twitter Cards
+twitterSite = "@c3eth"
+twitterCreator = "@c3eth"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Eastern Town Hall"
+schemaAuthor = "Eastern Town Hall"
+schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub = "https://github.com/C3ETH"
+schemaLocale = "en-US"
+schemaLogo = "c3eth-logo.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "c3eth-display.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/c3eth"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/C3ETH/c3eth.github.io"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer= "2022 Catalyst Community All Rights Reserved"
+
+# Feed
+copyRight = "Copyright (c) 2022 Catalyst Community"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/C3ETH/c3eth.github.io.git"
+docsRepoBranch = "main"
+docsRepoSubPath = ""
+editPage = true
+lastMod = false
+
+[sections]
+  sectionNav = ["docs"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = false
+  searchSectionsShow = ["docs", "catalyst", "ca-tv"]
+  searchSectionsIndex = ["docs", "catalyst", "ca-tv"]
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = true
+  highLight = true
+  kaTex = false
+  multilingualMode = true
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

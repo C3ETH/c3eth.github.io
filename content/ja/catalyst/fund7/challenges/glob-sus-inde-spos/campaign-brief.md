@@ -1,48 +1,47 @@
 ---
-title: SPOのグローバルな持続可能な独立
-linkTitle: SPOのグローバルな持続可能な独立
+title: "Global Sustainable Indep. SPO's"
+linkTitle: "Global Sustainable Indep. SPO's"
 type: docs
 hide_feedback: true
-description: カルダノネットワークを運営するために、分散型でグローバルに分散された持続可能なオペレーターのプールをどのように促進できますか
+description: "How can we promote a decentralised, globally distributed and sustainable pool of operators to run the Cardano network"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 100,000  USD**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26246) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos)
 
-## キャンペーン概要
+## Campaign Brief
 
-ネットワークのセキュリティは、SPOの分散型プールに依存して実行されます。適切なサポートがなければ、小規模なSPOは、大企業が市場シェアの過半数を獲得するまで、大企業が参入したり押し出したりするのに苦労します。これらの組織がすべてのインフラストラクチャに同じホスティングプロバイダーを使用している場合、これは追加のリスクを追加します。
+Security of the network relies on a decentralised pool of SPO's to run it. Without proper support, smaller SPO's will struggle against big players moving in and pushing them out untill they have a majority market share. If these organizations use the same hosting providers for all their infrastructure, this adds additional risk.
 
-一方、ノードを実行してネットワークに参加することは、コミュニティのイニシアチブがプロジェクトをサポートするための優れた方法になる可能性があります。小規模なミッションに焦点を当てたSPOをサポートおよび促進することにより、ネットワーク全体のセキュリティが向上します。大規模なホスティングプロバイダーは、環境フットプリントをほとんど気にしないことでも有名です。持続可能なエネルギー源で稼働するSPOを推進することにより、2つの目標を達成しています。1つはカルダノネットワークのエコロジカルフットプリントの削減、もう1つは使用するインフラストラクチャの観点からのより分散した安全なネットワークです。
+On the other hand, running nodes and participating in the network can be a great way for community initiatives to support their projects. By supporting and promoting smaller mission focussed SPO's the security of the whole network benefits. Larger hosting providers are also notorious for caring little for their environmental footprint. By promoting SPO's which run on sustainable energy sources we are achieving two goals: A lower ecological footprint of the Cardano network and a more distributed and secure network in terms of infrastructure used.
 
-## ガイドの質問：
+## Guiding Questions:
 
-シングルステークプールオペレーターに関しては、コミュニティプロジェクトに接続されたステークプールと公共の目的に利益をもたらすステークプール。
+Regarding Single Stake Pool Operators, Stake Pools connected to community project & Stake Pools benefiting a public cause, which proposals would:
 
-- ステーキングを通じてこれらのステークプールをサポートするためにコミュニティ資金を使用できるようにする
-- ステークプールを選択する際にADA保有者が正しい決定を下せるように支援する
-- 世界中のステークプールの分散型で多様な配布を促進する
+- Allow community funds to be used to support these stakepools through staking
+- Help ADA holders to make the right decisions when choosing a stakepool
+- Promote a decentralised and diverse distribution of stakepools across the globe
 
-## 考えられる方向：
+## Possible Directions:
 
-- コミュニティ資金を使用してステーキングによってステークプールをサポートするモデル/スマートコントラクトを設計する
-- 独立したSPOの正当性の促進と証明を支援するプラットフォーム/組織
-- SPOインフラストラクチャ/ホスティングの監査システム
-- ステークプールをセルフホスティング/管理するためのガイド/ツール
-- プールの分散/分散ホスティングを促進するためのトポロジモデル/プロトコルを開発する
+- Design models/smart contracts to use community funds to support stakepools by staking
+- Platform/organisation to help independent SPO's promote and proof legitimacy
+- audit systems of SPO infrastructure/hosting
+- guide/tools for self-hosting/managing a stakepool
+- Develop topology models/protocols to encourage dispersed/decentralised hosting of pools
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-グローバルに分散された自立型ネットワークは、ネットワークに対する多くの主要な脅威に対する最善の防御策です。
+A globally distributed self-reliant network is the best defense against a number of major threats to the network
 
-## 成功はどのように見えますか？
+## How does success look like?
 
-世界中のステークプールオペレーターの多様で健全なエコシステムが、多数のインフラストラクチャ上でネットワークを集合的に実行しています
+A diverse and healthy ecosystem of stake pool operators from around the globe collectively run the network on a multitude of infrastructures
 
-## 測定する主要な指標
+## Key Metrics to measure
 
-- 世界中のステークプールの分散
-- プロジェクト/ NGOベースのSPOに賭けられたadaのコミュニティ資金の量
-- SPOに使用される検証済みの一意のホスティングプロバイダー/セルフホストインフラストラクチャの数
-- 主にグリーンエネルギーを使用するステークプールの数
+- dispersion of stakepools around the globe
+- amount of community funds in ada staked to projects/ngo based SPO's
+- number of verified unique hosting providers/self hosted infrastructures used for SPO's
+- number of stakepools using green energy primarily
