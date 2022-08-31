@@ -1,10 +1,10 @@
 ---
-title: '"Hợp đồng thông minh là gì?"'
-description: '"Hợp đồng thông minh là gì?"'
+title: 'Hợp đồng thông minh là gì?'
+description: 'Hợp đồng thông minh là gì"'
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06 08:48:23 +0000
+lastmod: 2020-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
