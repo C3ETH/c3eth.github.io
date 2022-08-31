@@ -1,6 +1,6 @@
 ---
-title: How to delegate and earn rewards?
-description: How to delegate and earn rewards?
+title: '"Làm thế nào để ủy quyền và kiếm phần thưởng?"'
+description: '"Làm thế nào để ủy quyền và kiếm phần thưởng?"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
