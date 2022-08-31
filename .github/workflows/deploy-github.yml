@@ -36,5 +36,5 @@ jobs:
           publish_branch: website # Deploy branch
           force_orphan: true
           user_name: 'github-actions[bot]'
-          user_email: '82072426+wolstaeb@users.noreply.github.com'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: ${{ github.event.head_commit.message }}
