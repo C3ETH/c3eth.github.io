@@ -12,112 +12,112 @@ Phần này mô tả mô hình cấp cao của Cardano. Nó cung cấp thông ti
 
 ### Mô hình cấp cao của Cardano
 
-The following diagram outlines the interaction between the system components of Cardano:
+Sơ đồ sau đây phác thảo sự tương tác giữa các thành phần hệ thống của Cardano:
 
-![Image](https://ucarecdn.com/3756645a-a4a2-4d2f-846a-e454bf7cba60/)
+![Hình ảnh](https://ucarecdn.com/3756645a-a4a2-4d2f-846a-e454bf7cba60/)
 
-### System components
+### Thành phần hệ thống
 
-The current implementation of Cardano is highly modular. It includes the following components (different deployment use cases will use different combinations of components):
+Việc triển khai Cardano hiện tại mang tính mô-đun cao. Nó bao gồm các thành phần sau (các trường hợp sử dụng triển khai khác nhau sẽ sử dụng các kết hợp khác nhau của các thành phần):
 
-- [Node](https://github.com/input-output-hk/cardano-node)
-- [Command line interface (CLI)](https://github.com/input-output-hk/cardano-node/blob/master/doc/reference/cardano-node-cli-reference.md)
-- [Daedalus wallet](https://github.com/input-output-hk/cardano-wallet)
+- [Nút](https://github.com/input-output-hk/cardano-node)
+- [Giao diện dòng lệnh (CLI)](https://github.com/input-output-hk/cardano-node/blob/master/doc/reference/cardano-node-cli-reference.md)
+- [Ví Daedalus](https://github.com/input-output-hk/cardano-wallet)
 - [Cardano db-sync](https://github.com/input-output-hk/cardano-db-sync)
-- [GraphQL API](https://github.com/input-output-hk/cardano-graphql) server (Apollo)
-- [SMASH server](https://github.com/input-output-hk/smash)
+- Máy chủ [API GraphQL](https://github.com/input-output-hk/cardano-graphql) (Apollo)
+- [Máy chủ SMASH](https://github.com/input-output-hk/smash)
 
-### Nodes and remote nodes
+### Các nút và các nút từ xa
 
-A blockchain system consists of a set of nodes distributed across a network that communicate with each other to achieve [consensus](https://docs.cardano.org/core-concepts/consensus-explained) about the system’s state.
+Hệ thống blockchain bao gồm một tập hợp các nút được phân phối trên một mạng lưới giao tiếp với nhau để đạt được [sự đồng thuận](https://docs.cardano.org/core-concepts/consensus-explained) về trạng thái của hệ thống.
 
-#### Nodes are responsible for:
+#### Các nút chịu trách nhiệm về:
 
-- Executing the [Ouroboros](https://github.com/input-output-hk/ouroboros-network/#ouroboros-network) protocol
-- Validating and relaying blocks
-- Producing blocks (some nodes)
-- Providing information about the state of the blockchain to other local clients
+- Thực thi giao thức [Ouroboros](https://github.com/input-output-hk/ouroboros-network/#ouroboros-network)
+- Xác thực và khối chuyển tiếp
+- Sản xuất khối (một số nút)
+- Cung cấp thông tin về trạng thái của blockchain cho các khách hàng địa phương khác
 
-You can only trust nodes run by you or your organization. This is why [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) runs a node in the background.
+Bạn chỉ có thể tin cậy các nút do bạn hoặc tổ chức của bạn điều hành. Đây là lý do tại sao [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) chạy một nút trong nền.
 
-#### Node process
+#### Quy trình nút
 
-The cardano-node is the top level for the node and consists of the other subsystems, of which the most significant are consensus, [ledger](https://github.com/input-output-hk/cardano-ledger-specs#cardano-ledger) and networking with ancillary configuration, CLI, logging, and monitoring. Node-to-Node IPC protocol
+Cardano-node là cấp cao nhất của nút và bao gồm các hệ thống con khác, trong đó quan trọng nhất là sự đồng thuận, [sổ cái](https://github.com/input-output-hk/cardano-ledger-specs#cardano-ledger) và mạng với cấu hình phụ trợ, CLI, ghi nhật ký và giám sát. Giao thức Node-to-Node IPC
 
-The purpose of the node-to-node Inter-Process Communication (IPC) protocol is to allow for the exchange of blocks and transactions between nodes as part of the Ouroboros consensus algorithm.
+Mục đích của giao thức truyền thông liên quá trình (IPC) từ nút đến nút là cho phép trao đổi các khối và giao dịch giữa các nút như một phần của thuật toán đồng thuận Ouroboros.
 
-The node-to-node protocol is a composite protocol, consisting of three ‘mini-protocols’:
+Giao thức node-to-node là một giao thức tổng hợp, bao gồm ba 'giao thức nhỏ':
 
-- **chain-sync**: Used for following the chain and getting block headers.
+- **chain-sync** : Được sử dụng để theo dõi chuỗi và nhận tiêu đề khối.
 - **block-fetch** : Được sử dụng để lấy các nội dung khối.
 - **tx-submission** : Được sử dụng để chuyển tiếp các giao dịch.
 
-These mini-protocols are multiplexed on a single long-running Transmission Control Protocol (TCP) connection between nodes. They can be run in both directions on the same TCP connection to allow for peer-to-peer (P2P) settings.
+Các giao thức nhỏ này được ghép trên một kết nối Giao thức điều khiển truyền (TCP) chạy dài duy nhất giữa các nút. Chúng có thể được chạy theo cả hai hướng trên cùng một kết nối TCP để cho phép cài đặt ngang hàng (P2P).
 
 Giao thức tổng thể - và mỗi giao thức nhỏ - được thiết kế cho một thiết lập không tin cậy nơi cả hai bên cần đề phòng các cuộc tấn công Denial-of-Service (DoS). Ví dụ: mỗi giao thức mini sử dụng luồng điều khiển do người tiêu dùng điều khiển, vì vậy một nút chỉ yêu cầu nhiều công việc hơn khi nó đã sẵn sàng, thay vì phải thúc đẩy công việc.
 
-The protocol design is modular and evolvable: version negotiation is used to agree on the set of mini-protocols to use, which allows additional or updated mini-protocols to be added over time without causing compatibility issues.
+Thiết kế giao thức là mô-đun và có thể phát triển: thương lượng phiên bản được sử dụng để đồng ý về tập hợp các giao thức mini để sử dụng, cho phép các giao thức mini bổ sung hoặc cập nhật được thêm vào theo thời gian mà không gây ra các vấn đề tương thích.
 
 #### Node-to-Client IPC
 
-The purpose of the node-to-client IPC protocol is to allow local applications to interact with the blockchain via the node. This includes applications such as wallet backends or blockchain explorers. The node-to-client protocol enables these applications to access the raw chain data and to query the current ledger state. It also provides the ability to submit new transactions to the system.
+Mục đích của giao thức IPC node-to-client là cho phép các ứng dụng cục bộ tương tác với blockchain thông qua nút. Điều này bao gồm các ứng dụng như phụ trợ ví hoặc trình khám phá blockchain. Giao thức node-to-client cho phép các ứng dụng này truy cập vào dữ liệu chuỗi thô và truy vấn trạng thái sổ cái hiện tại. Nó cũng cung cấp khả năng gửi các giao dịch mới vào hệ thống.
 
-The node-to-client protocol uses the same design as the node-to-node protocol, but with a different set of mini-protocols, and using local pipes rather than TCP connections. As such, it is a relatively low-level narrow interface that exposes only what the node can provide natively. For example, the node provides access to all the raw chain data but does not provide a way to query data on the chain. The job of providing data services and more convenient higher level APIs is delegated to dedicated clients, such as cardano-db-sync and the wallet backend.
+Giao thức node-to-client sử dụng thiết kế tương tự như giao thức node-to-node, nhưng với một tập hợp các giao thức nhỏ khác và sử dụng đường ống cục bộ thay vì kết nối TCP. Do đó, nó là một giao diện hẹp mức độ tương đối thấp chỉ hiển thị những gì nút có thể cung cấp nguyên bản. Ví dụ: nút cung cấp quyền truy cập vào tất cả dữ liệu chuỗi thô nhưng không cung cấp cách truy vấn dữ liệu trên chuỗi. Công việc cung cấp dịch vụ dữ liệu và các API cấp cao hơn thuận tiện hơn được giao cho các khách hàng chuyên dụng, chẳng hạn như cardano-db-sync và phần phụ trợ ví.
 
-The node-to-client protocol consists of three mini-protocols:
+Giao thức node-to-client bao gồm ba giao thức nhỏ:
 
-- **chain-sync**: Used for following the chain and getting blocks
+- **chain-sync** : Được sử dụng để theo dõi chuỗi và nhận các khối
 - **local-tx-submission** : Được sử dụng để gửi các giao dịch
-- **local-state-query**: Used for querying the ledger state
+- **local-state-query** : Được sử dụng để truy vấn trạng thái sổ cái
 
-The node-to-client version of chain sync uses full blocks, rather than just block headers. This is why no separate block-fetch protocol is needed. The local-tx-submission protocol is like the node-to-node tx-submission protocol but simpler, and it returns the details of transaction validation failures. The local state query protocol provides query access to the current ledger state, which contains a lot of interesting data that is not directly reflected on the chain itself.
+Phiên bản đồng bộ hóa chuỗi từ nút đến máy khách sử dụng các khối đầy đủ, thay vì chỉ các tiêu đề khối. Đây là lý do tại sao không cần giao thức tìm nạp khối riêng biệt. Giao thức gửi tx cục bộ cũng giống như giao thức gửi tx từ nút này sang nút khác nhưng đơn giản hơn và nó trả về thông tin chi tiết về các lỗi xác thực giao dịch. Giao thức truy vấn trạng thái cục bộ cung cấp quyền truy cập truy vấn đến trạng thái sổ cái hiện tại, chứa nhiều dữ liệu thú vị không được phản ánh trực tiếp trên chính chuỗi.
 
-[Read more about the networking protocol design and Cardano node communication protocols.](https://docs.cardano.org/explore-cardano/cardano-network/networking-protocol)
+[Đọc thêm về thiết kế giao thức mạng và giao thức giao tiếp nút Cardano.](https://docs.cardano.org/explore-cardano/cardano-network/networking-protocol)
 
-### Command line interface (CLI)
+### Giao diện dòng lệnh (CLI)
 
-The node’s CLI tool is the “swiss army knife” of the system. It can do almost everything, but it is quite low level and not very convenient because it’s text-based and lacks a graphical user interface (GUI).
+Công cụ CLI của nút là “con dao quân đội thụy sĩ” của hệ thống. Nó có thể làm hầu hết mọi thứ, nhưng ở mức khá thấp và không thuận tiện lắm vì nó dựa trên văn bản và thiếu giao diện người dùng đồ họa (GUI).
 
-The CLI tool can:
+Công cụ CLI có thể:
 
-- Query the node for information
-- Submit transactions
-- Build and sign transactions
-- Manage cryptographic keys
+- Truy vấn nút để biết thông tin
+- Gửi giao dịch
+- Xây dựng và ký kết các giao dịch
+- Quản lý khóa mật mã
 
-### Daedalus wallet
+### Ví Daedalus
 
-Daedalus is a full node wallet that helps users to manage their ada, and can send and receive payments on the Cardano blockchain. Daedalus consists of a wallet frontend and a backend. The frontend is the graphical application that users see and interact with. The backend is a service process that monitors the state of the user’s wallet and does all the 'heavy lifting', such as coin selection, transaction construction, and submission. The backend interacts with a local node via the node-to-client IPC protocol, and interacts with the frontend via a HTTP API. The backend also provides a CLI that enables interaction with the wallet. The wallet backend can also be used on its own -without Daedalus- via its API. This is a convenient way for software developers to integrate Cardano with other applications and systems.
+Daedalus là một ví đầy đủ giúp người dùng quản lý ada của họ và có thể gửi và nhận thanh toán trên chuỗi khối Cardano. Daedalus bao gồm một giao diện người dùng của ví và một phần phụ trợ. Giao diện người dùng là ứng dụng đồ họa mà người dùng nhìn thấy và tương tác. Phụ trợ là một quy trình dịch vụ giám sát trạng thái ví của người dùng và thực hiện tất cả các công việc 'nặng nhọc', chẳng hạn như lựa chọn đồng xu, xây dựng giao dịch và gửi. Phần phụ trợ tương tác với một nút cục bộ thông qua giao thức IPC nút-tới-máy khách và tương tác với giao diện người dùng thông qua API HTTP. Phần phụ trợ cũng cung cấp CLI cho phép tương tác với ví. Phần phụ trợ của ví cũng có thể được sử dụng trên chính nó - không cần Daedalus- thông qua API của nó. Đây là một cách thuận tiện để các nhà phát triển phần mềm tích hợp Cardano với các ứng dụng và hệ thống khác.
 
 Chúng tôi khuyên những người dùng tiên tiến có ý định sử dụng Cardano nên bắt đầu với Daedalus.
 
 ### cardano-db-sync
 
-The cardano node stores only the blockchain itself and associated information needed to validate the blockchain. This design principle is about minimising code complexity, and reducing computational cost and resource use, to keep the node's local interfaces as minimal as possible and to use external clients to provide a variety of convenient interfaces and extra functionality. In particular, the node does not provide a convenient query interface for historical information on the blockchain. This data service is provided by a separate component using an Structured Query Language (SQL) database.
+Nút cardano chỉ lưu trữ chính blockchain và thông tin liên quan cần thiết để xác thực blockchain. Nguyên tắc thiết kế này là giảm thiểu độ phức tạp của mã và giảm chi phí tính toán và sử dụng tài nguyên, để giữ cho các giao diện cục bộ của nút ở mức tối thiểu nhất có thể và sử dụng các máy khách bên ngoài để cung cấp nhiều giao diện thuận tiện và chức năng bổ sung. Đặc biệt, nút không cung cấp giao diện truy vấn thuận tiện cho thông tin lịch sử trên blockchain. Dịch vụ dữ liệu này được cung cấp bởi một thành phần riêng biệt bằng cách sử dụng cơ sở dữ liệu Ngôn ngữ truy vấn có cấu trúc (SQL).
 
-Read more about:
+Đọc thêm về:
 
-- Cardano DB Sync and its components
+- Cardano DB Sync và các thành phần của nó
 - [SMASH](https://docs.cardano.org/cardano-components/smash)
 
-### About the eras and implementations of Cardano
+### Giới thiệu về các kỷ nguyên và cách triển khai của Cardano
 
-Cardano is a third-generation distributed ledger. It is based on Ouroboros, a peer-reviewed proof-of-stake (PoS) blockchain consensus algorithm that first appeared in the top research conference in cryptology worldwide (the International Association for Cryptologic Research 37th International Cryptology CXonference - Crypto 2017).
+Cardano là một sổ cái phân tán thế hệ thứ ba. Nó dựa trên Ouroboros, một thuật toán đồng thuận blockchain bằng chứng cổ phần (PoS) được đánh giá ngang hàng, lần đầu tiên xuất hiện trong hội nghị nghiên cứu hàng đầu về mật mã trên toàn thế giới (Hiệp hội Nghiên cứu Mật mã Quốc tế lần thứ 37, CXonference - Crypto 2017).
 
-The name Cardano is the general name given to the platform, which has gone through multiple eras and implementations. These concepts need further explanation.
+Tên Cardano là tên chung được đặt cho nền tảng, đã trải qua nhiều thời đại và triển khai. Những khái niệm này cần được giải thích thêm.
 
 #### Kỷ nguyên
 
-There are several eras within the evolution of Cardano. Each era (Byron, Shelley, Goguen, Basho, and Voltaire) refers to the rules of the ledger. For example, what transaction types and what data is stored in the ledger, or the validity and meaning of the transactions.
+Có một số kỷ nguyên trong quá trình phát triển của Cardano. Mỗi thời đại (Byron, Shelley, Goguen, Basho và Voltaire) đề cập đến các quy tắc của sổ cái. Ví dụ: loại giao dịch nào và dữ liệu nào được lưu trữ trong sổ cái hoặc tính hợp lệ và ý nghĩa của các giao dịch.
 
-The evolution of the Cardano mainnet began with the Byron ledger rules (Byron era). The mainnet underwent a hard fork in late July 2020 to switch from the Byron rules to the Shelley ledger rules. Hence, this hard fork marked the beginning of the Shelley era.
+Sự phát triển của mạng chính Cardano bắt đầu với các quy tắc sổ cái Byron (kỷ nguyên Byron). Mạng chính đã trải qua một đợt hard fork vào cuối tháng 7 năm 2020 để chuyển từ quy tắc Byron sang quy tắc sổ cái Shelley. Do đó, đợt hard fork này đánh dấu sự khởi đầu của kỷ nguyên Shelley.
 
-#### Implementations
+#### Triển khai
 
-Cardano’s first implementation was introduced at the start of the Cardano mainnet, back in September 2017. This implementation supported the Byron ledger rules exclusively.
+Việc triển khai đầu tiên của Cardano được giới thiệu khi bắt đầu mạng chính Cardano, trở lại vào tháng 9 năm 2017. Việc triển khai này hỗ trợ riêng các quy tắc sổ cái Byron.
 
-We then undertook a full reimplementation of Cardano, which enabled two fundamental changes: the support for multiple sets of ledger rules, and the management of the hard fork process of switching from one set of rules to the next. In other words, the new implementation can support both the Byron rules and the Shelley rules, which meant that, when it was deployed to the mainnet in early 2020, the implementation was also fully compatible with the Byron rules. This allowed for a smooth transition from the old to the new implementation. Once all Cardano users had upgraded their nodes to the new implementation, it became possible to invoke the hard fork and switch to the Shelley rules.
+Sau đó, chúng tôi đã tiến hành tái hoàn thiện đầy đủ Cardano, điều này cho phép hai thay đổi cơ bản: hỗ trợ nhiều bộ quy tắc sổ cái và quản lý quá trình hard fork để chuyển từ bộ quy tắc này sang bộ quy tắc tiếp theo. Nói cách khác, việc triển khai mới có thể hỗ trợ cả quy tắc Byron và quy tắc Shelley, có nghĩa là khi nó được triển khai vào mạng chính vào đầu năm 2020, việc triển khai cũng hoàn toàn tương thích với các quy tắc Byron. Điều này cho phép chuyển đổi suôn sẻ từ triển khai cũ sang triển khai mới. Khi tất cả người dùng Cardano đã nâng cấp các nút của họ lên triển khai mới, có thể gọi hard fork và chuyển sang các quy tắc Shelley.
 
-A third Cardano implementation was used on the Shelley Incentivized Testnet (ITN). This system supported a significant subset of the Shelley rules, and we used it to test the economic and social dynamics of the Shelley delegation system.
+Việc triển khai Cardano thứ ba đã được sử dụng trên Shelley Incentivized Testnet (ITN). Hệ thống này hỗ trợ một tập hợp con đáng kể các quy tắc Shelley và chúng tôi đã sử dụng nó để kiểm tra các động lực kinh tế và xã hội của hệ thống ủy quyền Shelley.
 
-This Cardano architecture overview reflects the current Cardano implementation deployed on the mainnet, not the original or ITN implementations.
+Tổng quan về kiến trúc Cardano này phản ánh việc triển khai Cardano hiện tại được triển khai trên mạng chính, không phải các triển khai gốc hoặc ITN.
