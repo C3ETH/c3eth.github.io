@@ -1,6 +1,6 @@
 ---
-title: 'Learn about Plutus '
-description: Learn about Plutus
+title: Tìm hiểu về Plutus
+description: Tìm hiểu về Plutus
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
@@ -10,46 +10,46 @@ images: []
 
 Plutus là ngôn ngữ hợp đồng thông minh cho Cardano. Nó là một ngôn ngữ hoàn chỉnh của Turing được viết bằng Haskell và các hợp đồng thông minh của Plutus là các chương trình Haskell hiệu quả. Bằng cách sử dụng Plutus, bạn có thể tự tin vào việc thực thi đúng các hợp đồng thông minh của mình. Nó rút ra từ nghiên cứu ngôn ngữ hiện đại để cung cấp một môi trường lập trình toàn ngăn xếp, an toàn dựa trên Haskell, ngôn ngữ lập trình thuần chức năng hàng đầu.
 
-The Alonzo upgrade brings exciting and highly anticipated capabilities to Cardano through the integration of Plutus scripts onto the blockchain. These scripts now enable the implementation of smart contracts on Cardano, enabling a host of new use cases for decentralized applications (DApps) for the very first time.
+Bản nâng cấp Alonzo mang lại những khả năng thú vị và rất được mong đợi cho Cardano thông qua việc tích hợp các tập lệnh Plutus vào blockchain. Các tập lệnh này hiện cho phép triển khai các hợp đồng thông minh trên Cardano, lần đầu tiên cho phép một loạt các trường hợp sử dụng mới cho các ứng dụng phi tập trung (DApps).
 
-If you want to get started, visit the [Plutus Playground](https://playground.plutus.iohkdev.io/) to learn how to write Plutus programs and use the [tutorials](https://plutus-apps.readthedocs.io/en/latest/) and to assist you. You should also read the explainers and tutorials provided here and refer to the [Plutus explanations](https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/index.html) to learn more about the Plutus language itself.
+Nếu bạn muốn bắt đầu, hãy truy cập [Sân chơi Plutus](https://playground.plutus.iohkdev.io/) để tìm hiểu cách viết các chương trình Plutus cũng như sử dụng các [hướng dẫn](https://plutus-apps.readthedocs.io/en/latest/) và hỗ trợ bạn. Bạn cũng nên đọc các phần giải thích và hướng dẫn được cung cấp ở đây và tham khảo các phần [giải thích của Plutus](https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/index.html) để tìm hiểu thêm về chính ngôn ngữ Plutus.
 
-We are here to help! If you need support while using Plutus, please log an issue in the [Plutus repository](https://github.com/input-output-hk/plutus) and include as much detail as you can.
+Chúng tôi ở đây để giúp đỡ! Nếu bạn cần hỗ trợ khi sử dụng Plutus, vui lòng ghi lại sự cố trong [kho lưu trữ Plutus](https://github.com/input-output-hk/plutus) và bao gồm nhiều thông tin chi tiết nhất có thể.
 
-### Plutus smart contracts
+### Hợp đồng thông minh Plutus
 
-Plutus smart contracts consist of parts that run on the blockchain (on-chain code) and parts that run on a user’s machine (off-chain or client code). Off-chain code can be written using the Plutus Application Framework (PAF), and this code is then compiled by the GHC (Glasgow Haskell Compiler), whereas on-chain code is compiled by the Plutus compiler into Plutus Core.
+Các hợp đồng thông minh của Plutus bao gồm các phần chạy trên blockchain (mã trên chuỗi) và các phần chạy trên máy của người dùng (ngoài chuỗi hoặc mã khách hàng). Mã ngoài chuỗi có thể được viết bằng Khung ứng dụng Plutus (PAF), và mã này sau đó được biên dịch bởi GHC (Glasgow Haskell Compiler), trong khi mã trên chuỗi được trình biên dịch Plutus biên dịch thành Plutus Core.
 
-![image](https://docs.cardano.org/static/6c366861cbc7f599ed30a07969dd1cf1/a6d66/Plutus_arch.png)
+![hình ảnh](https://docs.cardano.org/static/6c366861cbc7f599ed30a07969dd1cf1/a6d66/Plutus_arch.png)
 
-### Accounting model used by Plutus
+### Mô hình kế toán được Plutus sử dụng
 
-Cardano uses the [extended UTXO accounting model (EUTXO)](https://docs.cardano.org/plutus/eutxo-explainer) which extends the unspent (U) transaction (TX) output (O) accounting model (UTXO) model (used by Bitcoin). In the UTXO model, a transaction has *inputs* and *outputs*, where the **inputs** are unspent outputs from previous transactions. As soon as an output is used as input in a transaction, it becomes spent and can never be used again. The **output** is specified by an address (a public key or public key hash) and a value (consisting of an ada amount and optional, additional native token amounts).
+Cardano sử dụng [mô hình kế toán UTXO mở rộng (EUTXO)](https://docs.cardano.org/plutus/eutxo-explainer) mở rộng mô hình kế toán (U) giao dịch (TX) chưa sử dụng (O) mô hình kế toán (UTXO) (được sử dụng bởi Bitcoin). Trong mô hình UTXO, một giao dịch có *đầu vào* và *đầu ra* , trong đó **đầu vào** là đầu ra chưa sử dụng từ các giao dịch trước đó. Ngay sau khi một đầu ra được sử dụng làm đầu vào trong một giao dịch, nó sẽ được sử dụng và không bao giờ có thể được sử dụng lại. Đầu **ra** được chỉ định bởi một địa chỉ (khóa công khai hoặc băm khóa công khai) và một giá trị (bao gồm số lượng ada và số lượng mã thông báo gốc bổ sung, tùy chọn).
 
-EUTXO extends the UTXO model by allowing output addresses to contain complex logic to decide which transactions can unlock them, and by adding *custom* data to all outputs. This model offers unique advantages over other accounting models. The success or failure of transaction validation depends only on the transaction itself and its inputs and not on anything else on the blockchain. Consequently, the validity of a transaction can be checked *off-chain* before the transaction is sent to the blockchain. A transaction can still fail if some other transaction concurrently consumes an input that the transaction is expecting. However, if all inputs are still present, the transaction is *guaranteed* to succeed.
+EUTXO mở rộng mô hình UTXO bằng cách cho phép các địa chỉ đầu ra chứa logic phức tạp để quyết định giao dịch nào có thể mở khóa chúng và bằng cách thêm dữ liệu *tùy chỉnh* vào tất cả các đầu ra. Mô hình này mang lại những lợi thế độc đáo so với các mô hình kế toán khác. Việc xác thực giao dịch thành công hay thất bại chỉ phụ thuộc vào bản thân giao dịch và các đầu vào của nó chứ không phụ thuộc vào bất kỳ thứ gì khác trên blockchain. Do đó, tính hợp lệ của giao dịch có thể được kiểm tra *ngoài chuỗi* trước khi giao dịch được gửi đến blockchain. Một giao dịch vẫn có thể không thành công nếu một số giao dịch khác đồng thời tiêu thụ đầu vào mà giao dịch đang mong đợi. Tuy nhiên, nếu tất cả các yếu tố đầu vào vẫn còn, giao dịch được *đảm bảo* thành công.
 
 ### Plutus Core
 
-Plutus Core is the scripting language used by Cardano to implement the EUTXO model. It is a simple, functional language similar to Haskell, and a large subset of Haskell can be used to write Plutus Core scripts. As a smart contract author, you don’t write any Plutus Core; rather, all Plutus Core scripts are generated by a Haskell compiler plugin.
+Plutus Core là ngôn ngữ kịch bản được Cardano sử dụng để triển khai mô hình EUTXO. Nó là một ngôn ngữ đơn giản, có chức năng tương tự như Haskell và một tập hợp con lớn của Haskell có thể được sử dụng để viết các tập lệnh Plutus Core. Là một tác giả hợp đồng thông minh, bạn không viết bất kỳ Plutus Core nào; thay vào đó, tất cả các tập lệnh Plutus Core đều được tạo bởi một plugin trình biên dịch Haskell.
 
-These scripts will be executed by nodes during transaction validation ‘live’ on the chain. They will either lock EUTXOs in the form of [validator scripts](https://docs.cardano.org/plutus/Plutus-validator-scripts) or as minting policies, which control the minting and burning of native tokens.
+Các tập lệnh này sẽ được thực thi bởi các nút trong quá trình xác thực giao dịch 'trực tiếp' trên chuỗi. Họ sẽ khóa các EUTXO dưới dạng [tập lệnh trình xác thực](https://docs.cardano.org/plutus/Plutus-validator-scripts) hoặc dưới dạng các chính sách đào tiền, kiểm soát việc đào và ghi mã thông báo gốc.
 
-In practice, when developing smart contracts, you will write validator scripts in Haskell, which will then be automatically compiled into Plutus Core using a GHC plug-in called Plutus Tx. Plutus Application Framework (PAF)
+Trên thực tế, khi phát triển các hợp đồng thông minh, bạn sẽ viết các tập lệnh trình xác thực trong Haskell, sau đó sẽ được tự động biên dịch thành Plutus Core bằng cách sử dụng trình cắm thêm GHC có tên là Plutus Tx. Khung ứng dụng Plutus (PAF)
 
-The PAF provides easy access to services that are commonly used by Plutus applications. Applications deployed using the framework’s libraries can be run on the Plutus application backend, which provides runtime support for access to the blockchain and other concerns such as persistence, logging, and monitoring. Applications written on top of the PAF automatically provide an HTTP and WebSocket interface that can interact with the application from the web browser.
+PAF cung cấp khả năng truy cập dễ dàng vào các dịch vụ thường được các ứng dụng Plutus sử dụng. Các ứng dụng được triển khai bằng cách sử dụng các thư viện của khung công tác có thể được chạy trên phần phụ trợ ứng dụng Plutus, cung cấp hỗ trợ thời gian chạy để truy cập vào blockchain và các mối quan tâm khác như tính bền bỉ, ghi nhật ký và giám sát. Các ứng dụng được viết trên PAF tự động cung cấp giao diện HTTP và WebSocket có thể tương tác với ứng dụng từ trình duyệt web.
 
-The on-chain state of validator scripts can only be modified by transactions that spend and produce script output. When writing a Plutus application, we need to consider not only the on-chain part of the application (the Plutus Core scripts) but also the off-chain part that builds and submits transactions.
+Trạng thái trên chuỗi của các tập lệnh trình xác thực chỉ có thể được sửa đổi bởi các giao dịch chi tiêu và tạo ra đầu ra tập lệnh. Khi viết một ứng dụng Plutus, chúng ta cần xem xét không chỉ phần on-chain của ứng dụng (các tập lệnh Plutus Core) mà còn cả phần off-chain xây dựng và gửi các giao dịch.
 
-The off-chain code is written in Haskell, just like the on-chain code, unlike Ethereum where the on-chain code is written in Solidity, but the off-chain code is written in JavaScript. That way, the business logic only needs to be written once. This logic can then be used in the validator script and in the code that builds the transactions that run the validator script. Plutus Application Backend (PAB)
+Mã ngoài chuỗi được viết bằng Haskell, giống như mã trên chuỗi, không giống như Ethereum trong đó mã trên chuỗi được viết bằng Solidity, nhưng mã ngoài chuỗi được viết bằng JavaScript. Bằng cách đó, logic nghiệp vụ chỉ cần được viết một lần. Sau đó, logic này có thể được sử dụng trong tập lệnh trình xác thực và trong mã xây dựng các giao dịch chạy tập lệnh trình xác thực. Chương trình phụ trợ ứng dụng Plutus (PAB)
 
-The PAB is currently being developed and will execute the off-chain component of Plutus applications. It will manage application requests to the wallet backend and node, store the application state, and offer an HTTP API for managing application instances.
+PAB hiện đang được phát triển và sẽ thực thi thành phần off-chain của các ứng dụng Plutus. Nó sẽ quản lý các yêu cầu ứng dụng đến phần phụ trợ và nút của ví, lưu trữ trạng thái ứng dụng và cung cấp API HTTP để quản lý các phiên bản ứng dụng.
 
 ### Plutus và native token
 
-Each native token comes with its own [minting policy](https://github.com/input-output-hk/cardano-documentation/blob/staging/content/07-native-tokens/01-learn.mdx#minting-policy), which determines the conditions under which tokens can be minted and burnt. With the deployment of Plutus, users will be able to write minting policies in Haskell and compile them to Plutus Core. During the minting or burning process, the Plutus Core policy script will be executed in the context of the minting or burning transaction, and the script will have to approve or forbid the action. This feature will further accelerate the growth of Non Fungible Tokens (NFTs) on Cardano by enabling the creation of much more complex minting policies and allowing the creation of NFTs in a trustless manner. Advantages of Plutus
+Mỗi mã thông báo gốc đi kèm với [chính sách đào tiền](https://github.com/input-output-hk/cardano-documentation/blob/staging/content/07-native-tokens/01-learn.mdx#minting-policy) riêng của nó, xác định các điều kiện mà mã thông báo có thể được đúc và đốt. Với việc triển khai Plutus, người dùng sẽ có thể viết các chính sách đúc tiền trong Haskell và biên dịch chúng sang Plutus Core. Trong quá trình đúc hoặc ghi đĩa, kịch bản chính sách của Plutus Core sẽ được thực thi trong bối cảnh của giao dịch đúc hoặc đốt và tập lệnh sẽ phải chấp thuận hoặc cấm hành động đó. Tính năng này sẽ đẩy nhanh hơn nữa sự phát triển của Non Fungible Tokens (NFT) trên Cardano bằng cách cho phép tạo ra các chính sách khai thác phức tạp hơn nhiều và cho phép tạo NFT theo cách không tin cậy. Ưu điểm của Plutus
 
-Plutus provides considerable security advantages. It delivers an easier, more robust way to show that your smart contracts are correct and will not encounter the problems found in previous smart contract language design.
+Plutus cung cấp lợi thế bảo mật đáng kể. Nó cung cấp một cách dễ dàng hơn, mạnh mẽ hơn để chứng minh rằng các hợp đồng thông minh của bạn là đúng và sẽ không gặp phải các vấn đề được tìm thấy trong thiết kế ngôn ngữ hợp đồng thông minh trước đó.
 
-Plutus enables a novel integrated approach to smart contract and distributed application development that is more convenient and safer than previous alternatives. Both the on-chain and off-chain code are based on the same language. You use a uniform code base, which the Plutus toolchain then automatically separates into on-chain and off-chain code and packages for deployment.
+Plutus cho phép một cách tiếp cận tích hợp mới để phát triển hợp đồng thông minh và ứng dụng phân tán thuận tiện hơn và an toàn hơn so với các giải pháp thay thế trước đây. Cả mã nội bộ và mã ngoài chuỗi đều dựa trên cùng một ngôn ngữ. Bạn sử dụng một cơ sở mã thống nhất, sau đó chuỗi công cụ Plutus sẽ tự động phân tách thành các gói và mã trên chuỗi và ngoài chuỗi để triển khai.
 
 Ngoài ra, trái ngược với Ethereum, Plutus hỗ trợ các tokens do người dùng xác định (cả loại có thể thay thế và không thể thay thế được, vốn yêu cầu ít mã hơn nhiều.
