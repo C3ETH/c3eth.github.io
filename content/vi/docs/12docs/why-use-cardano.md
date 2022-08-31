@@ -1,6 +1,6 @@
 ---
-title: Why use Cardano?
-description: Why use Cardano?.
+title: '"Tại sao sử dụng Cardano?"'
+description: '"Tại sao sử dụng Cardano?"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
