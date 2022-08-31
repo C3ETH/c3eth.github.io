@@ -1,6 +1,6 @@
 ---
-title: Cardano nodes
-description: Cardano nodes
+title: '"Các nút Cardano"'
+description: '"Các nút Cardano"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
@@ -20,11 +20,11 @@ Mục tiêu của công nghệ blockchain là sản xuất một chuỗi bản g
 
 Các giao dịch hợp lệ đã gửi có thể được đưa vào bất kỳ khối mới nào. Một khối được ký bằng mật mã bởi nhà sản xuất của nó và được liên kết với khối trước đó trong chuỗi. Điều này làm cho không thể xóa các giao dịch khỏi một khối, thay đổi thứ tự của các khối, xóa một khối khỏi chuỗi (nếu nó đã có một số khối khác theo sau nó) hoặc chèn một khối mới vào chuỗi mà không cần cảnh báo tất cả những người tham gia mạng. Điều này đảm bảo tính toàn vẹn và minh bạch của việc mở rộng blockchain.
 
-### Slots and epochs
+### Các Vị Trí và các Kỳ
 
-The Cardano blockchain uses the [Ouroboros Praos](https://eprint.iacr.org/2017/573.pdf) protocol to facilitate consensus on the chain. Ouroboros Praos divides time into epochs. Each Cardano epoch consists of a number of slots, where each slot lasts for one second. A Cardano epoch currently includes 432,000 slots (5 days). In any slot, zero or more block-producing nodes might be nominated to be the slot leader. On average, one node is expected to be nominated every 20 seconds, for a total of 21,600 nominations per epoch. If randomly elected slot leaders produce blocks, one of them will be added to the chain. Other candidate blocks will be discarded.
+Chuỗi khối Cardano sử dụng giao thức [Ouroboros Praos](https://eprint.iacr.org/2017/573.pdf) để tạo điều kiện đồng thuận trên chuỗi. Ouroboros Praos chia thời gian thành các kỳ. Mỗi kỳ Cardano bao gồm một số vị trí, mỗi vị trí kéo dài trong một giây. Một kỳ Cardano hiện bao gồm 432.000 vị trí (5 ngày). Trong bất kỳ vị trí nào, không hoặc nhiều nút tạo khối có thể được đề cử làm vị trí dẫn đầu vị trí. Trung bình, một nút dự kiến sẽ được đề cử sau mỗi 20 giây, với tổng số 21.600 đề cử mỗi kỳ. Nếu các nhà lãnh đạo vị trí được bầu ngẫu nhiên tạo ra các khối, một trong số chúng sẽ được thêm vào chuỗi. Các khối ứng cử viên khác sẽ bị loại bỏ.
 
-### Slot leader election
+### Bầu cử vị trí lãnh đạo
 
 Mạng Cardano bao gồm một số nhóm liên quan kiểm soát tổng cổ phần của các chủ sở hữu của họ và các bên liên quan khác, còn được gọi là người *ủy quyền* . Các nhà lãnh đạo vị trí được bầu ngẫu nhiên từ các nhóm cổ phần. Nhóm kiểm soát cổ phần càng nhiều, thì cơ hội được bầu làm nhà lãnh đạo vị trí để tạo ra một khối mới được chấp nhận vào blockchain càng lớn. Đây là khái niệm cơ bản về bằng chứng cổ phần (PoS). Để duy trì một sân chơi bình đẳng và ngăn ngừa trường hợp một số lượng nhỏ các nhóm rất lớn kiểm soát phần lớn cổ phần, Cardano có một hệ thống khuyến khích không khuyến khích việc ủy quyền cho các nhóm đã kiểm soát một phần lớn tổng số cổ phần.
 
