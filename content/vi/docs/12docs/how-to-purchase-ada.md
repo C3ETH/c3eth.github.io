@@ -1,6 +1,6 @@
 ---
-title: How to purchase ada?
-description: How to purchase ada?
+title: '"Làm thế nào để mua ada?"'
+description: '"Làm thế nào để mua ada?"'
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
@@ -20,7 +20,7 @@ Chúng tôi không đề xuất bất kỳ sàn giao dịch cụ thể nào, vì
 2. Tạo một ví mới và đặt tên cho nó.
 3. Sau đó, kích hoạt ví mới của bạn và đảm bảo ghi mật khẩu mới của bạn. Lưu ý rằng mật khẩu của bạn là cách duy nhất để bạn có thể truy cập ví của mình; giữ chúng ở một nơi an toàn và không làm mất chúng. Bạn sẽ có mật khẩu chi tiêu (mật khẩu được sử dụng để giao dịch) và cụm mật khẩu gồm 12 hoặc 24 từ tùy thuộc vào ví bạn chọn.
 4. Tạo lại cụm mật khẩu của bạn và chấp nhận các điều khoản và điều kiện. Ví tiền bây giờ đã được thiết lập xong.
-5. Click ‘Receive’ and copy a wallet address or download a PDF file with the QR code. You will need to use this address to receive your cryptocurrency later.
+5. Nhấp vào 'Receive' và sao chép địa chỉ ví hoặc tải xuống tệp PDF có mã QR. Bạn sẽ cần sử dụng địa chỉ này để nhận tiền điện tử của mình sau này.
 
 ### Bước 2 Chọn một sàn giao dịch
 
