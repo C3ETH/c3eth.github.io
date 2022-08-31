@@ -1,9 +1,15 @@
 ---
 title: "Peningkatan partisipasi di Catalyst"
-linkTitle: "Peningkatan partisipasi di Catalyst"
-type: docs
-hide_feedback: true
+description: "Peningkatan partisipasi di Catalyst"
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
+
 Bagaimana kita dapat mendorong partisipasi berarti dalam Project Catalyst dari anggota komunitas dalam dua fund berikutnya?
 
 Dana tersedia: **$75,000 dalam Ada**

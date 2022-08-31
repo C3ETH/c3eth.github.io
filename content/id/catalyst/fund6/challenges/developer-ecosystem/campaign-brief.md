@@ -1,8 +1,13 @@
 ---
 title: Ekosistem pengembang
 linkTitle: Ekosistem pengembang
-type: docs
-hide_feedback: 'true'
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Bagaimana kami dapat menciptakan pengalaman pengembang yang positif yang membantu pengembang fokus dalam membangun aplikasi yang sukses?

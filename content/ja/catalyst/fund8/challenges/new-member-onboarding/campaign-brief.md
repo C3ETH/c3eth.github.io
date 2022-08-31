@@ -1,58 +1,58 @@
 ---
-title: 'New Member Onboarding(新メンバーオンボーディング)'
-linkTitle: 'New Member Onboarding(新メンバーオンボーディング)'
+title: "New Member Onboarding"
+linkTitle: "New Member Onboarding"
 type: docs
 hide_feedback: true
-description: '2022年に新しいCatalystメンバーが適切な役割と責任を引き受けることをより速く、より簡単にするにはどうすればよいでしょうか。'
+description: "How might we make it faster and easier for new Catalyst members to take on suitable roles and responsibilities in 2022?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" style="width:500px;height500px">
 
 Fund Size: **200,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/382639)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/382639) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-2022年に新しいCatalystメンバーが適切な役割と責任を引き受けることをより速く、より簡単にするにはどうすればよいでしょうか。
+How might we make it faster and easier for new Catalyst members to take on suitable roles and responsibilities in 2022?
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-Catalystの成功は、品質チャレンジチーム、提案者、アドバイザー、メンター、および有権者の可用性に依存します。
+The success of Catalyst depends on the availability of quality challenge teams, proposers, advisors, mentors and voters.
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-人々が彼らにとって意味があり、共有された成功に貢献する役割を果たしている、潤滑なオープンイノベーションプラットフォーム。
+A well-oiled open innovation platform where people fulfill roles that are meaningful for them and that contribute to shared success.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-メトリックは2つのセクションに分けることができます。一般的なオンボーディングとは、人々を引き込み、単なる潜入者から有権者や潜在的な提案者に変えることを指します。イノベーションプロセスの指標は、提案とその周辺の活動の量と質を指します。
+The metrics can be divided to two sections. General onboarding refers to bringing people in and converting them from mere lurkers to voters and potential proposers. Innovation process metrics refer to the quantity and quality of proposals and activity around them.
 
-#### 一般的なオンボーディング
+#### General onboarding
 
-- CardanoIdeascaleへの毎週のサインアップ
-- タウンホール出席
-- カタリストスクールセッションへの出席
-- スウォームセッションへの参加
-- リーダーシップへの応用（例：サークル）
+- Weekly sign ups to Cardano Ideascale
+- Townhall attendance
+- Catalyst School session attendance
+- Swarm session attendance
+- Applications to leadership positions (e.g. Circle)
 
-#### イノベーションプロセス
+#### Innovation process
 
-- リファラーの数
-- 準備ができていない提案の数の削減
-- 4〜5つ星の提案の数で成長
-- コミュニティアドバイザーとベテランコミュニティアドバイザーの数の増加
-- 優れた評価のある提案の割合
-- 有権者数の増加
-- 与えられた投票の総数の増加
+- Number of referrers
+- Reduction in the number of unready proposals
+- Growtn in the number of 4-5 star proposals
+- Growth in the number of Community Advisors and Veteran Community Advisors
+- Percentage of proposals with Excellent assessments
+- Growth in the number of voters
+- Growth in total number of votes given
 
-## チャレンジブリーフ
+## Challenge Brief
 
-Project Catalystの成長は、彼らの役割を果たし、彼らの責任を理解することに熱心で能力のある提案者、アドバイザー、メンター、および有権者からの有意義な参加に依存しています。
+The growth of Project Catalyst depends on meaningful participation from proposers, advisors, mentors and voters who are both eager and capable to fulfill their roles and understand their responsibilities.
 
-### ガイドの質問
+### Guiding questions
 
-- パッシブADAホルダーをアクティブCatalystメンバーに変換するにはどうすればよいですか？
-- 最もアクティブなオープンイノベーションプラットフォームとしてのProjectCatalystの認知度をどのように高めることができるでしょうか。
-- チャレンジチーム、提案者、アドバイザー、メンター、有権者からのより有意義な参加をどのように増やすことができるでしょうか。どのような追加の役割が必要ですか？
-- オンボーディングに利用できるツールとサービスを利用するように、新しいメンバーをどのように奨励できますか？
-- 既存のテキスト、ビデオ、およびオーディオ資料の使用をどのように改善できるでしょうか。
+- How might we convert passive ADA holders into active Catalyst members?
+- How might we increase awareness of Project Catalyst as the most active open innovation platform?
+- How might we increase more meaningful participation from challenge teams, proposers, advisors, mentors and voters? What kind of additional roles are needed?
+- How might we encourange new members to utillize the tools and services availalbe for onboarding?
+- How might we improve the use of existing text, video and audio materials?

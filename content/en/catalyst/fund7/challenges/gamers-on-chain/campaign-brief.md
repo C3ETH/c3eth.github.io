@@ -10,6 +10,7 @@ Fund Size: **$250,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26241) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26241/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Gamers-On-Chained) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/gamers-on-chained)
 
 ## Campaign Brief
+
 We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.
 
 There are 2.5 billion gamers out there. These gamers are looking for their route into crypto in a fun and rewarding way. Let's provide them a library of games and integrations to choose from, solidifying Cardano as the go to blockchain for gaming.
@@ -17,12 +18,15 @@ There are 2.5 billion gamers out there. These gamers are looking for their route
 Lets on-chain these gamers.
 
 ## Why is it Important?
+
 Gamers are ready to enter crypto. They just need a clear blockchain with enjoyable applications to engage on.
 
 ## How does success look like?
+
 Cardano becomes the go to blockchain to develop gaming applications due to its quality tooling and wide gamer centric user base.
 
 ## Key Metrics to measure
+
 - Total users of gaming based applications built on Cardano
 - Number of gaming based applications building/built on Cardano
 - Amount of value made by gamers in play-to-earn applications

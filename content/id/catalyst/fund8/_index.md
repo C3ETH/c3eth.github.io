@@ -1,9 +1,9 @@
 ---
-title: "Catalyst Fund 8"
-linkTitle: "Fund 8"
-type: docs
-hide_feedback: true
+title : "Fund 8"
+description: "Fund 8"
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
 ---
-
-This index page is still being updated. 
-The **Catalyst Proposals for fund 8** runs from date TBD , to date TBD in these stages. Voting for **Catalyst Fund 8** starts TBD

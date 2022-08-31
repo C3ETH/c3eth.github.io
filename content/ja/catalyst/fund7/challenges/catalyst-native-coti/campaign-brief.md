@@ -1,56 +1,55 @@
 ---
-title: Catalyst Natives COTI：ADAプラグイン支払
-linkTitle: " Catalyst Natives COTI：ADAプラグインで支払う"
+title: "Catalyst Natives COTI: Pay with ADA Plug-in"
+linkTitle: " Catalyst Natives COTI: Pay with ADA Plug-in"
 type: docs
 hide_feedback: true
-description: ShopifyやWooCommerceなどのストアに簡単に統合できるADAPayAPIを使用してADA支払いプラグインを作成します
+description: "What will drive mass-scale adoption of decentralized IDs on Cardano?"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 100,000 USD**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26256) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified)
 
-## キャンペーン概要
+## Campaign Brief
 
-COTIは、Cardanoとの非常に生産的で成功したパートナーシップとともに、コミュニティ向けの非常にユーザーフレンドリーでスケーラブルなADA支払いソリューションを開発しました。その結果、ヨーロッパの小さなホテルからアジアの大きなeコマースWebサイトまで、さまざまなオンラインマーチャントが、ADA Payをサイトに統合するときに、数百または数千のADAトランザクションを簡単に受け入れることができます。
+COTI has developed, together with a very productive and successful partnership with Cardano, a very user-friendly and scalable ADA payment solution for the community. As a result, different online merchants, from a small hotel in Europe to a big e-commerce website in Asia, can easily accept hundreds or thousands of ADA transactions when integrating ADA Pay into their site.
 
-Catalystを使用すると、コミュニティに革新的な技術的課題を提供し、ShopifyやWooCommerceなどのプラットフォームを現在使用しているすべての中小企業がプラグインを追加することでシームレスに統合されたADAペイメントを彼らのサイトに簡単に受け入れることができるようにします。
+With Catalyst, we are offering an innovative technical challenge to our communities to allow a new and creative way for all small and medium enterprises currently using platforms, such as Shopify and WooCommerce, to readily accept ADA Payments with seamless integration by adding a plug-in into their site.
 
-一言で言えば、ADA Payは現在、各支払い試行に個別の支払い要求を送信する機能を提供し、マーチャントが注文を完了する前に顧客のIDを必要とせずに各クライアントを効果的に識別できるようにします。言い換えれば、ADA Payを統合している企業は、潜在的な顧客に一意のアドレスを送信し、Webhookを介して支払いプロセスのすべての段階で通知を受けることができます。さらに、クライアントのバックエンドに支払い要求を登録することにより、マーチャントは、クライアントの情報を第三者に開示することなく、誰が何に対して支払うかを知ることができます。
+In a nutshell, ADA Pay currently provides the ability to send a separate payment request to each payment attempt, allowing merchants to effectively identify each client without requiring the customer's identity before completing the order. In other words, companies integrating ADA Pay enjoy the ability to send a unique address to a potential customer and be notified at every stage of the payment process via Webhook. Moreover, by registering the payment request on the client's backend, merchants can know who pays for what without disclosing the client's information to a third party.
 
-チャレンジを進めるチームには、ADA PayシステムへのAPIキーと、支払いソリューションの完全なAPIドキュメントが提供されます。 APIキーを使用すると、Cardanoテストネットを介してADAで支払いを送受信できます。 APIドキュメントには、支払い要求を作成し、資金を引き出すためのエンドポイントと、支払い要求に関する進行中のアクティビティを通知するためのWebhookも含まれています。
+The teams proceeding with the challenge will be provided with an API Key to the ADA Pay system and complete API documentation of the payment solution. The API Key will allow you to receive and send payments with ADA over the Cardano testnet. The API documentation also includes endpoints to create payment requests, withdraw your funds, and a webhook to notify you of any ongoing activity regarding the payment request.
 
-上記のツールを使用して、チャレンジに関与するチームから、現在のADA Payシステムと統合され、上記のさまざまなeコマースソフトウェアをすべてサポートする革新的なプラグインを作成することを期待しています（ShopifyおよびWooCommerce）。
+With the tools described above, we expect from the teams involved in the challenge to create an innovative plug-in that will be integrated with our current ADA Pay system on the one hand and support all the different e-commerce software mentioned above (Shopify and WooCommerce) on the other.
 
-## 成功はどのように見えますか？
+## How does success look like?
 
-この課題の最後に、私たちは自分自身に問いかけます。さまざまなeコマースプラットフォームに統合する準備ができている、シンプルで完璧、そして統合が容易なADA Payプラグインソリューションはありますか？
+At the end of this challenge, we will be asking ourselves: Do we have a simple, flawless, and easy-to-integrate ADA Pay plug-in solution ready to be integrated into different e-commerce platforms?
 
-プラグインのUIと支払いフローはユーザーフレンドリーですか？たとえば、顧客が商品をカートに追加してからトランザクションが完了するまでのプロセスはスムーズですか？
+Is the UI and payment flow of the plug-in user-friendly? For example, is the process smooth from when customers add items into their cart until the transaction is complete?
 
-クリエイティブに;トランザクションを完了するために必要なクリック数が少ないほど、優れています。
+Be creative; the fewer clicks needed to complete a transaction, the better.
 
-## 測定する主要な指標
+## Key Metrics to measure
 
-- 新しいコンポーネントに統合できるeコマースプラットフォームの総数。
-- 提案された支払いフローの有効性を測定する、合計トランザクション試行と完了したトランザクションの比率。
-- サービスの品質を損なうことなく、プラグインのスケーラビリティ。
-- プラグインと統合できるマーチャントの数。
+- Total amount of e-commerce platforms that can be integrated into the new component.
+- Ratio of total transaction attempts and transactions completed, measuring the effectiveness of the payment flow proposed.
+- Scalability of the plug-in without compromising the quality of the service.
+- Number of merchants that can be integrated with the plug-in.
 
-## ガイドの質問：
+## Guiding Questions:
 
-以下のことを考慮し、提案の中で計画されたアプローチについての理論的根拠を提供していただきたいと思います。
+We would like you to consider the following and provide rationales about the planned approach in your proposals.
 
-- プラグインの品質をどのようにテストし、ソフトウェアプラットフォームにプラグインを実装するのはどれほど簡単ですか？
-- プラグインは、さまざまなWebサイトからの1秒あたりの大量のトランザクションを問題なく処理できますか？
-- ユーザーのニーズに合わせて設計し、プラグインのパフォーマンスに関するマーチャントのフィードバックをどのように取り入れますか？
+- How will you test the plug-in's quality, and how easy is it to implement it into the software platforms?
+- Is the plug-in able to process big amounts of transactions per second from different websites without problems?
+- How do you intend to design for the user's needs and incorporate Merchant's feedback regarding the plug-in performance?
 
-## 資金調達パラメータ
+## Funding Parameters
 
-COTIは、すべてのチャレンジ報酬に資金を提供しています。
+COTI are providing the funding for all challenge rewards.
 
-提案者：成功した提案者はCOTIトークンで資金提供されます。 COTIトークンを受信できる有効なERC20アドレスを提供する責任があることに注意してください。申請する際は、提案提出のアドレス欄にERC20対応アドレスを明記してください。
+Proposers: Successful proposers will be funded in COTI token. Please be aware that you are responsible for providing a valid ERC20 address that can receive COTI tokens. When applying, please specify in the address field of the proposal submission your ERC20 compatible address.
 
-コミュニティアドバイザー：対象となるVCAおよびCAリワードのCOTIを受け取り、指定されたERC20ウォレットアドレスに送信されます。
+Community advisors: You will receive COTI for the eligible VCA and CA rewards and will be sent to your nominated ERC20 wallet address.
 
-リファラー：指定されたERC20ウォレットアドレスに送信される適格なリファラー報酬のCOTIを受け取ります。 COTIチャレンジファンドの1％は、適格なリファラー間で共有されます。
+Referrers: You will receive COTI for the eligible referral rewards that will be sent to your nominated ERC20 wallet address. 1% of the COTI challenge fund will be shared between eligible referrers.

@@ -1,54 +1,54 @@
 ---
-title: 監査可能性の向上と成長
-linkTitle: 監査可能性の向上と成長
+title: "Improve and Grow Auditability"
+linkTitle: "Improve and Grow Auditability"
 type: docs
 hide_feedback: true
-description: 資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？
+description: "How to make the auditing process of funded proposals efficient, distributed and transparent?"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 100,000 USD**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26253) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Improve-and-Grow-Auditability) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/improve-and-grow-auditability)
 
-## キャンペーン概要
+## Campaign Brief
 
-Fund7が発生すると、300近くの資金提供された提案があります。これらの提案が提供されているかどうか、およびROIが最初に確立されたものと一致しているかどうかを確認するために、これらの提案を評価/監査することが非常に重要です。
+When Fund7 happens we will be close to 300 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.
 
-現在、IOGはこれらの資金提供された提案の開発を監視していますが、資金提供された提案が何百もある場合、これはIOGにとって圧倒的な作業になります。
+Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.
 
-監査可能性の課題は、カルダノの財務リソースの使用における透明性を確保することを目的としています。これにより、カルダノコミュニティは、チェックアンドバランスシステムを通じて資金提供された提案の開発に関するより多くの情報を得ることができます。
+The Auditability challenge aims to ensure transparency in the use of Cardano's treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.
 
-### **この課題がとることができるいくつかの方向性**
+### **Some directions that this challenge can take**
 
-- 資金提供された提案からのチームとのポッドキャスト。
-- スマートコントラクト監査。
-- 実行するプラットフォーム/ウェブサイト：
-- 指標、財源の支出に関するレポート。
-- Dappsの開発に関するメトリクス（tx、ボリューム、ユニークなウォレットなど…）
-- オンボーディングされた開発者の数、資金提供されたプロポーザルリポジトリのコミット数に関するメトリック。
-- ソーシャルメディアエンゲージメント指標の指標。
+- Podcasts with teams from funded proposals.
+- Smart contract audits.
+- Platforms / Websites that perform:
+- Reporting on metrics, spending of financial resources.
+- Metrics on the development of Dapps (txs, volume, unique wallets, etc …)
+- Metrics on Number of onboarded developers, number of commits in funded proposal repositories.
+- Social media engagement indicators metrics.
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-資金提供された提案が、彼らの使命で確立されたものを提供しているかどうかを確認するために評価されることが重要です。
+It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
 
-## 成功はどのように見えますか？
+## How does success look like?
 
-資金提供された提案を評価し、プロジェクトの開発と実施に関するレポート、記事、指標を提供するいくつかのプロジェクト。
+Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
-## 測定する主要な指標
 
-監査された資金提供された提案の数
+## Key Metrics to measure
 
-さまざまな課題での提案の作成について監査および報告することが目的であることを考えると、各課題に関連して成功指標を検討することが重要です。
+Number of funded proposals audited
 
-上のレポート、記事、ビデオ/ポッドキャストの数：
+Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that success metrics are thought out in relation to each challenge.
 
-- パフォーマンス
-- 実績
-- 財務
-- オンボーディングされた開発者の数。
-- 資金提供されたプロポーザルリポジトリ（Github）のコミット数
-- 指標：dappsと相互作用するトランザクション、ボリューム、および固有のウォレット。
-- 監査されたスマートコントラクトの数。
-- ソーシャルメディアエンゲージメント指標。
+Number of reports, articles and videos/podcasts on:
+
+- Performance
+- Achievements
+- Financials
+- Number of onboarded developers.
+- Number of commits in funded proposal repositories (Github)
+- Indicators of: transactions, volume and unique wallets interacting with dapps.
+- Number of smart contracts audited.
+- Social media engagement indicators.

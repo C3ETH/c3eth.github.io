@@ -1,33 +1,30 @@
 ---
-title: 日本/日本コミュニティをつなぐ
-linkTitle: 日本コミュニティをつなぐ
-type: docs
-hide_feedback: true
-description: 今後6か月で、コミュニティの有意義な参加をどのように増やすことができますか？
+title: "Connecting Japan/日本 Community"
+linkTitle: "Connecting Japan/日本 Community"
+description: "How can we increase meaningful participation among the community in the next 6 months?"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 50,000 USD**
+Fund Size: **$50,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26238) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26238/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Connecting-Japan-Community) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano)
 
-## キャンペーン概要
+## Campaign Brief
 
-この課題の目標は、日本人コミュニティをさらに関与させる方法を見つけ、日本語と英語を話すコミュニティがつながる方法を作成するのを支援することです。提案者は日本語で提案することが奨励されており、チャレンジチームは東部タウンホールまたは同等のイベントでのCAの役割の促進を支援します。
+The goal of this challenge is to find ways to further engage the Japanese community and to help create ways for the Japanese and English speaking community to connect. Proposers are encouraged to propose in Japanese and the Challenge team will help promote the CA role in the Eastern Town hall or equivalent event.
 
-チャレンジはコミュニティの特定の部分にのみ焦点を当てているため、予算は5万に設定されています。幅広い用途があり、他の課題にも適合する日本からのプロジェクトもあります。コミュニティの構築に焦点が当てられていることを考えると、予算は2〜6の有意義な取り組みをサポートするのに十分なはずです。
+The budget is set to 50k because the Challenge focuses only on a specific part of the community. There are also projects from Japan which have a broad application and will fit in other challenges. Considering the focus is on community building the budget should be enough to support 2-6 meaningful efforts.
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-日本では当初からカルダノに関心があり、ブロックチェーン技術に対して進歩的な姿勢を示してきました。これにより、日本はカルダノの上に構築されたソリューションを採用する可能性が高くなります。すでにアクティブなコミュニティメンバーとSPOがいますが、Catalystへの参加はまだ比較的少ないです。
+There has been an interest in Cardano in Japan from the start and the country has had a progressive stance towards blockchain technology. This makes Japan a likely country to adopt solutions built on top of Cardano. There are already some active community members and SPO's but participation in Catalyst is still relatively low.
 
-最近、東部市庁舎がコミュニティのメンバーによって開始され、日本の小会議室への参加は一貫して最も高いものの1つです。ファンド6のチャレンジでは、日本のコミュニティからもいくつかの提案があります。現在の勢いで、ファンド7への挑戦は、おそらく良い参加を見て、コミュニティを固めることができるでしょう。
+Recently an Eastern Town Hall was started by community members and participation in the Japanese breakout room has been among the highest consistently. In the fund 6 challenges there are several proposals coming from the Japanese community as well. With the current momentum a challenge in fund 7 would likely see good participation and can solidify the community.
 
-現在、Ideascale＆Catalystのほとんどは英語で動作しています。これは、英語以外のすべてのコミュニティにとって障壁となります。この課題の解決策がそのギャップを埋めるのに成功した場合、それらは他のコミュニティの模範として機能することができます。
+At the moment most of Ideascale & Catalyst operates in english. This creates a barrier for all non-english communities. If solutions from this challenge prove successful in bridging that gap, they can function as an example for other communities.
 
-## 考えられる方向：
+## Possible directions:
 
-- 重要なドキュメントの翻訳
-- Cardano＆Catalystに関する教育コンテンツを日本語で作成
-- Catalystイベントの通訳者の整理
-- 新会員、CA、SPO、提案者のためのワークショップの開催
-- コミュニティハブの設定
+- Translating key documentation
+- Creating educational content about Cardano & Catalyst in Japanese
+- Organising interpreters for Catalyst events
+- Organising workshops for new members, CA's, SPO's, proposers
+- Setting up community hubs

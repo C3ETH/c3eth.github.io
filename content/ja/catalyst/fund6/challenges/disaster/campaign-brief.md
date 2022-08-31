@@ -1,46 +1,47 @@
 ---
-title: "災害：あらゆる緊急事態が起きた時"
-linkTitle: "災害：あらゆる緊急事態が起きた時"
+title: "Disaster: When all is at stake"
+linkTitle: "Disaster: When all is at stake"
 type: docs
 hide_feedback: true
 ---
-SPOは、安全な問題のない分散型の方法で、リスク & 災害復旧テストの計画、開発、および参加を支援するにはどうすればよいですか?
 
-予算規模: **$150,000 USD paid in Ada**
+How can we help SPOs tackle risks & plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26117) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified)。
+Fund Size: **$150,000 USD paid in Ada**
 
-## キャンペーン概要
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26117) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified).
 
-災害復旧(DR)は、重大な悪い事象の影響から組織を保護することを目的としたセキュリティ計画の分野です。
+## Campaign Brief
 
-災害復旧戦略を策定することにより、組織は混乱後にミッションクリティカルな機能を維持または迅速に再開することができます。
+Disaster recovery (DR) is an area of security planning that aims to protect an organization from the effects of significant negative events.
 
-世界のための提案された金融オペレーティングシステムとしてカルダノは、リモートまたは非常に可能性の低いイベントのためにも、冗長で構築されたいくつかの層を持っている必要があります。
+Having a disaster recovery strategy in place enables an organization to maintain or quickly resume mission-critical functions following a disruption.
 
-テストネットは存在しますが、現実世界の条件は決して完全に複製することはできません。 提案者はCardanoテストネットおよびより多くのシミュレーションへのSPO参加を動機づける方法を開発することができるかもしれません。
+Cardano as a proposed financial operating system for the world must have several layers of built in redundancies even for events that may seem remote or very unlikely now.
 
-## なぜ重要なのか？
+Although a testnet exists, real-world conditions can never be fully replicated. Maybe proposers can develop a way of incentivizing further SPO participation in the Cardano testnet and more simulations.
 
-グローバルな金融オペレーティングシステムを目指すシステムは、ストレステストされなければなりません。 実行中のノードは災害に備える必要があります。
+## Why is it important?
 
-## 成功するとどのような未来が見えますか？
+A system that aspires to become a global financial operating system, must be stress tested. Running nodes should be prepared for disaster.
 
-起こりうる障害点が特定されます。 災害用のチャネルが設定されます。 リカバリの手順が特定されます。 テスト手順が開発されます。
+## How does success look like?
 
-## 測定する主要なメトリック
+Likely points of failure identified. Disaster communication channels set up. Recovery procedures identified. Testing procedures developed.
 
-- メインネットの分散型ストレステストのための方法論が開発されていますか?
-- メインネットの災害復旧テストに参加したことで報酬を得られますか？
-- cardanoテストネットに参加するためのインセンティブは十分ですか？
-- 限られたネットワークストレステスト(過負荷、切断、不良アクター)を行うことができます DDoS … シナリオ) そして、(スロットを失うことによって罰せられるのではなく)これらのテストに参加したことで報われますか?
-- これらの緊急準備に参加したいと考えているステークホルダーのための新しいガイドライン、推奨事項、緊急通信手段が確立されていますか?
-- リスクアセスメント専用チームが設立されましたか？
-- メインネットの大部分をオフラインにする緊急事態から復旧するためのプロトコルが開発されていますか?
-- 様々な冗長性を構築するための提案はありますか?
-- Cardanoステークプールネットワークがより安全で、より安定して、より回復力があり、より分散されているかどうかを測定するために、新しいベンチマークが開発されましたか?
-- サイバーセキュリティ、政治的および規制上のリスク、インターネット関連のリスクなど、リスク源のスクリーニングが幅広く実施されています。
+## Key Metrics to measure
 
-## 参照
+- has a methodology for decentralized stress testing of the main network been developed - by and for stakepool operators?
+- are participating stakepools being rewarded for taking part in mainnet disaster recovery tests?
+- are there enough incentives in place for participating in the Cardano testnet?
+- are stakepool operators able to conduct limited network stress testing (overload, disconnection, bad actor, DDoS … scenarios) and are they rewarded for participating in these tests (instead of being punished by losing slots)?
+- have new guidelines, recommendations and emergency communication channels been established for stakepool operators who wish to take part in these emergency preparations?
+- has a a dedicated risk-assessment and risk-management team been set up?
+- have protocols been developed for recovering from an emergency situation that could take most of the main network offline?
+- have proposals been developed for building in different kinds of redundancies?
+- have new benchmarks been developed to measure whether the Cardano stake pool network is safer, more stable, more resilient and more decentralized?
+- have wider screening of risk sources been performed: CyberSecurity, political and regulatory risks, internet-related risks etc.
 
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/Disaster-When-all-is-at-stake/351012-48088)
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Disaster-When-all-is-at-stake/351012-48088)

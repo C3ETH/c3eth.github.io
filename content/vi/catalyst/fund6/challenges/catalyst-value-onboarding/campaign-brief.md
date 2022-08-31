@@ -1,56 +1,56 @@
 ---
-title: "Catalyst value onboarding"
-linkTitle: "Catalyst value onboarding"
+title: "Giới thiệu giá trị xúc tác"
+linkTitle: "Giới thiệu giá trị xúc tác"
 type: docs
 hide_feedback: true
 ---
 
-Cách để khuyến khích sự tham gia có ý nghĩa từ phía các thành viên của cộng đồng cho Dự án Catalyst trong hai quỹ đầu tư tiếp theo?
+Làm thế nào chúng ta có thể khuyến khích sự tham gia có ý nghĩa vào Dự án Catalyst từ các thành viên cộng đồng trong hai quỹ tiếp theo?
 
-Fund Size: **$75,000 USD paid in Ada**
+Quy mô quỹ: **$ 75,000 USD thanh toán bằng Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26106) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
+[Trang chiến dịch](https://cardano.ideascale.com/a/campaign-home/26106) và [duyệt qua các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified) .
 
-## Campaign Brief
+## Tóm tắt Chiến dịch
 
-The growth of Cardano depends on meaningful participation from proposers, advisors, and voters.
+Sự phát triển của Cardano phụ thuộc vào sự tham gia có ý nghĩa từ những người đề xuất, cố vấn và cử tri.
 
-## How success looks like
+## Thành công trông như thế nào
 
-There's a strong funnel to motivate, inform and direct new participants towards providing a contribution that improves Catalyst's ROI.
+Có một kênh mạnh mẽ để thúc đẩy, thông báo và hướng những người tham gia mới theo hướng đóng góp để cải thiện ROI của Catalyst.
 
-## Key metric to measure
+## Chỉ số chính để đánh giá
 
-To assess ROI of this challenge we will ask ourselves:
+Để đánh giá ROI của thử thách này, chúng tôi sẽ tự hỏi:
 
-Did we manage to increase meaningful participation from proposers, advisors, and voters?
+Chúng ta có quản lý để thúc đẩy sự tham gia tích cực từ những người đề xuất, cố vấn và cử tri không?
 
-Out of total number of new participants:
+Trong tổng số người tham gia mới:
 
-What % active community advisers?
+% Cố vấn cộng đồng tích cực nào?
 
-What % watch townhalls?
+% Xem các thị trấn nào?
 
-What % vote?
+% Bình chọn là gì?
 
-What % proposes?
+% Đề xuất gì?
 
-What % becomes a referrer?
+Có bao nhiêu % trở thành người giới thiệu?
 
-## Guiding questions
+## Hướng dẫn đặt câu hỏi
 
-- How can we increase meaningful participation from proposers, advisors, and voters?
-- How do new people learn about Catalyst?
-- How can we provide a central source of constantly updated information in different formats(text, video, p2p)?
+- Làm thế nào chúng ta có thể tăng cường sự tham gia tích cực từ những người đề xuất, cố vấn và cử tri?
+- Làm thế nào để những người mới tìm hiểu về Catalyst?
+- Làm thế nào chúng tôi có thể cung cấp nguồn trung tâm của thông tin được cập nhật liên tục ở các định dạng khác nhau (văn bản, video, p2p)?
 
-## Potential directions
+## Các định hướng tiềm năng
 
-- Education and onboarding through timely YouTube content
-- Better user experience through hardware wallet support, Daedalus/yoroi support ect.
-- Reddit presence offering reliable information.
-- Mentoring programs matching veteran Catalysts and new Catalysts.
+- Giáo dục và giới thiệu thông qua nội dung YouTube kịp thời
+- Trải nghiệm người dùng tốt hơn thông qua hỗ trợ ví phần cứng, hỗ trợ Daedalus / yoroi vv.
+- Sự hiện diện trên Reddit cung cấp thông tin đáng tin cậy.
+- Các chương trình kèm cặp phù hợp với các Catalysts kỳ cựu và các Catalysts mới.
 
-## Prior Challenges
+## Những thách thức trước
 
-1. [Fund5: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/25944)
-2. [Fund4: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/25872)
+1. [Fund5: Giới thiệu giá trị xúc tác](https://cardano.ideascale.com/a/campaign-home/25944)
+2. [Fund4: Giới thiệu giá trị xúc tác](https://cardano.ideascale.com/a/campaign-home/25872)

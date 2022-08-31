@@ -1,68 +1,66 @@
 ---
-title: サイバー偽情報攻撃を武装解除する
-linkTitle: サイバー偽情報攻撃を武装解除する
-type: docs
-hide_feedback: true
-description: 分散型真実否定（DDoT）攻撃シナリオを通じて、カルダノを不安定化させる試みをどのように防ぐことができますか？
+title: "Disarm cyber disinformation attacks"
+linkTitle: "Disarm cyber disinformation attacks"
+description: "How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 100,000 USD**
+Fund Size: **$100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26239) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Disarm-cyber-disinformation-attacks) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/disarm-cyber-disinformation-attacks)
 
-## キャンペーン概要
+## Campaign Brief
 
-分散型ガバナンスを備えたプルーフオブステークシステムでは、真実を共通に理解し、正確で証明可能な情報の信頼できる情報源に依存することが、コミュニティが2つ以上の確執キャンプに分割されるのを防ぐために重要です。
+In a proof of stake system with distributed governance a common understanding of truth and reliance on authentic sources of correct and provable information can be crucial for avoiding a splitting of the community into two or more feuding camps.
 
-分散型真実拒否（DDoT）攻撃は、ターゲット、その周辺のインフラストラクチャ、およびコミュニティを偽情報や誤った情報の洪水で圧倒することにより、コミュニティ、サービス、またはネットワークの通常の運用を妨害する悪意のある試みとして定義できます。
+A distributed denial-of-truth (DDoT) attack could be defined as a malicious attempt to disrupt the normal operations of a community, service or network by overwhelming the target, its surrounding infrastructure and community with a flood of disinformation and malinformation.
 
-偽情報は、オーディオ/ビジュアル/テキストコンテンツ、意図的に作成された陰謀説や噂、または不信感を植え付けるために作成または意図的に操作されています。偽情報があると、悪い情報はだまそうとして広まります。
+Disinformation is fabricated or deliberately manipulated audio/visual/text content, intentionally created conspiracy theories or rumors or to sow mistrust. With disinformation the bad information is spread with the intent to deceive.
 
-不正情報とは、公益ではなく個人または企業向けに意図的に情報を公開することです。本物のコンテンツのコンテキスト、日付または時刻の意図的な変更。
+Malinformation is the deliberate publication of information for personal or corporate rather than public interest. Deliberate change of context, date or time of genuine content.
 
-これらのDDoT攻撃シナリオは、外部/内部の複合攻撃として出現し、暗号通貨コミュニティなどの激しい部族コミュニティでより速く広がる可能性があります。 DDoT攻撃は、誤った情報でシステムを圧倒し、自信の急落/コミュニティの分裂につながる可能性があります。
+These DDoT attack scenarios may emerge as a combined outside/inside attack and spread faster in fiercely tribal communities, such as a cryptocurrency community. A DDoT attack might overwhelm a system with false information, leading to a plunge in confidence / community split.
 
-「今のところ、被害者は選挙だけだと誰もが暗黙のうちに想定している」と、コンピューターセキュリティ会社のリバイアサンセキュリティグループ社で企業が偽情報に対抗する方法を開発している元ツイッター社のデータサイエンティスト、デビッドパールマン氏は言う。「企業が被害者にならない理由はない」と。
+"Right now everybody is implicitly assuming that the only possible victim is an election," says David Perlman, a former Twitter Inc. data scientist who is now developing ways for corporations to counter disinformation at the computer security company Leviathan Security Group Inc. "There's no reason that a company couldn't be a victim," he says.*
 
-- [ブランドは新たなオンライン脅威に直面：偽情報攻撃](https://www.wsj.com/articles/brands-face-a-new-online-threat-disinformation-attacks-11602187365)
+- [Brands Face a New Online Threat: Disinformation Attacks](https://www.wsj.com/articles/brands-face-a-new-online-threat-disinformation-attacks-11602187365)
 
-悪意のあるプレイヤーは、最初は公に見えない特定の利益から、このシナリオに密かに準備する可能性があります。これは、いくつかの主要な所有者/取引所/ライバルコイン/投資家および/またはメディアパーソナリティの助けを借りて行うことができます。
+A bad faith player may secretly prepare for this scenario out of particular interests that are not publicly visible initially. This can be done with the help of some major holders/exchanges/rival coins/investors and/or media personalities.
 
-私たちは皆、一人の人（Elon Musk）がすでに暗号市場を動かすことができる方法を知っていますが、外部のサポートを持つ少数の著名なCardanoペルソナが同じことを行うことができるかもしれません。
+We are all aware how a single person (Elon Musk) is already able to move crypto markets, while a handful of prominent Cardano personas with outside support might be able to do the same.
 
-この課題の提案者は、カルダノの財務送金のすべてのセグメントの透明性を向上させることに焦点を当て、カルダノとその主要な創設者の設立当初から金融イベントを監視する方法について「初心者に優しい」チュートリアルを作成します。
+Proposers in this challenge would focus on improving the transparency of all segments of Cardano treasury monetary transfers and make "beginner-friendly" tutorials on how to monitor financial events from the very inception of Cardano and its main founding entities.
 
-提案者はまた、システムをゲーム化する新旧の試み、さらなる詐欺、フリースユーザー、不信感の種まき、嘘の拡散、コミュニティの不安定化に強力な光を当てることに焦点を当てます。
+Proposers would also focus on shining a powerful light on old and new attempts to game the system, further scams, fleece users, sow distrust, spread lies and destabilize the community.
 
-カルダノコミュニティがそれらを防ぐために積極的に取り組んでいない場合、多くの可能なDDoTシナリオが進化する可能性があります。
+Many possible DDoT scenarios may evolve if the Cardano community is not proactively working to prevent them.
 
-発明されたもの-物事がどのように速くうまくいかないかを説明するためのDDoTシナリオの例：
+One invented - example DDoT scenario to illustrate how things can go wrong fast:
 
-悪意を伴うシナリオの例：カルダノの3つの創設者エンティティの1つの元/現在の責任者または創設者または主要な研究者/マネージャーは、別の創設者エンティティまたは可能性のある金融シェナニガンの努力/意図の正当性を疑問視する虚偽の陳述を発行します。
+Example scenario involving bad faith: A former/current head or founder or leading researcher/manager of one of the three founding entities of Cardano issues an untrue statement questioning the legitimacy of efforts/intentions of another founding entity or possible financial shenanigans.
 
-いくつかの著名なコミュニティSPOは、いくつかの主要なYouTubeインフルエンサーや暗号メディアと同様に、非難するエンティティの側にいます。告発された側と反対側。一部の企業は距離を置き始めています。
+Several prominent community SPOs side with the accusing entity, as do several leading Youtube influencers and crypto media. Other side with the accused side. Some companies start distancing themselves.
 
-ある創設者が密かに資金を吸い上げたという噂が広まり、それは舞台裏で行われています。別の噂では、カルダノエンティティの1つがバックドアを設置し、いくつかのSPOが恐怖から誓約を減らしたと発表しています。パニックが広がる。主張はソーシャルメディアを通じて増幅されます。
+Rumors circulate that one founding entity allegedly secretly siphoned funds and that has been done behind the scenes. Another rumor circulates that one of the Cardano entities has installed a backdoor and several SPOs announce they have reduced their pledges out of fear. Panic spreads. The allegations are amplified through social media.
 
-真実を確立するのは難しいです-話し合いや私的な議論に言及がなされており、公の主張を検証することは困難です。
+Truth is hard to establish - references are made to talks and private discussions, public allegations are difficult to verify.
 
-一般のコミュニティには、主張の真のメリットを検証する方法がありません-それらは文書化されていないためです。 2つのキャンプが出現します。カルダノコミュニティは断層線に沿って分裂します。これにより、火にさらに燃料が追加されます。 ADAの価値は急落します。カルダノエコシステムの真実の源そのものが疑問視されています。システム全体がぐらつく。よく組織された20人の分散型プレーヤーのグループによるDDOT攻撃が進行中です。ガバナンスは揺らいでいます。
+The general community has no way to verify the true merits of the claims - as they are undocumented. Two camps emerge. Cardano community splits along fault lines. This adds more fuel to the fire. ADA value plunges. The very sources of truth in the Cardano ecosystem come under question. The entire system teeters. A DDOT attack by a group of two dozen well organized distributed players is underway. Governance is rocked.
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-レガシーシステムは、利害関係者、参加者、および一般の人々が真実とは何かについて合意できないことによって危機に瀕しています。
+Legacy systems have been brought to the brink by the inability of stakeholders, participants and the public to agree on what is truth.
 
-## 成功はどのように見えますか？
+## How does success look like?
 
-カルダノと進行中および過去のイベントについての真実は、初心者でも簡単に確立できます。侵食されていない信頼。透明性が向上します。
+Truth about Cardano and ongoing and past events is easy to establish even for newcomers. Trust not being eroded. Transparency is enhanced.
 
-## 測定する主要な指標
+## Key Metrics to measure
 
-- カルダノ財務とその資金、財務支出、過去、現在、未来の金融政策に関する情報へのより簡単なアクセス
-- 財務および創設エンティティからの過去の取引は、カルダノのパワーユーザー以外のユーザーが数回クリックするだけで簡単に識別できます。
-- 財務省101の情報源が確立されており、財務省の仕組みの基本と、財務省に関連するすべての事実を個別に検証する方法を説明しています。
-- 古い/新しい詐欺、詐欺の試み、偽の暴かれた理論、および虚偽のリポジトリを簡単にチェックしてアクセスできます
-- コミュニティが管理するWebサイトは、カルダノ財務省、ADAインフレ率、将来の金融政策ADA計算機に関するより初心者向けのコンテンツを含むように拡張されています。
-- コミュニティが管理するWebサイトは、さまざまな種類のカルダノ詐欺、悪意のあるプレーヤー、虚偽、FUDの拡散に関する過去および現在のコンテンツを含むように拡張されています。
-- カルダノプロジェクトのタイムライン、カルダノのFAQと批評、および批判への回答を含む新しい情報源とリポジトリが開発されています。
-- IOGのCardano360ショー、Charles HoskinsonのAMA、および他の主要なコミュニティメンバーからの情報を検索および転記するためのより優れたツールが開発されています。
+- Easier access to information about the Cardano treasury and its funds, treasury disbursement, past, current and future monetary policy
+- Historical transactions from the treasury and founding entities can be easily identified by any non-power user of Cardano with a couple of clicks
+- Treasury 101 information sources are established explaining the basics of how the Treasury works and how all Treasury-related facts can be verified independently - with how-to-guides
+- Repository of old/new scams, scam attempts, fake debunked theories and falsehoods can be easily checked and accessed
+- Community-managed websites expand to include more beginner-friendly content about Cardano Treasury, ADA inflation rate, future monetary policy ADA calculators
+- Community-managed websites expand to include historical and current content about different types of Cardano scams, bad-faith players, untruths and FUD spreading.
+- New sources and repositories of information are developed containing timelines for Cardano project, FAQs and criticisms of Cardano as well as answers to criticisms.
+- Better tools for searching and transcribing information from IOG's Cardano 360 shows, Charles Hoskinson's AMAs and from other leading community members are developed.
+

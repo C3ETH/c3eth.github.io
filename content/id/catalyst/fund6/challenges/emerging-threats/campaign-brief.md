@@ -1,8 +1,13 @@
 ---
 title: "Cardano Emerging Threat Alarm"
 linkTitle: "Cardano Emerging Threat Alarm"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?

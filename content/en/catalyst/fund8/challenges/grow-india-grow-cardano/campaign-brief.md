@@ -12,9 +12,11 @@ Fund Size: **150,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/381216) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How can we grow Cardano development and adoption in India?
 
 ### Why is it important?
+
 1.4B people. 55% under 30y (2016 est)
 
 Local Cardano developers/businesses needed to solve local issues.
@@ -22,9 +24,11 @@ Local Cardano developers/businesses needed to solve local issues.
 Significant poverty/unbanked
 
 ### What does success look like?
+
 Success is having multiple submissions for Catalyst Fund8 for India focused projects, with real-world projects getting funded and built.
 
 ### Key Metrics to measure
+
 The overall key metrics would be:
 
 - Increased interaction between Catalyst and Indian focused projects
@@ -32,6 +36,7 @@ The overall key metrics would be:
 - Number of Indian focused dapps/services actually built
 
 ## Challenge Brief
+
 As well as Africa, I think we should also put significant focus on Cardano within India.
 
 India has a massive population of 1.4 billion.
@@ -62,8 +67,6 @@ Some suggestions for that Fund8 challenge are:
 
 This is like a big heavy wheel that will take a lot of energy to get turning, but once it starts to move it will (hopefully) keep going with less energy needed.
 
- 
-
-How much ADA/USD should be available for this proposal? 
+How much ADA/USD should be available for this proposal?
 
 I think it will take a few Catalyst rounds to build the Cardano interest in India, so the first round of investment during Fund8 should be $150k. Subsequent funding rounds can be determined at the time and then voted on by the community.

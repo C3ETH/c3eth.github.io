@@ -1,8 +1,9 @@
 ---
-title: Catalyst Fund 7
-linkTitle: Fund 7
-type: docs
-hide_feedback: 'true'
+title : "Fund 7"
+description: "Fund 7"
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
 ---
-
-This index page is still being updated. The **Catalyst Proposals for fund 7** runs from date Nov 11th,2021 , to date TBD in these stages. Voting for **Catalyst Fund 7** starts on Jan 13th,2022

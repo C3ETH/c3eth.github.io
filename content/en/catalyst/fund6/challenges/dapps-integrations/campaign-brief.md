@@ -1,8 +1,14 @@
 ---
 title: "DApps & Integrations"
 linkTitle: "DApps & Integrations"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
+
 ---
 
 What applications will provide the most value for end users in 2021?

@@ -1,55 +1,60 @@
 ---
-title: "Catalyst への価値のオンボーディング"
-linkTitle: "Catalyst への価値のオンボーディング"
-type: docs
-hide_feedback: true
+title: "Catalyst value onboarding"
+draft: flase
+menu:
+    catalyst:
+        parent: "challenge-setting-proposals"
+
+weight: 220
+toc: true
 ---
-次の2つのFUNDでコミュニティメンバーからのProject Catalystへの有意義な参加を促進するにはどうすればよいでしょうか?
 
-予算規模: **$75,000 USD paid in Ada**
+How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26106) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified)。
+Fund Size: **$75,000 USD paid in Ada**
 
-## キャンペーン概要
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26106) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
 
-Cardanoの成長は、提案者、アドバイザー、および有権者からの有意義な参加に依存します。
+## Campaign Brief
 
-## 成功するとどのような未来が見えますか？
+The growth of Cardano depends on meaningful participation from proposers, advisors, and voters.
 
-CatalystのROIを向上させる貢献を提供することに向けた、新しい参加者を動機づけ、知らせ、直接的にするための強力なファンネルがあります。
+## How success looks like
 
-## 測定する主要なメトリック
+There's a strong funnel to motivate, inform and direct new participants towards providing a contribution that improves Catalyst's ROI.
 
-このチャレンジのROIを評価するために、私たちは自問します:
+## Key metric to measure
 
-私たちは、提案者、アドバイザー、投票者からの有意義な参加を増やすことができましたか?
+To assess ROI of this challenge we will ask ourselves:
 
-新規参加者の合計数:
+Did we manage to increase meaningful participation from proposers, advisors, and voters?
 
-アクティブなコミュニティ・アドバイザーは何％ですか？
+Out of total number of new participants:
 
-何％がタウンホールを見ていますか？
+What % active community advisers?
 
-何％が投票していますか？
+What % watch townhalls?
 
-何％が提案していますか？
+What % vote?
 
-何％が紹介者になりましたか？
+What % proposes?
 
-## ガイドの質問
+What % becomes a referrer?
 
-- 提案者、アドバイザー、有権者からの有意義な参加をどのように増やすことができるでしょうか?
-- 新しい人々はどのようにカタリストについて学ぶのでしょうか?
-- 異なるフォーマット(テキスト、ビデオ、p2p)で絶えず更新される情報の中心的な情報源を提供するにはどうすればよいでしょうか。
+## Guiding questions
 
-## 潜在的な方向性
+- How can we increase meaningful participation from proposers, advisors, and voters?
+- How do new people learn about Catalyst?
+- How can we provide a central source of constantly updated information in different formats(text, video, p2p)?
 
-- タイムリーな YouTube コンテンツを通じた教育とオンボーディング
-- ハードウェアウォレット、Daedalus、yoroiのサポート等でユーザーエクスペリエンスを向上させます。
-- Reddit プレゼンスは信頼性の高い情報を提供します。
-- ベテランと初心者をマッチングさせるメンタリングプログラム
+## Potential directions
 
-## 以前のチャレンジ
+- Education and onboarding through timely YouTube content
+- Better user experience through hardware wallet support, Daedalus/yoroi support ect.
+- Reddit presence offering reliable information.
+- Mentoring programs matching veteran Catalysts and new Catalysts.
 
-1. [FUND5:Catalyst への価値のオンボーディング](https://cardano.ideascale.com/a/campaign-home/25944)
-2. [FUND4:Catalyst への価値のオンボーディング](https://cardano.ideascale.com/a/campaign-home/25872)
+## Prior Challenges
+
+1. [Fund5: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/25944)
+2. [Fund4: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/25872)

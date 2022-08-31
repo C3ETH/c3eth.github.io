@@ -1,8 +1,13 @@
 ---
 title: "Multilingual resources"
 linkTitle: "Multilingual resources"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?
@@ -34,6 +39,7 @@ At the end of this challenge, we will be asking ourselves: Did we manage to make
 - Number of non-English speakers joining Cardano community
 - Number of courses translated to different languages, from programming to stakepool operation and so on.
 - A sense of community and conversations. Having people around to talk with.
+
 ## References
 
 1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088)

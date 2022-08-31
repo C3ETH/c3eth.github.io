@@ -1,59 +1,59 @@
 ---
-title: Grow Africa, Grow Cardano
-linkTitle: Grow Africa, Grow Cardano
+title: "Grow Africa, Grow Cardano"
+linkTitle: "Grow Africa, Grow Cardano"
 type: docs
-hide_feedback: 'true'
+hide_feedback: true
 ---
 
-アフリカでCardanoをどのように育てるのか？
+How do we seed and grow Cardano in Africa?
 
-予算規模: **$200,000 USD paid in Ada**
+Fund Size: **$200,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26108) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified)。
+[Campaign page](https://cardano.ideascale.com/a/campaign-home/26108) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-### アフリカはCardanoの採用にとって肥沃な土地である。
+### Africa is fertile ground for the adoption of Cardano.
 
-アフリカに焦点を当てた資金調達ラウンドを持つことは勝利のシナリオです。 アフリカはサポートされれば勝利します。 すでにアフリカが勝利を収めている商業プロジェクトは、彼らが私たちのコミュニティからサポートのシグナルを得ています。 Cardanoホルダーは、大量採用のための奨励環境があれば、勝利します。
+Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.
 
-アフリカに焦点を当てることはしばしば促進され、IOGとチャールズ・ホスキンソンによって公然と追求されている戦略です。
+Focussing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson
 
-コミュニティが後援するプロジェクトは若い発展途上国でよりよく実行されるため、ROIは高くなる可能性があります。
+The ROI is likely to be high because community sponsored projects are better run in young and developing economies.
 
-## このプロジェクトは何ですか？
+## What this is:
 
-世界をより良い場所にするために、この機会を認識し、リスクを冒し、報酬を与えるCardanoコミュニティの能力を活性化するための呼びかけです。
+A call to activate the Cardano community's ability to recognise, risk and reward this opportunity to make the world a better place.
 
-## このプロジェクトはこうではありません。
+## What this is not:
 
-これは提案者によって積極的な仕事を必要とする提案ではありません、それは達成に至るための投票を必要とするビジョンです。 それが成功した場合は、受益者はCardano全体のコミュニティです。 それは私たちの偏見をやめ、私たちの多くが生まれてきた環境上の利益を欠いている善良な人々に私たちの目、心、そして心を開くための呼びかけです。 勝利し成功するためには、慈善団体が必要ではないことを示す機会となります。 必要なのは、他の多くの人が享受している成功または失敗の機会均等ですが、障害やハードルが軽減され、選択肢は自分たちの手に委ねられていることも必要です。
+This is not a proposal that needs active work by the proposers, it is a vision that needs votes to become an achievement. If it succeeds the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
 
-## 成功するか失敗するかにかかわらず:
+## Regardless of whether it succeeds or fails:
 
-私は目を開け、アフリカの可能性について考えを変えました。 西部のアフリカの銀行家から、ビジョンと心を持った出稼ぎの人々、情熱を持った若者、私の仮定とCardanoコミュニティのメンバーに多くのことを与えることに挑戦したドキュメンタリーです。
+I have had my eyes opened and my mind changed about the potential of Africa. From Africa's bankers in the west, ex-pats with vision and heart, youth with passions, documentaries that challenged my assumptions and Cardano community members with so much to give.
 
-## なぜ重要なのか？
+## Why is it important?
 
-グローバルで採用されるとCardanoは輝きます。 アフリカには現在若い起業家がおり、大きな成長や政府との契約の可能性があります。
+Cardano shines when adoption is global. Africa currently has young entrepreneurs, great growth potential and a government contract imminent.
 
-## 成功するとどのような未来が見えますか？
+## How does success look like?
 
-- Cardanoはアフリカで最高のパブリックブロックチェーンと見なされています
-- アフリカのCardanoプロジェクトは孤立しておらず、ネットワーク化され、成長しています
+- Cardano is considered the best public block-chain operating in Africa
+- Cardano projects in Africa are not isolated but networked and growing
 
-## 測定する主要なメトリック
+## Key Metrics to measure
 
-- アフリカ人参加者数
-- アフリカ以外の参加者の数とアフリカの住民との重要なパートナーシップの数
-- 失敗や成功に関係なく、成功した提案からの進捗に関するフィードバック
-- 新規性とソリューションの妥当性（定量化が難しく、見やすい）
-- 運営を続けるためにさらに資金を必要としないアフリカのFund5の提案数
+- Number of purely African participants
+- Number of Outside African participants with a significant partnership with African residents
+- Feedback on progress from successful proposals regardless of failure or success
+- Novelty and appropriateness of solutions (hard to quantify, easy to see)
+- Number of African Fund5 proposals that do not need further funding to keep operating
 
-## 以前のチャレンジ
+## Prior Challenges
 
-1. [Fund5：アフリカを育て、Cardanoを育てる](https://cardano.ideascale.com/a/campaign-home/25947)
+1. [Fund 5: Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/campaign-home/25947)
 
-## 参照
+## References
 
-1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088)
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088)

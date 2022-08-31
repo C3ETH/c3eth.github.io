@@ -1,8 +1,9 @@
 ---
-title: "Catalyst Fund 6"
-linkTitle: "Fund 6"
-type: docs
-hide_feedback: true
+title : "Fund 6"
+description: "Catalyst fund 6."
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
 ---
-
-このインデックスページはまだ更新されていません。これはファンド6セクションのCatalyst提案です。ファンドごとに更新されます。

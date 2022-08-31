@@ -1,58 +1,59 @@
 ---
-title: DApps-統合
-linkTitle: DApps-統合
+title: "DApps - Integrations"
+linkTitle: "DApps - Integrations"
 type: docs
 hide_feedback: true
-description: 2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？
+description: "What applications will provide the most value for end users in 2022?"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 250,000 USD**
+Fund Size: **$250,000 USD paid in Ada**
 
 [Campaign page](https://github.com/Catalyst-Challenges/F7-DApps-and-Integrations) and [browse ideas](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/dapps-and-integrations).
 
-## どうしてそれが重要ですか？
 
-高品質のDappと統合により、Cardanoの有用性と採用が向上します。
+## Why is it Important?
 
-## 成功はどのように見えますか？
+Quality Dapps and integrations will increase utility & adoption of Cardano.
 
-斬新で実行可能なアプリケーションは、Cardanoの魅力的なユーザーの上に構築されます。統合により、より多くの採用を引き出すことができます。
+## How does success look like?
 
-## 測定する主要な指標
+Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
 
-課題を評価するために、私たちは自分自身に問いかけます。私たちの努力は、ユーザーをプラットフォームに引き付けることに成功しましたか？私たちの努力の結果、Cardano上に構築された新しい実行可能なアプリケーションが生まれましたか？
 
-「アプリケーション出力」と「アプリケーショントランザクション」を、アプリケーションのスクリプトアドレスを使用する出力とトランザクションとします。 「アプリケーショントークン」は、アプリケーションによって発行されるトークンです。
+## Key Metrics to measure
 
-### チャレンジ中に開発されたアプリケーションの使用法：
+To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
 
-- アプリケーション出力の数/成長
-- アプリケーショントランザクションの数/成長
-- アプリケーショントランザクションに関与するAdaの総量
-- アプリケーションによるリソース使用量の合計/増加
-- アプリケーショントランザクションで言及されている個別のアドレスの数/増加
+Let an "application output" and an "application transaction" be an outputs and transactions that use the applications' script addresses; and an "application token" be a token that's issued by the application.
 
-アプリケーションがトークンを使用する場合：
+### Usage of applications developed during the challenge:
 
-1. アプリケーショントークンの数/成長
-2. アプリケーショントークンを保持する個別のアドレスの数/増加
+- Number/growth of application output
+- Number/growth of application transactions
+- Total volume of Ada involved in application transactions
+- Total/growth of resource usage by applications
+- Number/growth of distinct addresses mentioned in application transactions
 
-### チャレンジ中に開発されたアプリケーションの実行可能性：
+If the application uses tokens:
 
-- 2021年の終わりにまだ開発中のアプリケーションはいくつありますか？
-- 作成者に利益をもたらしたアプリケーションはいくつありますか？
-- アプリケーションを構築したチームのうち、2021年に成長したチームはいくつですか？
-- アプリケーションを構築した（または構築を計画している）チームのうち、別のアプリケーションを構築したチームはいくつありますか？
+1. Number/growth of application tokens
+2. Number/growth of distinct addresses holding application tokens
 
-## ガイドの質問
+### Viability of applications developed during the challenge:
 
-- 他のプラットフォームのアプリケーションエコシステムを支える主要なアプリケーションは何ですか？
-- 他のエコシステムで最も収益性の高い、または最も使用されているアプリケーションは何ですか？
-- Cardanoのユーザーには、新しいアプリケーションで解決できるニーズは何ですか？
-- どのアプリケーションが、最小限の技術的洗練度で最高の価値を提供しますか？
+- How many of the applications are still being developed at the end of 2021?
+- How many of the applications made a profit for their creators?
+- How many of the teams which built the applications grew during 2021?
+- How many of the teams which built the applications built (or plan to build) another application?
 
-## 考えられる方向
+## Guiding questions
 
-- スワップ、シンプルなものと派手なものの両方（マルチパーティなど）
-- エスクロー、シンプルなものと派手なものの両方
-- 既存製品との統合
+- What are the key applications that underpin the application ecosystem on other platforms?
+- What are the most profitable or most used applications on other ecosystems?
+- What needs do users of Cardano have that could be solved by new applications?
+- What applications deliver the highest amount of value with the least amount of technical sophistication?
+
+## Potential directions
+
+- Swaps, both simple and fancy variants (multi-party etc.)
+- Escrow, both simple and fancy variants
+- Integrations with existing products

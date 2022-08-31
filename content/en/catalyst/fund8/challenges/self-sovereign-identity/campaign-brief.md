@@ -12,21 +12,26 @@ Fund Size: **400,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/380986) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26451/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 How can we take the next step to support the principles of self-sovereign identity?
 
 ### Why is it important?
+
 We have the potential to be leaders in the SSI ecosystem, assuring trust and giving individuals control of their digital identities.
 
 ### What does success look like?
+
 Receiving high quality projects; growing participation on SSI discussions; partnering with ecosystem, governance and working groups
 
 ### Key Metrics to measure
+
 - The number of proposals that directly address SSI in a quantifiable manner
 - The quality of proposals measured by community interest and engagement
 - Awareness of Cardano inside the SSI community, working groups and governance entities
 
 
 ## Challenge Brief
+
 Catalyst Project by its Fund 6 and Fund 7 has promoted projects that push adoption of the Decentralized Identity and Atala Prism SDK. Additionally, a first cohort was part of the Atala PRISM Pioneer Program and a second one is ready to start.
 
 The amount and quality of projects proposed so far and the involvement of the community in the matters of Decentralized Identity are clear indicators that **Cardano is ready to make the big move to cope with all aspects of the Self-Sovereign Identity ecosystem.**

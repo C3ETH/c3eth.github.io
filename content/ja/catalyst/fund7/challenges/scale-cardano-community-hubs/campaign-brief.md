@@ -1,39 +1,38 @@
 ---
-title: スケールアップCardanoのコミュニティハブ
-linkTitle: スケールアップCardanoのコミュニティハブ
+title: "Scale-UP Cardano's Community Hubs"
+linkTitle: "Scale-UP Cardano's Community Hubs"
 type: docs
 hide_feedback: true
-description: 今後6か月でCardanoの採用と認識を促進するようにローカルコミュニティハブをどのように奨励しますか？
+description: "How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?"
 ---
+{{< youtube nJkH2MtPhX8 >}}
 
-{{&lt;youtubenJkH2MtPhX8&gt;}}
-
-ファンドサイズ： **Adaで支払われる$ 350,000 USD**
+Fund Size: **$350,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26244) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Scale-UP-Cardanos-Community-Hubs) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/scale-up-cardanos-community-hubs)
 
-## キャンペーン概要
+## Campaign Brief
 
-世界の約78億人の住民のうち、64億5000万人が英語を話しません。
+Out of the world's approximately 7.8 billion inhabitants, 6.45 billion do not speak English.
 
-西洋の世界に住んでいる私たちは、この事実を定期的に忘れており、私たちの多くはそれを考えたことさえありません。
+Living in the Western world, we forget this fact regularly, and many of us have never even considered it.
 
-今それを考えて、誰もが自分の能力を最大限に発揮できるように、真にグローバルなエコシステムの構築を始めましょう。
+Let's consider it now and start to build an ecosystem that is truly global, allowing everyone to participate to the best of their ability.
 
-地上レベルでの採用を推進するとき、あなたは単に「クールな製品を構築する」以上のことをしているので、人々が自分たちでは想像もできなかった方法で人生を変えることができるようになります。
+When you drive adoption at the ground level, you are doing more than just 'building cool products', you are empowering people to change their lives in ways they could have never imagined by themselves.
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-地上レベルのユーザーがいなくても、ブロックチェーンの専門知識を持つ技術者を中心にサービスを提供するニッチな製品を構築しています。
+Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.
 
-## 成功はどのように見えますか？
+## How does success look like?
 
-平均的な人が自分の言語で自分の文化的理解を持って参加できる世界中の地域コミュニティハブ
+Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding
 
-## 測定する主要な指標
+## Key Metrics to measure
 
-- 次の6か月でいくつの新しいハブが立ち上げられましたか？
-- このコミュニティに焦点を当てた課題は、何人の開発者をカルダノエコシステムにもたらしましたか？
-- カルダノの新規ユーザーは何人参加しましたか？
-- ハブの最初のマーケティング立ち上げの総リーチはどれくらいでしたか？
-- このコミュニティに焦点を当てた課題は、カルダノのエコシステムにいくつの外部組織をもたらしましたか？
+- How many new Hubs were launched in the next 6 months?
+- How many developers did this community-focused challenge bring into the Cardano ecosystem?
+- How many new users of Cardano were onboarded?
+- What was the total reach of the Hub's initial marketing launch?
+- How many external organizations did this community-focused challenge bring into the Cardano ecosystem?

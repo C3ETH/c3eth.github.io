@@ -1,8 +1,5 @@
 ---
 title: 'Meningkatkan DeFI di Cardano'
-linkTitle: 'Meningkatkan DeFI di Cardano'
-type: docs
-hide_feedback: true
 description: 'Bagaimana kita dapat mendorong tim DeFI untuk membangun/mengembangkan solusi keuangan terbuka di Cardano dalam 6 bulan ke depan?'
 ---
 
@@ -32,7 +29,7 @@ Sudah jelas selama beberapa tahun belakangan ini bahwa bug, peretasan, dan keren
 
 - [Peretas mencuri setidaknya $600 juta USD saat mengekploitasi Poly yang terhubung ke tiga jenis blockchain](https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains)
 
-[Thorchain menderita kerugian $5 juta USD setelah dieksploit, tim pengembang telah melakukan perbaikan](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
+- [Thorchain menderita kerugian $5 juta USD setelah dieksploit, tim pengembang telah melakukan perbaikan](https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix)
 
 Cardano hadir untuk mengubah paradigma ini dan menghadirkan keamanan bagi para pengguna.
 

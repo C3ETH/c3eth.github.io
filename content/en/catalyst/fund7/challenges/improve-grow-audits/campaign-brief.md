@@ -10,6 +10,7 @@ Fund Size: **$100,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26253) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified) and [Git Repository](https://github.com/Catalyst-Challenges/F7-Improve-and-Grow-Auditability) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/improve-and-grow-auditability)
 
 ## Campaign Brief
+
 When Fund7 happens we will be close to 300 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.
 
 Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.
@@ -17,6 +18,7 @@ Currently, IOG is in charge of monitoring the development of these funded propos
 The Auditability challenge aims to ensure transparency in the use of Cardano's treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.
 
 ### **Some directions that this challenge can take**
+
 - Podcasts with teams from funded proposals.
 - Smart contract audits.
 - Platforms / Websites that perform:
@@ -25,20 +27,23 @@ The Auditability challenge aims to ensure transparency in the use of Cardano's t
 - Metrics on Number of onboarded developers, number of commits in funded proposal repositories.
 - Social media engagement indicators metrics.
 
-
 ## Why is it Important?
+
 It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
 
 ## How does success look like?
+
 Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
 
 ## Key Metrics to measure
+
 Number of funded proposals audited
 
 Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that success metrics are thought out in relation to each challenge.
 
 Number of reports, articles and videos/podcasts on:
+
 - Performance
 - Achievements
 - Financials

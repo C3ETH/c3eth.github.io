@@ -1,8 +1,13 @@
 ---
 title: Kemitraan untuk Adopsi Global
 linkTitle: Kemitraan untuk Adopsi Global
-type: docs
-hide_feedback: 'true'
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 Bagaimana Cardano dapat masuk dalam kemitraan global dengan Program Pembangunan Perserikatan Bangsa-Bangsa dan Kelompok Bank Dunia, untuk meningkatkan adopsi massal?

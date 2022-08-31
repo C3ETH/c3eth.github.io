@@ -1,10 +1,14 @@
 ---
 title: "Proposer outreach"
 linkTitle: "Proposer outreach"
-type: docs
-hide_feedback: true
----
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
 
+weight: 220
+toc: true
+---
 How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
 
 Fund Size: **$100,000 USD paid in Ada**
@@ -12,6 +16,7 @@ Fund Size: **$100,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26105) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified).
 
 ## Campaign Brief
+
 Outside proposers will inject vitality and diversity to the community while increasing the overall quality of proposals.
 
 Cardano has ambitious plans to reach 1 billion people. To make this goal a reality, we must attract the brightest entrepreneurs from across the globe and encourage them to submit ideas which will have a positive impact on the ecosystem. The best ideas will be funded, providing entrepreneurs with a more democratized route to capital and ensuring that location is not a barrier to entry.

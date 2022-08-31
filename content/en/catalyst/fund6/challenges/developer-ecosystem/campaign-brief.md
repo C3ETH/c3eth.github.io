@@ -1,8 +1,13 @@
 ---
 title: "Developer ecosystem"
 linkTitle: "Developer ecosystem"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we create a positive developer experience that helps the developer focus on building successful apps?

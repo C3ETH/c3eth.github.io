@@ -1,8 +1,5 @@
 ---
 title: 'Akselerator & Mentor Catalyst'
-linkTitle: 'Akselerator & Mentor Catalyst'
-type: docs
-hide_feedback: true
 description: 'Bagaimana Catalyst dapat memanfaatkan kemampuan profesional untuk mem-bootstrap lingkungan akselerator yang memperkuat dan mengkomersialkan proyek yang didanai?'
 ---
 

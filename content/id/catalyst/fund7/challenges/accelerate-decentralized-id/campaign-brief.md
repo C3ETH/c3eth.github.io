@@ -1,8 +1,5 @@
 ---
 title: 'Akselerasi Identitas Terdesentralisasi'
-linkTitle: 'Akselerasi Identitas Terdesentralisasi'
-type: docs
-hide_feedback: true
 description: 'Solusi apa yang dapat kami kembangkan dan terapkan dengan Atala PRISM dan Cardano hari ini untuk memberikan dampak paling positif dan membuka peluang pertumbuhan jaringan Cardano secara pesat?'
 ---
 

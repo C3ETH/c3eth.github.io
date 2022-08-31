@@ -1,8 +1,13 @@
 ---
 title: "Grow Africa, Grow Cardano"
 linkTitle: "Grow Africa, Grow Cardano"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How do we seed and grow Cardano in Africa?

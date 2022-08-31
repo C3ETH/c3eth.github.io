@@ -1,8 +1,13 @@
 ---
 title: "Disaster: When all is at stake"
 linkTitle: "Disaster: When all is at stake"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can we help SPOs tackle risks & plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?

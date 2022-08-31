@@ -12,15 +12,19 @@ Fund Size: **800,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/idea/383828) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified).
 
 ## Campaign Brief
+
 What core Nation Building Dapp solutions can be provided for widespread users acquired in the developing world?
 
 ### Why is it important?
+
 For the poor nations with no basic foundations, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity.
 
 ### What does success look like?
+
 Increasing Dapp usage in developing nations, in collaboration with Cardano Local Community Centers and Intl Partnerships to serve its people
 
 ### Key Metrics to measure
+
 - Number of proposals
 - Proposals CA ratings
 - Diversity of Dapp's use cases
@@ -34,6 +38,7 @@ Increasing Dapp usage in developing nations, in collaboration with Cardano Local
 - Dapps impact on economic development
 
 ## Challenge Brief
+
 For the poor nations with no foundations to stand on, Nation Building Dapp solutions will be the building blocks enabling sustainable prosperity. The 2017 Findex report shows that about a quarter of unbanked adults live in the poorest 20 percent of households in their country. Proposals in Nation Building Dapps will be able to help provide digital identities to these people and help them out of poverty. We want to encourage Cardano blockchain solutions that will be able to provide nations with decentralized solutions to their infrastructure by eliminating a single point of failure, protecting national, corporate, and individual data, property, and assets.
 
 https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf

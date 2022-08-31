@@ -1,42 +1,42 @@
 ---
-title: ラテンアメリカを育て、Cardanoを育てる
-linkTitle: ラテンアメリカを育て、カルダノを育てる
+title: "Grow Latin America, Grow Cardano"
+linkTitle: "Grow Latin America, Grow Cardano"
 type: docs
 hide_feedback: true
-description: ラテンアメリカでCardanoエコシステムをどのように成長させますか？
+description: "How do we grow the Cardano ecosystem in Latin America?"
 ---
-
-ファンドサイズ： **Adaで支払われる$ 500,000 USD**
+Fund Size: **$500,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26242) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-Grow-Latin-America-Grow-Cardano) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/grow-latin-america-grow-cardano)
 
-## キャンペーン概要
+## Campaign Brief
 
-アフリカと同様に、ラテンアメリカの一般の人々のブロックチェーンテクノロジーとカルダノプロトコルについての認識レベルを上げることは、Catalystコミュニティの優先事項であるはずです。私たちのプロトコルとコミュニティが提供するサポートを利用するために私たちのプロトコルについて学ぶ人々に資金を提供することは、私たちが一緒に働く理由のようですよね？
+As in Africa, raising the awareness levels of regular people in Latin America about blockchain technology and the Cardano protocol should be a priority for the Catalyst community. Providing the funding for those people who learn about our protocol to take advantage of the protocol and the support the community offers seems to be why we work together, doesn't it?
 
-私たちのコミュニティには、ラテンアメリカからの優秀な人々が私たちと協力して生態系を成長させています。このテクノロジー革命に参加する手段として、コミュニティの仲間に、地元のコミュニティ内で指摘できる資金提供のカテゴリを与えましょう。
+Within our community we have some outstanding people from Latin America working with us to grow the ecosystem. Let's give our fellow community members a funding category they can point to within their local communities as a means to take part in this revolution of technology.
 
-ステークプールの圧倒的多数は、北米とヨーロッパに拠点を置いています。カルダノプロトコルは、Catalystコミュニティがステップアップし、ステークプールネットワークの一部になりたい人々を意図的にサポートする場合、世界中の人々にとってはるかに回復力があり、生産性が高くなります。
+The overwhelming majority of stake pools are based in North America and Europe. The Cardano protocol will be much more resilient and productive for people all around the world when the Catalyst community steps up and intentionally supports those who would like become a part of the stake pool network.
 
-Catalystコミュニティの元々のメンバーの一部はラテンアメリカ出身です。そのイニシアチブを利用して、世界のこの素晴らしい地域からより多くの人々をカルダノエコシステムに連れて行きましょう。
+Some of the Catalyst community's original members come from Latin America, let's capitalize on that initiative and bring more people from this wonderful part of the world into the Cardano ecosystem.
 
-## どうしてそれが重要ですか？
+## Why is it Important?
 
-カルダノコミュニティは、北米とヨーロッパに大きく拠点を置いています。
+The Cardano community is heavily based in North America and Europe.
 
-他の場所で成長するには、コミュニティとしてのサポートとイニシアチブが必要です。
+Growth elsewhere requires our support and initiative as a community.
 
-## 成功はどのように見えますか？
+## How does success look like?
 
-ラテンアメリカから、またはラテンアメリカとのつながりを持つ幅広い人々が集まり、チームを形成して私たちのエコシステムを成長させます。
+A wide spectrum of people from Latin America or with connections to Latin America coming together and forming teams to grow our ecosystem.
 
-## 測定する主要な指標
+## Key Metrics to measure
 
-この課題の有効性を判断するために探すべき基本的な指標には、次のものがあります。
+Basic metrics to look for to determine the effectivity of this challenge will include:
 
-- ProjectCatalystに参加しているラテンアメリカ人によって作成された提案の量。 -それらの提案の質と地元コミュニティへの影響。
-- ラテンアメリカ諸国からコミュニティの新しいメンバーを引き付けましたか？
-- ラテンアメリカで処理される（ブロックが作成される）トランザクションの増加は見られますか？新しいSPOが形成されていますか？
-- この課題設定からの最初の成功した資金提供された提案に基づいて構築することになると、資金提供された提案から何を学ぶことができますか？
-- 世界の他の地域で役立つ可能性のあるアプリケーションが開発されますか？
-- カルダノの生態系に惹かれる人々の生活に測定可能な改善はありますか？
+- The volume of proposals originated by Latin Americans participating in Project Catalyst.
+-The quality of those proposals as well as the impact on their local communities.
+- Did we attract new members of the community from Latin American countries?
+- Will we see an increase in transactions processed (blocks minted) in Latin America? New SPOs forming?
+- What can we learn from funded proposals when it comes to building on the initial successfully funded proposals from this challenge setting?
+- Will applications be developed that might be useful in other parts of the world?
+- Will there be measurable improvement in the lives of people who are attracted to the Cardano ecosystem?

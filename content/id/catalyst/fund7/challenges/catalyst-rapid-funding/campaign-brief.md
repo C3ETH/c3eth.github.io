@@ -1,8 +1,5 @@
 ---
 title: 'Catalyst   - Mekanisme Pendanaan Cepat'
-linkTitle: 'Catalyst   - Mekanisme Pendanaan Cepat'
-type: docs
-hide_feedback: true
 description: 'Bagaimana kita dapat mendistribusikan dana treasury Cardano lebih cepat secara transparan, dapat diauditl dan aman?'
 ---
 

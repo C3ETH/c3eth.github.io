@@ -1,75 +1,75 @@
 ---
-title: 'DApps and Integrations(DApps統合)'
-linkTitle: 'DApps and Integrations(DApps統合)'
+title: "DApps and Integrations"
+linkTitle: "DApps and Integrations"
 type: docs
 hide_feedback: true
-description: '2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？'
+description: "What applications will provide the most value for end users in 2022?"
 ---
 <img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" style="width:500px;height500px">
 
 Fund Size: **2,500,000 USD paid in Ada**
 
-[キャンペーンページ](https://cardano.ideascale.com/c/idea/383335)と[アイデアの閲覧](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified)。
+[Campaign page](https://cardano.ideascale.com/c/idea/383335) and [browse ideas](https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified).
 
-## キャンペーン概要
+## Campaign Brief
 
-2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？
+What applications will provide the most value for end users in 2022?
 
-### どうしてそれが重要ですか？
+### Why is it important?
 
-高品質のDappと統合により、Cardanoの有用性と採用が向上します。このような幅広い資金調達の課題は、より多くの提案を促します。
+Quality Dapps and integrations will increase utility & adoption of Cardano. A broad funding challenge like this encourages more proposals.
 
-### 成功はどのように見えますか？
+### What does success look like?
 
-斬新で実行可能なアプリケーションは、Cardanoの魅力的なユーザーの上に構築されます。統合により、より多くの採用を引き出すことができます。
+Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
 
-### 測定する主要な指標
+### Key Metrics to measure
 
-課題を評価するために、私たちは自分自身に問いかけます。私たちの努力は、ユーザーをプラットフォームに引き付けることに成功しましたか？私たちの努力の結果、Cardano上に構築された新しい実行可能なアプリケーションが生まれましたか？
+To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?
 
-「アプリケーション出力」と「アプリケーショントランザクション」をアプリケーションのスクリプトアドレスを使用する出力とトランザクションとし、「アプリケーショントークン」をアプリケーションによって発行されるトークンとします。
+Let an "application output" and an "application transaction" be an output and transactions that use the applications' script addresses, and an "application token" be a token that's issued by the application.
 
-### チャレンジ中に開発されたアプリケーションの使用法：
+### Usage of applications developed during the challenge:
 
-- アプリケーション出力の数/成長
-- アプリケーショントランザクションの数/成長
-- アプリケーショントランザクションに関与するAdaの総量
-- アプリケーションによるリソース使用量の合計/増加
-- アプリケーショントランザクションで言及されている個別のアドレスの数/増加
+- Number/growth of application output
+- Number/growth of application transactions
+- The total volume of Ada involved in application transactions
+- Total/growth of resource usage by applications
+- Number/growth of distinct addresses mentioned in application transactions
 
-### アプリケーションがトークンを使用する場合：
+### If the application uses tokens:
 
-- アプリケーショントークンの数/成長
-- アプリケーショントークンを保持する個別のアドレスの数/増加
-- チャレンジ中に開発されたアプリケーションの実行可能性：
-- 2022年の終わりにまだ開発中のアプリケーションはいくつありますか？
-- 作成者に利益をもたらしたアプリケーションはいくつありますか？
-- アプリケーションを構築したチームのうち、2022年に成長したチームはいくつありますか？
-- アプリケーションを構築した（または構築を計画している）チームのうち、別のアプリケーションを構築したチームはいくつありますか？
+- Number/growth of application tokens
+- Number/growth of distinct addresses holding application tokens
+- Viability of applications developed during the challenge:
+- How many of the applications are still being developed at the end of 2022?
+- How many of the applications made a profit for their creators?
+- How many of the teams which built the applications grew during 2022?
+- How many of the teams which built the applications built (or plan to build) another application?
 
-## チャレンジブリーフ
+## Challenge Brief
 
-カルダノは、その厳密な研究を通じて他とは一線を画し、物事を正しく行うよう努めるエコシステムです。資金提供を申請するすべてのdAppプロジェクトは、可能な限り最高レベルの認証を目指すことを期待しています。これが何を指し、実際に何を意味するのかを理解するには、このトピックに関するCharlesHoskinsonのビデオ「DApp認定とコミュニティキュレーション」をご覧ください。
+Cardano is an ecosystem that sets itself apart through its rigorous research and strives to do things correctly. We expect all dApp projects applying for funding to aspire to the highest possible levels of certification. To understand what this refers to and practically means, please watch Charles Hoskinson's video on this topic: "DApp certification and Community Curation".
 
 {{< youtube Y7zcYSQarI0 >}}
 
-この課題は、組み込まれたテクノロジーやブロックチェーン企業、およびすでにMVPを展開している有能なチームを持つ大規模なプロジェクトに適しています。理想的には、これらは実績のあるユーザーベースを持つプロジェクトです。そのような基準を満たすプロジェクトは、それが正当化され、明確に予算が組まれている場合、100,000ドル以上を申請することを歓迎します。
+This challenge is suitable for incorporated technology or blockchain companies and larger projects with competent teams that already have deployed MVPs. Ideally, these are projects that have a proven user base. Projects that satisfy such criteria are welcome to apply for more than $100,000 if that can be justified and clearly budgeted for.
 
-実績のある能力、関連する経験、および提案を開始する方法を詳述したスケッチ/ホワイトペーパーを備えた技術スキルを備えた小規模なチーム（4〜5人）の場合、予算は通常40,000〜80,000ドルの範囲になります。
+For smaller teams (4-5 people) with proven competence, relevant experience and technical skills with sketches/whitepaper detailing how they would go about to launch their proposal, the budgets would typically be in the range $40,000-$80,000.
 
-関連する経歴を持っているが、完全なチームがない、またはソリューションの詳細を説明するホワイトペーパーが完成していない場合、プロジェクトは研究段階のプロジェクトと見なす必要があり、予算は10,000ドル未満である必要があります。
+For people with the relevant background but without a full team or completed whitepaper detailing the solution, the project ought to be considered as a research stage project and budgets should less than $10,000.
 
-### ガイドの質問
+### Guiding questions
 
-- 他のプラットフォームのアプリケーションエコシステムを支える主要なアプリケーションは何ですか？
-- 他のエコシステムで最も収益性の高い、または最も使用されているアプリケーションは何ですか？
-- Cardanoのユーザーには、新しいアプリケーションで解決できるニーズは何ですか？
-- どのアプリケーションが、最小限の技術的洗練度で最高の価値を提供しますか？
+- What are the key applications that underpin the application ecosystem on other platforms?
+- What are the most profitable or most used applications on other ecosystems?
+- What needs do users of Cardano have that could be solved by new applications?
+- What applications deliver the highest amount of value with the least amount of technical sophistication?
 
-### 考えられる方向
+### Potential directions
 
-- スワップ、シンプルなものと派手なものの両方（マルチパーティなど）
-- エスクロー、シンプルなものと派手なものの両方
-- 既存製品との統合
-- NFTマーケットプレイスまたはファシリテーター
-- スマートコントラクトの力を活用したソリューション
+- Swaps, both simple and fancy variants (multi-party etc.)
+- Escrow, both simple and fancy variants
+- Integrations with existing products
+- NFT marketplace or facilitator
+- Solutions utilising the power of smart contracts

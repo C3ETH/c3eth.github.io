@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "Get Started"
+
+- id: on-this-page
+  translation: "Mục lục"
+
+- id: search-text
+  translation: "Tìm kiếm..."
+
+- id: 404-title
+  translation: "Không tìm thấy trang :("
+
+- id: 404-text
+  translation: "Trang bạn tìm kiếm không tồn tại hoặc đã bị xoá."
+
+- id: browse
+  translation: "Browse"

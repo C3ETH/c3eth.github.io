@@ -1,14 +1,9 @@
 ---
-title: "Eastern Town Hall Proposals"
-linkTitle: "Eastern Town Hall Proposals"
-type: docs
-weight: 10
-hide_feedback: true
-icon: fas fa-globe
-description: >
-    TODO - Customize site navigation and search here.    
+title : "ETH Proposals"
+description: "Eastern TownHall Proposals"
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
 ---
-
-このインデックスページはまだ更新されていません。これはファンド6セクションのCatalyst提案です。ファンドごとに更新されます。
-
-{{< youtube id="ndcHY5UEDd4" title="Eastern Townhall Proposals" autoplay="false"  >}}

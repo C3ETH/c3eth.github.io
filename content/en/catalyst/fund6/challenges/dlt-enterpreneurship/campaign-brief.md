@@ -1,8 +1,13 @@
 ---
 title: "DLT Entrepreneurship Toolbox"
 linkTitle: "DLT Entrepreneurship Toolbox"
-type: docs
-hide_feedback: true
+draft: false
+menu:
+    catalyst:
+        parent: "challenges"
+
+weight: 220
+toc: true
 ---
 
 How can early stage entrepreneurs develop their skills to execute & communicate great ideas so voters/stakeholders value the project?

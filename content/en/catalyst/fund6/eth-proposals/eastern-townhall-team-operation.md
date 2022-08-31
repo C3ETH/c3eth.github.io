@@ -16,24 +16,28 @@ description: >
 **Requested Amount (USD):** $10,000
 
 ## Problem statement
+
 Participating in Catalyst is difficult when you live in the eastern time zone and your language is not English.
 
 ## Describe your solution to the problem
+
 Eastern TownHall supports eastern countries with events, and translating content. The aim is to increase participants by 20% for each fund.
 
 ## Relevant experience
+
 Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
 
 ## Detailed plan
+
 The Eastern Townhall is a community-driven initiative growing Cardano in the Eastern Hemisphere and across Asia. We want to build a truly global economy and society. Our focus is on making the hard, possible. A place, a time, and a space where:
 
-* We can build knowledge, share information, connect and support each other.
-* Language and culture are not an barrier to participation.
-* We learn how to apply the technology, and community, to address local needs.
-* Show how to use Cardano to increase our economic wellbeing.
-* Enrich Cardano's ecosystem with our stories, our energy, and our perspectives.
+- We can build knowledge, share information, connect and support each other.
+- Language and culture are not an barrier to participation.
+- We learn how to apply the technology, and community, to address local needs.
+- Show how to use Cardano to increase our economic wellbeing.
+- Enrich Cardano's ecosystem with our stories, our energy, and our perspectives.
 
-The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano. 
+The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano.
 
 ### Current Problems and Limitation
 
@@ -41,15 +45,15 @@ The Eastern Townhall is the result of individuals and groups working together. E
 
 ### Proposed Solution: Pool of Funds
 
-To reach a global audience means meeting people where they are, in their country, their language and their culture. 
+To reach a global audience means meeting people where they are, in their country, their language and their culture.
 
 We are an active part of our Cardano ecosystem. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more, so much more:
 
-* We make knowledge and content accessible to as many cultures as possible.
-* We host different events where community members come together
-* We bridges to underrepresented groups
-* We integrate local perspectives to enrich the Catalyst Community; and
-* We listen! Gathering opinions and data to help us all understand.
+- We make knowledge and content accessible to as many cultures as possible.
+- We host different events where community members come together
+- We bridges to underrepresented groups
+- We integrate local perspectives to enrich the Catalyst Community; and
+- We listen! Gathering opinions and data to help us all understand.
 
 **We are doing translations, building community, sharing knowledge, enabling entrepreneurs, and growing Cardano.**
 
@@ -57,11 +61,11 @@ Doing all that has costs, so if we are to sustain the Eastern Townhall efforts, 
 
 This proposal is about forming and maintain a pool of funds (a treasury) that is managed by the Eastern Townhall Trusted Seed. A pool of funds to spend at our discretion. The treasury will be used to cover expenses, to grow and sustain the efforts of the Eastern Townhall. Expenses like translation bounties; production of content; paying for online service subscriptions such as Zoom, Github, HackMD, Statbot and others; paying for activities related to organising the Eastern Town Hall.
 
-Simply put this proposal is about funds for organising a community group. Establishing a resource and distributed support structure that provides funds needed on demand without the overhead of specific Catalyst proposals. 
+Simply put this proposal is about funds for organising a community group. Establishing a resource and distributed support structure that provides funds needed on demand without the overhead of specific Catalyst proposals.
 
-In return, we promise to report back financial statements on our activities and expenses. Translated into as many languages as we can find collaborators for. Our intent is to pioneer and prototype DAO treasury management[3] reporting. That is not a small matter and managing a shared pool of funds has plenty of compliance complications. The reporting effort is Similar in principal to the work being done by index.coop[4] and FWB[5]. Most DAOs are still figuring this out and the best practices are not even drafts, so help us work this out. 
+In return, we promise to report back financial statements on our activities and expenses. Translated into as many languages as we can find collaborators for. Our intent is to pioneer and prototype DAO treasury management[3] reporting. That is not a small matter and managing a shared pool of funds has plenty of compliance complications. The reporting effort is Similar in principal to the work being done by index.coop[4] and FWB[5]. Most DAOs are still figuring this out and the best practices are not even drafts, so help us work this out.
 
-Learning how the Eastern Town Hall is spending and allocating funds will help us attract future funding. Help collaborators identify opportunities to work with us. 
+Learning how the Eastern Town Hall is spending and allocating funds will help us attract future funding. Help collaborators identify opportunities to work with us.
 
 Help us scale and reach more people across the Eastern Hemisphere.
 
@@ -73,7 +77,7 @@ A questionnaire on the number of proposers / voters / advisors is conducted for 
 
 **Daily**: Inquiries from the community about Catalyst are answered by our members in their respective languages. We will translate Catalyst content and publish it via our website.
 
-**Weekly**: We hold weekly planning events and meetups, sharing information about our activities with each community. 
+**Weekly**: We hold weekly planning events and meetups, sharing information about our activities with each community.
 
 **Monthly**: Our spending is reported. We will manage your finances in a decentralized manner using a multi-sig wallet.
 
@@ -102,13 +106,14 @@ We have already started this activity and will continue to do so whether or not 
 ### Intellectual Property
 
 Participation in our community is covered by a [Contributor Covenant](https://www.contributor-covenant.org/). A Contributor License accompanies contributions to our project. The copyright of anyone’s contribution is retained; the agreement simply gives us permission to use and redistribute contributions as part of the project.
- 
+
 All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
- 
+
 Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### After 6 months
-We have demonstrated our ability to grow Catalyst participation in the Easted Hemisphere and East Asian countries by 20% for each fund. 
+
+We have demonstrated our ability to grow Catalyst participation in the Easted Hemisphere and East Asian countries by 20% for each fund.
 
 ### The Team
 
@@ -134,13 +139,13 @@ A collaborative effort, the team bring a wealth of cultural and technical experi
 
 **Felix Weber** (@felixweber) - France: Community Manager building bridges between people. Member of the T&M Catalyst Circle/Swarm/School.
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[2] and other community groups across Asia. 
+The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[2] and other community groups across Asia.
 
 ## References
 
 [1] [Catalyst Swarm](http://catalystswarm.com/)
 
-[2] [Catalyst School](https://linktr.ee/CatalystSchool) 
+[2] [Catalyst School](https://linktr.ee/CatalystSchool)
 
 [3] [How DAOs should approach treasury management](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury)
 
