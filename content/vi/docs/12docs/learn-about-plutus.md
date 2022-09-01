@@ -1,10 +1,10 @@
 ---
-title: Tìm hiểu về Plutus
-description: Tìm hiểu về Plutus
+title: 'Tìm hiểu về Plutus'
+description: 'Tìm hiểu về Plutus'
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06 08:48:23 +0000
+lastmod: 2020-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
