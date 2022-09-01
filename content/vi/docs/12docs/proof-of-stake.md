@@ -1,10 +1,10 @@
 ---
-title: '"Bằng chứng cổ phần"'
-description: '"Bằng chứng cổ phần"'
+title: 'Bằng chứng cổ phần'
+description: 'Bằng chứng cổ phần'
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06 08:48:23 +0000
+lastmod: 2020-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
