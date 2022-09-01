@@ -1,5 +1,5 @@
 {
-  description = "A privacy-first, open-source platform for knowledge sharing and management.";
+  description = "A nix building c3eth node website.";
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
