@@ -8,4 +8,4 @@ let
 
   flake = import compat { src = ./.; };
 in
-flake.shellNix
+flake.defaultNix
