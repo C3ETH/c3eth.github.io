@@ -81,10 +81,16 @@
         name = packageName "website";
         # pname = "blahblah";        
         buildInputs = [ hugo_and_dependencies ]; 
-        # installPhase = "cp -r dist $out";
-        installPhase = "npm run build && cp -r public $out";
-        #buildCommands = [ "npm run build" ];
-        # meta.mainProgram = "npm run xstart"; 
+        installPhase = ''
+          mkdir -p $out/public
+          cp -r node_modules $out
+          cp -r public $out
+        '';
+        # TODO: Fix this up. `nix run` fails to run. npm not in scope to run hugo server
+        meta.mainProgram = ''
+          export PATH="${hugo_and_dependencies}/bin:$PATH"
+          npm run start
+        ''; 
         src =  nix-filter {
           root = commonArgs.root;
           exclude = with commonFilters; readmeFiles ++ nixFiles ++ configFiles;
@@ -96,6 +102,9 @@
       packages = { 
         default = website;
       };
+
+      # 'nix run' to symlink node_modules & launch development server:
+	    # defaultApp = flake-utils.lib.mkApp { drv = website; };
 
       devShells.default = hugo_shell;
 
