@@ -21,6 +21,14 @@ Information will be available through Telegram, Facebook, Eastern Townhall Websi
 
 Each session takes up to 120 mins.
 
+### Where the sessions will be held?
+
+Online and via Zoom and Zoom link will sent once you registered.
+
+### What do I need to ready myself to attend such sessions?
+
+You need a suitable internet connection, a computer, Mic and Webcam (optional) and able to read and understand general English.
+
 ### Is it fee pay learning session?
 
  No, all sessions are free of charge as a [Fund 8 funded proposal](https://cardano.ideascale.com/c/idea/405311) and facilitated by Eastern Town Core Team members.
