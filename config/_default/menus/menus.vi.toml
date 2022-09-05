@@ -32,7 +32,7 @@
   name = "🏫 ECS"
   weight = 50
   identifier = "school"
-  url = "/"
+  url = "/school/intro/school-intro/"
 
 [[catalyst]]
   name = "Overview"

@@ -53,7 +53,7 @@ Những trình bày về vấn đề xác định các vấn đề liên quan đ
 **Bằng chứng:** Ủng hộ quan điểm của bạn trong một kế hoạch chi tiết. Sau đây là một ví dụ:
 
 | Thành phần tuyên bố  | Mô tả                                                                             |
-| -------------------- | --------------------------------------------------------------------------------- |
+| -------------------- | :---------------------------------------------------------------------------------|
 | *Kết quả mong muốn*  | Chúng tôi muốn chuyển tiền cho người lao động sống ở Philippines một cách hợp lý. |
 | *Vấn đề rào cản*     | 11% dân số Philippines mất tiền vào phí giao dịch.                                |
 | *Chi phí của vấn đề* | Khoảng 1 tỷ Đô la được chi trả cho chi phí chuyển tiền hằng năm.                  |
