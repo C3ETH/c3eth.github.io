@@ -28,7 +28,7 @@
   url = "/ca-tv/ca-tv-intro/intro/"
 
 [[main]]
-  name = "🏫 School"
+  name = "🏫 ECS"
   weight = 50
   identifier = "e-school"
   url = "/school/intro/school-intro/"
