@@ -109,9 +109,9 @@
 
     in {
 
-      # packages = { 
-      #   default = website;
-      # };
+      packages = { 
+        default = website;
+      };
       
       apps.c3ethSite = {
         type = "app";
