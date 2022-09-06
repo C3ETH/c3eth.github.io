@@ -1,5 +1,5 @@
 {
-  description = "A nix building c3eth node website.";
+  description = "A flake building c3eth node website with nix.";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -13,7 +13,7 @@
     npmlock2nix.flake = false;
   };
 
-  outputs = { self, nixpkgs, flake-utils, flake-compat, npmlock2nix, ... }@inputs:
+  outputs = inputs@{ self, nixpkgs, flake-utils, flake-compat, npmlock2nix, ... }:
     flake-utils.lib.eachDefaultSystem ( system:
     let
       pkgs = import nixpkgs { inherit system; };
@@ -69,42 +69,55 @@
       # the website.
       hugo_shell = npmlock2nix.shell {
         name = packageName "hugo-shell";        
-        buildInputs = [ hugo_and_dependencies ]; 
+        buildInputs = [ hugo_and_dependencies pkgs.caddy];
         src =  nix-filter {
           root = commonArgs.root; 
           include = commonFilters.npmFiles;
         };
+        # shellHook = ''
+        # '';
       };
 
       # Build the Hugo website and run the test server.
       website = npmlock2nix.build {
         name = packageName "website";
-        # pname = "blahblah";        
-        buildInputs = [ hugo_and_dependencies ]; 
+        # make caddy availble in the shell PATH
+        buildInputs = [ hugo_and_dependencies pkgs.caddy];
         installPhase = ''
           mkdir -p $out/public
-          cp -r node_modules $out
+          # cp -r node_modules $out
+          cp -r ${pkgs.caddy}/. $out
           cp -r public $out
         '';
         # TODO: Fix this up. `nix run` fails to run. npm not in scope to run hugo server
-        meta.mainProgram = ''
-          export PATH="${hugo_and_dependencies}/bin:$PATH"
-          npm run start
-        ''; 
         src =  nix-filter {
           root = commonArgs.root;
           exclude = with commonFilters; readmeFiles ++ nixFiles ++ configFiles;
         };
       };
 
+      # apps.default =  {
+      #     type = "app";
+      #     program = "${self.packages.${system}.default}/node_modules/.bin/hugo/hugo";
+      #   };
+      # };
+
+      # apps.system.site = flake-utils.lib.mkApp { 
+      #   type = "app";
+      #   program = "${website}/node_modules/.bin/hugo/hugo";
+      # };
+
     in {
 
-      packages = { 
-        default = website;
+      # packages = { 
+      #   default = website;
+      # };
+      
+      apps.c3ethSite = {
+        type = "app";
+        program = "${pkgs.caddy}/bin/caddy";
       };
-
       # 'nix run' to symlink node_modules & launch development server:
-	    # defaultApp = flake-utils.lib.mkApp { drv = website; };
 
       devShells.default = hugo_shell;
 
