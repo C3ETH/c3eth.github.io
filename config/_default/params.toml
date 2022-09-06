@@ -86,7 +86,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/C3ETH/c3eth.github.io.git"
+docsRepo = "https://github.com/C3ETH/c3eth.github.io"
 docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = true
