@@ -74,6 +74,9 @@
           root = commonArgs.root; 
           include = commonFilters.npmFiles;
         };
+        shellHook = ''
+        export PS1="\u@\H ~ "
+        '';
       };
 
       # Build the Hugo website and run the test server.
