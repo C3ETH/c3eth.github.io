@@ -14,7 +14,7 @@
   };
 
   outputs = inputs@{ self, nixpkgs, flake-utils, flake-compat, npmlock2nix, ... }:
-    flake-utils.lib.eachDefaultSystem ( system:
+    flake-utils.lib.eachSystem ["aarch64-darwin" "x86_64-darwin" "x86_64-linux" ] ( system:
     let
       pkgs = import nixpkgs { inherit system; };
       inherit (pkgs) lib stdenv;
@@ -75,6 +75,7 @@
           include = commonFilters.npmFiles;
         };
         shellHook = ''
+        alias hugo=./node_modules/.bin/hugo/hugo
         export PS1="\u@\H ~ "
         '';
       };

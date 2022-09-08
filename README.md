@@ -74,6 +74,70 @@ Doks will start the Hugo development webserver accessible by default at `http://
 
 The documents are in the ```content/{en,vi,ja}``` directories, select the desired section to edit or add, for content organization please refer to: https://gohugo.io/content-management/organization/.
 
+## Using Nix
+
+For those who have ![nix](https://nixos.org/) you can run this website by either using traditional nix commands such as `nix-build` and `nix-shell`, Or by using the experimental flake commands `nix develop`, `nix shell` , `nix run` and `nix build`. It's preferable that you use the latter.
+
+### Getting Started
+
+In order to do anything with nix and flakes we will first need to make sure you have nix installed.
+The easiest way to install nix is to use the offical installer which will work on any Linux distro, macOS, or Windows Subsystem for Linux:
+
+```bash
+curl -L https://nixos.org/nix/install | sh
+```
+
+Follow the instructions until you have nix working on your machine, then update to the unstable channel with:
+
+```bash
+nix-env -f '<nixpkgs>' -iA nixUnstable
+```
+
+*Don’t mind that it is called unstable: it is not generally dangerous to run on your machine, it simply changes more often than “stable”.*
+
+Now add the experimental commands with:
+
+```bash
+mkdir -p ~/.config/nix
+echo 'experimental-features = nix-command flakes' >> ~/.config/nix/nix.conf
+```
+
+If you are using NixOS or have some trouble with installation, consult the [NixOS wiki.](https://nixos.wiki/wiki/flakes#Installing_flakes)
+
+### Getting a Feel for the Flake
+
+Now that you have a “flaky” Nix installed, it’s time to use it!
+
+We can either enter a shell and build the site from there or we can just build the site and run it locally on your machine,lets go with the latter.
+
+first lets build the site. You can either clone the repository and run it locally or just run this command in a folder anywhere on your machine.
+
+```
+nix build github:C3ETH:c3eth.github.io && nix run github:C3ETH:c3eth.github.io#c3ethSite -- file-server -root result/public
+```
+What this will do is build the site and run a caddy file server at the root of public folder. you can check it out at `localhost:80` in your web-browser.
+
+if you want a development shell with caddy and hugo and npm you can run:
+```bash
+nix develop github:C3ETH/c3eth.github.io
+```
+Or if your running locally within the repository:
+```bash
+nix develop
+```
+If you've cloned the repository you can serve a local server running `hugo server` or `npm run start`
+
+old nix commands also work. you can simply enter a shell with:
+```bash
+nix-shell
+```
+and build locally using
+```
+nix-build or nix build
+```
+This flake has currently only been built with x86_64-darwin systems.
+
+
 ## Change Log
 
 See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
