@@ -74,8 +74,6 @@
           root = commonArgs.root; 
           include = commonFilters.npmFiles;
         };
-        # shellHook = ''
-        # '';
       };
 
       # Build the Hugo website and run the test server.
@@ -89,36 +87,26 @@
           cp -r ${pkgs.caddy}/. $out
           cp -r public $out
         '';
-        # TODO: Fix this up. `nix run` fails to run. npm not in scope to run hugo server
         src =  nix-filter {
           root = commonArgs.root;
           exclude = with commonFilters; readmeFiles ++ nixFiles ++ configFiles;
         };
       };
 
-      # apps.default =  {
-      #     type = "app";
-      #     program = "${self.packages.${system}.default}/node_modules/.bin/hugo/hugo";
-      #   };
-      # };
-
-      # apps.system.site = flake-utils.lib.mkApp { 
-      #   type = "app";
-      #   program = "${website}/node_modules/.bin/hugo/hugo";
-      # };
-
     in {
-
-      packages = { 
-        default = website;
+      packages = rec { 
+        siteBuild = website;
+        default = siteBuild;
       };
       
-      apps.c3ethSite = {
-        type = "app";
-        program = "${pkgs.caddy}/bin/caddy";
+    # use 'nix run' to launch a development server: with the command argument '--'
+    # using nix run to execute the build derivation leads to an error. The website site derivation is not considered an executable that you can run and execute a server afterwards
+    # because of the apps limited attribute set support we can only run compiled execuable binaries.
+    # NOTE: 'nix run only supports two attributes!'
+      apps = rec {
+        c3ethSite = flake-utils.lib.mkApp { drv = pkgs.caddy; };
+        default = c3ethSite;
       };
-      # 'nix run' to symlink node_modules & launch development server:
-
       devShells.default = hugo_shell;
 
     });
