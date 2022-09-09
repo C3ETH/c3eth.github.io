@@ -14,7 +14,7 @@
   };
 
   outputs = inputs@{ self, nixpkgs, flake-utils, flake-compat, npmlock2nix, ... }:
-    flake-utils.lib.eachSystem ["aarch64-darwin" "x86_64-darwin" "x86_64-linux" ] ( system:
+    flake-utils.lib.eachDefaultSystem  ( system:
     let
       pkgs = import nixpkgs { inherit system; };
       inherit (pkgs) lib stdenv;
@@ -97,10 +97,27 @@
         };
       };
 
+        websiteLinux = npmlock2nix.build {
+        name = packageName "website";
+        # make caddy availble in the shell PATH
+        buildInputs = [ hugo_and_dependencies pkgs.caddy];
+        installPhase = ''
+          
+          mkdir -p $out/public
+          # cp -r node_modules $out
+          cp -r ${pkgs.caddy}/. $out
+          cp -r public $out
+        '';
+        src =  nix-filter {
+          root = commonArgs.root;
+          exclude = with commonFilters; readmeFiles ++ nixFiles ++ configFiles;
+        };
+      };
+
     in {
-      packages = rec { 
+      packages = { 
         siteBuild = website;
-        default = siteBuild;
+        siteBuildLinux = websiteLinux;
       };
       
     # use 'nix run' to launch a development server: with the command argument '--'
