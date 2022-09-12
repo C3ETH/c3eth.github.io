@@ -1,11 +1,16 @@
 ---
-title : "Challenge and Proposal Guide"
-description: "What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting?"
-lead: "What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting?"
+title : "チャレンジ＆プロポーザルガイド"
+description: "ユーザーが企画書を提出したり、コミュニティアドバイザーになったり、投票したりするために、Project Catalystの何を理解する必要がありますか？"
+lead: "Project Catalystについて、提案書提出、コミュニティアドバイザー、投票などのために、ユーザーが理解する必要があることは何ですか？"
 draft: false
 images: []
 
 ---
+
+日本語の翻訳はこちらにございます。
+
+https://forum.cardano.org/t/catalyst/68417
+
 Project Catalyst is underway and we’re seeing some incredible participation from a wide
 spectrum of individuals. This is a collaborative process to create a worldwide community
 innovation project. The problem statement, solution, relevant experience, and funds requested
