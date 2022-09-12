@@ -2,7 +2,7 @@
 title: "Grow East Asia, Grow Cardano"
 weight: 10
 description:
-    "How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!"
+    "東アジアでカルダノのエコシステムを包括的、多様的、かつ協力的に成長させるにはどうしたらよいでしょうか？アフリカで行っているのと同じ方法で、集中的に取り組み、実施します。"
 ---
 {{< youtube CeZynbrO-ak >}}
 
