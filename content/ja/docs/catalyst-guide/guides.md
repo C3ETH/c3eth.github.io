@@ -9,7 +9,7 @@ images: []
 
 日本語の翻訳はこちらにございます。
 
-https://forum.cardano.org/t/catalyst/68417
+<https://forum.cardano.org/t/catalyst/68417>
 
 Project Catalyst is underway and we’re seeing some incredible participation from a wide
 spectrum of individuals. This is a collaborative process to create a worldwide community
