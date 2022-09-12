@@ -1,30 +1,30 @@
 ---
 title: "ECS"
 weight: 10
-description: "ECS is a school where you can learn about Cataslyt in the language of the Eastern Hemisphere in a workshop format"
-lead: "Welcome to Eastern Catalyst School 🎓 !"
+description: "ECSは、東半球の言語でCatalystをワークショップ形式で学ぶことができるスクールです"
+lead: "Eastern Catalyst Schoolへようこそ !"
 ---
 
-## What is Eastern Catalyst School (ECS)?
+## Eastern Catalyst School (ECS)とは?
 
-Eastern Catalyst School is a Catalyst School-affiliated Eastern Townhall activity that aims to provide the community with fundamental to in-depth knowledge about Cardano's Catalyst project, including becoming a Proposer, Proposal Assessor and voter.
+Eastern Catalyst Schoolは、CardanoのCatalystプロジェクトについて、Proposer、Proposal Assessor、Votingerになるなどの基礎から深い知識をコミュニティに提供することを目的とした、Catalyst School付属のEastern Townhallの活動です。
 
-## About Eastern Catalyst School (ECS)
+## Eastern Catalyst School (ECS)について
 
-Eastern Catalyst School is simply Catalyst School in 3 local languages in 3 countries:
+Eastern Catalyst Schoolは、簡単に言うと3ヶ国3現地語の学校です。:
 
-- Indonesia
-- Vietnam
-- Japanese
+- インドネシア後
+- ベトナム後
+- 日本語
 
-It is an initiative from Eastern Townhall core members to make the materials given in Catalyst School more approachable for non-English speakers. It was proposed to [Project Catalyst](https://cardano.ideascale.com/c/idea/405311) in Fund 8 and got funded, and covers only 3 countries as those are currently the countries in Eastern Townhall where English is not spoken fluently by nature.
+Cataslyt Schoolで配布される教材を、英語圏以外の人にも親しみやすいものにしようという、イースタンタウンホールのコアメンバーの発案で生まれたものです。 [Project Catalyst](https://cardano.ideascale.com/c/idea/405311) Fund 8 で資金提供を受けたもので、3カ国を対象としています。
 
-There are several activities in the funded proposal including:
+資金提供された提案の中には、以下のような活動があります。
 
-- 6 workshops in each Fund 9 and Fund 10 (total of 12 workshops)
-- 1-on-1 sessions offered for those who needed more help/information than offered in the scheduled workshops
-- The written media such as this website.
-- The materials cover the phases in the Project Catalyst as well as the roles available in it. Proposer, Proposal Assessor (PA), Veteran Proposal Assessor (VPA), and Voter are among the roles covered in depth.
+- ファンド9とファンド10でそれぞれ6回のワークショップ（計12回）
+- 1on1セッション（ワークショップで提供された以上のヘルプや情報を必要とする人のために提供されたもの
+- 本ウェブサイトのようなドキュメント
+- プロジェクトCataslytの各フェーズとその役割についての解説。（提案者、提案者評価者（PA）、ベテラン提案者評価者（VPA）、投票者などの役割など）
 
-Please find such information on this site, in each of the 3 languages, as well as the recordings of past events, and future scheduled events.
+このサイトでは、これらの情報を3ヶ国語で提供するとともに、過去のイベントの記録や今後のイベント予定も掲載しています。
 
