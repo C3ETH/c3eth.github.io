@@ -3,7 +3,7 @@ title: "Grow Social & Environmental Finance"
 hide_feedback: true
 weight: 20
 description: >
-   To address the climate emergency and the associated economic challenges, we need to build resilient financial solutions for driving change. What solutions can we build on Cardano to finance social and environmental innovation?
+   気候の非常事態とそれに伴う経済的な課題に対処するためには、変化を促すためのレジリエントな金融ソリューションを構築する必要があります。社会と環境のイノベーションに資金を提供するために、カルダノでどのようなソリューションを構築できるのでしょうか。
 
 ---
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088)
