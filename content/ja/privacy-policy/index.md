@@ -1,36 +1,36 @@
 ---
 title: "Privacy Policy"
-description: "We do not use cookies and we do not collect any personal data."
+description: "弊社はクッキーを使用せず、個人情報を収集することはありません。"
 date: 2020-08-27T19:23:18+02:00
 lastmod: 2020-08-27T19:23:18+02:00
 draft: true
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__TLDR__: 弊社はクッキーを使用せず、個人情報を収集することはありません。
 
-## Website visitors
+## Website への訪問者
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- 個人情報は収集されません。
+- ブラウザに情報が保存されることはありません。
+- いかなる情報も第三者と共有されたり、第三者に送信されたり、販売されたりすることはありません。
+- 広告会社と情報を共有することはありません。
+- 個人情報や行動傾向のために情報が掘り起こされ、収穫されることはありません。
+- 情報がマネタイズされることはありません。
 
-### Information we collect and what we use it for
+### 私たちが収集する情報とその使用目的について
 
 We run [Plausible](https://plausible.io/) analytics on getdoks.org. The following information is collected:
 
-- __Page URL__. We track the page URL of each page view on this website. We use this to understand which pages have been viewed and how many times a particular page has been viewed. For example: _https://getdoks.org/_.
-- __HTTP Referrer__. We use the referrer string to understand the number of visitors referred to this website from links on other sites. For example: _https://github.com/_.
-- __Browser__. We use this to understand what browsers people use when visiting this website. This is derived from the User-Agent HTTP header. The full User-Agent is discarded. For example: _Chrome_.
-- __Operating system__. We use this to understand what operating systems people use when visiting this website. We only use the brand of the operating system and don’t include the version number or any other details. This is derived from the User-Agent HTTP header. The full User-Agent is discarded. For example: _GNU/Linux_.
-- __Device type__. We use this to understand what devices people use when visiting this website. This is derived from window.innerWidth. The actual width of the browser in pixels is discarded. For example: _Desktop_.
-- __Visitor Country__. We look up the visitor’s country using the IP address. We do not track anything more granular than the country of origin and the IP address of the visitor is discarded. We never store IP addresses in our database or logs. For example: _Canada_.
+- __Page URL__. このウェブサイト上の各ページビューのページ URL を追跡します。これは、どのページが閲覧されたか、また特定のページが何回閲覧されたかを理解するために使用されます。例: _https://getdoks.org/_.
+- __HTTP Referrer__. 他のサイトのリンクからこのウェブサイトにアクセスした人数を把握するために、リファラー文字列を使用しています。例： _https://github.com/_.
+- __Browser__. このウェブサイトにアクセスする際に使用されるブラウザを理解するために使用します。これは、User-Agent HTTPヘッダーから得られます。完全なUser-Agentは破棄されます。例: _Chrome_.
+- __Operating system__. このウェブサイトを閲覧する人がどのようなオペレーティング・システムを使用しているかを把握するために使用されます。オペレーティング・システムのブランド名のみを使用し、バージョン番号やその他の詳細情報は含めません。これは、User-Agent HTTPヘッダーから取得されます。完全なUser-Agentは破棄されます。例えば GNU/Linux_。例: _GNU/Linux_.
+- __Device type__. このウェブサイトにアクセスする際に、どのようなデバイスを使用しているかを把握するために使用します。これは、window.innerWidthから取得されます。ブラウザの実際の幅（ピクセル）は破棄されます。例: _Desktop_.
+- __Visitor Country__. IPアドレスから訪問者の国を調べます。訪問者のIPアドレスは破棄され、訪問者の国より詳細なものは追跡しません。IPアドレスを当社のデータベースやログに保存することは決してありません。例: _Canada_.
 
 ## Contact us
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+[Contact us]({{< relref "contact/index.md" >}}) ご不明点がありましたらこちらへお問い合わせください.
 
 Effective Date: _27th August 2020_
