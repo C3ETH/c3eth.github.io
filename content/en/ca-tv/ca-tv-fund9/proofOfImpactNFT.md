@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/419324)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 19850
+- **Proposer:** Mr Michele
 
 🌟 SPOs focusing on creating positive social and environmental impact struggle to attract delegators, and to keep them engaged. Delegators who delegate to mission driven pools receive a Proof of Impact NFT. The NFT is dynamic. Its characteristics change in real time to display the positive impact created.
 

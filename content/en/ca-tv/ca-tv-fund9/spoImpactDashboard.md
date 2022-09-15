@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/414201)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 12975
+- **Proposer:** Mr Michele
 
 🌟 SPOs channelling part of their staking rewards to support social enterprise projects and environmental causes need powerful tools to measure and display the positive impact of their operations. An impact dashboard for SPOs that allows the comparison of supported projects and promotes those with the greatest social and environmental impact per amount staked.
 

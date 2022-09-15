@@ -15,6 +15,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/419097)
 - **Challenge:** Catalyst Natives X Cardashift: Demonstrating and monetizing impact
 - **Requested Budget:** 14900
+- **Proposer:** Mr Angel
+
 
 Los Angeles has the highest homeless rate in the U.S. and has the second-largest homeless population. The city is facing a multifaceted humanitarian crisis that has many potential solutions. A non-profit NFT project that raises awareness about the different solutions to homelessness. The proceeds from the sale will be used to give housing to those struggling to find a place to live.
 

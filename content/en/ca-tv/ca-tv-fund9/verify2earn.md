@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/420625)
 - **Challenge:** Catalyst Natives X Cardashift: Demonstrating and monetizing impact
 - **Requested Budget:** 14970
+- **Proposer:** Mr Michele
 
 There are not enough tokenomics models which focus on advancing SDGs through tokenizing and incentivizing behavioural change.
 ImpactScope is designing easy-to-deploy tokenomics models which encourage and reward sustainable behaviour and impact verification.

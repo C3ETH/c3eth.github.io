@@ -14,6 +14,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/414111)
 - **Challenge:** Developer Ecosystem
 - **Requested Budget:** 13900
+- **Proposer:** Mr Do
+
 
 🌟 The scarcity of documentation on the Plutus programming language in Vietnamese makes it difficult for talented developers in Vietnam to access Cardano's resources. The team will translate IOHK's pioneering Plutus course videos into documents for Vietnamese developers to easily access and learn. Forming a team of developers using the Plutus. programming language
 

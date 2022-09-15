@@ -14,8 +14,11 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/414939)
 - **Challenge:** Grow Africa, Grow Cardano
 - **Requested Budget:** 17600
+- **Proposer:** Mr Nana Safo
+
 
 The Cardano ecosystem and Project Catalyst are gradually evolving in Africa. However, the adoption rate in the African tertiary sector is very minimal and thus needs to be uplifted, but how?
+
 Diversify the Cardano and Project Catalyst adoption rates in the African tertiary sector through a series of online workshops for university students, developers, and instructors.
 
 

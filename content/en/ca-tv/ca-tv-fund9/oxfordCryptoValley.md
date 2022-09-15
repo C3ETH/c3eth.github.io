@@ -14,6 +14,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/422247)
 - **Challenge:** Dapps, Products & Integrations
+- **Proposer:** Mr Alex & Mr Simon
 - **Requested Budget:** 98000
 
 👉  Cardano needs more world-class contributors working on protocol public goods. Cardano lacks integration and partnerships with other blockchain protocols, crypto VCs and the associated talent pools. Therefore, Establish a Cardano hacker house in the HomeDAO Oxford Crypto Valley alongside other major protocol and VC houses. Talented entrepreneur student tenants contribute to the ecosystem 25% of their time is a great solution.

@@ -14,6 +14,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/422842)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 50000
+- **Proposer:** Mr Justin & Mz Marcela
+
 
 🌟 Youth in Africa is unaware of Cardano, the blockchain, and the potential to use its application for social impact and a more decentralized future. Goodwall has a huge community of African Youth and is developing an educational program about blockchain, which will be followed by a hackathon to identify Cardano Youth Ambassadors in Africa.
 

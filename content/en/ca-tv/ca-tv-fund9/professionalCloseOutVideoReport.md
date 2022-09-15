@@ -14,6 +14,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/422247)
 - **Challenge:** Catalyst Natives X Cardashift: Demonstrating and monetizing impact
+- **Proposer:** Mr Petr
 - **Requested Budget:** 29800
 
 👉  Every project has to create a final report. Despite the effort, the message is long and badly recorded on web cameras. Usually doesn't have the outreach even though the project is great. Create professional videos with real-life interviews and extra footage based on the nature of the project. Prepare the videos for broadcasters and internet platforms that can take it and share easily.

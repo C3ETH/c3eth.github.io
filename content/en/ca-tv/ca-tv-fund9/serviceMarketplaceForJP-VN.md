@@ -15,6 +15,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/416455)
 - **Challenge:** Grow East Asia, Grow Cardano
 - **Requested Budget:** 24150
+- **Proposer:** Mr Ha Nguyen
+
 
 Lacking a place to gather skilled people able to supply support services for unskilled proposers and PAs with a reasonable cost, especially, in non-English speaking communities like Japan and Vietnam. Create a platform to connect people with good skills with inexperienced Proposers and PAs in the non-speaking English community, especially in Japan and Vietnam.
 

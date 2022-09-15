@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/423016)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 150000
+- **Proposer:** Mr Justin & Mz Marcela
 
 🌟 Millions of youth around the world lack legally recognized identification or don’t have the ability to use it in the digital world.
 Adopting Atala Prism will enable Goodwall to create an inclusive ID management tool, so youth can better access goods and services and all data will be collected formally and kept decentralized.

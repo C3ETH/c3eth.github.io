@@ -13,6 +13,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/416191)
 - **Challenge:** Developer Ecosystem
+- **Proposer:** Mr Jamie
 - **Requested Budget:** 19440
 
 👉  Currently, there are no Plutus Smart Contract references or blueprints for eLearning platforms seeking to implement Learn2Earn mechanics using Blockchain. We will deliver plug-and-play Smart Contracts and tooling for Incentivized eLearning initiatives within the Cardano ecosystem.
