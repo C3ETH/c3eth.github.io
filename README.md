@@ -113,17 +113,17 @@ We can either enter a shell and build the site from there or we can just build t
 first lets build the site. You can either clone the repository and run it locally or just run this command in a folder anywhere on your machine.
 
 ```
-nix build github:C3ETH:c3eth.github.io && nix run github:C3ETH:c3eth.github.io#c3ethSite -- file-server -root result/public
+nix build github:C3ETH/c3eth.github.io/nix-flake#siteBuild && nix run github:C3ETH/c3eth.github.io/nix-flake#c3ethSite -- file-server -root result/public
 ```
 What this will do is build the site and run a caddy file server at the root of public folder. you can check it out at `localhost:80` in your web-browser.
 
 if you want a development shell with caddy and hugo and npm you can run:
 ```bash
-nix develop github:C3ETH/c3eth.github.io
+nix develop github:C3ETH/c3eth.github.io/nix-flake
 ```
 Or if your running locally within the repository:
 ```bash
-nix develop
+nix develop .
 ```
 If you've cloned the repository you can serve a local server running `hugo server` or `npm run start`
 
@@ -131,7 +131,7 @@ old nix commands also work. you can simply enter a shell with:
 ```bash
 nix-shell
 ```
-and build locally using
+You can also build locally using
 ```
 nix-build or nix build
 ```

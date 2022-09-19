@@ -97,27 +97,9 @@
         };
       };
 
-        websiteLinux = npmlock2nix.build {
-        name = packageName "website";
-        # make caddy availble in the shell PATH
-        buildInputs = [ hugo_and_dependencies pkgs.caddy];
-        installPhase = ''
-          
-          mkdir -p $out/public
-          # cp -r node_modules $out
-          cp -r ${pkgs.caddy}/. $out
-          cp -r public $out
-        '';
-        src =  nix-filter {
-          root = commonArgs.root;
-          exclude = with commonFilters; readmeFiles ++ nixFiles ++ configFiles;
-        };
-      };
-
     in {
       packages = { 
         siteBuild = website;
-        siteBuildLinux = websiteLinux;
       };
       
     # use 'nix run' to launch a development server: with the command argument '--'
