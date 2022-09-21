@@ -37,6 +37,7 @@ If you want to add a new language, you can open a [GitHub idea](https://github.c
 ## How to add my name to GITLOCALIZATION_CONTRIBUTORS list and open a PR in GitHub?
 
 **Option 1: In Github (Recommended)**
+
 1. Click on the pen-like button which says "Edit this file" in the [GITLOCALIZATION_CONTRIBUTORS](https://github.com/C3ETH/c3eth.github.io/blob/main/GITLOCALIZE_CONTRIBUTORS.md) file.
 2. Add your name under the language you'd like to contribute to.
 3. Once your name is added, scroll down and find a green button which says "Propose changes".
@@ -44,6 +45,7 @@ If you want to add a new language, you can open a [GitHub idea](https://github.c
 5. This should create the pull request and once that's done, follow the [instructions](#steps-to-participate-in-c3eth-docs-translations) (steps 3, 4, 5).
 
 **Option 2: Creating a local clone of the repository and pushing from local**
+
 1. Clone this repository by following [this guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 2. Make sure your local git configuration by following the instructions here -- [Setting username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [Setting email](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git)
 3. Create a branch by running `git checkout -b BRANCH_NAME` in your terminal.
