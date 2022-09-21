@@ -15,6 +15,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/421345)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 28650
+- **Proposer:** Mr Lam
+
 
 🌟 Lack of places to collect & update information and knowledge about the Cardano ecosystem on a regular, complete, accurate basis for the community of developers and investors who do not speak English. We will create a platform to provide documents, information, knowledge about the Cardano ecosystems&Cardano knowledge, multi-language at a reasonable cost by the Win-Win collaboration of the community.
 

@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/417091)
 - **Challenge:** Developer Ecosystem
 - **Requested Budget:** 8640
+- **Proposer:** Mr Pabon
 
 🌟 Members of Gimbalabs are offering mentoring services to new students without financial recognition for their hours of work. Gimbalabs is a non-profit organization. The creation of a treasury funded by Catalyst to cover the tutors' working hours will give continuity to the students training process.
 

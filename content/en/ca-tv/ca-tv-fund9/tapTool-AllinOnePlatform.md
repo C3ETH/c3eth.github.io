@@ -15,6 +15,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/422229)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 184400
+- **Proposer:** Mr James, Mr Jacob and Mr Alec
+
 
 There is no easy to use all-in-one platform on Cardano, thus increasing the barrier to entry. Provide real-time analysis for Cardano native assets trading on DEXs, NFT collection creation, payment gateway, launchpad, portfolio tracker, distributing tokens, and more - all on one platform.
 

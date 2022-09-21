@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/420625)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 17600
+- **Proposer:** Mr Nebiyu
 
 The Endubis Telegram wallet requires more features in order to onboard a large audience to the Cardano community and the De-Fi world. In addition to its basic non-custodial wallet function, we will add features for cNFT displays, incorporate a P2P exchange, and integrate with Defi platforms to enable swaps, lending, and borrowing.
 

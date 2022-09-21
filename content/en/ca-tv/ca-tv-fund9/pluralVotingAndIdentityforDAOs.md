@@ -13,6 +13,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/413998)
 - **Challenge:** DAOs Cardano
+- **Proposer:** Mr Ninh Tran
 - **Requested Budget:** 91000
 
 👉  See the team's other [proposals](https://linktr.ee/votesnapbrillia)

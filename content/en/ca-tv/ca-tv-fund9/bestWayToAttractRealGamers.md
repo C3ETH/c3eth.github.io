@@ -13,7 +13,8 @@ images: []
 ## Catalyst TV - BEST WAY TO ATTRACT REAL GAMERS
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417258)
-- **Proposer:** Miverse Multiverse
+- **Proposer:** Mr Afred Pham
+- **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 54810
 
 The best praise for the team is your vote, please leave a comment if you are interested!!!

@@ -13,6 +13,8 @@ images: []
 
 - **Challenge:** dRep improvement and onboarding
 - **Requested Budget:** 14500
+- **Proposer:** Mz Ha
+
 
 🌟 The dReps in the non-native English community like Japan and Vietnam have difficulty reading and understanding meeting documents, announcements, and communications from Catalyst, Cardano. Create Japanese and Vietnamese versions of dRep documents, information, and announcements and share them with the community to support existing dRep and attract new dRep.
 

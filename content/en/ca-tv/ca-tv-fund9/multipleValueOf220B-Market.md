@@ -13,7 +13,7 @@ images: []
 ## Catalyst TV - Multiple the Value of $220B Market
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417243)
-- **Proposer:** Miverse Multiverse
+- **Proposer:** Mr Alfred Pham
 - **Requested Budget:** 101899
 
 Definitely, current NFT games CAN NOT take a penny from $220B market of nearly 4B players in the mainstream gaming industry because of their hate and wrong bias toward gamefi. Our community-built gaming platform will both satisfy the gaming experiences of 4 billion real gamers and thousand crypto investors with sustainable business models.

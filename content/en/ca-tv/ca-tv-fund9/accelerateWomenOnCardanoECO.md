@@ -13,6 +13,8 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/416448)
 - **Challenge:** Fund10 challenge setting
+- **Proposer:** Mz Mie Tran & Mz Que Tram & Mz Hong Ha
+
 
 🌟 Women have enormous potential and can make significant contributions to the Cardano ecosystem; they should be encouraged to participate more. Therefore, Connecting and broadening the women's knowledge as well as their roles. Significantly raise their active involvement in the Cardano ecosystem
 

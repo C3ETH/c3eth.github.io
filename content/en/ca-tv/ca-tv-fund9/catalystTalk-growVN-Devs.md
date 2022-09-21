@@ -12,8 +12,10 @@ images: []
 ## Catalyst TV - CatalystTalk: Grow Vietnamese Devs
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/419863)
-- **Challenge:** Grow East Asia, Grow Cardano
+- **Challenge:** Developer Ecosystem
 - **Requested Budget:** 15000
+- **Proposer:** Mr Do
+
 
 🌟 Vietnam has a team of potential developers and lots of ideas. However, many ideas remain unrealized due to a lack of funds to implement and a lack of accessibility and understanding of Catalyst. The team will organize talks about Catalyst for developers in Vietnam, with the participation of Coreteams and proposers.
 

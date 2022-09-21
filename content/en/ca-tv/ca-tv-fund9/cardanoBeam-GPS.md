@@ -13,6 +13,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/418245)
 - **Challenge:** Dapps, Products & Integrations
+- **Proposer:** Mr Dimitri
 - **Requested Budget:** 155918
 
 🌟 The Ecosystem lack of a system to transfer NFTs placed at GPS coordinates as a reward for participating in community events and encouraging healthy behavior, DApp to place NFTs on a map using a web wallet and have users pick them up with a tracking app & wallet on their phone. Onboarding of non-crypto business and accepting fiat deposits via a fiat onramp.

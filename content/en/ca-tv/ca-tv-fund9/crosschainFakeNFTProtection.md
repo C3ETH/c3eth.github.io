@@ -13,6 +13,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414165)
 - **Challenge:** The Great Migration (from Ethereum)
+- **Proposer:** Mr  Gianni & Anthony
 - **Requested Budget:** 51250
 
 🌟 Ethereum's NFT ecosystem is struggling from a lack of trust due to plagiarism, counterfeits and scams, and Cardano's NFT ecosystem is starting to experience more of these same problems. Build a cross-chain, AI/ML-powered, asset & IP protection service for Cardano and Ethereum NFTs, and market the service's availability on Cardano to Ethereum, NFT project owners and collectors.

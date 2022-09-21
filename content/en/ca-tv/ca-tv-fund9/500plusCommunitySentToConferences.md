@@ -12,10 +12,11 @@ images: []
 
 ## Catalyst TV - 500+ ₳Community Sent to Conferences
 
-As a new Cardano dApp with a lot of hustle & desire to grow quickly, we lack go-to-market resources to send this community to conferences and 100x user adoption & revenue in the next couple of months. Exhibit at major industry conferences with free tickets for the Cardano community to share the Cardano gospel, meet each other in person, and sell to decision-makers to 100x user adoption and revenue.
+As a new Cardano dApp with a desire to grow quickly, we lack go-to-market resources to send this community to conferences. Exhibit at major industry conferences with free tickets for the Cardano community to share the Cardano gospel, meet each other in person, and sell to decision-makers to 100x user adoption and revenue.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/413992)
 - **Proposer:** Ninh Tran from SnapBrillia
+- **Challenge**: Dapps, Products & Integrations
 - **Requested Budget:** 420000
 
 ### Tracking links:

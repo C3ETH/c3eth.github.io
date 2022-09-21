@@ -13,7 +13,8 @@ images: []
 ## Catalyst TV - Adacheems: Optimize the value of NFT
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/412593)
-- **Proposer:** Adacheems
+- **Proposer:** Mr Teddy & Mr Robinson
+- **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 50000
 
 The other NFTs on the Market are too wasteful to just be on display. We bring an NFT world that includes economy, real-world connectivity, and stronger interactions for owners. AdaCheems NFT Project - Optimizing Use Values and Building the Economy of the NFT. We bring an NFT world that includes economy, real-world connectivity, and stronger interactions for owners.

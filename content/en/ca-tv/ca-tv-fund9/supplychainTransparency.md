@@ -15,6 +15,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/419487)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 40000
+- **Proposer:** Mr Will
+
 
 Damaging sourcing methods are the norm in the fashion industry. Human lives and natural resources are destroyed for the sake of cheap clothes. Without increased transparency, things will never change. Use Cardano's native assets to "tokenise" every part of a supply chain for full transparency.
 Build an "MVP" to demonstrate this use case.

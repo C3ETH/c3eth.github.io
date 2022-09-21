@@ -16,7 +16,7 @@ Real gamers have bad prejudice toward gamefi! People think that gamers like NFT 
 Miverse multiverse with excellent visual quality, a space design with unlimited species, and art styles to change player mindsets and captivate them to play our game.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417247)
-- **Proposer:** Miverse Multiverse
+- **Proposer:** Mr Alfred Pham
 - **Requested Budget:** 91400
 
 ### Tracking links:

@@ -13,7 +13,7 @@ images: []
 ## Catalyst TV - LATAM TownHall
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/422150)
-- **Proposer:** LATAM Town Hall
+- **Proposer:** Mr Alex
 - **Requested Budget:** 27000
 
 LATAM is very underrepresented in the Decentralization space, but has amazing opportunities to catch up, specially with CARDANO
