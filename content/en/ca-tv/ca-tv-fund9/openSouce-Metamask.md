@@ -16,7 +16,7 @@ images: []
 - **Proposer:** Ninh Tran from SnapBrillia
 - **Requested Budget:** 80000
 
-Metamask is the most popular Web3 wallet and Cardano dApps don't have an easy and an Open-Source plug-in that they can easily add to their website to receive, send, and fund user activities using ETH. Open-Source Metamask & Cardano integration allows 55 million monthly active wallets to easily send, receive, and drive adoption & traction on Cardano dApps and projects to accept ETH and receive ₳DA.
+Open-Source Metamask & Cardano integration allows 55 million monthly active wallets to easily send, receive, and drive adoption & traction on Cardano dApps and projects to accept ETH and receive ₳DA.
 
 See the team's other proposals: <https://linktr.ee/votesnapbrillia>
 

@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/421804)
 - **Challenge:** Cross-Chain Collaboration
 - **Requested Budget:** 30250
+- **Proposer:** Mr ALex and Mr Lucas
 
 🌟 There aren't proper digital bridges between different Blockchain Communities to collaborate with one another. Create powerful collaborations with other Blockchains at a local level in Latin America. Spreading Cardano´s vision through the region while collaborating with other communities
 

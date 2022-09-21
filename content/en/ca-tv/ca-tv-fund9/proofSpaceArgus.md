@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/414232)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 37411
+- **Proposer:** Mr Giovanni, Mr Anthony & Mr Victor
 
 🌟 There's no scalable, high assurance way to verify whether NFT projects are legitimate. And as a result, NFT market participants and artists suffer losses from NFT scams and plagiarized NFTs. Combining ProofSpace's DID protocol & Argus, build on Cardano the most scalable, comprehensive solution in the industry for verifying the legitimacy of NFT projects and authenticity of NFTs.
 

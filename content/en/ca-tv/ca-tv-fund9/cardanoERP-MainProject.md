@@ -15,7 +15,7 @@ images: []
 There is no intelligent, open-source, Cardano-native ERP system to provide for seamless integration of, and optimized standard user experience for, business, enterprise, and government-focused dApps. Cardano ERP will provide for seamless integration of, and optimized user experience for, business, enterprise, and government focused dApps via an open-source, standardized modular solution.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417652)
-- **Proposer:** Cardano ERP
+- **Proposer:**  Mr Jay
 - **Requested Budget:** 491400
 
 Support the team by voting for this proposal, leave a comment for the proposer if any doubt cross your mind!!!!

@@ -14,6 +14,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/414201)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 56550
+- **Proposer:** Mr Gianni & Anthony
+
 
 🌟 Cardano lacks any advanced, ecosystem-wide, NFT search and discovery tools. This makes NFT markets inefficient, limiting adoption and reducing market liquidity. Build a fast Cardano NFT search engine with faceted search functionality - enhanced by Argus’ image similarity (machine learning), and designed to accommodate future multi-chain support.
 

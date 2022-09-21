@@ -15,6 +15,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/418376)
 - **Challenge:** Grow East Asia, Grow Cardano
 - **Requested Budget:** 35268
+- **Proposer:** Mr Mohammad and Mz Afia
+
 
 African Agriculture is late regarding blockchain technology information and payment system integration, especially in the Ghanaian Agricultural world.
 To incorporate Ada payment systems into the Agricultural world for:

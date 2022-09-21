@@ -12,11 +12,12 @@ images: []
 
 ## Catalyst TV - Cardano ERP - Grow Africa
 
-Cardano needs more developers from Africa to participate in Emurgo Academy training and developing enterprise-grade products on the Cardano blockchain. Cardano needs more developers from Africa to participate in Emurgo Academy training and developing enterprise-grade products on the Cardano blockchain.
+Cardano needs more developers from Asia to participate in Emurgo Academy training and develop enterprise-grade products on the Cardano blockchain. The requested funds will be used to cover Emurgo Academy training fees for experienced developers residing within Asia.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/420496)
-- **Proposer:** Cardano ERP
-- **Requested Budget:** 23700
+- **Challenge** : Grow East Asia, Grow Cardano
+- **Proposer:** Mr Jay
+- **Requested Budget:** 47400
 
 ### Tracking links:
 

@@ -13,7 +13,7 @@ images: []
 ## Catalyst TV - NOW! NFT GAME NO MORE BORED!!!
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417249)
-- **Proposer:** Miverse Multiverse
+- **Proposer:** Mr Alfred Pham
 - **Requested Budget:** 57073
 
 Check the team's other proposal via: <https://linktr.ee/miversegame>

@@ -15,7 +15,7 @@ images: []
 There is currently no intelligent, open-source Cardano-native accounting/auditing system. CERP for Catalyst will be an intelligent open-source Cardano-native accounting/auditing system consisting of a GL, COTI Pay integration, funds/revenue receipts modules, and financial + audit reports.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417654)
-- **Proposer:** Cardano ERP
+- **Proposer:** Mr Jay
 - **Requested Budget:** 100000
 
 Support the team by voting for this proposal, leave a comment for the proposer if any doubt cross your mind!!!!

@@ -13,12 +13,13 @@ images: []
 ## Catalyst TV - L-Earning Bazaar: Platform Building
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/420827)
-- **Proposer:** L-Earning Bazaar
+- **Proposer:** Mr Ryu Goto & Mz Yuri Haiyashi
 - **Requested Budget:** 80000
+- **Challenge:** Dapps, Products & Integrations
 
 Read the [proposal in Japanese](https://docs.google.com/document/d/12VEdNcTaieAi2Y7Al1wbvVk6l0jFns7o67CkWm5NQgc/edit)
 
-There is no comprehensive education platform on Cardano that combines a rewards structure. It is imperative to build a platform to bring educational materials to a wider audience. We will establish a web3 learning platform and marketplace with DID, where anyone can open a classroom in any field. This will empower people to simultaneously share and earn through their knowledge.
+We will establish a web3 learning platform and marketplace with DID, where anyone can open a classroom in any field. This will empower people to simultaneously share and earn through their knowledge.
 
 ### Tracking links:
 

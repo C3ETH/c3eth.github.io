@@ -13,6 +13,7 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414076)
 - **Challenge:** Developer Ecosystem
+- **Proposer:** Mr DO
 - **Requested Budget:** 22400
 
 🌟 The majority of developers in Vietnam are not familiar with blockchain or are not right understand of blockchain and its importance roles to the real world.

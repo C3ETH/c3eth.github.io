@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/414170)
 - **Challenge:** Cross-Chain Collaboration
 - **Requested Budget:** 40900
+- **Proposer:** Mr Anthony and Mr Giovanni
 
 We lack visual tools and research on the relationships between the Ethereum and Cardano NFT Ecosystems. What's similar between them? Which projects are most innovative? Where do we go from here? An open source, interactive, planetair-based map of key projects in the Ethereum and Cardano NFT Ecosystems, and corresponding research report on related and unique projects in both ecosystems.
 

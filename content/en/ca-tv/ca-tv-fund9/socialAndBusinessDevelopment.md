@@ -13,6 +13,8 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/416449)
 - **Challenge:** Fund10 challenge setting
+- **Proposer:** Mr Thi Ha
+
 
 🌟 Vote for this challenge Setting after learning the below meaningful brief.
 

@@ -14,6 +14,7 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/422940)
 - **Challenge:** Dapps, Products & Integrations
 - **Requested Budget:** 46000
+- **Proposer:** Mr Justin & Mz Marcela
 
 🌟 Goodwall constantly sends out monetary prizes to youth. It’s a burden to send out bank payments internationally and a lot of the fintech options can be cost prohibitive. Goodwall will integrate with the Yoroi wallet for web and mobile, allowing for instant payouts of ADA. Users who are awarded a prize will only need to enter their wallet ID to relieve payments.
 

@@ -14,6 +14,8 @@ images: []
 - [Ideascale](https://cardano.ideascale.com/c/idea/421808)
 - **Challenge:** dRep improvement and onboarding
 - **Requested Budget:** 7700
+- **Proposer:** Mr Alex & Mr Lucas
+
 
 🌟 There is a need of an open space for dReps to address the community, LaTam Townhall create An Open dRep debate for the Cardano Community
 

@@ -11,6 +11,9 @@ images: []
 
 ## Catalyst TV - Socious Proposals Series
 
+- **Challenge:** Impact Gig Marketplace powered by AI
+- **Proposer:** Mr Seira Yun
+
 🌟 Please kindly have a deeper look for the team proposal's down below:
 
 1. [Recognize Impact through DIDs](https://cardano.ideascale.com/c/idea/414367)
