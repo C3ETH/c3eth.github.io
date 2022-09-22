@@ -6,19 +6,14 @@
 
 
 [[main]]
-  name = "Docs"
+  name = "📙 Docs"
   url = "/docs/catalyst-guide/guides"
   weight = 10
 
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "🔸 Catalyst"
   weight = 20
-
-[[main]]
-  name = "Catalyst"
-  weight = 30
   url = "/catalyst/overview/catalyst-overview/"
 
 [[main]]
@@ -34,10 +29,15 @@
   url = "/school/intro/school-intro/"
 
 [[main]]
-  name = "Special Guest"
+  name = "👤 Guests"
   weight = 60
   identifier = "guest"
   url = "/"
+
+[[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 70
 
 [[catalyst]]
   name = "Overview"
