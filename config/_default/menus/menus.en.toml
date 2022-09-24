@@ -32,7 +32,7 @@
   name = "👤 Guests"
   weight = 60
   identifier = "guest"
-  url = "/"
+  url = "/guest/guest-info/guest-guidelines/"
 
 [[main]]
   name = "Blog"
