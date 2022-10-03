@@ -4,6 +4,17 @@
   identifier = "guide"
   url = "/docs/guide/"
 
+[[docs]]
+  name = "Contribution"
+  weight = 10
+  identifier = "contribution"
+  url = "/docs/contribution/"
+
+[[docs]]
+  name = "12 Docs"
+  weight = 10
+  identifier = "12docs"
+  url = "/docs/12docs/"
 
 [[main]]
   name = "📙 Docs"
@@ -46,6 +57,12 @@
   url = "/catalyst/overview"
 
 [[catalyst]]
+  name = "Fund 10"
+  weight = 90
+  identifier = "catalyst-fund-10"
+  url = "/catalyst/fund10"
+
+[[catalyst]]
   name = "Fund 9"
   weight = 30
   identifier = "catalyst-fund-9"
@@ -68,6 +85,7 @@
   weight = 80
   identifier = "catalyst-fund-6"
   url = "/catalyst/fund6"
+
 
 [[catalyst-tv]]
   name = "Introduction"
@@ -99,6 +117,12 @@
   identifier = "school-intro"
   url = "/school/intro"
 
+
+[[guest]]
+  name = "Guest Guidelines"
+  weight = 50
+  identifier = "school-info"
+  url = "/school/guest-info"
 
 
 
