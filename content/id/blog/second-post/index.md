@@ -7,7 +7,6 @@ lastmod: 2021-09-26T09:19:42+01:00
 draft: false
 weight: 50
 images: []
-categories: ["News"]
 contributors: ["Robert & Stephen"]
 pinned: false
 homepage: false

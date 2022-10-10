@@ -7,7 +7,6 @@ lastmod: 2021-09-18T09:19:42+01:00
 draft: false
 weight: 50
 images: []
-categories: ["News"]
 tags: ["security", "performance", "SEO"]
 contributors: ["Robert & Stephen"]
 pinned: false
