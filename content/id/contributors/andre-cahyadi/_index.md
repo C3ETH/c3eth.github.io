@@ -9,4 +9,4 @@ images: []
 
 Member of C3ETH.
 
-[@prosperaan ](https://forum.cardano.org/u/prosperaan)
+[@prosperaan](https://forum.cardano.org/u/prosperaan)
