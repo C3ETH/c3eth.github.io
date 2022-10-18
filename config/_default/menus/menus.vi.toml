@@ -3,6 +3,11 @@
   weight = 10
   identifier = "guide"
   url = "/docs/guide/"
+[[docs]]
+  name = "12 Docs"
+  weight = 10
+  identifier = "12docs"
+  url = "/docs/12docs/"
 
 
 [[main]]
@@ -10,15 +15,9 @@
   url = "/docs/catalyst-guide/guides"
   weight = 10
 
-
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "🔸 Catalyst"
   weight = 20
-
-[[main]]
-  name = "Catalyst"
-  weight = 30
   url = "/catalyst/overview/catalyst-overview/"
 
 [[main]]
@@ -27,12 +26,17 @@
   identifier = "catalyst-tv"
   url = "/ca-tv/ca-tv-intro/intro/"
 
-
 [[main]]
   name = "🏫 ECS"
   weight = 50
-  identifier = "school"
+  identifier = "e-school"
   url = "/school/intro/school-intro/"
+
+[[main]]
+  name = "👤 Guests"
+  weight = 60
+  identifier = "guest"
+  url = "/guest/guest-info/guest-guidelines/"
 
 [[catalyst]]
   name = "Overview"
