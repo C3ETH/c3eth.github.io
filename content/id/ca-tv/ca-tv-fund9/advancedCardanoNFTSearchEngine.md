@@ -1,23 +1,23 @@
 ---
-title : "Advanced Cardano NFT Search Engine"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Mesin Pencari NFT Cardano Tingkat Lanjut
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube r0RSEW_tzOI >}}
+{{&lt;  youtube r0RSEW_tzOI &gt;}}
 
-## Catalyst TV - Advanced Cardano NFT Search Engine
+## Catalyst TV - Mesin Pencari NFT Cardano Tingkat Lanjut
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414201)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 56550
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 56550
+- **Pengusul:** Tuan Gianni &amp; Anthony
 
-🌟 Cardano lacks any advanced, ecosystem-wide, NFT search and discovery tools. This makes NFT markets inefficient, limiting adoption and reducing market liquidity. Build a fast Cardano NFT search engine with faceted search functionality - enhanced by Argus’ image similarity (machine learning), and designed to accommodate future multi-chain support.
+Cardano tidak memiliki alat pencarian dan penemuan NFT yang canggih, di seluruh ekosistem. Hal ini membuat pasar NFT tidak efisien, membatasi adopsi dan mengurangi likuiditas pasar. Bangun mesin pencari NFT Cardano yang cepat dengan fungsionalitas pencarian segi - ditingkatkan dengan kesamaan gambar Argus (pembelajaran mesin), dan dirancang untuk mengakomodasi dukungan multi-rantai di masa depan.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [Argusnft Website](https://argusnft.com)
-
