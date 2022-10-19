@@ -1,0 +1,67 @@
+---
+title: Cardano tracking tools
+description: Cardano tracking tools
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
+images: []
+---
+
+Karena Cardano adalah buku besar blockchain publik, dimungkinkan untuk dengan mudah melacak semua transaksi terbaru, detail blok, dan data epoch menggunakan alat yang berbeda.
+
+## Exploring transactions and blocks
+
+**Cardano Explorer**
+
+[Cardano Explorer](https://explorer.cardano.org/en.html) is a user-oriented tool that fetches data from the main database and reflects it in a straightforward and convenient web interface.
+
+Explorer menunjukkan detail epoch terbaru. Anda dapat mengklik epoch terbaru dan melihat:
+
+- sejumlah blok yang dihasilkan selama epoch ini
+- waktu epoch dimulai
+- time of last produced block
+- number of processed transactions
+- total output dalam ADA
+
+{{&lt; figure src="https://docs.cardano.org/static/809bde99eaab735c8b87fa363d8636b6/23266/latest_epoch_summary.png" caption="Gambar 1. Ringkasan epoch terbaru" &gt;}}
+
+By choosing a specific block, you can explore it in more detail to see its ID, size, epoch and block details, number of included transactions and confirmations:
+
+{{&lt; figure src="https://docs.cardano.org/static/74b26e442d30da2bedeac066bc5b31f4/98314/block_summary.png" caption="Figure 2. Block summary" &gt;}}
+
+Anda juga dapat mencari epoch, transaksi, atau blok tertentu dengan menempelkan ID mereka di bagian pencarian.
+
+Here is a list of other explorers to consider:
+
+- [AdaEx](https://cexplorer.io/)
+- [Adapools](https://adapools.org/)
+- [AdaStat](https://adastat.net/transactions)
+- [Adatools](https://adatools.io/transactions)
+- [Cardanoscan](https://cardanoscan.io/transactions)
+
+## Exploring assets
+
+Cardano supports multi-asset creation and management. To see a list of created assets and tokens, you can use these tools:
+
+- [Adapools](https://adapools.org/)
+- [AdaStat (tokens)](https://adastat.net/tokens)
+- [Adatools (tokens)](https://adatools.io/tokens)
+- [Cardano Assets](https://cardanoassets.com/)
+- [Cardanoscan (tokens)](https://cardanoscan.io/tokens)
+- [Pool.pm (tokens)](https://pool.pm/tokens)
+- [Adapools (tokens)](https://adapools.org/token)
+
+## Menjelajahi Stake Pool
+
+Untuk menemukan daftar semua Stake Pool terdaftar, ticker, nama kumpulan, dan ID mereka, Anda dapat menggunakan alat ini:
+
+- [Adapools](https://adapools.org/)
+- [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
+- [Adatools (pools)](https://adatools.io/pools)
+- [Cardano PoolTool](https://pooltool.io/)
+- [Cardanoscan (pools)](https://cardanoscan.io/pools)
+- [Pool.pm (pools)](https://pool.pm/search)
+- [POOLSTATS](https://poolstats.org/#)
+
+> Catatan: IOHK telah mengembangkan server agregasi metadata stake pool [(SMASH)](https://docs.cardano.org/development-guidelines/operating-a-stake-pool/SMASH) untuk memberi komunitas daftar Stake Pool terverifikasi dengan metadata yang valid. Smash terintegrasi dengan dompet Daedalus, dan pengguna dapat melihat daftar Stake Pool yang valid di tab pusat delegasi.
