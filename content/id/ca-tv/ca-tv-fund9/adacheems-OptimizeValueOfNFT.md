@@ -13,8 +13,8 @@ images: []
 ## Catalyst TV - Adacheems: Optimalkan nilai NFT
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/412593)
-- **Proposer:** Mr Teddy &amp; Mr Robinson
-- **Challenge:** Dapps, Products &amp; Integrations
+- **Pengusul:** Tuan Teddy &amp; Tuan Robinson
+- **Tantangan:** Dapps, Produk &amp; Integrasi
 - **Anggaran yang Diminta:** 50000
 
 NFT lain di pasar saat ini sangat disayangkan kalau hanya untuk dipajang. Kami menghadirkan dunia NFT yang mencakup ekonomi, konektivitas dunia nyata, dan interaksi yang lebih kuat bagi pemilik. Proyek NFT AdaCheems - Mengoptimalkan Nilai Penggunaan dan Membangun Ekonomi NFT. Kami menghadirkan dunia NFT yang mencakup ekonomi, konektivitas dunia nyata, dan interaksi yang lebih kuat bagi pemilik.
