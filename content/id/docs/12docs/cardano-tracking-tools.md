@@ -1,38 +1,38 @@
 ---
-title: Cardano tracking tools
-description: Cardano tracking tools
+title: Alat pelacak Cardano
+description: Alat pelacak Cardano
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
 
 Karena Cardano adalah buku besar blockchain publik, dimungkinkan untuk dengan mudah melacak semua transaksi terbaru, detail blok, dan data epoch menggunakan alat yang berbeda.
 
-## Exploring transactions and blocks
+## Menjelajahi transaksi dan blok
 
 **Cardano Explorer**
 
-[Cardano Explorer](https://explorer.cardano.org/en.html) is a user-oriented tool that fetches data from the main database and reflects it in a straightforward and convenient web interface.
+[Cardano Explorer](https://explorer.cardano.org/en.html) adalah alat berorientasi pengguna yang mengambil data dari database utama dan mencerminkannya dalam antarmuka web yang mudah dan nyaman.
 
 Explorer menunjukkan detail epoch terbaru. Anda dapat mengklik epoch terbaru dan melihat:
 
 - sejumlah blok yang dihasilkan selama epoch ini
 - waktu epoch dimulai
-- time of last produced block
-- number of processed transactions
+- waktu blok yang terakhir diproduksi
+- jumlah transaksi yang diproses
 - total output dalam ADA
 
 {{&lt; figure src="https://docs.cardano.org/static/809bde99eaab735c8b87fa363d8636b6/23266/latest_epoch_summary.png" caption="Gambar 1. Ringkasan epoch terbaru" &gt;}}
 
-By choosing a specific block, you can explore it in more detail to see its ID, size, epoch and block details, number of included transactions and confirmations:
+Dengan memilih blok tertentu, Anda dapat menjelajahinya lebih detail untuk melihat ID, ukuran, epoch dan detail blok, jumlah transaksi yang disertakan, dan konfirmasi:
 
-{{&lt; figure src="https://docs.cardano.org/static/74b26e442d30da2bedeac066bc5b31f4/98314/block_summary.png" caption="Figure 2. Block summary" &gt;}}
+{{&lt; gambar src="https://docs.cardano.org/static/74b26e442d30da2bedeac066bc5b31f4/98314/block_summary.png" caption="Gambar 2. Ringkasan blok" &gt;}}
 
 Anda juga dapat mencari epoch, transaksi, atau blok tertentu dengan menempelkan ID mereka di bagian pencarian.
 
-Here is a list of other explorers to consider:
+Berikut adalah daftar penjelajah lain yang perlu dipertimbangkan:
 
 - [AdaEx](https://cexplorer.io/)
 - [Adapools](https://adapools.org/)
@@ -40,17 +40,17 @@ Here is a list of other explorers to consider:
 - [Adatools](https://adatools.io/transactions)
 - [Cardanoscan](https://cardanoscan.io/transactions)
 
-## Exploring assets
+## Menjelajahi aset
 
-Cardano supports multi-asset creation and management. To see a list of created assets and tokens, you can use these tools:
+Cardano mendukung pembuatan dan pengelolaan multi-aset. Untuk melihat daftar aset dan token yang dibuat, Anda dapat menggunakan alat ini:
 
 - [Adapools](https://adapools.org/)
-- [AdaStat (tokens)](https://adastat.net/tokens)
-- [Adatools (tokens)](https://adatools.io/tokens)
+- [AdaStat (token)](https://adastat.net/tokens)
+- [Adatools (token)](https://adatools.io/tokens)
 - [Cardano Assets](https://cardanoassets.com/)
-- [Cardanoscan (tokens)](https://cardanoscan.io/tokens)
-- [Pool.pm (tokens)](https://pool.pm/tokens)
-- [Adapools (tokens)](https://adapools.org/token)
+- [Cardanoscan (token)](https://cardanoscan.io/tokens)
+- [Pool.pm (token)](https://pool.pm/tokens)
+- [Adapools (token)](https://adapools.org/token)
 
 ## Menjelajahi Stake Pool
 
