@@ -38,7 +38,7 @@ Sistem blockchain terdiri dari satu set node yang didistribusikan di seluruh jar
 - Memproduksi blok (beberapa node)
 - Memberikan informasi tentang keadaan blockchain ke klien lokal lainnya
 
-You can only trust nodes run by you or your organization. This is why [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) runs a node in the background.
+Anda hanya dapat memercayai node yang dijalankan oleh Anda atau organisasi Anda. Inilah sebabnya mengapa [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) menjalankan sebuah node di latar belakang.
 
 #### Proses node
 
@@ -54,17 +54,17 @@ Protokol node-to-node adalah protokol komposit, terdiri dari tiga 'mini-protokol
 
 Mini-protokol ini dimultipleks pada satu koneksi Transmission Control Protocol (TCP) yang berjalan lama antar node. Mereka dapat dijalankan di kedua arah pada koneksi TCP yang sama untuk memungkinkan pengaturan peer-to-peer (P2P).
 
-The overall protocol -and each mini-protocol- is designed for a trustless setting where both sides need to guard against Denial-of-Service (DoS) attacks. For example, each mini-protocol uses consumer-driven control flow, so a node only requests more work when it is ready, rather than having work pushed upon it.
+Protokol keseluruhan - dan setiap protokol mini - dirancang untuk pengaturan tanpa kepercayaan di mana kedua belah pihak perlu menjaga dari serangan Denial-of-servis (DoS). Misalnya, setiap mini-protokol menggunakan aliran kontrol yang digerakkan oleh konsumen, jadi sebuah node hanya meminta lebih banyak pekerjaan saat sudah siap, daripada harus mengerjakannya.
 
 Desain protokol bersifat modular dan dapat berevolusi: negosiasi versi digunakan untuk menyetujui kumpulan protokol mini yang akan digunakan, yang memungkinkan protokol mini tambahan atau yang diperbarui ditambahkan dari waktu ke waktu tanpa menyebabkan masalah kompatibilitas.
 
 #### IPC Node-ke-Klien
 
-The purpose of the node-to-client IPC protocol is to allow local applications to interact with the blockchain via the node. This includes applications such as wallet backends or blockchain explorers. The node-to-client protocol enables these applications to access the raw chain data and to query the current ledger state. It also provides the ability to submit new transactions to the system.
+Tujuan dari protokol IPC node-to-klien adalah untuk memungkinkan aplikasi lokal berinteraksi dengan blockchain melalui node. Ini termasuk aplikasi seperti dompet backend atau penjelajah blockchain. Protokol node-to-klien memungkinkan aplikasi ini untuk mengakses data rantai mentah dan untuk menanyakan status buku besar saat ini. Ini juga menyediakan kemampuan untuk mengirimkan transaksi baru ke sistem.
 
-The node-to-client protocol uses the same design as the node-to-node protocol, but with a different set of mini-protocols, and using local pipes rather than TCP connections. As such, it is a relatively low-level narrow interface that exposes only what the node can provide natively. For example, the node provides access to all the raw chain data but does not provide a way to query data on the chain. The job of providing data services and more convenient higher level APIs is delegated to dedicated clients, such as cardano-db-sync and the wallet backend.
+Protokol node-to-klien menggunakan desain yang sama dengan protokol node-to-node, tetapi dengan seperangkat mini-protokol yang berbeda, dan menggunakan pipa lokal daripada koneksi TCP. Dengan demikian, ini adalah antarmuka sempit tingkat rendah yang hanya mengekspos apa yang dapat disediakan oleh node secara asli. Misalnya, node menyediakan akses ke semua data rantai mentah tetapi tidak menyediakan cara untuk menanyakan data pada rantai. Tugas menyediakan layanan data dan API tingkat tinggi yang lebih nyaman didelegasikan ke klien khusus, seperti cardano-db-sync dan dompet backend.
 
-The node-to-client protocol consists of three mini-protocols:
+Protokol node-to-klien terdiri dari tiga mini-protokol:
 
 - **chain-sync** : Digunakan untuk mengikuti rantai dan mendapatkan blok
 - **local-tx-submission** : Digunakan untuk mengirimkan transaksi
