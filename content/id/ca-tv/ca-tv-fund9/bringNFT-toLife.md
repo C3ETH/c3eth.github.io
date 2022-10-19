@@ -1,22 +1,21 @@
 ---
-title : "Bring NFT To Life"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Hidupkan NFT
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube i8Tp4cyETzw >}}
+{{&lt;  youtube i8Tp4cyETzw &gt;}}
 
-## Catalyst TV - Bring NFT To Life
+## Catalyst TV - Hidupkan NFT
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/418505)
-- **Challenge:**  Dapps, Products & Integrations
-- **Requested Budget:** 38600
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 38600
+- **Pengusul:** Tuan Anh
 
-🌟 Very few projects on Cardano bring NFT to life and provide real value to its owners. We will give mint users an NFT depends on how much that user contributes to the community. The higher the level the NFT owner will get, the more benefits.Member will contribute knowledge and edit content on wikicardano.io and Members with NFT are allowed to join the whitelist list or early purchase of tokens or NFT of projects that are partners of wikicardano.io. They can buy products or services at discounted prices at wikicardano partners. Example: Buying coffee with 20% discount at partner stores
+Sangat sedikit proyek di Cardano yang menghidupkan NFT dan memberikan nilai nyata bagi pemiliknya. Kami akan memberikan NFT kepada pengguna mint tergantung pada seberapa banyak kontribusi pengguna tersebut kepada komunitas. Semakin tinggi level yang didapat pemilik NFT, semakin banyak keuntungan. Anggota akan menyumbangkan pengetahuan dan mengedit konten di wikicardano.io dan Anggota dengan NFT diperbolehkan untuk bergabung dalam daftar putih atau pembelian awal token atau NFT proyek yang menjadi mitra wikicardano .io. Mereka dapat membeli produk atau layanan dengan harga diskon di mitra wikicardano. Contoh: Membeli kopi dengan diskon 20% di toko mitra
 
-🌟 You can contact @tuan_anh_nam_dinh right away via Telegram for any doubt you are having with the team.
-
-
+Anda dapat menghubungi @tuan_anh_nam_dinh segera melalui Telegram jika Anda ragu dengan tim.
