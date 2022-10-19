@@ -1,10 +1,10 @@
 ---
-title: What is a Smart Contract?
-description: What is a Smart Contract?.
+title: Apa itu Smart Kontrak?
+description: Apa itu Smart Kontrak?.
 lead: ''
 date: "06-10-2020 08:48:23 +0000"
 lastmod: "06-10-2020 08:48:23 +0000"
-draft: 'false'
+draft: 'False'
 images: []
 ---
 
