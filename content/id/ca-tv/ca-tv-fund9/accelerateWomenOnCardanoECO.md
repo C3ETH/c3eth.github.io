@@ -13,6 +13,6 @@ images: []
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/416448)
 - **Challenge:** Fund10 challenge setting
-- **Proposer:** Mz Mie Tran &amp; Mz Que Tram &amp; Mz Hong Ha
+- **Pengusul:** Mz Mie Tran &amp; Mz Que Trem &amp; Mz Hong Ha
 
 Perempuan memiliki potensi yang sangat besar dan dapat memberikan kontribusi yang signifikan bagi ekosistem Cardano; mereka harus didorong untuk lebih berpartisipasi. Oleh karena itu, menghubungkan dan memperluas pengetahuan perempuan serta peran mereka. Secara signifikan meningkatkan keterlibatan aktif mereka dalam ekosistem Cardano
