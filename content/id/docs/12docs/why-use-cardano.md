@@ -1,9 +1,9 @@
 ---
-title: Why use Cardano?
-description: Why use Cardano?.
+title: Mengapa menggunakan Cardano?
+description: Mengapa menggunakan Cardano?.
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
@@ -12,35 +12,35 @@ images: []
 
 Generasi pertama blockchain (seperti Bitcoin) menawarkan buku besar terdesentralisasi untuk pengiriman mata uang kripto yang aman. Namun, blockchain semacam itu tidak menyediakan lingkungan fungsional untuk penyelesaian kesepakatan yang kompleks dan pengembangan aplikasi terdesentralisasi (DApp). Seiring berkembangnya teknologi blockchain, generasi kedua (seperti Ethereum) memberikan solusi yang lebih baik untuk menulis dan mengeksekusi kontrak pintar, pengembangan aplikasi, dan pembuatan berbagai jenis token. Di sisi lain, blockchain generasi kedua sering menghadapi masalah dalam hal skalabilitas.
 
-Cardano is conceived as the third-generation blockchain as it combines the properties of the prior generations and evolves to meet all the arising needs of users. When comparing blockchain properties, many aspects should be considered. Thus, the best solution must ensure the highest security, scalability (transaction throughput, data scale, network bandwidth), and functionality (besides transaction processing, the blockchain should provide all means for business deal settlement). Moreover, it is important to ensure that blockchain technology is constantly developing in terms of sustainability and is interoperable with other blockchains and financial institutions.
+Cardano dipahami sebagai blockchain generasi ketiga karena menggabungkan properti dari generasi sebelumnya dan berkembang untuk memenuhi semua kebutuhan pengguna yang muncul. Saat membandingkan properti blockchain, banyak aspek yang harus dipertimbangkan. Dengan demikian, solusi terbaik harus memastikan keamanan tertinggi, skalabilitas (throughput transaksi, skala data, bandwidth jaringan), dan fungsionalitas (selain pemrosesan transaksi, blockchain harus menyediakan segala cara untuk penyelesaian kesepakatan bisnis). Selain itu, penting untuk memastikan bahwa teknologi blockchain terus berkembang dalam hal keberlanjutan dan dapat dioperasikan dengan blockchain dan lembaga keuangan lainnya.
 
-To address these needs, Cardano focuses on such core concepts as:
+Untuk mengatasi kebutuhan ini, Cardano berfokus pada konsep inti seperti:
 
 - **Skalabilitas** — memastikan bahwa jaringan Cardano mampu memproses peningkatan jumlah transaksi seiring dengan meningkatnya permintaan pengguna. Skalabilitas juga memberikan kemampuan bandwidth yang lebih tinggi untuk memungkinkan transaksi membawa sejumlah besar data pendukung yang dapat dengan mudah dikelola dalam jaringan. Untuk kebutuhan ini, Cardano menerapkan berbagai teknik (seperti kompresi data misalnya) dan bekerja untuk memperkenalkan [Hydra](https://iohk.io/en/research/library/papers/hydra-fast-isomorphic-state-channels/), yang akan mengaktifkan beberapa fungsi side-chains.
-- **Interoperability** — ensures the most multi-functional environment for financial, business, or commercial operations by enabling users to interact not only with one type of currency, but with multiple currencies across various blockchains. Moreover, interoperability with centralized banking entities is as important to grant legitimacy and convenience of use. Cardano is being developed to support cross-chain transfers, multiple token types, and commonly used smart contracts languages.
+- **Interoperabilitas** — memastikan lingkungan yang paling multi-fungsi untuk operasi keuangan, bisnis, atau komersial dengan memungkinkan pengguna untuk berinteraksi tidak hanya dengan satu jenis mata uang, tetapi dengan banyak mata uang di berbagai blockchain. Selain itu, interoperabilitas dengan entitas perbankan terpusat sama pentingnya untuk memberikan legitimasi dan kenyamanan penggunaan. Cardano sedang dikembangkan untuk mendukung transfer lintas rantai, beberapa jenis token, dan bahasa kontrak pintar yang umum digunakan.
 - **Keberlanjutan** — merancang blockchain proof-of-stake berarti sangat penting untuk memastikan bahwa sistem itu mandiri. Untuk mendorong pertumbuhan dan kedewasaan dengan cara yang benar-benar terdesentralisasi, Cardano dibangun untuk memungkinkan komunitas mempertahankan perkembangannya yang berkelanjutan dengan berpartisipasi, mengusulkan, dan menerapkan perbaikan sistem. Untuk memastikan keberlanjutan, sistem perbendaharaan dikendalikan oleh komunitas dan diisi ulang terus-menerus dari sumber potensial seperti koin yang baru dicetak ditahan sebagai pendanaan, persentase hadiah stake pool, dan biaya transaksi.
 
-### Cardano advantages
+### Keunggulan Cardano
 
-- **Academic research** — formal methods, such as mathematical specifications, property-based tests, and proofs, are the best way to deliver high assurance software systems and give confidence to users for the management of digital funds. Cardano has been built using formal methods to achieve strong guarantees on the functional correctness of core components of the system. All of the research and technical specifications that underpin Cardano are publicly available, and all Cardano development activity is published online.
-- **System design** — Cardano is written in Haskell, a secure functional programming language that encourages building a system using pure functions, which leads to a design where components are conveniently testable in isolation. Furthermore, advanced features of Haskell enable us to employ a whole range of powerful methods for ensuring correctness of the code, such as basing the implementation on formal and executable specifications, extensive property-based testing, and running tests in simulation.
-- **Security** — [Ouroboros](https://iohk.io/en/blog/posts/2020/06/23/the-ouroboros-path-to-decentralization/) (the Cardano proof-of-stake protocol) establishes rigorous security guarantees; it was delivered with several peer-reviewed papers presented in top-tier conferences and publications in the area of cybersecurity and cryptography.
+- **Penelitian akademis** — metode formal, seperti spesifikasi matematika, tes berbasis properti, dan pembuktian, adalah cara terbaik untuk memberikan sistem perangkat lunak jaminan tinggi dan memberikan kepercayaan kepada pengguna untuk pengelolaan dana digital. Cardano telah dibangun menggunakan metode formal untuk mencapai jaminan yang kuat pada kebenaran fungsional komponen inti sistem. Semua penelitian dan spesifikasi teknis yang mendukung Cardano tersedia untuk umum, dan semua aktivitas pengembangan Cardano dipublikasikan secara online.
+- **Desain sistem** — Cardano ditulis dalam Haskell, bahasa pemrograman fungsional aman yang mendorong pembangunan sistem menggunakan fungsi murni, yang mengarah ke desain di mana komponen dapat diuji dengan mudah secara terpisah. Selain itu, fitur-fitur canggih Haskell memungkinkan kami untuk menggunakan berbagai macam metode canggih untuk memastikan kebenaran kode, seperti mendasarkan implementasi pada spesifikasi formal dan yang dapat dieksekusi, pengujian berbasis properti yang ekstensif, dan menjalankan pengujian dalam simulasi.
+- **Keamanan** — [Ouroboros](https://iohk.io/en/blog/posts/2020/06/23/the-ouroboros-path-to-decentralization/) (protokol bukti kepemilikan Cardano) menetapkan jaminan keamanan yang ketat; itu disampaikan dengan beberapa makalah peer-review yang dipresentasikan dalam konferensi dan publikasi tingkat atas di bidang keamanan siber dan kriptografi.
 - **Konsumsi daya** — Cardano adalah blockchain proof-of-stake. Berbeda dengan blockchain proof-of-work, [Cardano membutuhkan lebih sedikit energi](https://iohk.io/en/blog/posts/2021/08/17/why-they-re-calling-cardano-the-green-blockchain/) dan daya komputasi. Jaringan Bitcoin tumbuh melalui komputer yang melakukan komputasi yang semakin intensif energi – proof-of-work – yang tidak berkelanjutan dalam jangka panjang. Universitas Cambridge memiliki alat online yang menunjukkan [bahwa komputer yang menjalankan Bitcoin](https://ccaf.io/cbeci/index) telah mengkonsumsi energi dua kali lebih banyak dari negara Swiss setiap tahunnya.
 - **Pemutakhiran (Upgrade) yang mulus** — secara tradisional, pemutakhiran blockchain menggunakan hard fork. Saat melakukan hard fork, protokol saat ini akan berhenti beroperasi, aturan dan perubahan baru akan diterapkan, dan rantai akan dimulai kembali – dengan riwayat sebelumnya dihapus. Cardano menangani hard fork secara berbeda. Alih-alih menerapkan perubahan radikal, [teknologi kombinator hard-fork Cardano](https://iohk.io/en/blog/posts/2020/05/07/combinator-makes-easy-work-of-shelley-hard-fork/) memastikan transisi yang mulus ke protokol baru sembari menyimpan riwayat blok sebelumnya dan tidak menyebabkan gangguan apa pun bagi pengguna akhir.
 - **Desentralisasi** — Cardano dikelola oleh hampir 3.000 stake pool terdistribusi yang dioperasikan oleh komunitas. Semua blok dan transaksi divalidasi oleh peserta jaringan tanpa ketergantungan pada otoritas terpusat.
-- **Functional environment for business use cases** — Cardano is establishing a foundation for global, decentralized finance to develop a range of DApps that can run using functional and domain-specific smart contracts, providing multi-asset tokens for any needs.
+- **Lingkungan fungsional untuk kasus penggunaan bisnis** — Cardano membangun fondasi untuk keuangan global yang terdesentralisasi untuk mengembangkan berbagai DApps yang dapat berjalan menggunakan kontrak pintar fungsional dan spesifik domain, menyediakan token multi-aset untuk kebutuhan apa pun.
 
-### Cardano development themes
+### Tema pengembangan Cardano
 
-[Cardano’s development journey](https://roadmap.cardano.org/en/) has been split into five main themes focusing on such core functionalities as:
+[Perjalanan pengembangan Cardano](https://roadmap.cardano.org/en/) telah dibagi menjadi lima tema utama yang berfokus pada fungsi inti seperti:
 
 - Byron — pendirian fondasi
-- Shelley — decentralization
-- Goguen — smart contracts
-- Basho — scalability
+- Shelley — desentralisasi
+- Goguen — kontrak pintar
+- Basho — skalabilitas
 - Voltaire — tata kelola
 
-Each theme is centered around a set of functionalities that are being delivered across multiple code releases. While these development streams are delivered sequentially, the work for each happens in parallel – with research, prototyping, and development often in progress all at once across the different stages. Let’s take a closer look at these development themes.
+Setiap tema dipusatkan di sekitar serangkaian fungsi yang dikirimkan di beberapa rilis kode. Sementara aliran pengembangan ini disampaikan secara berurutan, pekerjaan untuk masing-masing terjadi secara paralel – dengan penelitian, pembuatan prototipe, dan pengembangan sering berlangsung sekaligus di berbagai tahap. Mari kita lihat lebih dekat tema-tema pengembangan ini.
 
 **Byron**
 
@@ -60,11 +60,11 @@ Basho akan fokus pada optimasi Cardano dalam hal meningkatkan skalabilitas dan i
 
 **Voltaire**
 
-Decentralized governance and decision making lie at the heart of Voltaire granting the Cardano community an ability to vote on network development updates, technical improvements, and project funding. For the Cardano network to become truly decentralized, it requires not only the distributed infrastructure introduced during Shelley but also the capacity to be maintained and improved over time in a decentralized way.
+Tata kelola dan pengambilan keputusan yang terdesentralisasi terletak di jantung Voltaire yang memberi komunitas Cardano kemampuan untuk memberikan suara pada pembaruan pengembangan jaringan, peningkatan teknis, dan pendanaan proyek. Agar jaringan Cardano benar-benar terdesentralisasi, dibutuhkan tidak hanya infrastruktur terdistribusi yang diperkenalkan selama Shelley tetapi juga kapasitas untuk dipelihara dan ditingkatkan dari waktu ke waktu dengan cara yang terdesentralisasi.
 
-**Related Topics:**
+**Topik-topik yang berkaitan:**
 
-- [Understanding Cardano](https://www.youtube.com/watch?v=Ja9D0kpksxw) (Cardano whiteboard by Charles Hoskinson)
-- [Cardano design rationale](https://docs.cardano.org/explore-cardano/cardano-design-rationale)
-- [Detailed Cardano roadmap](https://roadmap.cardano.org/en/)
-- [Development status updates](https://www.essentialcardano.io/development-update)
+- [Memahami Cardano](https://www.youtube.com/watch?v=Ja9D0kpksxw) (papan tulis Cardano oleh Charles Hoskinson)
+- [Alasan desain Cardano](https://docs.cardano.org/explore-cardano/cardano-design-rationale)
+- [Peta jalan Cardano yang terperinci](https://roadmap.cardano.org/en/)
+- [Pembaruan status pengembangan](https://www.essentialcardano.io/development-update)
