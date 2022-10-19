@@ -12,11 +12,11 @@ images: []
 
 ## Catalyst TV - 500+ Komunitas Dikirim ke Konferensi
 
-As a new Cardano dApp with a desire to grow quickly, we lack go-to-market resources to send this community to conferences. Exhibit at major industry conferences with free tickets for the Cardano community to share the Cardano gospel, meet each other in person, and sell to decision-makers to 100x user adoption and revenue.
+Sebagai dApp Cardano baru dengan keinginan untuk tumbuh dengan cepat, kami kekurangan sumber daya untuk mengirim komunitas ini ke konferensi. Pamerkan di konferensi industri besar dengan tiket gratis bagi komunitas Cardano untuk membagikan Injil Cardano, bertemu satu sama lain secara langsung, dan menjual kepada pengambil keputusan hingga 100x adopsi dan pendapatan pengguna.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/413992)
 - **Proposer:** Ninh Tran from SnapBrillia
-- **Challenge**: Dapps, Products &amp; Integrations
+- **Tantangan** : Dapps, Produk &amp; Integrasi
 - **Requested Budget:** 420000
 
 ### Tracking links:
