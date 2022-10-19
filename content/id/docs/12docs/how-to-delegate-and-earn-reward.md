@@ -2,8 +2,8 @@
 title: Bagaimana cara mendelegasikan dan mendapatkan imbalan?
 description: Bagaimana cara mendelegasikan dan mendapatkan imbalan?
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
@@ -19,5 +19,5 @@ Pemegang ADA dapat mendelegasikan ADA mereka menggunakan Wallet Daedalus atau Yo
 - Bagaimana memilih Stake Pool
 - Seberapa amankah mendelegasikan ke Stake Pool?
 - Cara mendelegasikan ADA ke Stake Pool menggunakan Daedalus
-- Staking and delegating for beginners (Daedalus)
+- Staking dan delegasi untuk pemula (Daedalus)
 - Cara mendelegasikan ADA dari Wallet Yoroi
