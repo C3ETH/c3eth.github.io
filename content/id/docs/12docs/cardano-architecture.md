@@ -1,42 +1,42 @@
 ---
-title: Cardano architecture
-description: Cardano architecture
+title: Arsitektur Cardano
+description: Arsitektur Cardano
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
 
 Bagian ini menjelaskan arsitektur tingkat tinggi dari Cardano, yang terdiri dari rincian tentang komponen inti dan interaksinya, dan secara singkat membahas era dan implementasi Cardano.
 
-### High level architecture of Cardano
+### Arsitektur tingkat tinggi Cardano
 
-The following diagram outlines the interaction between the system components of Cardano:
+Diagram berikut menguraikan interaksi antara komponen sistem Cardano:
 
-![Image](https://ucarecdn.com/3756645a-a4a2-4d2f-846a-e454bf7cba60/)
+![Gambar](https://ucarecdn.com/3756645a-a4a2-4d2f-846a-e454bf7cba60/)
 
-### System components
+### Komponen sistem
 
-The current implementation of Cardano is highly modular. It includes the following components (different deployment use cases will use different combinations of components):
+Implementasi Cardano saat ini sangat modular. Ini mencakup komponen berikut (kasus penggunaan penerapan yang berbeda akan menggunakan kombinasi komponen yang berbeda):
 
 - [Node](https://github.com/input-output-hk/cardano-node)
 - [Command Line Interface (CLI)](https://github.com/input-output-hk/cardano-node/blob/master/doc/reference/cardano-node-cli-reference.md)
 - [Wallet Daedalus](https://github.com/input-output-hk/cardano-wallet)
 - [Sinkronisasi db Cardano](https://github.com/input-output-hk/cardano-db-sync)
-- [GraphQL API](https://github.com/input-output-hk/cardano-graphql) server (Apollo)
+- [Server API GraphQL](https://github.com/input-output-hk/cardano-graphql) (Apollo)
 - [Server SMASH](https://github.com/input-output-hk/smash)
 
-### Nodes and remote nodes
+### Node dan node jarak jauh
 
-A blockchain system consists of a set of nodes distributed across a network that communicate with each other to achieve [consensus](https://docs.cardano.org/core-concepts/consensus-explained) about the system’s state.
+Sistem blockchain terdiri dari satu set node yang didistribusikan di seluruh jaringan yang berkomunikasi satu sama lain untuk mencapai [konsensus](https://docs.cardano.org/core-concepts/consensus-explained) tentang status sistem.
 
-#### Nodes are responsible for:
+#### Node bertanggung jawab untuk:
 
-- Executing the [Ouroboros](https://github.com/input-output-hk/ouroboros-network/#ouroboros-network) protocol
-- Validating and relaying blocks
-- Producing blocks (some nodes)
-- Providing information about the state of the blockchain to other local clients
+- Menjalankan protokol [Ouroboros](https://github.com/input-output-hk/ouroboros-network/#ouroboros-network)
+- Memvalidasi dan menyampaikan blok
+- Memproduksi blok (beberapa node)
+- Memberikan informasi tentang keadaan blockchain ke klien lokal lainnya
 
 You can only trust nodes run by you or your organization. This is why [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) runs a node in the background.
 
@@ -44,21 +44,21 @@ You can only trust nodes run by you or your organization. This is why [Daedalus]
 
 Cardano-node adalah level teratas untuk node dan terdiri dari subsistem lain, yang paling signifikan adalah konsensus, [ledger](https://github.com/input-output-hk/cardano-ledger-specs#cardano-ledger) dan jaringan dengan konfigurasi tambahan, CLI, logging, dan pemantauan. Protokol IPC Node-to-Node
 
-The purpose of the node-to-node Inter-Process Communication (IPC) protocol is to allow for the exchange of blocks and transactions between nodes as part of the Ouroboros consensus algorithm.
+Tujuan dari protokol Inter-Process Communication (IPC) node-to-node adalah untuk memungkinkan pertukaran blok dan transaksi antar node sebagai bagian dari algoritma konsensus Ouroboros.
 
-The node-to-node protocol is a composite protocol, consisting of three ‘mini-protocols’:
+Protokol node-to-node adalah protokol komposit, terdiri dari tiga 'mini-protokol':
 
-- **chain-sync**: Used for following the chain and getting block headers.
+- **chain-sync** : Digunakan untuk mengikuti rantai dan mendapatkan header blok.
 - **block-fetch** : Digunakan untuk mendapatkan isi dari blok.
 - **tx-submission** : Digunakan untuk meneruskan transaksi.
 
-These mini-protocols are multiplexed on a single long-running Transmission Control Protocol (TCP) connection between nodes. They can be run in both directions on the same TCP connection to allow for peer-to-peer (P2P) settings.
+Mini-protokol ini dimultipleks pada satu koneksi Transmission Control Protocol (TCP) yang berjalan lama antar node. Mereka dapat dijalankan di kedua arah pada koneksi TCP yang sama untuk memungkinkan pengaturan peer-to-peer (P2P).
 
 The overall protocol -and each mini-protocol- is designed for a trustless setting where both sides need to guard against Denial-of-Service (DoS) attacks. For example, each mini-protocol uses consumer-driven control flow, so a node only requests more work when it is ready, rather than having work pushed upon it.
 
-The protocol design is modular and evolvable: version negotiation is used to agree on the set of mini-protocols to use, which allows additional or updated mini-protocols to be added over time without causing compatibility issues.
+Desain protokol bersifat modular dan dapat berevolusi: negosiasi versi digunakan untuk menyetujui kumpulan protokol mini yang akan digunakan, yang memungkinkan protokol mini tambahan atau yang diperbarui ditambahkan dari waktu ke waktu tanpa menyebabkan masalah kompatibilitas.
 
-#### Node-to-Client IPC
+#### IPC Node-ke-Klien
 
 The purpose of the node-to-client IPC protocol is to allow local applications to interact with the blockchain via the node. This includes applications such as wallet backends or blockchain explorers. The node-to-client protocol enables these applications to access the raw chain data and to query the current ledger state. It also provides the ability to submit new transactions to the system.
 
@@ -66,58 +66,58 @@ The node-to-client protocol uses the same design as the node-to-node protocol, b
 
 The node-to-client protocol consists of three mini-protocols:
 
-- **chain-sync**: Used for following the chain and getting blocks
-- **local-tx-submission**: Used for submitting transactions
-- **local-state-query**: Used for querying the ledger state
+- **chain-sync** : Digunakan untuk mengikuti rantai dan mendapatkan blok
+- **local-tx-submission** : Digunakan untuk mengirimkan transaksi
+- **local-state-query** : Digunakan untuk menanyakan status buku besar
 
-The node-to-client version of chain sync uses full blocks, rather than just block headers. This is why no separate block-fetch protocol is needed. The local-tx-submission protocol is like the node-to-node tx-submission protocol but simpler, and it returns the details of transaction validation failures. The local state query protocol provides query access to the current ledger state, which contains a lot of interesting data that is not directly reflected on the chain itself.
+Sinkronisasi rantai versi node-ke-klien menggunakan blok penuh, bukan hanya header blok. Inilah sebabnya mengapa tidak diperlukan protokol pengambilan blok terpisah. Protokol pengiriman-tx-lokal seperti protokol pengiriman-tx node-ke-simpul tetapi lebih sederhana, dan mengembalikan rincian kegagalan validasi transaksi. Protokol kueri status lokal menyediakan akses kueri ke status buku besar saat ini, yang berisi banyak data menarik yang tidak secara langsung tercermin pada rantai itu sendiri.
 
-[Read more about the networking protocol design and Cardano node communication protocols.](https://docs.cardano.org/explore-cardano/cardano-network/networking-protocol)
+[Baca lebih lanjut tentang desain protokol jaringan dan protokol komunikasi node Cardano.](https://docs.cardano.org/explore-cardano/cardano-network/networking-protocol)
 
-### Command line interface (CLI)
+### Antarmuka baris perintah (CLI)
 
-The node’s CLI tool is the “swiss army knife” of the system. It can do almost everything, but it is quite low level and not very convenient because it’s text-based and lacks a graphical user interface (GUI).
+Alat CLI node adalah "pisau tentara swiss" dari sistem. Itu dapat melakukan hampir semua hal, tetapi levelnya cukup rendah dan tidak terlalu nyaman karena berbasis teks dan tidak memiliki antarmuka pengguna grafis (GUI).
 
-The CLI tool can:
+Alat CLI dapat:
 
-- Query the node for information
-- Submit transactions
-- Build and sign transactions
-- Manage cryptographic keys
+- Query node untuk informasi
+- Kirim transaksi
+- Buat dan tanda tangani transaksi
+- Kelola kunci kriptografi
 
-### Daedalus wallet
+### dompet Daedalus
 
-Daedalus is a full node wallet that helps users to manage their ada, and can send and receive payments on the Cardano blockchain. Daedalus consists of a wallet frontend and a backend. The frontend is the graphical application that users see and interact with. The backend is a service process that monitors the state of the user’s wallet and does all the 'heavy lifting', such as coin selection, transaction construction, and submission. The backend interacts with a local node via the node-to-client IPC protocol, and interacts with the frontend via a HTTP API. The backend also provides a CLI that enables interaction with the wallet. The wallet backend can also be used on its own -without Daedalus- via its API. This is a convenient way for software developers to integrate Cardano with other applications and systems.
+Daedalus adalah dompet simpul penuh yang membantu pengguna untuk mengelola ada mereka, dan dapat mengirim dan menerima pembayaran di blockchain Cardano. Daedalus terdiri dari frontend dompet dan backend. Frontend adalah aplikasi grafis yang dilihat dan berinteraksi dengan pengguna. Backend adalah proses layanan yang memantau keadaan dompet pengguna dan melakukan semua 'pengangkatan berat', seperti pemilihan koin, konstruksi transaksi, dan pengiriman. Backend berinteraksi dengan node lokal melalui protokol IPC node-to-client, dan berinteraksi dengan frontend melalui HTTP API. Backend juga menyediakan CLI yang memungkinkan interaksi dengan dompet. Backend dompet juga dapat digunakan sendiri -tanpa Daedalus- melalui API-nya. Ini adalah cara yang nyaman bagi pengembang perangkat lunak untuk mengintegrasikan Cardano dengan aplikasi dan sistem lain.
 
-We advise that most advanced users intending to use Cardano start with Daedalus.
+Kami menyarankan bahwa sebagian besar pengguna tingkat lanjut yang ingin menggunakan Cardano memulai dengan Daedalus.
 
 ### cardano-db-sync
 
-The cardano node stores only the blockchain itself and associated information needed to validate the blockchain. This design principle is about minimising code complexity, and reducing computational cost and resource use, to keep the node's local interfaces as minimal as possible and to use external clients to provide a variety of convenient interfaces and extra functionality. In particular, the node does not provide a convenient query interface for historical information on the blockchain. This data service is provided by a separate component using an Structured Query Language (SQL) database.
+Node cardano hanya menyimpan blockchain itu sendiri dan informasi terkait yang diperlukan untuk memvalidasi blockchain. Prinsip desain ini adalah tentang meminimalkan kompleksitas kode, dan mengurangi biaya komputasi dan penggunaan sumber daya, untuk menjaga antarmuka lokal node seminimal mungkin dan menggunakan klien eksternal untuk menyediakan berbagai antarmuka yang nyaman dan fungsionalitas tambahan. Secara khusus, node tidak menyediakan antarmuka kueri yang nyaman untuk informasi historis di blockchain. Layanan data ini disediakan oleh komponen terpisah menggunakan database Structured Query Language (SQL).
 
-Read more about:
+Baca lebih lanjut tentang:
 
-- Cardano DB Sync and its components
-- [SMASH](https://docs.cardano.org/cardano-components/smash)
+- Cardano DB Sync dan komponennya
+- [MENGHANCURKAN](https://docs.cardano.org/cardano-components/smash)
 
-### About the eras and implementations of Cardano
+### Tentang era dan implementasi Cardano
 
-Cardano is a third-generation distributed ledger. It is based on Ouroboros, a peer-reviewed proof-of-stake (PoS) blockchain consensus algorithm that first appeared in the top research conference in cryptology worldwide (the International Association for Cryptologic Research 37th International Cryptology CXonference - Crypto 2017).
+Cardano adalah buku besar terdistribusi generasi ketiga. Ini didasarkan pada Ouroboros, algoritma konsensus blockchain proof-of-stake (PoS) peer-review yang pertama kali muncul di konferensi penelitian teratas dalam kriptologi di seluruh dunia (Asosiasi Internasional untuk Penelitian Kriptologi 37th International Cryptology CXonference - Crypto 2017).
 
-The name Cardano is the general name given to the platform, which has gone through multiple eras and implementations. These concepts need further explanation.
+Nama Cardano adalah nama umum yang diberikan untuk platform tersebut, yang telah melalui berbagai era dan implementasi. Konsep-konsep ini perlu penjelasan lebih lanjut.
 
-#### Eras
+#### Era
 
-There are several eras within the evolution of Cardano. Each era (Byron, Shelley, Goguen, Basho, and Voltaire) refers to the rules of the ledger. For example, what transaction types and what data is stored in the ledger, or the validity and meaning of the transactions.
+Ada beberapa era dalam evolusi Cardano. Setiap era (Byron, Shelley, Goguen, Basho, dan Voltaire) mengacu pada aturan buku besar. Misalnya, jenis transaksi apa dan data apa yang disimpan dalam buku besar, atau keabsahan dan makna transaksi.
 
-The evolution of the Cardano mainnet began with the Byron ledger rules (Byron era). The mainnet underwent a hard fork in late July 2020 to switch from the Byron rules to the Shelley ledger rules. Hence, this hard fork marked the beginning of the Shelley era.
+Evolusi mainnet Cardano dimulai dengan aturan buku besar Byron (era Byron). Mainnet mengalami hard fork pada akhir Juli 2020 untuk beralih dari aturan Byron ke aturan buku besar Shelley. Oleh karena itu, garpu keras ini menandai awal dari era Shelley.
 
-#### Implementations
+#### Implementasi
 
-Cardano’s first implementation was introduced at the start of the Cardano mainnet, back in September 2017. This implementation supported the Byron ledger rules exclusively.
+Implementasi pertama Cardano diperkenalkan pada awal mainnet Cardano, pada September 2017. Implementasi ini mendukung aturan buku besar Byron secara eksklusif.
 
-We then undertook a full reimplementation of Cardano, which enabled two fundamental changes: the support for multiple sets of ledger rules, and the management of the hard fork process of switching from one set of rules to the next. In other words, the new implementation can support both the Byron rules and the Shelley rules, which meant that, when it was deployed to the mainnet in early 2020, the implementation was also fully compatible with the Byron rules. This allowed for a smooth transition from the old to the new implementation. Once all Cardano users had upgraded their nodes to the new implementation, it became possible to invoke the hard fork and switch to the Shelley rules.
+Kami kemudian melakukan implementasi ulang penuh Cardano, yang memungkinkan dua perubahan mendasar: dukungan untuk beberapa set aturan buku besar, dan pengelolaan proses hard fork untuk beralih dari satu set aturan ke aturan berikutnya. Dengan kata lain, implementasi baru dapat mendukung aturan Byron dan aturan Shelley, yang berarti bahwa, ketika diterapkan ke mainnet pada awal 2020, implementasinya juga sepenuhnya kompatibel dengan aturan Byron. Ini memungkinkan transisi yang mulus dari implementasi lama ke implementasi baru. Setelah semua pengguna Cardano mengupgrade node mereka ke implementasi baru, menjadi mungkin untuk memanggil hard fork dan beralih ke aturan Shelley.
 
-A third Cardano implementation was used on the Shelley Incentivized Testnet (ITN). This system supported a significant subset of the Shelley rules, and we used it to test the economic and social dynamics of the Shelley delegation system.
+Implementasi Cardano ketiga digunakan pada Shelley Incentivized Testnet (ITN). Sistem ini mendukung sebagian besar aturan Shelley, dan kami menggunakannya untuk menguji dinamika ekonomi dan sosial dari sistem delegasi Shelley.
 
-This Cardano architecture overview reflects the current Cardano implementation deployed on the mainnet, not the original or ITN implementations.
+Ikhtisar arsitektur Cardano ini mencerminkan implementasi Cardano saat ini yang digunakan di mainnet, bukan implementasi asli atau ITN.
