@@ -1,14 +1,14 @@
 ---
-title: How to purchase ada?
+title: Bagaimana cara membeli ada?
 description: Bagaimana cara membeli ADA?
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
 
-> Note: we are not making any investment advice. Please consider conducting your own research and due diligence, or consult your financial advisor before making any investment decisions.
+> Catatan: kami tidak memberikan saran investasi apa pun. Harap pertimbangkan untuk melakukan penelitian dan uji tuntas Anda sendiri, atau konsultasikan dengan penasihat keuangan Anda sebelum membuat keputusan investasi apa pun.
 
 Seperti cryptocurrency lainnya, ADA dapat dibeli menggunakan salah satu bursa kripto yang tersedia.
 
@@ -28,10 +28,10 @@ Kami tidak merekomendasikan bursa kripto tertentu, karena banyak pilihan bagus. 
 
 2. Buat akun. Untuk membuat akun, bursa biasanya memerlukan informasi pribadi seperti:
 
-    - full name
-    - address
-    - email address and phone number
-    - payment method (to fund your account)
+    - nama lengkap
+    - alamat
+    - alamat email dan nomor telepon
+    - metode pembayaran (untuk mendanai akun Anda)
     - dokumen yang mengidentifikasi identitas Anda (paspor, SIM, KTP, dll)
 
 Kami menyarankan untuk menyiapkan verifikasi 2FA untuk meningkatkan keamanan dan dana Anda. Biasanya diperlukan waktu beberapa menit hingga beberapa hari untuk aktivasi akun, tergantung pada bursa yang Anda pilih.
@@ -39,8 +39,8 @@ Kami menyarankan untuk menyiapkan verifikasi 2FA untuk meningkatkan keamanan dan
 ### Langkah 3 Membeli ADA
 
 1. Masuk ke akun bursa Anda.
-2. Select a Buy/Sell option, which is usually at the top menu.
-3. Click Buy, enter ADA (Cardano) as the cryptocurrency you wish to purchase.
+2. Pilih opsi Beli/Jual, yang biasanya ada di menu atas.
+3. Klik Beli, masukkan ADA (Cardano) sebagai mata uang kripto yang ingin Anda beli.
 4. Tunjukkan jumlah ada yang ingin Anda beli dan pilih metode pembayaran (apakah melalui transfer, kartu kredit atau debit) Setiap bursa akan menawarkan opsi yang tersedia, harap baca dengan cermat dan ikuti langkah-langkah yang diuraikan.
 5. Konfirmasi pembelian Anda. Anda biasanya harus mengonfirmasinya melalui email dan memasukkan kode 2FA (jika Anda telah menyiapkannya). Anda kemudian akan menerima ADA Anda di akun bursa.
 6. Tarik ADA ke wallet pribadi Anda. Jika ini adalah pertama kalinya Anda melakukan penarikan, coba dengan jumlah yang lebih kecil terlebih dahulu untuk memverifikasi bahwa semuanya berfungsi. Perhatikan bahwa sangat **tidak disarankan** untuk menyimpan ADA (atau mata uang kripto lainnya) di akun bursa. Untuk mentransfer ADA Anda, pilih opsi 'Tarik/Withdraw', masukkan atau paste alamat dompet Anda (yang Anda copy sebelumnya dari dompet Anda) dan submit pengiriman Anda.
