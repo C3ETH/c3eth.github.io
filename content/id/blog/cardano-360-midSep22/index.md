@@ -12,7 +12,7 @@ homepage: false
 
 ---
 
-Dipublikasikan pada tanggal 14 Aug 2022 <br/>
+Dipublikasikan pada tanggal 18 Sep 2022 <br/>
 Ditulis & disadur oleh andre cahyadi ([@prosperaan](https://forum.cardano.org/u/prosperaan)) <br/>
 Untuk komunitas Cardano Indonesia <br/>
 Referensi: [Cardano Vasil upgrade: the final mile. Mid Month Development Update - September 2022. - YouTube](https://www.youtube.com/watch?v=j0IKJXo-_Ro)
