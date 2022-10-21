@@ -1,23 +1,23 @@
 ---
-title : "Cardano Asia TikTok Channel"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+title: "Saluran TikTok Cardano Asia"
+lead: ''
+date: 2020-10-06 08:48:23 +0000
+lastmod: 2020-10-06 08:48:23 +0000
 draft: false
 images: []
 ---
 
 {{<  youtube W-Zm2VhrDmI >}}
 
-## Catalyst TV - Cardano Asia TikTok Channel
+## Catalyst TV - Saluran TikTok Cardano Asia
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/423145)
-- **Challenge:** Grow East Asia, Grow Cardano
-- **Requested Budget:** 16800
+- **Tantangan:** Tumbuhkan Asia Timur, Tumbuhkan Cardano
+- **Anggaran yang Diminta:** 16800
+- **Pengusul:** Tuan BukWei
 
-🌟 The rapidly increasing Asia community requires that Cardano documents and news be presented in a more reliable, understandable, and effective way in local Asian languages. We introduce Cardano Asia TikTok Channel focusing on optimizing the quality, reliability, and interesting content for the community.
+Komunitas Asia yang berkembang pesat mengharuskan dokumen dan berita Cardano disajikan dengan cara yang lebih andal, dapat dimengerti, dan efektif dalam bahasa lokal Asia. Kami memperkenalkan Cardano Asia TikTok Channel yang berfokus pada optimalisasi kualitas, keandalan, dan konten yang menarik bagi masyarakat.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-- [Tiktok Channel](https://www.tiktok.com/@cardano.asia)
-
+- [Saluran Tiktok](https://www.tiktok.com/@cardano.asia)
