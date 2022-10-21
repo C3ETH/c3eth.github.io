@@ -26,7 +26,7 @@
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
- <!-- Content on main page for English -->
+ <!-- Content on hero section for English -->
   {{ if eq $.Site.Language.LanguageName "English" }}
   <section class="section section-sm">
     <div class="container">
@@ -84,7 +84,7 @@
   </section>
   {{ end }}
 
-  <!-- Content on middle page for Vietnamese -->
+  <!-- Content on hero section for Vietnamese -->
   {{ if eq $.Site.Language.LanguageName "Tiếng Việt" }}
   <section class="section section-sm">
     <div class="container">
@@ -143,7 +143,7 @@
   {{ end }}
 
 
-<!-- Content on main page for Japanese -->
+<!-- Content on hero section for Japanese -->
 {{ if eq $.Site.Language.LanguageName "日本語" }}
 <section class="section section-sm">
   <div class="container">
@@ -262,17 +262,70 @@
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<!-- <section class="section section-sm container-fluid">
-  <div class="row justify-content-center text-center">
-    <div class="col-lg-9">
-      {{- .Content -}}
+
+<!-- Content on main page for Japan -->
+{{ if eq $.Site.Language.LanguageName "日本語" }}
+<section class="section section-md my-5">
+  <div class="text-center">
+    <div
+    style="
+    background-color: #FAEBD7;
+    padding: 5px 10px 10px 5px;
+    border-radius: 20px;
+    margin: 0 70px;" >
+      <h2>{{":high_brightness:" | emojify }} Our missions {{":high_brightness:" | emojify }}</h2>
+    </div>
+    </div>
+  <div class="container">
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":couple:" | emojify }}</p>
+        <h2 class="h4 mt-0">Partners in a wider community</h2>
+<p>Cardano Catalyst Community Eastern Townhall is helping to enable community members from a wide variety of countries and languages in the eastern timezones.</p>
+      </div>
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h4 mt-0">Creating the widest participation possible.</h2>
+<p>
+  We provide translated versions of Project Catalyst documentation, community-sourced documentation, and related proposals. We translate into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
+</p>
+</div>
+
+
     </div>
   </div>
-</section> -->
-<!-- <div class="alert alert-primary" role="alert">
-  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div> -->
+</section>
 
+<!-- Bi-weekly Meeting section -->
+<section style="margin-bottom: 20px;">
+  <div  class="text-center">
+    <!-- <div style="display: flex; justify-content: center; margin-bottom: 20px;" >
+   <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
+   border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
+  </div> -->
+  <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
+   border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
+<div style="font-size: 1.5rem; margin: 4rem 0;">
+  <p>
+    <span id="todaysDate"></span>
+    <span id="neighborhood"></span>
+    <span id="futureDate"></span>
+  </p>
+  <p>
+    <span id="followingWeek"></span>
+  </p>
+
+</div>
+    <a
+    class="btn btn-secondary btn-lg" style="background-color: wheat; border: none; color: #fe6601; margin: 10px; padding: 15px 20px; font-weight: bold;"
+    href="https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd" target="_blank">{{ ":point_right:" | emojify }} Zoom registration</a>
+
+  </div>
+</section>
+{{end}}
+
+
+<!-- Content on main page for English -->
 {{ if eq $.Site.Language.LanguageName "English" }}
 <section class="section section-md my-5">
   <div class="text-center">
@@ -300,15 +353,10 @@
 </p>
 </div>
 
-      <!-- <div class="col-lg-7">
-        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
-        <h2 class="h4 mt-0">Make Doks fully yours</h2>
-        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
-      </div> -->
+
     </div>
   </div>
 </section>
-
 
 <!-- Bi-weekly Meeting section -->
 <section style="margin-bottom: 20px;">
@@ -319,7 +367,7 @@
   </div> -->
   <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
    border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
-<div style="font-size: 20px;">
+<div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
     <span id="neighborhood"></span>
@@ -329,17 +377,154 @@
     <span id="followingWeek"></span>
   </p>
 
-    <script>
-        // calculate bi-weekly schedule
+</div>
+    <a
+    class="btn btn-secondary btn-lg" style="background-color: wheat; border: none; color: #fe6601; margin: 10px; padding: 15px 20px; font-weight: bold;"
+    href="https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd" target="_blank">{{ ":point_right:" | emojify }} Zoom registration</a>
+
+  </div>
+</section>
+{{end}}
+<!-- Content on main page for Indonesian -->
+{{ if eq $.Site.Language.LanguageName "Indonesian" }}
+<section class="section section-md my-5">
+  <div class="text-center">
+    <div
+    style="
+    background-color: #FAEBD7;
+    padding: 5px 10px 10px 5px;
+    border-radius: 20px;
+    margin: 0 70px;" >
+      <h2>{{":high_brightness:" | emojify }} Misi kami {{":high_brightness:" | emojify }}</h2>
+    </div>
+    </div>
+  <div class="container">
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":couple:" | emojify }}</p>
+        <h2 class="h4 mt-0">Partner - Partner</h2>
+<p>Komunitas Cardano Catalyst tidak hanya Eastern Town Hall saja, melainkan ada berbagai macam inisiatif yang lahir dari ide anggota komunitas.</p>
+<p>Beberapa komunitas atau kegiatan yang sudah terbentuk antara lain: Global Town Hall, Catalyst Swarm, Gimbalabs, Cardano 4 Climate, Catalyst Circle, dan Catalyst School.</p>
+</div>
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h4 mt-0">Menciptakan Partisipasi Komunitas yang seluas-luasnya</h2>
+<p>
+  Kami menyediakan terjemahan dari dokumentasi - dokumentasi Project Catalyst, dokumentasi komunitas, serta proposal - proposal terkait selama periode Catalyst Fund berlangsung.
+Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, khususnya di Asia Timur.
+</p>
+</div>
+      <!-- <div class="col-lg-7">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">Make Doks fully yours</h2>
+        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
+      </div> -->
+    </div>
+  </div>
+</section>
+<!-- Bi-weekly Meeting section -->
+<section style="margin-bottom: 20px;">
+  <div  class="text-center">
+    <!-- <div style="display: flex; justify-content: center; margin-bottom: 20px;" >
+   <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
+   border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
+  </div> -->
+  <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
+   border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
+<div style="font-size: 1.5rem; margin: 4rem 0;">
+  <p>
+    <span id="todaysDate"></span>
+    <span id="neighborhood"></span>
+    <span id="futureDate"></span>
+  </p>
+  <p>
+    <span id="followingWeek"></span>
+  </p>
+
+</div>
+    <a
+    class="btn btn-secondary btn-lg" style="background-color: wheat; border: none; color: #fe6601; margin: 10px; padding: 15px 20px; font-weight: bold;"
+    href="https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd" target="_blank">{{ ":point_right:" | emojify }} Zoom registration</a>
+
+  </div>
+</section>
+{{end}}
+
+<!-- Content on main page for Vietnamese -->
+{{ if eq $.Site.Language.LanguageName "Tiếng Việt" }}
+<section class="section section-md my-5">
+  <div class="text-center">
+    <div
+    style="
+    background-color: #FAEBD7;
+    padding: 5px 10px 10px 5px;
+    border-radius: 20px;
+    margin: 0 70px;" >
+      <h2>{{":high_brightness:" | emojify }} Nhiệm vụ của chúng tôi {{":high_brightness:" | emojify }}</h2>
+    </div>
+    </div>
+  <div class="container">
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":couple:" | emojify }}</p>
+        <h2 class="h4 mt-0">Đối tác trong một cộng đồng rộng lớn hơn</h2>
+<p>Trọng tâm cụ thể của nhóm là địa phương hoá nội dung của Cardano Catalyst và đào tạo để mở rộng cộng đồng nhất có thể.</p>
+<p>Cộng đồng Cardano Catalyst không chỉ là Tòa thị chính phía Đông, mà còn có nhiều sáng kiến ​​khác nhau ra đời từ ý tưởng của các thành viên trong cộng đồng.</p>
+</div>
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h4 mt-0">Tạo ra nhiều sự tham gia nhất có thể</h2>
+<p>
+  Chúng tôi cung cấp các bản phiên dịch của tài liệu Project Catalyst được đóng góp từ cộng đồng và các đề xuất liên quan, chủ yếu là các ngôn ngữ Đông Á.</p>
+  <p> Dự án Catalyst là một loạt các thử nghiệm tận dụng trí tuệ tập thể của Cộng đồng Catalyst để định hướng phát triển và phương hướng trong tương lai của hệ sinh thái Cardano.
+</p>
+</div>
+      <!-- <div class="col-lg-7">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">Make Doks fully yours</h2>
+        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
+      </div> -->
+    </div>
+  </div>
+</section>
+<!-- Bi-weekly Meeting section -->
+<section style="margin-bottom: 20px;">
+  <div  class="text-center">
+    <!-- <div style="display: flex; justify-content: center; margin-bottom: 20px;" >
+   <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
+   border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
+  </div> -->
+  <h2 style="background-color: #FAEBD7; margin: 10px 80px; padding: 30px;
+   border-radius: 20px;">{{ ":calendar:" | emojify }} Town Hall Bi-weekly meetings</h2>
+<div style="font-size: 1.5rem; margin: 4rem 0;">
+  <p>
+    <span id="todaysDate"></span>
+    <span id="neighborhood"></span>
+    <span id="futureDate"></span>
+  </p>
+  <p>
+    <span id="followingWeek"></span>
+  </p>
+
+</div>
+    <a
+    class="btn btn-secondary btn-lg" style="background-color: wheat; border: none; color: #fe6601; margin: 10px; padding: 15px 20px; font-weight: bold;"
+    href="https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd" target="_blank">{{ ":point_right:" | emojify }} Zoom registration</a>
+
+  </div>
+</section>
+{{end}}
+<script>
+  // calculate bi-weekly schedule
 function treatAsUTC(date) {
-  let result = new Date(date);
-  result.setMinutes(result.getMinutes() - result.getTimezoneOffset());
-  return result;
+let result = new Date(date);
+result.setMinutes(result.getMinutes() - result.getTimezoneOffset());
+return result;
 }
 
 function daysBetween(startDate, endDate) {
-  let millisecondsPerDay = 24 * 60 * 60 * 1000;
-  return Math.floor((treatAsUTC(endDate) - treatAsUTC(startDate)) / millisecondsPerDay);
+let millisecondsPerDay = 24 * 60 * 60 * 1000;
+return Math.floor((treatAsUTC(endDate) - treatAsUTC(startDate)) / millisecondsPerDay);
 }
 
 let demarcationdate = new Date("October 8, 2022 00:00:00"); // start date based on previously scheduled meeting week
@@ -372,7 +557,7 @@ let diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)); // convert that time to
 showTodaysDate.innerHTML= `Today is ${currentDate.toString()}` ;
 
 // show start date of next recycling week and days remaining, always on
-nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> ( ${daystill} day${((daystill != 1) ? "s" : "")} from now).`
+nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
 
 // conditionally show daily/weekly message
 if (diffDays >= 7) {
@@ -385,87 +570,5 @@ showFutureDate.innerHTML="there is <strong>no meeting</strong> scheduled for thi
 showNeighborhood.innerHTML = scheduleAllDays[scheduleCurrentDate.getDay()].neighborhood;
 }
 
-        </script>
-
-</div>
-
-    <a
-    class="btn btn-secondary btn-lg" style="background-color: wheat; border: none; color: #fe6601; margin: 10px;"
-    href="https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd" target="_blank">{{ ":point_right:" | emojify }} Zoom registration</a>
-
-
-  </div>
-</section>
-{{end}}
-
-<!-- Content on main page for Indonesian -->
-{{ if eq $.Site.Language.LanguageName "Indonesian" }}
-<section class="section section-md my-5">
-  <div class="row justify-content-center text-center">
-    <div style="background-color: #FAEBD7; border: 5px dotted #FF8C00; width: 500px;
-    height: auto; border-radius: 20px;" >
-      <h2>{{":high_brightness:" | emojify }} Misi kami {{":high_brightness:" | emojify }}</h2>
-    </div>
-    </div>
-  <div class="container">
-    <div class="row justify-content-center align-items-center text-center mt-lg-3">
-      <div class="col-lg-8">
-        <p class="fs-4 mt-4">{{ ":couple:" | emojify }}</p>
-        <h2 class="h4 mt-0">Partner - Partner</h2>
-<p>Komunitas Cardano Catalyst tidak hanya Eastern Town Hall saja, melainkan ada berbagai macam inisiatif yang lahir dari ide anggota komunitas.</p>
-<p>Beberapa komunitas atau kegiatan yang sudah terbentuk antara lain: Global Town Hall, Catalyst Swarm, Gimbalabs, Cardano 4 Climate, Catalyst Circle, dan Catalyst School.</p>
-</div>
-      <div class="col-lg-8">
-        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
-        <h2 class="h4 mt-0">Menciptakan Partisipasi Komunitas yang seluas-luasnya</h2>
-<p>
-  Kami menyediakan terjemahan dari dokumentasi - dokumentasi Project Catalyst, dokumentasi komunitas, serta proposal - proposal terkait selama periode Catalyst Fund berlangsung.
-Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, khususnya di Asia Timur.
-</p>
-</div>
-      <!-- <div class="col-lg-7">
-        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
-        <h2 class="h4 mt-0">Make Doks fully yours</h2>
-        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
-      </div> -->
-    </div>
-  </div>
-</section>
-{{end}}
-
-<!-- Content on main page for Indonesian -->
-{{ if eq $.Site.Language.LanguageName "Tiếng Việt" }}
-<section class="section section-md my-5">
-  <div class="row justify-content-center text-center">
-    <div style="background-color: #FAEBD7; border: 5px dotted #FF8C00; width: 550px;
-    height: auto; border-radius: 20px;" >
-      <h2>{{":high_brightness:" | emojify }} Nhiệm vụ của chúng tôi {{":high_brightness:" | emojify }}</h2>
-    </div>
-    </div>
-  <div class="container">
-    <div class="row justify-content-center align-items-center text-center mt-lg-3">
-      <div class="col-lg-8">
-        <p class="fs-4 mt-4">{{ ":couple:" | emojify }}</p>
-        <h2 class="h4 mt-0">Đối tác trong một cộng đồng rộng lớn hơn</h2>
-<p>Trọng tâm cụ thể của nhóm là địa phương hoá nội dung của Cardano Catalyst và đào tạo để mở rộng cộng đồng nhất có thể.</p>
-<p>Cộng đồng Cardano Catalyst không chỉ là Tòa thị chính phía Đông, mà còn có nhiều sáng kiến ​​khác nhau ra đời từ ý tưởng của các thành viên trong cộng đồng.</p>
-</div>
-      <div class="col-lg-8">
-        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
-        <h2 class="h4 mt-0">Tạo ra nhiều sự tham gia nhất có thể</h2>
-<p>
-  Chúng tôi cung cấp các bản phiên dịch của tài liệu Project Catalyst được đóng góp từ cộng đồng và các đề xuất liên quan, chủ yếu là các ngôn ngữ Đông Á.</p>
-  <p> Dự án Catalyst là một loạt các thử nghiệm tận dụng trí tuệ tập thể của Cộng đồng Catalyst để định hướng phát triển và phương hướng trong tương lai của hệ sinh thái Cardano.
-</p>
-</div>
-      <!-- <div class="col-lg-7">
-        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
-        <h2 class="h4 mt-0">Make Doks fully yours</h2>
-        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
-      </div> -->
-    </div>
-  </div>
-</section>
-{{end}}
-
+  </script>
 {{ end }}
