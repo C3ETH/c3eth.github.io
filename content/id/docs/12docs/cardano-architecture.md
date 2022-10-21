@@ -1,9 +1,9 @@
 ---
-title: Arsitektur Cardano
-description: Arsitektur Cardano
+title: "Arsitektur Cardano"
+description: "Arsitektur Cardano"
 lead: ''
-date: "06-10-2020 08:48:23 +0000"
-lastmod: "06-10-2020 08:48:23 +0000"
+date: 06-10-2020 08:48:23 +0000
+lastmod: 06-10-2020 08:48:23 +0000
 draft: false
 images: []
 ---
