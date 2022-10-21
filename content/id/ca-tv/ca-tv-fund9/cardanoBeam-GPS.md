@@ -1,13 +1,13 @@
 ---
-title: Cardano Beam   - Aset berbasis GPS
+title: Cardano Beam - Aset berbasis GPS
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+draft: false
 images: []
 ---
 
-{{&lt;  youtube K1pzEdY9njI &gt;}}
+{{<  youtube K1pzEdY9njI >}}
 
 ## Catalyst TV - Cardano Beam - Aset berbasis GPS
 
