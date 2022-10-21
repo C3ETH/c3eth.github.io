@@ -1,5 +1,5 @@
 ---
-title : "500+ ₳Community Sent to Conferences"
+title: "500+ ₳Community Sent to Conferences"
 description: "500+ ₳Community Sent to Conferences"
 lead: ""
 date: 2020-10-06T08:48:23+00:00
@@ -22,4 +22,3 @@ As a new Cardano dApp with a desire to grow quickly, we lack go-to-market resour
 ### Tracking links:
 
 -[Twitter](https://twitter.com/timbharrison/status/1535043082693283840)
-
