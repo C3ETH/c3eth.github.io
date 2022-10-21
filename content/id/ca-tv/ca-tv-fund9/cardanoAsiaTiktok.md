@@ -1,13 +1,13 @@
 ---
-title: Saluran TikTok Cardano Asia
+title: "Saluran TikTok Cardano Asia"
 lead: ''
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+draft: false
 images: []
 ---
 
-{{&lt;  youtube W-Zm2VhrDmI &gt;}}
+{{<  youtube W-Zm2VhrDmI >}}
 
 ## Catalyst TV - Saluran TikTok Cardano Asia
 
