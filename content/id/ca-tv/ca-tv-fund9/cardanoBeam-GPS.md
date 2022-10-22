@@ -1,24 +1,24 @@
 ---
-title : "Cardano Beam - GPS based Assets"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+title: "Cardano Beam - Aset berbasis GPS"
+lead: ''
+date: 2020-10-06 08:48:23 +0000
+lastmod: 2020-10-06 08:48:23 +0000
 draft: false
 images: []
 ---
 
 {{<  youtube K1pzEdY9njI >}}
 
-## Catalyst TV - Cardano Beam - GPS based Assets
+## Catalyst TV - Cardano Beam - Aset berbasis GPS
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/418245)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 155918
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Pengusul:** Dimitri
+- **Anggaran yang Diminta:** 155918
 
-🌟 The Ecosystem lack of a system to transfer NFTs placed at GPS coordinates as a reward for participating in community events and encouraging healthy behavior, DApp to place NFTs on a map using a web wallet and have users pick them up with a tracking app & wallet on their phone. Onboarding of non-crypto business and accepting fiat deposits via a fiat onramp.
+Ekosistem tidak memiliki sistem untuk mentransfer NFT yang ditempatkan di koordinat GPS sebagai hadiah untuk berpartisipasi dalam acara komunitas dan mendorong perilaku sehat, DApp untuk menempatkan NFT di peta menggunakan dompet web dan meminta pengguna mengambilnya dengan aplikasi &amp; dompet pelacakan di telepon mereka. Orientasi bisnis non-crypto dan menerima setoran fiat melalui onramp fiat.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-- <https://cardanobeam.app>
-- <https://play.google.com/store/apps/details?id=com.cardano_beam_native>
-
+- [https://cardanobeam.app](https://cardanobeam.app)
+- [https://play.google.com/store/apps/details?id=com.cardano_beam_native](https://play.google.com/store/apps/details?id=com.cardano_beam_native)
