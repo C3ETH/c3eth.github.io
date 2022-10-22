@@ -33,6 +33,13 @@ images: []
   - Quyền lợi khi trở thành dRep
   - Điều kiện để trở thành dRep 
 
+  - dRep là gì?
+  - Tại sao Quản trị Cardano cần có dRep
+  - dRep hoạt động như thế nào?
+  - Vai trò, nhiệm vụ của mỗi dRep
+  - Quyền lợi khi trở thành dRep
+  - Điều kiện để trở thành dRep
+
 - **Language**: Vietnamese
 
 - **Recording (if any)**: N/A
