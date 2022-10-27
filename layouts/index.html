@@ -308,7 +308,7 @@
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -370,7 +370,7 @@
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -434,7 +434,7 @@ Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, 
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -499,7 +499,7 @@ Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, 
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -527,9 +527,9 @@ let millisecondsPerDay = 24 * 60 * 60 * 1000;
 return Math.floor((treatAsUTC(endDate) - treatAsUTC(startDate)) / millisecondsPerDay);
 }
 
-let demarcationdate = new Date("October 8, 2022 00:00:00"); // start date based on previously scheduled meeting week
+let demarcationdate = new Date("October 22, 2022 00:00:00"); // start date based on previously scheduled meeting week
 let showTodaysDate = document.getElementById('todaysDate');
-let showNeighborhood = document.getElementById('neighborhood');
+// let showNeighborhood = document.getElementById('neighborhood');
 let showFutureDate = document.getElementById('futureDate');
 let nextWeekBegins = document.getElementById('followingWeek');
 let monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -559,16 +559,20 @@ showTodaysDate.innerHTML= `Today is ${currentDate.toString()}` ;
 // show start date of next recycling week and days remaining, always on
 nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
 
-// conditionally show daily/weekly message
-if (diffDays >= 7) {
-
-// if it is not a recycling week, show the start date of the following recycling week
-showFutureDate.innerHTML="there is <strong>no meeting</strong> scheduled for this week.";
-
-} else {
-// if it is a recycling week, show scheduled neighborhood
-showNeighborhood.innerHTML = scheduleAllDays[scheduleCurrentDate.getDay()].neighborhood;
+const meetingDates= [22,5,19,11,3,17,14,28,25]
+const a = date1.getDate()
+//display daily message for meeting
+for(let i =0; i< meetingDates.length; i++){
+  if(a === meetingDates[i]){
+    showTodaysDate.innerHTML= `Today is ${currentDate.toString()}, we have meeting today. Join us` ;
+  }else{
+    showTodaysDate.innerHTML= `Today is ${currentDate.toString()}. <br/>  There is <strong>no meeting</strong> scheduled for this week.` ;
+  }
 }
-
+// var results = meetingDates.filter(function (item) {
+//   if (item === a){
+//      showTodaysDate.innerHTML= `Today is ${currentDate.toString()}, we have meeting today` ;
+//   }
+// });;
   </script>
 {{ end }}
