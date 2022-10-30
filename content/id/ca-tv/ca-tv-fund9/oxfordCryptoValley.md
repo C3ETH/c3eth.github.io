@@ -1,26 +1,26 @@
 ---
-title : "Oxford crypto valley: Cardano house"
-description: "Oxford crypto valley: Cardano house"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: 'Lembah crypto Oxford: Rumah Cardano'
+description: 'Lembah crypto Oxford: Rumah Cardano'
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube CCo8YJAlD-Y >}}
+{{&lt;  youtube CCo8YJAlD-Y &gt;}}
 
-## Catalyst TV - Oxford crypto valley: Cardano house
+## Catalyst TV - Lembah crypto Oxford: Rumah Cardano
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/422247)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 98000
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Pengusul:** Mr Alex &amp; Mr Simon
+- **Anggaran yang Diminta:** 98000
 
-👉  Cardano needs more world-class contributors working on protocol public goods. Cardano lacks integration and partnerships with other blockchain protocols, crypto VCs and the associated talent pools. Therefore, Establish a Cardano hacker house in the HomeDAO Oxford Crypto Valley alongside other major protocol and VC houses. Talented entrepreneur student tenants contribute to the ecosystem 25% of their time is a great solution.
+Cardano membutuhkan lebih banyak kontributor kelas dunia yang mengerjakan barang publik protokol. Cardano tidak memiliki integrasi dan kemitraan dengan protokol blockchain lainnya, VC kripto, dan kumpulan bakat terkait. Oleh karena itu, bangun rumah peretas Cardano di HomeDAO Oxford Crypto Valley bersama protokol utama dan rumah VC lainnya. Penyewa mahasiswa wirausaha berbakat berkontribusi pada ekosistem 25% dari waktu mereka adalah solusi yang bagus.
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://medium.com/@HomeDAO/launching-crypto-village-oxford-aka-paypalmafiadao-a-homedao-production-4213c5bc57ed>
-- <https://docsend.com/view/haw42wz886p42nqd>
-- <https://twitter.com/homedao_live>
-
+- [https://medium.com/@HomeDAO/launching-crypto-village-oxford-aka-paypalmafiadao-a-homedao-production-4213c5bc57ed](https://medium.com/@HomeDAO/launching-crypto-village-oxford-aka-paypalmafiadao-a-homedao-production-4213c5bc57ed)
+- [https://docsend.com/view/haw42wz886p42nqd](https://docsend.com/view/haw42wz886p42nqd)
+- [https://twitter.com/homedao_live](https://twitter.com/homedao_live)
