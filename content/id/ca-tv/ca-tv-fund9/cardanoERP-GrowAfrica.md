@@ -1,28 +1,25 @@
 ---
-title : "Cardano ERP - Grow Africa "
-description: "Cardano ERP - Grow Africa "
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Cardano ERP   - Tumbuhkan Afrika
+description: Cardano ERP   - Tumbuhkan Afrika
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube YY4hULQZyTc >}}
+{{&lt;  youtube YY4hULQZyTc &gt;}}
 
-## Catalyst TV - Cardano ERP - Grow Africa
+## Catalyst TV - Cardano ERP - Tumbuhkan Afrika
 
-Cardano needs more developers from Africa to participate in Emurgo Academy training and developing enterprise-grade products on the Cardano blockchain. Cardano needs more developers from Africa to participate in Emurgo Academy training and developing enterprise-grade products on the Cardano blockchain.
+Cardano membutuhkan lebih banyak pengembang dari Asia untuk berpartisipasi dalam pelatihan Emurgo Academy dan mengembangkan produk tingkat perusahaan di blockchain Cardano. Dana yang diminta akan digunakan untuk menutupi biaya pelatihan Emurgo Academy untuk pengembang berpengalaman yang tinggal di Asia.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/420496)
-- **Proposer:** Cardano ERP
-- **Requested Budget:** 23700
+- **Tantangan** : Tumbuhkan Asia Timur, Tumbuhkan Cardano
+- **Pengusul:** Tuan Jay
+- **Anggaran yang Diminta:** 47400
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://cerp.dev>
-- <https://vimeo.com/695045590/f388d90666>
-
-
-
-
+- [https://cerp.dev](https://cerp.dev)
+- [https://vimeo.com/695045590/f388d90666](https://vimeo.com/695045590/f388d90666)
