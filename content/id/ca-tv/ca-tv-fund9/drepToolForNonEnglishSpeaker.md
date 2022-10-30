@@ -1,20 +1,19 @@
 ---
-title : "dRep tool for non-English speakers"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Alat dRep untuk penutur non-Inggris
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube HBQhezpPbE0 >}}
+{{&lt;  youtube HBQhezpPbE0 &gt;}}
 
-## Catalyst TV - dRep tool for non-English speakers
+## Catalyst TV - alat dRep untuk penutur non-Inggris
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414969)
-- **Challenge:** dRep improvement and onboarding
-- **Requested Budget:** 26500
+- **Tantangan:** peningkatan dRep dan orientasi
+- **Anggaran yang Diminta:** 26500
+- **Pengusul:** Mz Hong Ha
 
-🌟 The busy dReps in non-English communities don't have enough time and language skills to select and vote on the right proposals. This affects the efficiency of voting delegation. We propose to create a searchable tool for dRep use and save time. It contains the proposal summary’s content and review in 3 languages: English, Japanese, and Vietnamese.
-
-
+DRep yang sibuk di komunitas non-Inggris tidak memiliki cukup waktu dan keterampilan bahasa untuk memilih dan memberikan suara pada proposal yang tepat. Hal ini mempengaruhi efisiensi delegasi pemungutan suara. Kami mengusulkan untuk membuat alat yang dapat dicari untuk penggunaan dRep dan menghemat waktu. Ini berisi konten dan ulasan ringkasan proposal dalam 3 bahasa: Inggris, Jepang, dan Vietnam.
