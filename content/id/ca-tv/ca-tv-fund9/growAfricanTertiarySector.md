@@ -1,21 +1,21 @@
 ---
-title : "Growing The African Tertiary Sector"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Menumbuhkan Sektor Tersier Afrika
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube oy2yqVaaO0w >}}
+{{&lt;  youtube oy2yqVaaO0w &gt;}}
 
-## Catalyst TV - Growing The African Tertiary Sector
+## Catalyst TV - Menumbuhkan Sektor Tersier Afrika
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414939)
-- **Challenge:** Grow Africa, Grow Cardano
-- **Requested Budget:** 17600
+- **Tantangan:** Tumbuhkan Afrika, Tumbuhkan Cardano
+- **Anggaran yang Diminta:** 17600
+- **Pengusul:** Tuan Nana Safo
 
-The Cardano ecosystem and Project Catalyst are gradually evolving in Africa. However, the adoption rate in the African tertiary sector is very minimal and thus needs to be uplifted, but how?
-Diversify the Cardano and Project Catalyst adoption rates in the African tertiary sector through a series of online workshops for university students, developers, and instructors.
+Ekosistem Cardano dan Project Catalyst berkembang secara bertahap di Afrika. Namun, tingkat adopsi di sektor tersier Afrika sangat minim dan dengan demikian perlu ditingkatkan, tetapi bagaimana caranya?
 
-
+Diversifikasi tingkat adopsi Cardano dan Project Catalyst di sektor tersier Afrika melalui serangkaian lokakarya online untuk mahasiswa, pengembang, dan instruktur.
