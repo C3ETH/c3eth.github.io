@@ -1,26 +1,27 @@
 ---
-title : "Proof of Impact NFTs for SPOs"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: NFT Berdampak untuk SPO
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube Auo1QvmG8io >}}
+{{&lt;  youtube Auo1QvmG8io &gt;}}
 
-## Catalyst TV - Proof of Impact NFTs for SPOs
+## Catalyst TV - NFT Berdampak untuk SPO
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/419324)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 19850
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 1950
+- **Pengusul:** Tuan Michele
 
-🌟 SPOs focusing on creating positive social and environmental impact struggle to attract delegators, and to keep them engaged. Delegators who delegate to mission driven pools receive a Proof of Impact NFT. The NFT is dynamic. Its characteristics change in real time to display the positive impact created.
+SPO yang berfokus pada menciptakan dampak sosial dan lingkungan yang positif berjuang untuk menarik delegator, dan membuat mereka tetap terlibat. Delegator yang mendelegasikan ke kumpulan yang digerakkan oleh misi menerima NFT Berdampak. NFT bersifat dinamis. Karakteristiknya berubah secara real time untuk menampilkan dampak positif yang tercipta.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-<https://impactscope.com>
+[https://impactscope.com](https://impactscope.com)
 
-<https://github.com/regodo>
+[https://github.com/regodo](https://github.com/regodo)
 
-<https://github.com/ImpactScope-organization>
+[https://github.com/ImpactScope-organization](https://github.com/ImpactScope-organization)
