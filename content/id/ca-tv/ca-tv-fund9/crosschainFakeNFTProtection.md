@@ -1,23 +1,24 @@
 ---
-title : "Cross-Chain Fake NFT Protection"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Perlindungan NFT Palsu Lintas Rantai
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube lSZhIOlR_Fk >}}
+{{&lt;  youtube lSZhIOlR_Fk &gt;}}
 
-## Catalyst TV - Cross-Chain Fake NFT Protection
+## Catalyst TV - Perlindungan NFT Palsu Lintas Rantai
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414165)
-- **Challenge:** The Great Migration (from Ethereum)
-- **Requested Budget:** 51250
+- **Tantangan:** Migrasi Hebat (dari Ethereum)
+- **Pengusul:** Tuan Gianni &amp; Anthony
+- **Anggaran yang Diminta:** 51250
 
-🌟 Ethereum's NFT ecosystem is struggling from a lack of trust due to plagiarism, counterfeits and scams, and Cardano's NFT ecosystem is starting to experience more of these same problems. Build a cross-chain, AI/ML-powered, asset & IP protection service for Cardano and Ethereum NFTs, and market the service's availability on Cardano to Ethereum, NFT project owners and collectors.
+Ekosistem NFT Ethereum berjuang dari kurangnya kepercayaan karena plagiarisme, pemalsuan, dan penipuan, dan ekosistem NFT Cardano mulai mengalami lebih banyak masalah yang sama ini. Bangun layanan lintas rantai, bertenaga AI/ML, aset &amp; perlindungan IP untuk Cardano dan Ethereum NFT, dan pasarkan ketersediaan layanan di Cardano ke Ethereum, pemilik dan kolektor proyek NFT.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [ArgusNFT website](https://argusnft.com/)
 - [ArgusNFT Fund9 Catalyst Proposals](https://linktr.ee/arguscatalyst)
