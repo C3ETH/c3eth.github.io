@@ -1,25 +1,25 @@
 ---
-title : "Empowering Collabs Through Hubs"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Memberdayakan Kolaborasi Melalui Hub
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube P0ap7cEmqww >}}
+{{&lt;  youtube P0ap7cEmqww &gt;}}
 
-## Catalyst TV - Empowering Collabs Through Hubs
+## Catalyst TV - Memberdayakan Kolaborasi Melalui Hub
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/421804)
-- **Challenge:** Cross-Chain Collaboration
-- **Requested Budget:** 30250
+- **Tantangan:** Kolaborasi Lintas Rantai
+- **Anggaran yang Diminta:** 30250
+- **Pengusul:** Tuan Alex dan Tuan Lucas
 
-🌟 There aren't proper digital bridges between different Blockchain Communities to collaborate with one another. Create powerful collaborations with other Blockchains at a local level in Latin America. Spreading Cardano´s vision through the region while collaborating with other communities
+Tidak ada jembatan digital yang tepat antara Komunitas Blockchain yang berbeda untuk berkolaborasi satu sama lain. Buat kolaborasi yang kuat dengan Blockchains lain di tingkat lokal di Amerika Latin. Menyebarkan visi Cardano ke seluruh wilayah sambil berkolaborasi dengan komunitas lain
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-<https://linktr.ee/latamcardano>
+[https://linktr.ee/latamcardano](https://linktr.ee/latamcardano)
 
-<https://catalyst-swarm.gitbook.io/latam-cardano-community>
-
+[https://catalyst-swarm.gitbook.io/latam-cardano-community](https://catalyst-swarm.gitbook.io/latam-cardano-community)
