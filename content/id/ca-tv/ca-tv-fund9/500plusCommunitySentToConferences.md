@@ -16,7 +16,7 @@ Sebagai dApp Cardano baru dengan keinginan untuk tumbuh dengan cepat, kami kekur
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/413992)
 - **Pengusul:** Ninh Tran dari SnapBrillia
-- **Challenge**: Dapps, Products &amp; Integrations
+- **Tantangan** : Dapps, Produk &amp; Integrasi
 - **Anggaran yang Diminta:** 420000
 
 ### Tautan pelacakan:
