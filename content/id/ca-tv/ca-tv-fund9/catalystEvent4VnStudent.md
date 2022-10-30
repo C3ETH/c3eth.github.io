@@ -1,25 +1,24 @@
 ---
-title : "Catalyst Events 4 Vietnam Students"
-description: ""
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Acara Catalyat untuk Siswa Vietnam
+description: ''
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube Hf8YVPpIxPI >}}
+{{&lt;  youtube Hf8YVPpIxPI &gt;}}
 
-## Catalyst TV -Catalyst Events 4 Vietnam Students
+## Catalyst TV -Acara Catalyst untuk Siswa Vietnam
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/418484)
-- **Challenge:** Grow East Asia, Grow Cardano
-- **Requested Budget:** 33040
+- **Tantangan:** Tumbuhkan Asia Timur, Tumbuhkan Cardano
+- **Anggaran yang Diminta:** 33040
+- **Pengusul:** Tuan Quyen
 
-Many Vietnam University students are unaware of Project Catalyst's funding campaigns and the opportunities which are existing. Organize virtual or onsite sharing events about Cardano and Catalyst project for students. Connect, motivate and support students to participate in Catalyst.
+Banyak mahasiswa Universitas Vietnam tidak mengetahui kampanye pendanaan Project Catalyst dan peluang yang ada. Atur acara berbagi virtual atau di tempat tentang proyek Cardano dan Catalyst untuk siswa. Hubungkan, memotivasi dan mendukung siswa untuk berpartisipasi dalam Catalyst.
 
-
-### Tracking links:
+### Tautan berkaitan:
 
 - [Website](https://cardano2vn.io)
-
