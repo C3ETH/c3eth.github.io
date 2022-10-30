@@ -1,28 +1,25 @@
 ---
-title : "Cardano ERP - Main Project"
-description: "Cardano ERP - Main Project"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Cardano ERP   - Proyek Utama
+description: Cardano ERP   - Proyek Utama
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube JHpyg97A3_E >}}
+{{&lt;  youtube JHpyg97A3_E &gt;}}
 
-## Catalyst TV - Cardano ERP - Main Project
+## Catalyst TV - Cardano ERP - Proyek Utama
 
-There is no intelligent, open-source, Cardano-native ERP system to provide for seamless integration of, and optimized standard user experience for, business, enterprise, and government-focused dApps. Cardano ERP will provide for seamless integration of, and optimized user experience for, business, enterprise, and government focused dApps via an open-source, standardized modular solution.
+Tidak ada sistem ERP yang cerdas, open-source, Cardano-native untuk menyediakan integrasi tanpa batas, dan pengalaman pengguna standar yang dioptimalkan untuk, bisnis, perusahaan, dan dApps yang berfokus pada pemerintah. Cardano ERP akan menyediakan integrasi tanpa batas dari, dan pengalaman pengguna yang dioptimalkan untuk dApps yang berfokus pada bisnis, perusahaan, dan pemerintah melalui solusi modular standar sumber terbuka.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417652)
-- **Proposer:** Cardano ERP
-- **Requested Budget:** 491400
+- **Pengusul:** Tuan Jay
+- **Anggaran yang Diminta:** 491400
 
-Support the team by voting for this proposal, leave a comment for the proposer if any doubt cross your mind!!!!
+Dukung tim dengan memilih proposal ini, tinggalkan komentar untuk pengusul jika ada keraguan yang terlintas di benak Anda!!!!
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://cerp.dev>
-
-
-
+- [https://cerp.dev](https://cerp.dev)
