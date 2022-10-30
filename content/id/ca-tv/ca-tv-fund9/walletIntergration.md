@@ -1,23 +1,23 @@
 ---
-title : "Wallet Integration"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Integrasi Dompet
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube 8lI12foWxCE >}}
+{{&lt;  youtube 8lI12foWxCE &gt;}}
 
-## Catalyst TV - Wallet Integration
+## Catalyst TV - Integrasi Dompet
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/422940)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 46000
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 46000
+- **Pengusul:** Mr Justin &amp; Mz Marcela
 
-🌟 Goodwall constantly sends out monetary prizes to youth. It’s a burden to send out bank payments internationally and a lot of the fintech options can be cost prohibitive. Goodwall will integrate with the Yoroi wallet for web and mobile, allowing for instant payouts of ADA. Users who are awarded a prize will only need to enter their wallet ID to relieve payments.
+Goodwall terus-menerus mengirimkan hadiah uang kepada kaum muda. Mengirimkan pembayaran bank secara internasional merupakan beban dan banyak opsi fintek dapat menjadi penghalang biaya. Goodwall akan terintegrasi dengan dompet Yoroi untuk web dan seluler, memungkinkan pembayaran instan ADA. Pengguna yang diberikan hadiah hanya perlu memasukkan ID dompet mereka untuk meringankan pembayaran.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [Webiste](https://www.goodwall.io)
-
