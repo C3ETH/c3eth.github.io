@@ -1,23 +1,24 @@
 ---
-title : "Plutus Video Sub for Vietnam Devs"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Plutus Video Sub untuk Vietnam Devs
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube lIt6fbHOSSM >}}
+{{&lt;  youtube lIt6fbHOSSM &gt;}}
 
-## Catalyst TV - Plutus Video Sub for Vietnam Devs
+## Catalyst TV - Plutus Video Sub untuk Vietnam Devs
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414111)
-- **Challenge:** Developer Ecosystem
-- **Requested Budget:** 13900
+- **Tantangan:** Ekosistem Pengembang
+- **Anggaran yang Diminta:** 13900
+- **Pengusul:** Pak Do
 
-🌟 The scarcity of documentation on the Plutus programming language in Vietnamese makes it difficult for talented developers in Vietnam to access Cardano's resources. The team will translate IOHK's pioneering Plutus course videos into documents for Vietnamese developers to easily access and learn. Forming a team of developers using the Plutus. programming language
+Kelangkaan dokumentasi tentang bahasa pemrograman Plutus dalam bahasa Vietnam mempersulit pengembang berbakat di Vietnam untuk mengakses sumber daya Cardano. Tim akan menerjemahkan video kursus Plutus perintis IOHK ke dalam dokumen untuk diakses dan dipelajari oleh pengembang Vietnam dengan mudah. Membentuk tim pengembang menggunakan bahasa pemrograman Plutus.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [FIMI ADA](https://fimi.vn/ada)
 - [FIMI DEVs](https://t.me/FimiDev)
