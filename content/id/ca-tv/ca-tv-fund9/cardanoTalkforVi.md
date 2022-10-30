@@ -1,23 +1,24 @@
 ---
-title : "CardanoTalk for Vietnamese"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: CardanoTalk untuk bahasa Vietnam
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube mVnUoWWbVSI >}}
+{{&lt;  youtube mVnUoWWbVSI &gt;}}
 
-## Catalyst TV - CardanoTalk for Vietnamese
+## Catalyst TV - CardanoTalk untuk bahasa Vietnam
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414099)
-- **Challenge:** Grow East Asia, Grow Cardano
-- **Requested Budget:** 15000
+- **Tantangan:** Tumbuhkan Asia Timur, Tumbuhkan Cardano
+- **Anggaran yang Diminta:** 15000
+- **Pengusul:** Pak Do
 
-🌟 Cardano users in Vietnam are looking forward to more talk shows so they can stay up to date with the news and get their questions answered about Cardano. The team will build a rewarding mechanism to encourage members to find out the news, documents of Cardano, then present them to the community.
+Pengguna Cardano di Vietnam menantikan lebih banyak acara bincang-bincang sehingga mereka dapat tetap mengikuti berita dan mendapatkan jawaban atas pertanyaan mereka tentang Cardano. Tim akan membangun mekanisme penghargaan untuk mendorong anggota mengetahui berita, dokumen Cardano, kemudian mempresentasikannya ke komunitas.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [FIMI ADA](https://fimi.vn/ada)
 - [Youtube](https://youtu.be/cpQFxhdZ-mc)
