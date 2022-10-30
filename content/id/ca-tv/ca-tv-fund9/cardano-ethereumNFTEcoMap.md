@@ -1,26 +1,25 @@
 ---
-title : "Cardano/Ethereum NFT Ecosystems Map"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Peta Ekosistem NFT Cardano/Ethereum
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube zR_Ejgw-xLw >}}
+{{&lt;  youtube zR_Ejgw-xLw &gt;}}
 
-## Catalyst TV - Cardano/Ethereum NFT Ecosystems Map
+## Catalyst TV - Peta Ekosistem NFT Cardano/Ethereum
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414170)
-- **Challenge:** Cross-Chain Collaboration
-- **Requested Budget:** 40900
+- **Tantangan:** Kolaborasi Lintas Rantai
+- **Anggaran yang Diminta:** 40900
+- **Pengusul:** Tuan Anthony dan Tuan Giovanni
 
-We lack visual tools and research on the relationships between the Ethereum and Cardano NFT Ecosystems. What's similar between them? Which projects are most innovative? Where do we go from here? An open source, interactive, planetair-based map of key projects in the Ethereum and Cardano NFT Ecosystems, and corresponding research report on related and unique projects in both ecosystems.
+Kami kekurangan alat visual dan penelitian tentang hubungan antara Ekosistem NFT Ethereum dan Cardano. Apa yang mirip di antara mereka? Proyek mana yang paling inovatif? Ke mana kita pergi dari sini? Sebuah open source, interaktif, peta berbasis planetair dari proyek-proyek utama di Ethereum dan Cardano NFT Ecosystems, dan laporan penelitian terkait pada proyek-proyek terkait dan unik di kedua ekosistem.
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://argusnft.com>
-- <https://catalystswarm.com>
-- <https://nft-guild.io>
-
-
+- [https://argusnft.com](https://argusnft.com)
+- [https://catalystswarm.com](https://catalystswarm.com)
+- [https://nft-guild.io](https://nft-guild.io)
