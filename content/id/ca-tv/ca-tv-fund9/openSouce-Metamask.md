@@ -1,28 +1,26 @@
 ---
-title : "OpenSource MetaMask - ₳ Integration"
-description: "OpenSource MetaMask - ₳ Integration"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: OpenSource MetaMask   - Integrasi
+description: OpenSource MetaMask   - Integrasi
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube 2uBg-yz00q4 >}}
+{{&lt;  youtube 2uBg-yz00q4 &gt;}}
 
-## Catalyst TV - OpenSource MetaMask - ₳ Integration
+## Catalyst TV - OpenSource MetaMask - Integrasi
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414001)
-- **Proposer:** Ninh Tran from SnapBrillia
-- **Requested Budget:** 80000
+- **Pengusul:** Ninh Tran dari SnapBrillia
+- **Anggaran yang Diminta:** 80000
 
-Metamask is the most popular Web3 wallet and Cardano dApps don't have an easy and an Open-Source plug-in that they can easily add to their website to receive, send, and fund user activities using ETH. Open-Source Metamask & Cardano integration allows 55 million monthly active wallets to easily send, receive, and drive adoption & traction on Cardano dApps and projects to accept ETH and receive ₳DA.
+Integrasi Metamask &amp; Cardano Open-Source memungkinkan 55 juta dompet aktif bulanan untuk dengan mudah mengirim, menerima, dan mendorong adopsi &amp; traksi pada dApps dan proyek Cardano untuk menerima ETH dan menerima ADA.
 
-See the team's other proposals: <https://linktr.ee/votesnapbrillia>
+Lihat proposal tim lainnya: [https://linktr.ee/votesnapbrillia](https://linktr.ee/votesnapbrillia)
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://github.com/WalletConnect>
-- <https://github.com/snapbrillia>
-
-
+- [https://github.com/WalletConnect](https://github.com/WalletConnect)
+- [https://github.com/snapbrillia](https://github.com/snapbrillia)
