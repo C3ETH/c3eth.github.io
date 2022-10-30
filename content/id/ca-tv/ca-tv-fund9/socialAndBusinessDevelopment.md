@@ -1,29 +1,30 @@
 ---
-title : "Social and Business Development"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+title: Pengembangan Sosial dan Bisnis
+lead: ''
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{<  youtube sg8pkSisHaw >}}
+{{&lt;  youtube sg8pkSisHaw &gt;}}
 
-## Catalyst TV - Social and Business Development
+## Catalyst TV - Pengembangan Sosial dan Bisnis
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/416449)
-- **Challenge:** Fund10 challenge setting
+- **Tantangan:** Pengaturan tantangan Fund10
+- **Pengusul:** Tuan Thi Ha
 
-🌟 Vote for this challenge Setting after learning the below meaningful brief.
+Pilih tantangan ini Pengaturan setelah mempelajari ringkasan yang bermakna di bawah ini.
 
-### Why is it important?
+### Mengapa itu penting?
 
-Social impact and practical application are the golden keys to increasing the trust and popularity of Cardano Blockchain.
+Dampak sosial dan aplikasi praktis adalah kunci emas untuk meningkatkan kepercayaan dan popularitas Cardano Blockchain.
 
-### What does success look like?
+### Seperti apa kesuksesan itu?
 
-Countries and enterprises want to cooperate with Cardano as a sponsor of solutions that contribute to social development and business.
+Negara dan perusahaan ingin bekerja sama dengan Cardano sebagai sponsor solusi yang berkontribusi pada pengembangan sosial dan bisnis.
 
-### Challenge brief
+### Tantangan singkat
 
-The "Social and Business Development" challenge sponsors initiatives and ideas for real business and social development. This will help countries and enterprises better understand Blockchain, and see the impact and importance of Cardano Blockchain to society and the economy.
+Tantangan "Pengembangan Sosial dan Bisnis" mensponsori inisiatif dan ide untuk pengembangan bisnis dan sosial yang nyata. Ini akan membantu negara dan perusahaan lebih memahami Blockchain, dan melihat dampak dan pentingnya Cardano Blockchain bagi masyarakat dan ekonomi.
