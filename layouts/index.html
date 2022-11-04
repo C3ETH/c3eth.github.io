@@ -559,14 +559,14 @@ showTodaysDate.innerHTML= `Today is ${currentDate.toString()}` ;
 // show start date of next recycling week and days remaining, always on
 nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
 
-const meetingDates= [22,5,19,11,3,17,14,28,25]
+const meetingDates= [22,5,11,3,17,14,28,25]
 const a = date1.getDate()
 //display daily message for meeting
 for(let i =0; i< meetingDates.length; i++){
   if(a === meetingDates[i]){
     showTodaysDate.innerHTML= `Today is ${currentDate.toString()}, we have meeting today. Join us` ;
   }else{
-    showTodaysDate.innerHTML= `Today is ${currentDate.toString()}. <br/>  There is <strong>no meeting</strong> scheduled for this week.` ;
+    showTodaysDate.innerHTML= `There is <strong>no meeting</strong> scheduled today.` ;
   }
 }
 // var results = meetingDates.filter(function (item) {
