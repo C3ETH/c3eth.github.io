@@ -10,6 +10,89 @@
     font-family: 'Montserrat', sans-serif;
 
   }
+  /* span {
+    margin: 0;
+    padding-bottom: 1rem;
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 1;
+    font-size: 2rem;
+    text-transform: uppercase;
+    animation: glow 2s ease-in-out infinite alternate;
+    text-align: center;
+  }
+
+
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 20px #2d9da9;
+    }
+    to {
+      text-shadow: 0 0 30px #34b3c1, 0 0 10px #4dbbc7;
+    }
+  } */
+  h3 {
+  font-size: 2rem;
+  line-height: calc(20px + 20vh);
+/*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+    0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
+  color: #fccaff; */
+  text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff4800, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #fff6a9;
+  /* font-family: "Sacramento", cursive; */
+  text-align: center;
+  animation: blink 12s infinite;
+  -webkit-animation: blink 12s infinite;
+}
+
+@-webkit-keyframes blink {
+  20%,
+  24%,
+  55% {
+    color: #111;
+    text-shadow: none;
+  }
+
+  0%,
+  19%,
+  21%,
+  23%,
+  25%,
+  54%,
+  56%,
+  100% {
+/*     color: #fccaff;
+    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
+  text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #fff6a9;
+  }
+}
+
+@keyframes blink {
+  20%,
+  24%,
+  55% {
+    color: #111;
+    text-shadow: none;
+  }
+
+  0%,
+  19%,
+  21%,
+  23%,
+  25%,
+  54%,
+  56%,
+  100% {
+/*     color: #fccaff;
+    text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
+      0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092; */
+  text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #fff6a9;
+  }
+}
+
 </style>
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
@@ -308,7 +391,7 @@
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -370,7 +453,7 @@
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -434,7 +517,7 @@ Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, 
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -499,7 +582,7 @@ Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, 
 <div style="font-size: 1.5rem; margin: 4rem 0;">
   <p>
     <span id="todaysDate"></span>
-    <span id="neighborhood"></span>
+    <!-- <span id="neighborhood"></span> -->
     <span id="futureDate"></span>
   </p>
   <p>
@@ -515,6 +598,9 @@ Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, 
 </section>
 {{end}}
 <script>
+
+
+
   // calculate bi-weekly schedule
 function treatAsUTC(date) {
 let result = new Date(date);
@@ -527,9 +613,9 @@ let millisecondsPerDay = 24 * 60 * 60 * 1000;
 return Math.floor((treatAsUTC(endDate) - treatAsUTC(startDate)) / millisecondsPerDay);
 }
 
-let demarcationdate = new Date("October 8, 2022 00:00:00"); // start date based on previously scheduled meeting week
+let demarcationdate = new Date("October 22, 2022 00:00:00"); // start date based on previously scheduled meeting week
 let showTodaysDate = document.getElementById('todaysDate');
-let showNeighborhood = document.getElementById('neighborhood');
+// let showNeighborhood = document.getElementById('neighborhood');
 let showFutureDate = document.getElementById('futureDate');
 let nextWeekBegins = document.getElementById('followingWeek');
 let monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -540,35 +626,46 @@ let daystill = 14 - days%14;
 let rec = days%14==0;
 let d = new Date();
 
+
 // add remaining days to current date to get next meeting week start date
-d.setDate(today.getDate() + daystill);
+d.setDate(today.getUTCDate() + daystill);
 
 // format dates to make them easy to read
-let currentDate = (dayNames[today.getDay()] + ", " +  today.getDate() + " " +  monthNames[today.getMonth()] + ", " +  today.getFullYear());
-let nextDate = (dayNames[d.getDay()] + ", " +  d.getDate() + " " +  monthNames[d.getMonth()]);
+let currentDate = (dayNames[today.getUTCDay()] + ", " +  today.getUTCDate() + " " +  monthNames[today.getUTCMonth()] + ", " +  today.getUTCFullYear());
+let nextDate = (dayNames[d.getUTCDay()] + ", " +  d.getUTCDate() + " " +  monthNames[d.getUTCMonth()]);
 
 // Conditional display rules
 let date1 = new Date(today); // today's date
 let date2 = new Date(d); // day next recycling week starts
-let timeDiff = Math.abs(date2.getTime() - date1.getTime()); // caluclate time between two dates
+let timeDiff = Math.abs(date2.getTime() - date1.getTime()); // calulate time between two dates
 let diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)); // convert that time to days
+
 
 // show current date, always on
 showTodaysDate.innerHTML= `Today is ${currentDate.toString()}` ;
 
 // show start date of next recycling week and days remaining, always on
+// nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
+const meetingDates= [22,5,11,3,17,14,28,25]
+const isMeeting = ["2022-11-05","2022-12-03","2022-12-17","2023-01-14","2023-01-28","2023-02-11","2023-02-25","2023-04-11","2023-03-23"]
+let todayString = today.toISOString()
+// console.log(todayString.substr(0,10))
+
+const d1 = todayString.substr(0,10) //remove the time after converting a date to ISO String
+
+//display daily message for meeting
+const date = isMeeting.find( b1 => b1 === d1)
+
+  if(date){
+    showTodaysDate.innerHTML= `<h3>We have meeting today.</span><span> Join us 😊<h3>` ;
+
+    // showTodaysDate.innerHTML= `Today is ${currentDate.toString()}, we have meeting today. Join us` ;
+  }else{
+    showTodaysDate.innerHTML= `There is <strong>no meeting</strong> scheduled today.` ;
+    // show start date of next recycling week and days remaining, always on
 nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
 
-// conditionally show daily/weekly message
-if (diffDays >= 7) {
-
-// if it is not a recycling week, show the start date of the following recycling week
-showFutureDate.innerHTML="there is <strong>no meeting</strong> scheduled for this week.";
-
-} else {
-// if it is a recycling week, show scheduled neighborhood
-showNeighborhood.innerHTML = scheduleAllDays[scheduleCurrentDate.getDay()].neighborhood;
-}
+  }
 
   </script>
 {{ end }}
