@@ -1,13 +1,13 @@
 ---
-title: Integrasi Dompet
+title: "Integrasi Dompet"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod:  2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube 8lI12foWxCE &gt;}}
+{{< youtube 8lI12foWxCE >}}
 
 ## Catalyst TV - Integrasi Dompet
 
@@ -20,4 +20,4 @@ Goodwall terus-menerus mengirimkan hadiah uang kepada kaum muda. Mengirimkan pem
 
 ### Lacak tim melalui:
 
-- [Webiste](https://www.goodwall.io)
+- [Website](https://www.goodwall.io)
