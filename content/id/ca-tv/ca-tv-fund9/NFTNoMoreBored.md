@@ -1,7 +1,7 @@
 ---
-title : "NOW! NFT GAME NO MORE BORED!!!"
-description: "NOW! NFT GAME NO MORE BORED!!!"
-lead: ""
+title: "SEKARANG! GAME NFT TIDAK BOSAN LAGI!!!"
+description: "SEKARANG! GAME NFT TIDAK BOSAN LAGI!!!"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -10,17 +10,17 @@ images: []
 
 {{<  youtube TzvKsxR8cuE >}}
 
-## Catalyst TV - NOW! NFT GAME NO MORE BORED!!!
+## TV Katalis - SEKARANG! GAME NFT TIDAK BOSAN LAGI!!!
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417249)
-- **Proposer:** Miverse Multiverse
-- **Requested Budget:** 57073
+- **Pengusul:** Mr Alfred Pham
+- **Anggaran yang Diminta:** 57073
 
-Check the team's other proposal via: <https://linktr.ee/miversegame>
+Cek proposal tim lainnya melalui: [https://linktr.ee/miversegame](https://linktr.ee/miversegame)
 
-Apparently, all the current NFT games failed to attract gamers in the mainstream gaming industry due to the lack of entertainment and terrible gameplay. Miverse will open up the next generation of NFT games with a multiverse metaverse which can provide gamers with thousands of different and diverse games.
+Rupanya, semua game NFT saat ini gagal menarik gamer di industri game mainstream karena kurangnya hiburan dan gameplay yang buruk. Miverse akan membuka generasi berikutnya dari game NFT dengan metaverse multiverse yang dapat memberikan ribuan game yang berbeda dan beragam kepada para gamer.
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://development.miverse.io>
-- <https://bit.ly/budget-est-p1-miverse>
+- [https://development.miverse.io](https://development.miverse.io)
+- [https://bit.ly/budget-est-p1-miverse](https://bit.ly/budget-est-p1-miverse)
