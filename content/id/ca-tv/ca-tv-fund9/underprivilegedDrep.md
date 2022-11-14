@@ -1,14 +1,14 @@
 ---
-title: Kampanye DREPS yang Kurang Mampu
+title: "Kampanye DREPS yang Kurang Mampu"
 description: ''
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube jYQzG5HXv44 &gt;}}
+{{<  youtube jYQzG5HXv44 >}}
 
 ## Catalyst TV - Kampanye DREPS yang Kurang Mampu
 
