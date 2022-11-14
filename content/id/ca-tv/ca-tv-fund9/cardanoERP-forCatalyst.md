@@ -1,28 +1,25 @@
 ---
-title : "Cardano ERP for Catalyst"
-description: "Cardano ERP for Catalyst"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+title: "Cardano ERP untuk Catalyst"
+description: "Cardano ERP untuk Catalyst"
+lead: ''
+date: 2020-10-06T08:48:23 +00:00
+lastmod: 2020-10-06T08:48:23 +00:00
 draft: false
 images: []
 ---
 
 {{<  youtube 9TGRA8VrwH8 >}}
 
-## Catalyst TV - Cardano ERP for Catalyst
+## Catalyst TV - Cardano ERP untuk Catalyst
 
-There is currently no intelligent, open-source Cardano-native accounting/auditing system. CERP for Catalyst will be an intelligent open-source Cardano-native accounting/auditing system consisting of a GL, COTI Pay integration, funds/revenue receipts modules, and financial + audit reports.
+Saat ini tidak ada sistem akuntansi/auditing asli Cardano yang cerdas dan open-source. CERP untuk Catalyst akan menjadi sistem akuntansi/auditing Cardano-native open-source cerdas yang terdiri dari GL, integrasi COTI Pay, modul penerimaan dana/pendapatan, dan laporan keuangan + audit.
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417654)
-- **Proposer:** Cardano ERP
-- **Requested Budget:** 100000
+- **Pengusul:** Tuan Jay
+- **Anggaran yang Diminta:** 100000
 
-Support the team by voting for this proposal, leave a comment for the proposer if any doubt cross your mind!!!!
+Dukung tim dengan memilih proposal ini, tinggalkan komentar untuk pengusul jika ada keraguan yang terlintas di benak Anda!!!!
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://cerp.dev>
-
-
-
+- [https://cerp.dev](https://cerp.dev)
