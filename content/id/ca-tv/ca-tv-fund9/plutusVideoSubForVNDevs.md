@@ -1,13 +1,13 @@
 ---
-title: Plutus Video Sub untuk Vietnam Devs
+title: "Plutus Video Sub untuk Vietnam Devs"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube lIt6fbHOSSM &gt;}}
+{{<  youtube lIt6fbHOSSM >}}
 
 ## Catalyst TV - Plutus Video Sub untuk Vietnam Devs
 
