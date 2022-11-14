@@ -1,14 +1,14 @@
 ---
-title: 500+ Komunitas Dikirim ke Konferensi
-description: 500+ Komunitas Dikirim ke Konferensi
+title: "500+ Komunitas Dikirim ke Konferensi"
+description: "500+ Komunitas Dikirim ke Konferensi"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23 +0000
+lastmod: 2020-10-06T08:48:23 +0000
+draft: false
 images: []
 ---
 
-{{&lt;  youtube zm4hTuv0ll0 &gt;}}
+{{< youtube zm4hTuv0ll0 >}}
 
 ## Catalyst TV - 500+ Komunitas Dikirim ke Konferensi
 
