@@ -1,6 +1,6 @@
 ---
-title : "ProofSpace x Argus - IDs 4 NFTs "
-lead: ""
+title: "ProofSpace x Argus   - Identitas digital untuk NFT"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -9,15 +9,16 @@ images: []
 
 {{<  youtube eAuLgcEDl0 >}}
 
-## Catalyst TV -ProofSpace x Argus - IDs 4 NFTs
+## Catalyst TV -ProofSpace x Argus - Identitas digital untuk NFT
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414232)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 37411
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 37411
+- **Pengusul:** Tuan Giovanni, Tuan Anthony &amp; Tuan Victor
 
-🌟 There's no scalable, high assurance way to verify whether NFT projects are legitimate. And as a result, NFT market participants and artists suffer losses from NFT scams and plagiarized NFTs. Combining ProofSpace's DID protocol & Argus, build on Cardano the most scalable, comprehensive solution in the industry for verifying the legitimacy of NFT projects and authenticity of NFTs.
+Tidak ada cara yang terukur dan memiliki jaminan tinggi untuk memverifikasi apakah proyek NFT sah. Dan akibatnya, pelaku pasar dan artis NFT menderita kerugian dari penipuan NFT dan NFT yang dijiplak. Menggabungkan protokol DID ProofSpace &amp; Argus, membangun Cardano solusi yang paling terukur dan komprehensif di industri untuk memverifikasi legitimasi proyek NFT dan keaslian NFT.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [ArgusNFT website](https://argusnft.com/)
 - [ArgusNFT Fund9 Catalyst Proposals](https://linktr.ee/arguscatalyst)
