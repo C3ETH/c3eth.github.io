@@ -1,14 +1,14 @@
 ---
-title: Belajar untuk Berpenghasilan Ekosistem Cardano
-description: Belajar untuk Berpenghasilan Ekosistem Cardano
+title: "Belajar untuk Berpenghasilan Ekosistem Cardano"
+description: "Belajar untuk Berpenghasilan Ekosistem Cardano"
 lead: ''
-date: "06-10-2020 08:48:23 +0000"
-lastmod: "06-10-2020 08:48:23 +0000"
-draft: Salah
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt; youtube VvYe4FCaf9A &gt;}}
+{{< youtube VvYe4FCaf9A >}}
 
 ## Catalyst TV - Belajar untuk Berpenghasilan Ekosistem Cardano
 
@@ -22,4 +22,4 @@ Kurangnya tempat untuk mengumpulkan &amp; memperbarui informasi dan pengetahuan 
 ### Tautan berkaitan:
 
 - [Discord](https://discord.gg/BNmKmma9St)
-- [Grup Facebook](https://www.facebook.com/groups/1651100081955362)
+- [Group Facebook](https://www.facebook.com/groups/1651100081955362)
