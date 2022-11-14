@@ -1,6 +1,6 @@
 ---
-title : "SPOs Impact Dashboard"
-lead: ""
+title: "Dasbor SPO yang berdampak"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -9,18 +9,19 @@ images: []
 
 {{<  youtube U0qI876Eeo8 >}}
 
-## Catalyst TV - SPOs Impact Dashboard
+## Catalyst TV - Dasbor SPO yang berdampak
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414201)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 12975
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 12975
+- **Pengusul:** Tuan Michele
 
-🌟 SPOs channelling part of their staking rewards to support social enterprise projects and environmental causes need powerful tools to measure and display the positive impact of their operations. An impact dashboard for SPOs that allows the comparison of supported projects and promotes those with the greatest social and environmental impact per amount staked.
+SPO yang menyalurkan sebagian dari imbalan mereka untuk mendukung proyek perusahaan sosial dan penyebab lingkungan memerlukan alat yang kuat untuk mengukur dan menampilkan dampak positif dari operasi mereka. Dasbor SPO yang berdampak memungkinkan perbandingan proyek yang didukung dan mempromosikan proyek dengan dampak sosial dan lingkungan terbesar per jumlah yang di staking.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-<https://impactscope.com>
+[https://impactscope.com](https://impactscope.com)
 
-<https://github.com/regodo>
+[https://github.com/regodo](https://github.com/regodo)
 
-<https://github.com/ImpactScope-organization>
+[https://github.com/ImpactScope-organization](https://github.com/ImpactScope-organization)
