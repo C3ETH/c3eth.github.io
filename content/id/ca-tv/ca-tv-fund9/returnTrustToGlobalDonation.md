@@ -1,13 +1,13 @@
 ---
-title: Mengembalikan Kepercayaan Kepada Donasi Global
+title: "Mengembalikan Kepercayaan Kepada Donasi Global"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube tMT1GUNzqoA &gt;}}
+{{<  youtube tMT1GUNzqoA >}}
 
 ## Catalyst TV - Mengembalikan Kepercayaan Kepada Donasi Global
 
