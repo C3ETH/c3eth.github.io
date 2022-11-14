@@ -1,6 +1,6 @@
 ---
-title : "Plural Voting and Identity for DAOs"
-lead: ""
+title: "Pemungutan Suara Jamak dan Identitas untuk DAO"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -9,18 +9,19 @@ images: []
 
 {{<  youtube qkda6OI2BUA >}}
 
-## Catalyst TV - Plural Voting and Identity for DAOs
+## Catalyst TV - Pemungutan Suara Jamak dan Identitas untuk DAO
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/413998)
-- **Challenge:** DAOs Cardano
-- **Requested Budget:** 91000
+- **Tantangan:** DAO Cardano
+- **Pengusul:** Tuan Ninh Tran
+- **Anggaran yang Diminta:** 91000
 
-👉  See the team's other [proposals](https://linktr.ee/votesnapbrillia)
+Lihat [proposal](https://linktr.ee/votesnapbrillia) tim lainnya
 
-👉  DAOs in & out of Cardano don't have access to more advanced voting systems with Sybil resistance and resort to 1-coin-1-vote that doesn't always resolve in optimal decisions, funding, & collaboration. Plural Voting with Proof of Reputation, Identity, and Quadratic Sybil Resistance to improve DAO Governance for all without requiring full KYC to increase voter participation and lower voting disparity
+DAO masuk &amp; keluar Cardano tidak memiliki akses ke sistem pemungutan suara yang lebih canggih dengan resistensi Sybil dan menggunakan 1-koin-1-suara yang tidak selalu diselesaikan dalam keputusan, pendanaan, &amp; kolaborasi yang optimal. Pemungutan Suara Jamak dengan Bukti Reputasi, Identitas, dan Perlawanan Sybil Kuadrat untuk meningkatkan Tata Kelola DAO untuk semua tanpa memerlukan KYC penuh untuk meningkatkan partisipasi pemilih dan menurunkan disparitas suara
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-<https://twitter.com/faalbane/status/1537277249652551680>
+[https://twitter.com/faalbane/status/1537277249652551680](https://twitter.com/faalbane/status/1537277249652551680)
 
-<https://github.com/Snapbrillia/quadraticvoting/branches>
+[https://github.com/Snapbrillia/quadraticvoting/branches](https://github.com/Snapbrillia/quadraticvoting/branches)
