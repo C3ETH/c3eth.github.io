@@ -1,14 +1,14 @@
 ---
-title: Cardano ERP untuk Catalyst
-description: Cardano ERP untuk Catalyst
+title: "Cardano ERP untuk Catalyst"
+description: "Cardano ERP untuk Catalyst"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23 +0000
+lastmod: 2020-10-06T08:48:23 +0000
+draft: false
 images: []
 ---
 
-{{&lt;  youtube 9TGRA8VrwH8 &gt;}}
+{{<  youtube 9TGRA8VrwH8 >}}
 
 ## Catalyst TV - Cardano ERP untuk Catalyst
 
