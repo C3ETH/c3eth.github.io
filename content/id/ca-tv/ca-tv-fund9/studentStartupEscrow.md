@@ -1,13 +1,13 @@
 ---
-title: Escrow Startup Siswa (SSE)
+title: "Escrow Startup Siswa (SSE)"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube 7l1olgFl8FM &gt;}}
+{{<  youtube 7l1olgFl8FM >}}
 
 ## Catalyst TV - Escrow Startup Siswa (SSE)
 
