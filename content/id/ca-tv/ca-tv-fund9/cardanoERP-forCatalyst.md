@@ -2,8 +2,8 @@
 title: "Cardano ERP untuk Catalyst"
 description: "Cardano ERP untuk Catalyst"
 lead: ''
-date: 2020-10-06T08:48:23 +0000
-lastmod: 2020-10-06T08:48:23 +0000
+date: 2020-10-06T08:48:23 +00:00
+lastmod: 2020-10-06T08:48:23 +00:00
 draft: false
 images: []
 ---
