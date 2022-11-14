@@ -1,14 +1,14 @@
 ---
-title: Laporan video close-out profesional
-description: Laporan video close-out profesional
+title: "Laporan video close-out profesional"
+description: "Laporan video close-out profesional"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube K8E8aKIdBPA &gt;}}
+{{<  youtube K8E8aKIdBPA >}}
 
 ## Catalyst TV - Laporan video close-out profesional
 
