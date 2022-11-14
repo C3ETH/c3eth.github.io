@@ -1,13 +1,13 @@
 ---
-title: Mempromosikan Cardano di dataran tinggi
+title: "Mempromosikan Cardano di dataran tinggi"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube rJa1SDEx4fg &gt;}}
+{<  youtube rJa1SDEx4fg >}}
 
 ## Catalyst TV - Promoting Cardano in the highland
 
