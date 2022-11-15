@@ -1,13 +1,13 @@
 ---
-title: ATALA Prism zKP + Hyperledger Aries
+title: "ATALA Prism zKP + Hyperledger Aries"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube 2mCk3o5BjlE &gt;}}
+{{<  youtube 2mCk3o5BjlE >}}
 
 ## Catalyst TV - ATALA Prism zKP + Hyperledger Aries
 
