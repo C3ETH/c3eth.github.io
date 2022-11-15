@@ -1,13 +1,13 @@
 ---
-title: Tingkatkan Dampak Sosial melalui Cardano
+title: "Tingkatkan Dampak Sosial melalui Cardano"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube 7CgpsrBjJHA &gt;}}
+{{<  youtube 7CgpsrBjJHA >}}
 
 ## Catalyst TV - Tingkatkan Dampak Sosial melalui Cardano
 
