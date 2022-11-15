@@ -1,14 +1,14 @@
 ---
-title: CARA TERBAIK UNTUK MENARIK GAMERS
-description: CARA TERBAIK UNTUK MENARIK GAMERS
+title: "CARA TERBAIK UNTUK MENARIK GAMERS"
+description: "CARA TERBAIK UNTUK MENARIK GAMERS"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube JjvssTouG0I &gt;}}
+{{<  youtube JjvssTouG0I >}}
 
 ## Catalyst TV - CARA TERBAIK UNTUK MENARIK GAMERS
 
