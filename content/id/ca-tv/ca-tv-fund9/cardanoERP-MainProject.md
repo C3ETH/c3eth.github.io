@@ -1,14 +1,14 @@
 ---
-title: Cardano ERP   - Proyek Utama
-description: Cardano ERP   - Proyek Utama
+title: "Cardano ERP   - Proyek Utama"
+description: "Cardano ERP   - Proyek Utama"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube JHpyg97A3_E &gt;}}
+{{<  youtube JHpyg97A3_E >}}
 
 ## Catalyst TV - Cardano ERP - Proyek Utama
 
