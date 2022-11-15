@@ -1,13 +1,13 @@
 ---
-title: Debat Terbuka Dreps
+title: "Debat Terbuka Dreps"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube dVLSwZ35ov8 &gt;}}
+{{<  youtube dVLSwZ35ov8 >}}
 
 ## Catalyst TV - Debat Terbuka Dreps
 
