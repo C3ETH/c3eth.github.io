@@ -1,6 +1,6 @@
 ---
-title : "Cardano Youth Ambassadors"
-lead: ""
+title: "Duta Pemuda Cardano"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -9,15 +9,15 @@ images: []
 
 {{<  youtube 9XfSAn_EzFo >}}
 
-## Catalyst TV - Cardano Youth Ambassadors
+## Catalyst TV - Duta Pemuda Cardano
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/422842)
-- **Challenge:** Dapps, Products & Integrations
-- **Requested Budget:** 50000
+- **Tantangan:** Dapps, Produk &amp; Integrasi
+- **Anggaran yang Diminta:** 50000
+- **Pengusul:** Mr Justin &amp; Mz Marcela
 
-🌟 Youth in Africa is unaware of Cardano, the blockchain, and the potential to use its application for social impact and a more decentralized future. Goodwall has a huge community of African Youth and is developing an educational program about blockchain, which will be followed by a hackathon to identify Cardano Youth Ambassadors in Africa.
+Pemuda di Afrika tidak menyadari Cardano, blockchain, dan potensi untuk menggunakan aplikasinya untuk dampak sosial dan masa depan yang lebih terdesentralisasi. Goodwall memiliki komunitas besar Pemuda Afrika dan sedang mengembangkan program pendidikan tentang blockchain, yang akan diikuti oleh hackathon untuk mengidentifikasi Duta Pemuda Cardano di Afrika.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [Website](https://www.goodwall.io)
-
