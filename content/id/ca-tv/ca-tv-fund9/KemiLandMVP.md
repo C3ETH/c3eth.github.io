@@ -1,14 +1,14 @@
 ---
-title: KemiLand MVP   - Istana Kerajaan
-description: KemiLand MVP   - Istana Kerajaan
+title: "KemiLand MVP   - Istana Kerajaan"
+description: "KemiLand MVP   - Istana Kerajaan"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube DKYRKiaaFJM &gt;}}
+{{<  youtube DKYRKiaaFJM >}}
 
 ## Catalyst TV - KemiLand MVP - Istana Kerajaan
 
