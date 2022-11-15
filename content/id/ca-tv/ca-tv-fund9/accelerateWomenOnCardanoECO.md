@@ -1,13 +1,13 @@
 ---
-title: Akselerasi Kehadiran Perempuan di Cardano ECO
+title: "Akselerasi Kehadiran Perempuan di Cardano ECO"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube TAgfJyafG8g &gt;}}
+{{<  youtube TAgfJyafG8g >}}
 
 ## Catalyst TV - Akselerasi Kehadiran Perempuan di Cardano ECO
 
