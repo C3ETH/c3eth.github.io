@@ -1,13 +1,13 @@
 ---
-title: Perlindungan NFT Palsu Lintas Rantai
+title: "Perlindungan NFT Palsu Lintas Rantai"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube lSZhIOlR_Fk &gt;}}
+{{<  youtube lSZhIOlR_Fk >}}
 
 ## Catalyst TV - Perlindungan NFT Palsu Lintas Rantai
 
