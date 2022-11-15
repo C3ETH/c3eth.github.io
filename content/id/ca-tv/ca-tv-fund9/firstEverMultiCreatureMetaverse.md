@@ -1,14 +1,14 @@
 ---
-title: METAVERSE MULTI CREATURE PERTAMA
-description: METAVERSE MULTI CREATURE PERTAMA
+title: "METAVERSE MULTI CREATURE PERTAMA"
+description: "METAVERSE MULTI CREATURE PERTAMA"
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
 images: []
 ---
 
-{{&lt;  youtube hnHAnVrJtgg &gt;}}
+{{<  youtube hnHAnVrJtgg >}}
 
 ## Catalyst TV - METAVERSE MULTI CREATURE PERTAMA
 
