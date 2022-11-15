@@ -1,24 +1,24 @@
 ---
-title : "Blockchain Course for Vietnam Devs"
-lead: ""
+title: "Kursus Blockchain untuk Pengembang Vietnam"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
 images: []
 ---
 
-{{<  youtube iqFLMJQHAJQ >}}
+{{< youtube iqFLMJQHAJQ >}}
 
-## Catalyst TV -Blockchain Course for Vietnam Devs
+## Catalyst TV - Kursus Blockchain untuk Pengembang Vietnam
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/414076)
-- **Challenge:** Developer Ecosystem
-- **Requested Budget:** 22400
+- **Tantangan:** Ekosistem Pengembang
+- **Pengusul:** Pak DO
+- **Anggaran yang Diminta:** 22400
 
-🌟 The majority of developers in Vietnam are not familiar with blockchain or are not right understand of blockchain and its importance roles to the real world.
-Organize short training courses for developers in Vietnam to help them have the right knowledge about blockchain technology and its application in life.
+Mayoritas pengembang di Vietnam tidak akrab dengan blockchain atau tidak memahami benar tentang blockchain dan peran pentingnya bagi dunia nyata. Atur kursus pelatihan singkat untuk pengembang di Vietnam untuk membantu mereka memiliki pengetahuan yang benar tentang teknologi blockchain dan penerapannya dalam kehidupan.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
 - [FIMI website](https://fimi.vn/blockchain)
 - [FIMI Youtube Channel](https://www.youtube.com/channel/UCoyi5FmVh6aFY2pWM0EI8Vg)
