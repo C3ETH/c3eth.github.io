@@ -1,7 +1,7 @@
 ---
-title : "Impact NFTs for the Homeless: SOTB"
-description: ""
-lead: ""
+title: 'Dampak NFT untuk Tunawisma: SOTB'
+description: ''
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -10,17 +10,17 @@ images: []
 
 {{<  youtube btxRRgiXKOI >}}
 
-## Catalyst TV - Impact NFTs for the Homeless: SOTB
+## Catalyst TV - Dampak NFT untuk Tunawisma: SOTB
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/419097)
-- **Challenge:** Catalyst Natives X Cardashift: Demonstrating and monetizing impact
-- **Requested Budget:** 14900
+- **Tantangan:** Catalyst Natives X Cardashift: Mendemonstrasikan dan memonetisasi dampak
+- **Anggaran yang Diminta:** 14900
+- **Pengusul:** Angel
 
-Los Angeles has the highest homeless rate in the U.S. and has the second-largest homeless population. The city is facing a multifaceted humanitarian crisis that has many potential solutions. A non-profit NFT project that raises awareness about the different solutions to homelessness. The proceeds from the sale will be used to give housing to those struggling to find a place to live.
+Los Angeles memiliki tingkat tunawisma tertinggi di AS dan memiliki populasi tunawisma terbesar kedua. Kota ini menghadapi krisis kemanusiaan multifaset yang memiliki banyak solusi potensial. Sebuah proyek NFT nirlaba yang meningkatkan kesadaran tentang berbagai solusi untuk tunawisma. Hasil penjualan akan digunakan untuk memberikan perumahan kepada mereka yang berjuang untuk menemukan tempat tinggal.
 
-### Tracking links:
+### Tautan berkaitan:
 
-- <https://www.sheltersontheblock.com>
-- <https://twitter.com/sheltersblock>
-- <https://fhfla.org/collaborations>
-
+- [https://www.sheltersontheblock.com](https://www.sheltersontheblock.com)
+- [https://twitter.com/sheltersblock](https://twitter.com/sheltersblock)
+- [https://fhfla.org/collaborations](https://fhfla.org/collaborations)
