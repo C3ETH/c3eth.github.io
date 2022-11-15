@@ -1,6 +1,6 @@
 ---
-title : "GIMBALABS TREASURY FOR TUTORS"
-lead: ""
+title: "GIMBALABS TREASURY UNTUK TUTOR"
+lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -9,18 +9,19 @@ images: []
 
 {{<  youtube TDQN0wvc8NI >}}
 
-## Catalyst TV - GIMBALABS TREASURY FOR TUTORS
+## Catalyst TV - GIMBALABS TREASURY UNTUK TUTOR
 
 - [Ideascale](https://cardano.ideascale.com/c/idea/417091)
-- **Challenge:** Developer Ecosystem
-- **Requested Budget:** 8640
+- **Tantangan:** Ekosistem Pengembang
+- **Anggaran yang Diminta:** 8640
+- **Pengusul:** Pak Pabon
 
-🌟 Members of Gimbalabs are offering mentoring services to new students without financial recognition for their hours of work. Gimbalabs is a non-profit organization. The creation of a treasury funded by Catalyst to cover the tutors' working hours will give continuity to the students training process.
+Anggota Gimbalab menawarkan layanan pendampingan kepada siswa baru tanpa pengakuan finansial untuk jam kerja mereka. Gimbalabs adalah organisasi nirlaba. Pembentukan treasury yang didanai oleh Catalyst untuk menutupi jam kerja tutor akan memberikan kelangsungan proses pelatihan siswa.
 
-### 👉  Track the team via:
+### Lacak tim melalui:
 
-<https://gimbalabs.com/gimbalgrid>
+[https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
-<https://miro.com/app/board/uXjVO4u0254=/>
+[https://miro.com/app/board/uXjVO4u0254=/](https://miro.com/app/board/uXjVO4u0254=/)
 
-<https://gitlab.com/gimbalabs/gimbal-bounty-treasury-and-escrow>
+[https://gitlab.com/gimbalabs/gimbal-bounty-treasury-and-escrow](https://gitlab.com/gimbalabs/gimbal-bounty-treasury-and-escrow)
