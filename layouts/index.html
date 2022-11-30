@@ -628,11 +628,11 @@ let d = new Date();
 
 
 // add remaining days to current date to get next meeting week start date
-d.setDate(today.getUTCDate() + daystill);
+d.setDate(today.getDate() + daystill);
 
 // format dates to make them easy to read
 let currentDate = (dayNames[today.getUTCDay()] + ", " +  today.getUTCDate() + " " +  monthNames[today.getUTCMonth()] + ", " +  today.getUTCFullYear());
-let nextDate = (dayNames[d.getUTCDay()] + ", " +  d.getUTCDate() + " " +  monthNames[d.getUTCMonth()]);
+let nextDate = (dayNames[d.getDate()] + ", " +  d.getDate() + " " +  monthNames[d.getMonth()]);
 
 // Conditional display rules
 let date1 = new Date(today); // today's date
