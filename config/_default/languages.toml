@@ -1,5 +1,5 @@
 [en]
-  languageName = "English"
+  languageName = "🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN"
   contentDir = "content/en"
   weight = 10
   [en.params]
@@ -7,7 +7,7 @@
     languageTag = "en-US"
 
 [vi]
-  languageName = "Tiếng Việt"
+  languageName = "🇻🇳 VI"
   contentDir = "content/vi"
   weight = 10
   [vi.params]
@@ -15,19 +15,21 @@
     languageTag = "vi-VI"
 
 [ja]
-  languageName = "日本語"
+  languageName = "🇯🇵 JA"
   contentDir = "content/ja"
   weight = 10
   [ja.params]
     languageISO = "JA"
     languageTag = "ja-JA"
+
 [id]
-  languageName = "Indonesian"
+  languageName = "🇮🇩 ID"
   contentDir = "content/id"
   weight = 10
   [id.params]
     languageISO = "ID"
     languageTag = "id-ID"
+
 
 # [de]
 #   languageName = "German"

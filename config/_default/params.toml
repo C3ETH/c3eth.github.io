@@ -11,7 +11,7 @@ description = "Welcome to our network of Eastern Cardano Community Network. We a
 
 # Set site logo or disable
 siteLogo = true
-siteLogoLight = "/images/logo-light.png"
+siteLogoLight = "/images/logo.png"
 siteLogoDark = "/images/logo-dark.png"
 siteLogoWidth = "280px" # width adjustment or set 'auto'
 
