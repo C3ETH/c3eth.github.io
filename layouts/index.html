@@ -31,7 +31,7 @@
       text-shadow: 0 0 30px #34b3c1, 0 0 10px #4dbbc7;
     }
   } */
-  h3 {
+  h4 {
   font-size: 2rem;
   line-height: calc(20px + 20vh);
 /*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
@@ -109,8 +109,8 @@
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
- <!-- Content on hero section for English -->
-  {{ if eq $.Site.Language.LanguageName "English" }}
+ <!-- Content on hero section for 🇺🇸 EN -->
+  {{ if eq $.Site.Language.LanguageName "🇺🇸 EN" }}
   <section class="section section-sm">
     <div class="container">
       <div class="row justify-content-center text-center">
@@ -168,7 +168,7 @@
   {{ end }}
 
   <!-- Content on hero section for Vietnamese -->
-  {{ if eq $.Site.Language.LanguageName "Tiếng Việt" }}
+  {{ if eq $.Site.Language.LanguageName "🇻🇳 VI" }}
   <section class="section section-sm">
     <div class="container">
       <div class="row justify-content-center text-center">
@@ -227,7 +227,7 @@
 
 
 <!-- Content on hero section for Japanese -->
-{{ if eq $.Site.Language.LanguageName "日本語" }}
+{{ if eq $.Site.Language.LanguageName "🇯🇵 JA" }}
 <section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
@@ -285,7 +285,7 @@
 {{ end }}
 
 <!-- Content on main page for Indonesian -->
-{{ if eq $.Site.Language.LanguageName "Indonesian" }}
+{{ if eq $.Site.Language.LanguageName "🇮🇩 ID" }}
 <section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
@@ -347,7 +347,7 @@
 {{ define "sidebar-footer" }}
 
 <!-- Content on main page for Japan -->
-{{ if eq $.Site.Language.LanguageName "日本語" }}
+{{ if eq $.Site.Language.LanguageName "🇯🇵 JA" }}
 <section class="section section-md my-5">
   <div class="text-center">
     <div
@@ -408,8 +408,8 @@
 {{end}}
 
 
-<!-- Content on main page for English -->
-{{ if eq $.Site.Language.LanguageName "English" }}
+<!-- Content on main page for 🇺🇸 EN -->
+{{ if eq $.Site.Language.LanguageName "🇺🇸 EN" }}
 <section class="section section-md my-5">
   <div class="text-center">
     <div
@@ -468,8 +468,8 @@
   </div>
 </section>
 {{end}}
-<!-- Content on main page for Indonesian -->
-{{ if eq $.Site.Language.LanguageName "Indonesian" }}
+<!-- Content on main page for 🇮🇩 ID -->
+{{ if eq $.Site.Language.LanguageName "🇮🇩 ID" }}
 <section class="section section-md my-5">
   <div class="text-center">
     <div
@@ -534,7 +534,7 @@ Semua terjemahan yang dibuat fokus pada bahasa - bahasa di belahan timur dunia, 
 {{end}}
 
 <!-- Content on main page for Vietnamese -->
-{{ if eq $.Site.Language.LanguageName "Tiếng Việt" }}
+{{ if eq $.Site.Language.LanguageName "🇻🇳 VI" }}
 <section class="section section-md my-5">
   <div class="text-center">
     <div
@@ -631,8 +631,8 @@ let d = new Date();
 d.setDate(today.getDate() + daystill);
 
 // format dates to make them easy to read
-let currentDate = (dayNames[today.getUTCDay()] + ", " +  today.getUTCDate() + " " +  monthNames[today.getUTCMonth()] + ", " +  today.getUTCFullYear());
-let nextDate = (dayNames[d.getDate()] + ", " +  d.getDate() + " " +  monthNames[d.getMonth()]);
+let currentDate = (dayNames[today.getDay()] + ", " +  today.getDate() + " " +  monthNames[today.getMonth()] + ", " +  today.getFullYear());
+let nextDate = (dayNames[d.getDay()] + ", " +  d.getDate() + " " +  monthNames[d.getMonth()]);
 
 // Conditional display rules
 let date1 = new Date(today); // today's date
@@ -646,18 +646,18 @@ showTodaysDate.innerHTML= `Today is ${currentDate.toString()}` ;
 
 // show start date of next recycling week and days remaining, always on
 // nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
-const meetingDates= [22,5,11,3,17,14,28,25]
+// const meetingDates= [22,5,11,3,17,14,28,25]
 const isMeeting = ["2022-11-05","2022-12-03","2022-12-17","2023-01-14","2023-01-28","2023-02-11","2023-02-25","2023-04-11","2023-03-23"]
 let todayString = today.toISOString()
-// console.log(todayString.substr(0,10))
 
 const d1 = todayString.substr(0,10) //remove the time after converting a date to ISO String
+// console.log(d1)
 
 //display daily message for meeting
 const date = isMeeting.find( b1 => b1 === d1)
 
   if(date){
-    showTodaysDate.innerHTML= `<h3>We have meeting today.</span><span> Join us 😊<h3>` ;
+    showTodaysDate.innerHTML= `<h4>We have meeting today.</span><span> Join us 😊<h4>` ;
 
     // showTodaysDate.innerHTML= `Today is ${currentDate.toString()}, we have meeting today. Join us` ;
   }else{
