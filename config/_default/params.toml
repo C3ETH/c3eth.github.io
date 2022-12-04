@@ -11,14 +11,14 @@ description = "Welcome to our network of Eastern Cardano Community Network. We a
 
 # Set site logo or disable
 siteLogo = true
-siteLogoLight = "/images/logo-light.png"
+siteLogoLight = "/images/logo.png"
 siteLogoDark = "/images/logo-dark.png"
 siteLogoWidth = "280px" # width adjustment or set 'auto'
 
 ## Open Graph
 images = ["c3eth-display.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
+domainTLD = "easterntownhall.com"
 titleHome = "Eastern Town Hall"
 
 ## Twitter Cards
@@ -30,7 +30,7 @@ twitterCreator = "@c3eth"
 schemaType = "Organization"
 schemaName = "Eastern Town Hall"
 schemaAuthor = "Eastern Town Hall"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaAuthorTwitter = "https://twitter.com/c3eth"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/C3ETH"
 schemaLocale = "en-US"
