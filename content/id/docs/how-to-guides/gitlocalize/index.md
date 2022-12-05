@@ -2,8 +2,8 @@
 title: '"Catatan Gitlocalize"'
 description: '"Beberapa aturan sebelum mendorong komit ke situs web"'
 lead: '"Beberapa aturan sebelum mendorong komit ke situs web"'
-date: '2020-11-23 11:55:16 +0100'
-lastmod: '2020-11-23 11:55:16 +0100'
+date: "23-11-2020 11:55:16 +0100"
+lastmod: "23-11-2020 11:55:16 +0100"
 draft: 'false'
 images: []
 weight: '211'
@@ -24,7 +24,7 @@ images: []
 Content of file
 ```
 
-### Problems
+### Masalah
 
 Saat menggunakan Gitlocalize untuk menerjemahkan konten ke bahasa lain, front matter yaml dapat diubah seperti ini:
 
@@ -39,25 +39,25 @@ images: []
 ---
 ```
 
-You cannot see these yaml front matter until you create a pull request on Github.<br> Open `Files changed` on Github after pushing commits will show what being changed so you can spot the different.
+Anda tidak dapat melihat materi depan yaml ini sampai Anda membuat permintaan tarik di Github.<br> Buka `Files changed` di Github setelah mendorong komit akan menunjukkan apa yang diubah sehingga Anda dapat melihat perbedaannya.
 
 Example: ![gambar](error.png)
 
-From the picture above, the changes are:
+Dari gambar di atas, perubahannya adalah:
 
 - Tanda kutip ganda  `title` , `description` , `lead` telah dihapus
-- The double quotation marks now being added to `date`,`lastmod` and `draft`
-- The angle brackets `< >` are being changed to `&lt; &gt;`
+- Tanda kutip ganda sekarang ditambahkan ke `date` , `lastmod` dan `draft`
+- Kurung sudut `< >` diubah menjadi `&lt; &gt;`
 
 Tapi yaml sangat kaku, tidak mengikuti akan menyebabkan **build fail** .
 
-### Actions required
+### Diperlukan tindakan
 
-Therefore, make sure check your front matter **match the original file**:
+Oleh karena itu, pastikan front matter Anda **cocok dengan file aslinya** :
 
-- **Add** double quotation marks to `title`,`description`,`lead`
-- **Remove** double quotation marks on `date`,`lastmod` and `draft`
-- **Change** `&lt; &gt;` to angle brackets `< >`
+- **Tambahkan** tanda kutip ganda ke `title` , `description` , `lead`
+- **Hapus** tanda kutip ganda pada `date` , `lastmod` dan `draft`
+- **Ubah** `&lt; &gt;` ke tanda kurung sudut `< >`
 
 ```yaml
 ---
