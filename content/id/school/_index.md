@@ -1,6 +1,6 @@
 ---
-title: "E-School"
-weight: 10
-description: "ECS is a school where you can learn about Cataslyt in the language of the Eastern Hemisphere in a workshop format"
-lead: "ECS is a school where you can learn about Cataslyt in the language of the Eastern Hemisphere in a workshop format"
+title: '"Sekolah Online"'
+weight: '10'
+description: '"ECS adalah sekolah tempat Anda dapat belajar tentang Cataslyt dalam bahasa Belahan Bumi Timur dalam format workshop"'
+lead: '"ECS adalah sekolah tempat Anda dapat belajar tentang Cataslyt dalam bahasa Belahan Bumi Timur dalam format workshop"'
 ---
