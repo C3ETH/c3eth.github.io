@@ -1,6 +1,6 @@
 ---
-title : "October"
-description: "Hosting a Breakout room for your own community"
-draft: false
+title: '"Bulan"'
+description: '"Hosting breakout room untuk komunitas Anda sendiri"'
+draft: 'false'
 images: []
 ---
