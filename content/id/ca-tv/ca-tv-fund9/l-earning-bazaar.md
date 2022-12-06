@@ -1,14 +1,14 @@
 ---
-title: 'Bazaar Pendapatan-L: Pembangunan Platform'
-description: 'Bazaar Pendapatan-L: Pembangunan Platform'
+title: '"L-Earning Bazaar: Platform Building"'
+description: '"L-Earning Bazaar: Platform Building"'
 lead: ''
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
+date: '2020-10-06 08:48:23 +0000'
+lastmod: '2020-10-06 08:48:23 +0000'
+draft: 'false'
 images: []
 ---
 
-{{< youtube FktLkt_R9eU >}}
+{{&lt; youtube FktLkt_R9eU &gt;}}
 
 ## Catalyst TV - Bazaar Pendapatan-L: Pembangunan Platform
 
@@ -23,4 +23,4 @@ Kami akan membangun platform pembelajaran web3 dan pasar dengan DID, di mana sia
 
 ### Tautan berkaitan:
 
-- [Belajar Bazaar](https://www.canva.com/design/DAFETPbLbMU/u_adNipEF7lzjMBRrCjPFQ/view?utm_content=DAFETPbLbMU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) - [Belajar Bazaar dalam bahasa Jepang](https://www.canva.com/design/DAFFCcWs-hE/54g1QUqDm039aW-jSV_9YA/view)
+[Belajar Bazaar](https://www.canva.com/design/DAFETPbLbMU/u_adNipEF7lzjMBRrCjPFQ/view?utm_content=DAFETPbLbMU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) - [Belajar Bazaar dalam bahasa Jepang](https://www.canva.com/design/DAFFCcWs-hE/54g1QUqDm039aW-jSV_9YA/view)
