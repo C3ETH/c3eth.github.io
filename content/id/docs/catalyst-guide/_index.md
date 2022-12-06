@@ -1,7 +1,6 @@
 ---
-title : "Catalyst Docs"
-description: "Catalyst Docs"
-draft: false
+title: '"Dokumen Catalyst"'
+description: '"Dokumen Catalyst"'
+draft: 'false'
 images: []
-weight: 100
 ---
