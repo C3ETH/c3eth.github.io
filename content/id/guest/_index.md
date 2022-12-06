@@ -1,7 +1,7 @@
 ---
-title : "Guests"
-description: "Hosting a Breakout room for your own community"
-lead: "Hosting a Breakout room for your own community"
-draft: false
+title: '"Tamu"'
+description: '"Hosting breakout room untuk komunitas Anda sendiri"'
+lead: '"Hosting breakout room untuk komunitas Anda sendiri"'
+draft: 'false'
 images: []
 ---
