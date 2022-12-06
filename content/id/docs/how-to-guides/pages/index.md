@@ -1,15 +1,16 @@
 ---
-title: "Pages"
-description: "Add a default page, documentation page, blog post or contributor page. Customize the homepage and 404 page."
-lead: "Add a default page, documentation page, blog post or contributor page."
-date: 2020-11-23T11:55:16+01:00
-lastmod: 2020-11-23T11:55:16+01:00
-draft: false
+title: '"Halaman"'
+description: '"Tambahkan halaman default, halaman dokumentasi, postingan blog, atau halaman kontributor. Sesuaikan beranda dan halaman 404."'
+lead: '"Tambahkan halaman default, halaman dokumentasi, postingan blog, atau halaman kontributor."'
+date: '2020-11-23 11:55:16 +0100'
+lastmod: '2020-11-23 11:55:16 +0100'
+draft: 'false'
 images: []
-weight: 211
-toc: true
+weight: '211'
+toc: 'true'
 ---
-## Content tree:
+
+## Struktur konten:
 
 ```bash
 ..
@@ -54,37 +55,28 @@ toc: true
 └── _index.md
 ```
 
-See also the Hugo docs: [Content Organization](https://gohugo.io/content-management/organization/).
+Lihat juga dokumen Hugo: [Organisasi Konten](https://gohugo.io/content-management/organization/) .
 
-## Add a default page
+## Tambahkan halaman default
 
-### Example
+### Contoh
 
 ```bash
 npm run create about/index.md
 ```
 
-## Add a documentation page
+## Tambahkan halaman dokumentasi
 
-### Example
+### Contoh
 
 ```bash
 npm run create docs/overview/introduction.md
 ```
 
-## Add a blog post
+## Tambahkan posting blog
 
-### Example
+### Contoh
 
 ```bash
 npm run create blog/say-hello-to-doks/index.md
 ```
-
-## Add a contributor page
-
-### Example
-
-```bash
-npm run create contributors/henk-verlinde/_index.md
-```
-
