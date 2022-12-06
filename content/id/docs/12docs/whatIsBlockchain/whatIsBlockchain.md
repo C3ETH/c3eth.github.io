@@ -1,6 +1,6 @@
 ---
-title: What is Blockchain?
-description: What is Blockchain?
+title: '"Apa itu Blockchain?"'
+description: '"Apa itu Blockchain?"'
 lead: ''
 date: "06-10-2020 08:48:23 +0000"
 lastmod: "06-10-2020 08:48:23 +0000"
