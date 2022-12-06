@@ -1,37 +1,37 @@
 ---
-title: "Cardano Annual Market Report"
-description: "Our mission is to bring the most comprehensive knowledge about Cardano to the community in Vietnam."
+title: '"Laporan Pasar Tahunan Cardano"'
+description: '"Misi kami adalah membawa pengetahuan terlengkap tentang Cardano kepada komunitas di Vietnam."'
 ---
-{{<  youtube gZyouiBW2Eo >}}
 
-## Catalyst TV - Cardano Annual Market Report
+{{&lt;  youtube gZyouiBW2Eo &gt;}}
 
-Make a market report with professional methodology, implement results in multi-channel communication, especially publish in local mediums.
-**Shout out to one of the well-prepared proposals in Fund8 of Mr. Tung Tran planning to build a creditable database report**
+## Catalyst TV - Laporan Pasar Tahunan Cardano
 
-- **Challenge:** F8: Film + Media (FAM) creatives unite!
-- **Proposal:** [Cardano Annual Market Report](https://cardano.ideascale.com/c/idea/397417)  
-- **Requested Fund:** 10000
+Buat laporan pasar dengan metodologi profesional, terapkan hasil dalam komunikasi multi-saluran, publikasikan di media lokal. **Apresiasi khusus ke salah satu proposal yang disiapkan dengan baik di Fund8 dari Mr. Tung Tran yang berencana membangun laporan basis data yang dapat diandalkan**
 
-### Meet the Team:
+- **Tantangan:** F8: Film + Media (FAM) creatives unite!
+- **Proposal:** [Laporan Pasar Tahunan Cardano](https://cardano.ideascale.com/c/idea/397417)
+- **Dana yang diminta:** 10000
 
-Tran Thanh Tung  
-[**LinkedIn**](https://www.linkedin.com/in/tranthanhtung37/)
+### Temui Tim:
 
-#### Experience
+Tran Thanh Tung
+ [**LinkedIn**](https://www.linkedin.com/in/tranthanhtung37/)
 
-- MBA degree
-- 06 years experience in Marketing
-- 04 years experience in Digital Marketing (Strongest in WordPress, SEO, Social & Community Marketing)
-- 03 years experience in Blockchain Industry)
-- Founder www.vneconomics.com (objective is to increase cognition of Vietnamese about Blockchain Technology)
+#### Pengalaman
 
-Ha Minh Trang  
-[**Facebook**](https://www.facebook.com/minhtrang.ha.3)
+- gelar MBA
+- 6 tahun pengalaman di bidang Pemasaran
+- 4 tahun pengalaman dalam Pemasaran Digital (Terkuat di WordPress, SEO, Pemasaran Sosial &amp; Komunitas)
+- 3 tahun pengalaman di Industri Blockchain
+- Pendiri www.vneconomics.com (yang bertujuan untuk meningkatkan pengetahuan orang Vietnam tentang Teknologi Blockchain)
 
-#### Experience
+Ha Minh Trang
+ [**Facebook**](https://www.facebook.com/minhtrang.ha.3)
 
-- MBA degree
-- 08 years experience in Marketing
-- 06 years experience in the Education field
-- [Published Article](http://jabes.ueh.edu.vn/Home/SearchArticle?article_id=8c4aeb8e-f1d4-47aa-9dbd-c8206e11eb7d)
+#### Pengalaman
+
+- gelar MBA
+- 8 tahun pengalaman dalam Pemasaran
+- 6 tahun pengalaman di bidang Pendidikan
+- [Artikel yang Diterbitkan](http://jabes.ueh.edu.vn/Home/SearchArticle?article_id=8c4aeb8e-f1d4-47aa-9dbd-c8206e11eb7d)
