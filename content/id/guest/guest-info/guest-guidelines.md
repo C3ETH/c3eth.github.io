@@ -2,8 +2,8 @@
 title: '"Intro"'
 description: '"Cardano Catalyst Community Eastern Town Hall (C3ETH) Panduan hosting ruang Breakout"'
 lead: '"Cardano Catalyst Community Eastern Town Hall (C3ETH) Panduan hosting ruang Breakout"'
-draft: 'false'
-weight: '100'
+draft: false
+weight: 100
 images: []
 ---
 
