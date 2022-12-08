@@ -3,7 +3,7 @@ title: '"Laporan Pasar Tahunan Cardano"'
 description: '"Misi kami adalah membawa pengetahuan terlengkap tentang Cardano kepada komunitas di Vietnam."'
 ---
 
-{{&lt;  youtube gZyouiBW2Eo &gt;}}
+{{<  youtube gZyouiBW2Eo >}}
 
 ## Catalyst TV - Laporan Pasar Tahunan Cardano
 
