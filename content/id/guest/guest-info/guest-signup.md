@@ -1,9 +1,9 @@
 ---
 title: '"Formulir pendaftaran"'
 description: '"Formulir pendaftaran"'
-draft: 'false'
+draft: false
 images: []
-weight: '100'
+weight: 100
 ---
 
 Daftar melalui tautan berikut: <a href="https://forms.gle/2n9CJ76BREchQWT37" target="_blank">Pendaftaran ruang breakout</a>
