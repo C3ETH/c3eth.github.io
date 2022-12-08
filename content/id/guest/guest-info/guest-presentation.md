@@ -2,7 +2,7 @@
 title: '"Presentasi"'
 description: '"Mempersiapkan presentasi Anda"'
 lead: '"Mempersiapkan presentasi Anda"'
-draft: 'false'
+draft: false
 images: []
 ---
 
