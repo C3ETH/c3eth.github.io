@@ -1,7 +1,7 @@
 ---
 title: '"Unggah rekaman"'
 description: '"Pedoman unggah rekaman"'
-draft: 'false'
+draft: false
 images: []
 ---
 
