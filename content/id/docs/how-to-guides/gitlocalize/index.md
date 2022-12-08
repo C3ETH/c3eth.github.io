@@ -2,12 +2,12 @@
 title: '"Catatan Gitlocalize"'
 description: '"Beberapa aturan sebelum mendorong komit ke situs web"'
 lead: '"Beberapa aturan sebelum mendorong komit ke situs web"'
-date: "23-11-2020 11:55:16 +0100"
-lastmod: "23-11-2020 11:55:16 +0100"
-draft: 'false'
+ddate: 2022-11-23T11:55:16+01:00
+lastmod: 2022-11-23T11:55:16+01:00
+draft: false
 images: []
-weight: '211'
-toc: 'true'
+weight: 211
+toc: true
 ---
 
 Setiap markdown yang Anda buat akan memiliki front matter yaml (di atas setiap file markdown) :
