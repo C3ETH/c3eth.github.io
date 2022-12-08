@@ -2,13 +2,13 @@
 title: '"L-Earning Bazaar: Platform Building"'
 description: '"L-Earning Bazaar: Platform Building"'
 lead: ''
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
-draft: 'false'
+date: 2020-11-23T11:55:16+01:00
+lastmod: 2020-11-23T11:55:16+01:00
+draft: false
 images: []
 ---
 
-{{&lt; youtube FktLkt_R9eU &gt;}}
+{{< youtube FktLkt_R9eU >}}
 
 ## Catalyst TV - Bazaar Pendapatan-L: Pembangunan Platform
 
