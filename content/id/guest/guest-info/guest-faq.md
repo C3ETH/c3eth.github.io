@@ -2,9 +2,9 @@
 title: '"FAQs"'
 description: '"FAQs"'
 lead: '"Silakan telusuri FAQ untuk menemukan info yang relevan dengan cepat"'
-draft: 'false'
+draft: false
 images: []
-weoght: '90'
+weoght: 90
 ---
 
 ### :round_pushpin: Apakah saya perlu mendaftar untuk menghosting ruang Breakout?
