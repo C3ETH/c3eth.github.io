@@ -2,12 +2,12 @@
 title: '"Halaman"'
 description: '"Tambahkan halaman default, halaman dokumentasi, postingan blog, atau halaman kontributor. Sesuaikan beranda dan halaman 404."'
 lead: '"Tambahkan halaman default, halaman dokumentasi, postingan blog, atau halaman kontributor."'
-date: '2020-11-23 11:55:16 +0100'
-lastmod: '2020-11-23 11:55:16 +0100'
-draft: 'false'
+date: 2020-11-23T11:55:16+01:00
+lastmod: 2020-11-23T11:55:16+01:00
+draft: false
 images: []
-weight: '211'
-toc: 'true'
+weight: 211
+toc: true
 ---
 
 ## Struktur konten:
