@@ -1,8 +1,8 @@
 ---
-title: '"ECS"'
+title: "ECS"
 weight: 10
-description: '"ECS adalah sekolah tempat Anda dapat belajar tentang Cataslyt dalam bahasa Belahan Bumi Timur dalam format workshop"'
-lead: "\"Selamat datang di Eastern Catalyst School \U0001F393!\""
+description: "ECS adalah sekolah tempat Anda dapat belajar tentang Cataslyt dalam bahasa Belahan Bumi Timur dalam format workshop"
+lead: "Selamat datang di Eastern Catalyst School "
 ---
 
 ## Apa itu Eastern Catalyst School (ECS)?

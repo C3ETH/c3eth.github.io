@@ -1,7 +1,7 @@
 ---
-title: '"FAQs"'
-description: '"FAQs"'
-lead: '"Silakan telusuri FAQ untuk menemukan info yang relevan dengan cepat"'
+title: "FAQs"
+description: "FAQs"
+lead: "Silakan telusuri FAQ untuk menemukan info yang relevan dengan cepat"
 draft: false
 images: []
 weoght: 90

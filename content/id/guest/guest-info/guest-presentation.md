@@ -1,7 +1,7 @@
 ---
-title: '"Presentasi"'
-description: '"Mempersiapkan presentasi Anda"'
-lead: '"Mempersiapkan presentasi Anda"'
+title: "Presentasi"
+description: "Mempersiapkan presentasi Anda"
+lead: "Mempersiapkan presentasi Anda"
 draft: false
 images: []
 ---

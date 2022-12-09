@@ -1,13 +1,13 @@
 ---
-title: '"Intro"'
-description: '"Cardano Catalyst Community Eastern Town Hall (C3ETH) Panduan hosting ruang Breakout"'
-lead: '"Cardano Catalyst Community Eastern Town Hall (C3ETH) Panduan hosting ruang Breakout"'
+title: "Intro"
+description: "Cardano Catalyst Community Eastern Town Hall (C3ETH) Panduan hosting ruang Breakout"
+lead: "Cardano Catalyst Community Eastern Town Hall (C3ETH) Panduan hosting ruang Breakout"
 draft: false
 weight: 100
 images: []
 ---
 
-*Notes:*
+_Notes:_
 
 > Beberapa konten dan informasi yang digunakan di halaman ini telah digunakan kembali dan/atau direplikasi dari Catalyst Swam [ATH Host Guides v2](https://docs.google.com/document/d/1LAcNTpvk3duQTpkRzb5OiYwR0nUQBq892Gj_-lOysw8/edit)
 
