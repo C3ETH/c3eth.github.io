@@ -1,8 +1,8 @@
 ---
-title: '"Panduan Kontribusi c3eth"'
-weight: '10'
-description: '"Cara berkontribusi pada dokumentasi Eastern Town Hall"'
-lead: '"Cara berkontribusi pada dokumentasi Eastern Town Hall"'
+title: "Panduan Kontribusi c3eth"
+weight: 10
+description: "Cara berkontribusi pada dokumentasi Eastern Town Hall"
+lead: "Cara berkontribusi pada dokumentasi Eastern Town Hall"
 ---
 
 Kami menggunakan [Hugo](https://gohugo.io/) untuk memformat dan menghasilkan [situs web c3eth](https://c3eth.github.io/) dan [Doks](https://getdoks.org/) untuk gaya dan struktur situs.
