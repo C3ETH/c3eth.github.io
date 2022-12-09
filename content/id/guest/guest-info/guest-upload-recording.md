@@ -1,6 +1,6 @@
 ---
-title: '"Unggah rekaman"'
-description: '"Pedoman unggah rekaman"'
+title: "Unggah rekaman"
+description: "Pedoman unggah rekaman"
 draft: false
 images: []
 ---
