@@ -1,8 +1,8 @@
 ---
-title: '"Pelokalan Dokumen C3ETH"'
-weight: '10'
-description: '"Cara berkontribusi pada dokumentasi Eastern Town Hall"'
-lead: '"Cara berkontribusi pada dokumentasi Eastern Town Hall"'
+title: "Pelokalan Dokumen C3ETH"
+weight: 10
+description: "Cara berkontribusi pada dokumentasi Eastern Town Hall"
+lead: "Cara berkontribusi pada dokumentasi Eastern Town Hall"
 ---
 
 Terima kasih atas minat Anda untuk menerjemahkan (melokalkan) Dokumen C3ETH 😊 Pekerjaan Anda membuat dokumen lebih mudah diakses dan tersedia lebih luas untuk komunitas kami di seluruh dunia.
