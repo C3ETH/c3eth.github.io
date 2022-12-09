@@ -1,9 +1,9 @@
 ---
 title: "Arsitektur Cardano"
 description: "Arsitektur Cardano"
-lead: ''
-date: 06-10-2020 08:48:23 +0000
-lastmod: 06-10-2020 08:48:23 +0000
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
 draft: false
 images: []
 ---
@@ -98,7 +98,7 @@ Node cardano hanya menyimpan blockchain itu sendiri dan informasi terkait yang d
 Baca lebih lanjut tentang:
 
 - Cardano DB Sync dan komponennya
-- [MENGHANCURKAN](https://docs.cardano.org/cardano-components/smash)
+- [SMASH](https://docs.cardano.org/cardano-components/smash)
 
 ### Tentang era dan implementasi Cardano
 

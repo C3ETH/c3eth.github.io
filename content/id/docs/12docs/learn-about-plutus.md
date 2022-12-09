@@ -1,7 +1,7 @@
 ---
-title: "Pelajari tentang Plutus"
+title: "Belajar tentang Plutus"
 description: "Belajar tentang Plutus"
-lead: ''
+lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -24,9 +24,9 @@ Kontrak pintar Plutus terdiri dari bagian-bagian yang berjalan di blockchain (ko
 
 ### Model akuntansi yang digunakan oleh Plutus
 
-Cardano menggunakan [model akuntansi UTXO yang diperluas (EUTXO)](https://docs.cardano.org/plutus/eutxo-explainer) dimana memperluas keluaran (O) transaksi (TX) yang tidak terpakai (U) dari akuntansi model (UTXO) model (digunakan oleh Bitcoin). Dalam model UTXO, suatu transaksi memiliki *input* dan *output* , dimana **input** merupakan output yang tidak terpakai dari transaksi sebelumnya. Segera setelah output digunakan sebagai input dalam suatu transaksi, itu menjadi terpakai dan tidak akan pernah bisa digunakan lagi. **Output** ditentukan oleh alamat (kunci publik atau hash kunci publik) dan nilai (terdiri dari jumlah ada dan opsional, jumlah token asli tambahan).
+Cardano menggunakan [model akuntansi UTXO yang diperluas (EUTXO)](https://docs.cardano.org/plutus/eutxo-explainer) dimana memperluas keluaran (O) transaksi (TX) yang tidak terpakai (U) dari akuntansi model (UTXO) model (digunakan oleh Bitcoin). Dalam model UTXO, suatu transaksi memiliki _input_ dan _output_ , dimana **input** merupakan output yang tidak terpakai dari transaksi sebelumnya. Segera setelah output digunakan sebagai input dalam suatu transaksi, itu menjadi terpakai dan tidak akan pernah bisa digunakan lagi. **Output** ditentukan oleh alamat (kunci publik atau hash kunci publik) dan nilai (terdiri dari jumlah ada dan opsional, jumlah token asli tambahan).
 
-EUTXO memperluas model UTXO dengan mengizinkan alamat keluaran berisi logika kompleks untuk memutuskan transaksi mana yang dapat membuka kuncinya, dan dengan menambahkan data *khusus* ke semua keluaran. Model ini menawarkan keunggulan unik dibandingkan model akuntansi lainnya. Keberhasilan atau kegagalan validasi transaksi hanya bergantung pada transaksi itu sendiri dan inputnya dan bukan pada hal lain di blockchain. Akibatnya, validitas transaksi dapat diperiksa *di luar rantai* sebelum transaksi dikirim ke blockchain. Sebuah transaksi masih bisa gagal jika beberapa transaksi lain secara bersamaan mengkonsumsi input yang diharapkan transaksi tersebut. Namun, jika semua input masih ada, transaksi *dijamin* berhasil.
+EUTXO memperluas model UTXO dengan mengizinkan alamat keluaran berisi logika kompleks untuk memutuskan transaksi mana yang dapat membuka kuncinya, dan dengan menambahkan data _khusus_ ke semua keluaran. Model ini menawarkan keunggulan unik dibandingkan model akuntansi lainnya. Keberhasilan atau kegagalan validasi transaksi hanya bergantung pada transaksi itu sendiri dan inputnya dan bukan pada hal lain di blockchain. Akibatnya, validitas transaksi dapat diperiksa _di luar rantai_ sebelum transaksi dikirim ke blockchain. Sebuah transaksi masih bisa gagal jika beberapa transaksi lain secara bersamaan mengkonsumsi input yang diharapkan transaksi tersebut. Namun, jika semua input masih ada, transaksi _dijamin_ berhasil.
 
 ### Inti Plutus
 

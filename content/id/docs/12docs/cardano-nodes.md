@@ -1,7 +1,7 @@
 ---
 title: "Node Cardano"
 description: "Node Cardano"
-lead: ''
+lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -12,11 +12,11 @@ images: []
 
 ## Bagaimana cara kerjanya?
 
-*[Stake pools]* (https://docs.cardano.org/learn/stake-pools) menggunakan node Cardano untuk memvalidasi bagaimana pool berinteraksi dengan jaringan dan bertanggung jawab untuk pemrosesan transaksi dan produksi blok. Mereka bertindak sebagai node server andal yang memegang dan memelihara gabungan stake berbagai pemangku kepentingan dalam satu entitas.
+_[Stake pools]_ (https://docs.cardano.org/learn/stake-pools) menggunakan node Cardano untuk memvalidasi bagaimana pool berinteraksi dengan jaringan dan bertanggung jawab untuk pemrosesan transaksi dan produksi blok. Mereka bertindak sebagai node server andal yang memegang dan memelihara gabungan stake berbagai pemangku kepentingan dalam satu entitas.
 
 ### Memproduksi blok
 
-Tujuan teknologi blockchain adalah menghasilkan rantai catatan (blok) yang dapat diverifikasi secara independen dan terhubung secara kriptografis. Jaringan produsen blok bekerja untuk memajukan blockchain secara kolektif. Protokol *[konsensus]* (https://docs.cardano.org/core-concepts/consensus-explained) memberikan transparansi dan memutuskan blok kandidat mana yang harus digunakan untuk memperpanjang rantai.
+Tujuan teknologi blockchain adalah menghasilkan rantai catatan (blok) yang dapat diverifikasi secara independen dan terhubung secara kriptografis. Jaringan produsen blok bekerja untuk memajukan blockchain secara kolektif. Protokol _[konsensus]_ (https://docs.cardano.org/core-concepts/consensus-explained) memberikan transparansi dan memutuskan blok kandidat mana yang harus digunakan untuk memperpanjang rantai.
 
 Transaksi valid yang dikirimkan mungkin disertakan dalam blok baru mana pun. Sebuah blok secara kriptografis ditandatangani oleh produsernya dan ditautkan ke blok sebelumnya dalam rantai. Hal ini membuat tidak mungkin untuk menghapus transaksi dari satu blok, mengubah urutan blok, menghapus satu blok dari rantai (jika sudah memiliki sejumlah blok lain yang mengikutinya), atau untuk memasukkan blok baru ke dalam rantai tanpa memberi tahu semua peserta jaringan. Ini memastikan integritas dan transparansi ekspansi blockchain.
 
@@ -26,7 +26,7 @@ Blockchain Cardano menggunakan protokol [Ouroboros Praos](https://eprint.iacr.or
 
 ### Pemilihan pemimpin slot
 
-Jaringan Cardano terdiri dari sejumlah stake pool yang mengontrol kepemilikan agregat dari pemiliknya dan pemangku kepentingan lainnya, yang juga dikenal sebagai *delegator* . Pemimpin slot dipilih secara acak dari antara stake pool. Semakin banyak taruhan yang dikendalikan oleh pool, semakin besar peluangnya untuk terpilih sebagai pemimpin slot untuk menghasilkan blok baru yang diterima ke dalam blockchain. Ini adalah konsep dasar dari proof of stake (PoS). Untuk mempertahankan level playing field, dan mencegah situasi di mana sejumlah kecil pool yang sangat besar mengendalikan mayoritas stake, Cardano memiliki sistem insentif yang mencegah pendelegasian ke pool yang sudah mengendalikan sebagian besar dari total stake.
+Jaringan Cardano terdiri dari sejumlah stake pool yang mengontrol kepemilikan agregat dari pemiliknya dan pemangku kepentingan lainnya, yang juga dikenal sebagai _delegator_ . Pemimpin slot dipilih secara acak dari antara stake pool. Semakin banyak taruhan yang dikendalikan oleh pool, semakin besar peluangnya untuk terpilih sebagai pemimpin slot untuk menghasilkan blok baru yang diterima ke dalam blockchain. Ini adalah konsep dasar dari proof of stake (PoS). Untuk mempertahankan level playing field, dan mencegah situasi di mana sejumlah kecil pool yang sangat besar mengendalikan mayoritas stake, Cardano memiliki sistem insentif yang mencegah pendelegasian ke pool yang sudah mengendalikan sebagian besar dari total stake.
 
 ### Validasi transaksi
 

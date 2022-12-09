@@ -1,30 +1,29 @@
 ---
 title: "ECS"
 weight: 10
-description: "ECS is a school where you can learn about Cataslyt in the language of the Eastern Hemisphere in a workshop format"
-lead: "Welcome to Eastern Catalyst School 🎓 !"
+description: "ECS adalah sekolah tempat Anda dapat belajar tentang Cataslyt dalam bahasa Belahan Bumi Timur dalam format workshop"
+lead: "Selamat datang di Eastern Catalyst School "
 ---
 
-## What is Eastern Catalyst School (ECS)?
+## Apa itu Eastern Catalyst School (ECS)?
 
-Eastern Catalyst School is a Catalyst School-affiliated Eastern Townhall activity that aims to provide the community with fundamental to in-depth knowledge about Cardano's Catalyst project, including becoming a Proposer, Proposal Assessor and voter.
+Eastern Catalyst School adalah kegiatan Eastern Town Hall yang berafiliasi dengan Catalyst School yang bertujuan untuk memberikan komunitas Cardano Indonesia pengetahuan mendasar hingga mendalam tentang Project Catalyst Cardano, termasuk menjadi Pengusul, Penilai Proposal dan Pemilih.
 
-## About Eastern Catalyst School (ECS)
+## Tentang Eastern Catalyst School (ECS)
 
-Eastern Catalyst School is simply Catalyst School in 3 local languages in 3 countries:
+Eastern Catalyst School sederhananya adalah Catalyst School dalam 3 bahasa lokal di 3 negara:
 
 - Indonesia
 - Vietnam
-- Japanese
+- Jepang
 
-It is an initiative from Eastern Townhall core members to make the materials given in Catalyst School more approachable for non-English speakers. It was proposed to [Project Catalyst](https://cardano.ideascale.com/c/idea/405311) in Fund 8 and got funded, and covers only 3 countries as those are currently the countries in Eastern Townhall where English is not spoken fluently by nature.
+Ini adalah inisiatif dari anggota inti Eastern Town Hall untuk membuat materi yang diberikan di Catalyst School lebih mudah dipahami oleh penutur non-bahasa Inggris. Ide ini diusulkan ke [Project Catalyst](https://cardano.ideascale.com/c/idea/405311) di Dana 8 dan berhasil didanai dan saat ini hanya mencakup 3 negara karena saat ini adalah negara-negara di Eastern Town Hall di mana bahasa Inggris bukan bahasa komunikasi utama.
 
-There are several activities in the funded proposal including:
+Ada beberapa kegiatan dalam proposal yang berhasil mendapatkan dana ini, antara lain :
 
-- 6 workshops in each Fund 9 and Fund 10 (total of 12 workshops)
-- 1-on-1 sessions offered for those who needed more help/information than offered in the scheduled workshops
-- The written media such as this website.
-- The materials cover the phases in the Project Catalyst as well as the roles available in it. Proposer, Proposal Assessor (PA), Veteran Proposal Assessor (VPA), and Voter are among the roles covered in depth.
+- 6 workshop masing-masing di Fund 9 dan Fund 10 (total 12 workshop)
+- Sesi 1-ke-1 ditawarkan bagi mereka yang membutuhkan lebih banyak bantuan/informasi daripada yang ditawarkan dalam workshop terjadwal
+- Media tertulis seperti website ini
+- Materi mencakup fase-fase dalam Project Catalyst serta peran-peran yang tersedia di dalamnya. Pengusul, Penilai Proposal (PA), Penilai Proposal Veteran (VPA) dan Pemilih adalah beberapa peran yang akan dibahas secara mendalam
 
-Please find such information on this site, in each of the 3 languages, as well as the recordings of past events, and future scheduled events.
-
+Akan temukan informasi tersebut di situs ini, dalam 3 bahasa, serta rekaman acara yang lalu, dan acara yang dijadwalkan di masa mendatang.

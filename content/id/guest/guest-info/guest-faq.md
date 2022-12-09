@@ -1,37 +1,36 @@
 ---
-title : "FAQs"
+title: "FAQs"
 description: "FAQs"
-lead: "Kindly skim through FAQs to find quickly relevant info"
+lead: "Silakan telusuri FAQ untuk menemukan info yang relevan dengan cepat"
 draft: false
 images: []
 weoght: 90
 ---
 
+### :round_pushpin: Apakah saya perlu mendaftar untuk menghosting ruang Breakout?
 
-### :round_pushpin: Do I need to register to host a Breakout room?
+Ya, silakan isi formulir berikut.
 
-Yes, please fill in the following form.
+### :round_pushpin: Bagaimana kami menerima pendaftaran ruang Breakout Anda?
 
-### :round_pushpin: How do we accept your Breakout room register?
+Anda perlu mengisi formulir yang disediakan dan beri kami setidaknya 1 minggu kepada anggota Tim Inti ETH untuk memvalidasi info yang diberikan dan setelah hasil konsensus diterima/ditolak dari tim ETH, Anda akan diberi tahu tentang hasilnya. Penjelasan singkat akan diberikan apabila kami menolak permintaan hosting ruang Breakout.
 
-You need to fill in the form provided and allow us at least 1 week for ETH Core Team members to validate provided info and once the consensus result of being accepted/rejected from the ETH team, you will be notified of the outcome. A brief explanation will be provided for rejecting Breakout room hosting as final.
+### :round_pushpin: Bisakah saya meminta ruang Breakout sendiri dan mempresentasikan dalam bahasa dan audiens saya sendiri?
 
-### :round_pushpin: Can I request a Breakout room and present in my own language and audience?
+Ya, selama isinya sesuai dan berdampak, dan peserta paham.
 
-Yes, as long as the content is suitable and impactful, and the participant understands.
+### :round_pushpin: Apakah hosting Breakout room sama dengan kegiatan IdeaFest Reel di mana Anda dapat mempromosikan proposal Anda sebelum atau selama periode pemungutan suara?
 
-### :round_pushpin: Is Breakout room hosting events the same as IdeaFest Reel activities where you can promote your proposals before or during the voting period?
+Tidak, semua presentasi dan aktivitas yang terkait dengan IdeaFest Reel tidak akan ada dalam pendaftaran hosting breakout.
 
-No, all presentations and activities related to IdeaFest Reel will be not present in the breakout hosting sign-up.
+### :round_pushpin: Mengapa konsensus diperlukan untuk setiap hosting ruang Breakout di ETH?
 
-### :round_pushpin: Why does consensus need for each Breakout room hosting in ETH?
+Karena sifat audiens yang mayoritas pembicara non-Inggris, kami harus melakukan uji tuntas pada konten, niat, tujuan, penggunaan bahasa presentasi di breakout room, dll. Dengan demikian, memaksimalkan dampak dan hasil hosting akan bermanfaat bagi keduanya para peserta dan pemateri.
 
-Due to the nature of mainly non-English audiences, it is required for us to do due diligence on content, intention, purpose, presentation language use in a breakout room, etc. Thus, maximising hosting’s impacts and outcomes would be a benefit for both the participants and presenters.
+### :round_pushpin: Bisakah satu grup menempati dan hosting selama beberapa minggu berturut-turut di breakout room?
 
-### :round_pushpin: Can one group occupy and present for multiple and consecutive weeks in a breakout room?
+Breakout room merupakan wadah komunikasi bagi seluruh anggota komunitas yang ingin menyampaikan dan menyampaikan ide-ide mereka dalam bahasa Inggris atau bahasa mereka sendiri, sehingga waktu dan kesempatan akan dibagi rata antara semua anggota dan komunitas.
 
-Breakout room is a communication platform for all community members who wish to bring and share their ideas in English or their own languages, therefore, time and chance will divide equally among all members and the community.
+### :round_pushpin: Saat diterima untuk hosting di Breakout room ETH. Kemana informasi presenter akan ditampilkan?
 
-### :round_pushpin: When accepted for hosting in the ETH Breakout room. Where will the presenter's information be displaced?
-
-Your collected info will appear at <https://easterntownhall.com/guests> This info is there to stay. Your Breakout room recording video link will be shared with us and accessible from the ETH website. Subject to your recording quality, the content meets ETH and Cardano common values and does not bring the negative perception to Cardano proposers, builders and other communities’ members.
+Informasi tentang akan muncul di [https://easterntownhall.com/guests](https://easterntownhall.com/guests) Info ini akan terus berada disana. Tautan video rekaman ruang Breakout Anda akan dibagikan kepada kami dan dapat diakses dari situs web ETH. Akan terlebih dahulu kita nilai kualitas rekaman Anda, konten memenuhi nilai-nilai umum ETH dan Cardano dan tidak membawa persepsi negatif kepada pengusul Cardano, pembangun, dan anggota komunitas lainnya.
