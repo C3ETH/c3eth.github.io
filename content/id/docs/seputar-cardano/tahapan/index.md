@@ -1,6 +1,5 @@
 ---
-title: "
-Tahapan - Tahapan Implementasi Ouroboros "
+title: "Tahapan - Tahapan Implementasi Ouroboros "
 date: 2022-09-20T09:19:42+01:00
 lastmod: 2022-09-20T09:19:42+01:00
 draft: false
@@ -9,7 +8,6 @@ images: []
 contributors: ["Andre Cahyadi"]
 pinned: false
 homepage: false
-
 ---
 
 Dipublikasikan pada tanggal 20 Sep 2022<br/>

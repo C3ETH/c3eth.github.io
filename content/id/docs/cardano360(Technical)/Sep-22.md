@@ -1,6 +1,6 @@
 ---
 title: "
-[Cardano 360] Sep 2022 Update - Technical "
+[Cardano 360] Sep 2022"
 date: 2022-10-15T09:19:42+01:00
 lastmod: 2022-10-16T09:19:42+01:00
 draft: false
