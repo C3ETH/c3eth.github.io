@@ -1,6 +1,11 @@
 ---
 title: "Cardano360 - Jan 22"
-weight: 4
+date: 2022-01-14T09:19:42+01:00
+lastmod: 2022-01-16T09:19:42+01:00
+draft: false
+weight: 50
+images: []
+contributors: ["Andre Cahyadi"]
 # description: ""
 ---
 

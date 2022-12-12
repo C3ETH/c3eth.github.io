@@ -1,6 +1,11 @@
 ---
 title: "Cardano360 - Feb 22"
-weight: 4
+date: 2022-02-14T09:19:42+01:00
+lastmod: 2022-02-14T09:19:42+01:00
+draft: false
+weight: 50
+images: []
+contributors: ["Andre Cahyadi"]
 # description: ""
 ---
 
@@ -21,7 +26,7 @@ weight: 4
 - UTXO HD project, penyimpanan status ledger menggunakan campuran RAM & Hard Disk Drive → peningkatan utilisasi jaringan yang sangat besar.
 - Topologi jaringan P2P yang dinamis, dimana semua node dan peer dapat secara efisien terhubung satu sama lain.
 - Plutus certification - Cardano Dapps asurance program → untuk memberikan rasa aman kepada para pengguna ketika menggunakan Plutus Dapps, dimana Dapps yang ingin digunakan sudah tersertifikasi terlebih dahulu.
-- IOG bekerja sama dengan Cardano Defi Alliance, dimana Cardano Defi Alliance akan membantu membuatkan tooling untuk para developer Dapps, karena beberapa tooling dari IOG sudah mulai *obsolete* dan tidak sempat dikembangkan lagi oleh IOG.
+- IOG bekerja sama dengan Cardano Defi Alliance, dimana Cardano Defi Alliance akan membantu membuatkan tooling untuk para developer Dapps, karena beberapa tooling dari IOG sudah mulai _obsolete_ dan tidak sempat dikembangkan lagi oleh IOG.
 - Pipelining & Input Endorsers, dengan adanya ini Plutus Script compression tidak diperlukan lagi. Justru yang akan dilakukan adalah Plutus Script enhancements:
 
   - Reference Script

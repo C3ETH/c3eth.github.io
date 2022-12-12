@@ -1,7 +1,7 @@
 ---
-title: '"Catatan Gitlocalize"'
-description: '"Beberapa aturan sebelum mendorong komit ke situs web"'
-lead: '"Beberapa aturan sebelum mendorong komit ke situs web"'
+title: "Catatan Gitlocalize"
+description: "Beberapa aturan sebelum mendorong komit ke situs web"
+lead: "Beberapa aturan sebelum mendorong komit ke situs web"
 ddate: 2022-11-23T11:55:16+01:00
 lastmod: 2022-11-23T11:55:16+01:00
 draft: false
@@ -45,7 +45,7 @@ Example: ![gambar](error.png)
 
 Dari gambar di atas, perubahannya adalah:
 
-- Tanda kutip ganda  `title` , `description` , `lead` telah dihapus
+- Tanda kutip ganda `title` , `description` , `lead` telah dihapus
 - Tanda kutip ganda sekarang ditambahkan ke `date` , `lastmod` dan `draft`
 - Kurung sudut `< >` diubah menjadi `&lt; &gt;`
 

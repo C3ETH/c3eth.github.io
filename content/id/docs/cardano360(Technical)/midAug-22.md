@@ -1,6 +1,6 @@
 ---
 title: "
-[Cardano 360] Mid Aug 2022 Update - Technical "
+[Cardano 360] Mid Aug 2022"
 date: 2022-08-14T09:19:42+01:00
 lastmod: 2022-08-14T09:19:42+01:00
 draft: false

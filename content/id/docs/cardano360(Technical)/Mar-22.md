@@ -2,7 +2,9 @@
 title: "Cardano360 - Mar 22"
 linkTitle: "Cardano360 - Mar 22"
 hide_feedback: true
-weight: 4
+date: 2022-03-19T09:19:42+01:00
+lastmod: 2022-03-20T09:19:42+01:00
+weight: 50
 # description: ""
 ---
 
@@ -31,6 +33,7 @@ Untuk Hydra, tidak diperlukan hardfork dalam implementasinya (tidak termasuk ke 
 Sebagai penunjuk bahwa UTXO itu saling berbeda satu sama lain (menjamin determinism dan immutability dari UTXO tersebut). Ketika sebuah transaksi berhasil dijalankan, meng-consume, dan spend UTXO tersebut, UTXO beserta Datum-nya dihapus dari ledger. Output dari transaksi itu harus menghasilkan UTXO baru dengan Datum yang baru juga.
 
 - **Reference Scripts (CIP-33)**
+
   - Membuat ukuran script lebih kecil sehingga ukuran memory yang diperlukan juga lebih sedikit dan biaya transaksi menjadi lebih murah.
   - Hal ini memampukan sebuah aplikasi untuk menunjuk/mereferensikan on-chain pre-recorded script dari transaksi - transaksi lain yang telah terjadi sebelumnya.
 
