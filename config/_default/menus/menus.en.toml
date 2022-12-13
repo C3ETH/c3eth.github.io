@@ -16,6 +16,7 @@
   identifier = "12docs"
   url = "/docs/12docs/"
 
+
 [[main]]
   name = "Docs"
   url = "/docs/catalyst-guide/guides"
@@ -45,9 +46,14 @@
   identifier = "guest"
   url = "/guest/guest-info/guest-guidelines/"
 
+# [[main]]
+#   name = "Blog"
+#   url = "/blog/"
+#   weight = 70
+
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "C3ETH Pool"
+  url = "/stakepool/"
   weight = 70
 
 [[catalyst]]
