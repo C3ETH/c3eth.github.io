@@ -50,6 +50,11 @@
   url = "/blog/"
   weight = 70
 
+[[main]]
+  name = "C3ETH Pool"
+  url = "/stakepool/"
+  weight = 70
+
 [[catalyst]]
   name = "Overview"
   weight = 10
