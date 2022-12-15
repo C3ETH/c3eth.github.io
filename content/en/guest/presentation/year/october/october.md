@@ -1,7 +1,6 @@
 ---
 title: "22/10/2022"
-description: "Hosting a Breakout room on 22/10/2022"
-lead: "Community collaboration broad"
+description: "Hosting a Breakout room for your own community"
 draft: false
 images: []
 ---

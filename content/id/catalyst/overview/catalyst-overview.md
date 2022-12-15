@@ -1,5 +1,5 @@
 ---
-title : "Introduction"
+title: "Introduction"
 description: "Catalyst overview."
 lead: ""
 date: 2020-10-06T08:48:23+00:00
@@ -7,12 +7,29 @@ lastmod: 2020-10-06T08:48:23+00:00
 draft: false
 images: []
 ---
-[TO DO] rewite content on this page
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+## Apa itu Project Catalyst?
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+Eksperimen sistem pemerintahan on-chain terbesar demi terciptanya DAO (Decentralized Autonomous Organization) yang sesungguhnya, dimana masing - masing pihak yang terlibat di dalamnya dapat saling berkolaborasi, belajar, dan berkontribusi bagi pengembangan ekosistem Cardano di dunia nyata.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+Pembiayaan eksperimen ini berasal dari Treasury ADA dengan menggabungkan prosedur proposal dan voting. Setiap anggota komunitas dipersilahkan untuk membuat proposal, melakukan penilaian terhadap proposal, dan ikut dalam proses voting. Semuanya memiliki hak yang sama dan didorong untuk saling berkolaborasi dalam membuat proposal yang inovatif dan powerful.
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Dengan kombinasi dari penelitian dalam pembuatan proposal, eksperimen sosial, dan persetujuan dari anggota komunitas, harapannya adalah tercipta iklim yang demokratis dalam komunitas Cardano.
+
+👉 [Project Catalyst Website](https://projectcatalyst.org/)
+
+## Sejak kapan Project Catalyst mulai berjalan?
+
+Project ini berjalan sejak Agustus 2020.
+
+## Sudah sejauh mana Project Catalyst ini berjalan?
+
+Project Catalyst berjalan sepanjang tahun, namun dibagi ke dalam fase - fase funding yang berdurasi selama 3 bulan. Project pertama yang berjalan adalah Catalyst Fund 1.
+
+## Siapa saja yang terlibat di dalam Project Catalyst?
+
+Secara garis besar, ada 3 pihak utama yang terlibat di dalam Project Catalyst:
+
+- Proposer (pihak yang mengajukan proposal)
+- Voter (pihak yang melakukan voting terhadap proposal)
+- Community Advisors/CA (pihak yang melakukan penilaian terhadap proposal)
