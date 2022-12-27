@@ -1,11 +1,10 @@
 ---
-title : "Thử thách dự án Catalyst và hướng dẫn viết dự án"
+title: "Thử thách dự án Catalyst và hướng dẫn viết dự án"
 description: "What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting?"
-lead: "Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới."
 draft: false
 images: []
-
 ---
+
 Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. Những phát biểu vấn đề, giải pháp, kinh nghiệm liên quan, và số quỹ được yêu cầu sẽ được trình bày trong ứng dụng bỏ phiếu. Điều này sẽ cho phép mọi người tìm hiểu về dự án trước khi bỏ phiếu.
 
 Những kế hoạch dự án và những tệp đính kèm có thể được xem trên nền tảng đổi mới của chúng tôi, được chủ trì bởi Ideascale, để người bỏ phiếu có thể biết thêm nhiều thông tin chi tiết. Điều này có nghĩa là chúng tôi mong muốn mọi người đều cảm thấy tự tin khi đóng góp vào cuộc thảo luận.
@@ -53,11 +52,11 @@ Những trình bày về vấn đề xác định các vấn đề liên quan đ
 **Bằng chứng:** Ủng hộ quan điểm của bạn trong một kế hoạch chi tiết. Sau đây là một ví dụ:
 
 | Thành phần tuyên bố  | Mô tả                                                                             |
-| -------------------- | :---------------------------------------------------------------------------------|
-| *Kết quả mong muốn*  | Chúng tôi muốn chuyển tiền cho người lao động sống ở Philippines một cách hợp lý. |
-| *Vấn đề rào cản*     | 11% dân số Philippines mất tiền vào phí giao dịch.                                |
-| *Chi phí của vấn đề* | Khoảng 1 tỷ Đô la được chi trả cho chi phí chuyển tiền hằng năm.                  |
-| *Bằng chứng*         | Những liên kết đến số liệu chứng minh vấn đề này.                                 |
+| -------------------- | :-------------------------------------------------------------------------------- |
+| _Kết quả mong muốn_  | Chúng tôi muốn chuyển tiền cho người lao động sống ở Philippines một cách hợp lý. |
+| _Vấn đề rào cản_     | 11% dân số Philippines mất tiền vào phí giao dịch.                                |
+| _Chi phí của vấn đề_ | Khoảng 1 tỷ Đô la được chi trả cho chi phí chuyển tiền hằng năm.                  |
+| _Bằng chứng_         | Những liên kết đến số liệu chứng minh vấn đề này.                                 |
 
 Sau đây là một báo cáo vấn đề hoàn chỉnh được cô đọng từ những thông tin trên:
 
@@ -77,7 +76,7 @@ Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan tr�
 
 Điều này nghe có vẻ hiển nhiên, nhưng giải pháp của bạn phải dựa trên một vấn đề đã được biết đến. Nó phải thực sự giải quyết được vấn đề đã được nêu ra trong phần trình bày vấn đề. Một giải pháp tìm kiếm một vấn đề hiếm khi là một lựa chọn hấp dẫn vì nó kém hiệu quả hơn so với việc đáp ứng một nhu cầu riêng biệt. Cho nên hãy nhớ rằng: bắt đầu với việc giải quyết một vấn đề và say đó trình bày tầm nhìn vấn đề của bạn trong mục 'Kế hoạch chi tiết'. 140 ký tự của bạn nên trình bày rõ vấn đề, giải quyết nó, và cung cấp một số thông tin chi tiết về việc giải pháp của bạn khác những giải pháp khác như thế nào.
 
-*Ví dụ về giải pháp*
+_Ví dụ về giải pháp_
 
 > Tạo một tạp chí kỹ thuật số do nhà điều hành bể đào duy trì trên blockchain để giới thiệu Cardano với các đối tượng mới bên ngoài người dùng hiện tại.
 
@@ -97,7 +96,7 @@ Nhận ra được "lợi thế cạnh tranh" của bạn và chắc chắn rằ
 
 Những người đang làm việc trên dự án của bạn có thể cho mượn những chuyên gia và kinh nghiệm của họ cho dự án.
 
-*Ví dụ:*
+_Ví dụ:_
 
 > John Doe hoàn thành bằng tiến sĩ của anh ấy với trọng tâm là khuyến khích các hệ thống cho quỹ của blockchain.
 
@@ -119,25 +118,25 @@ Bạn cần xem kế hoạch của bạn như một lộ trình và phân tích 
 
 Thị trường bạn xác định chưa từng được tiếp cận hoặc ưu tiên trước đó. Thị trường nên được xác định có 20 phần trăm tăng trưởng mỗi năm.
 
-> *Ví dụ:* Giải pháp phần cứng của chúng tôi hoạt động với blockchain proof-of-work (bằng chứng làm việc).
+> _Ví dụ:_ Giải pháp phần cứng của chúng tôi hoạt động với blockchain proof-of-work (bằng chứng làm việc).
 
 #### Sản phẩm
 
 Giải pháp của bạn hoạt động trên thị trường bằng một cách gây ảnh hưởng.
 
-> *Ví dụ:* Việc bổ sung phần cứng này làm giảm mức tiêu thụ năng lượng của các máy khai thác xuống 20%.
+> _Ví dụ:_ Việc bổ sung phần cứng này làm giảm mức tiêu thụ năng lượng của các máy khai thác xuống 20%.
 
 #### Sáp nhập
 
 Lộ trình của bạn để sáp nhập người dùng và nền tảng là rõ ràng và được suy nghĩ kỹ lưỡng.
 
-> *Ví dụ:*  Truy cập vào thông tin mạng thúc đẩy sáp nhập người dùng mà không mất phí
+> _Ví dụ:_ Truy cập vào thông tin mạng thúc đẩy sáp nhập người dùng mà không mất phí
 
 #### Sự độc quyền
 
 Khi bạn phát triển trong lĩnh vực này, công ty của bạn thực sự trở nên mạnh mẽ hơn.
 
-> *Ví dụ:* Sử dụng giao thức Ouroboros cho phép hệ thống của chúng tôi trở nên an toàn hơn khi sự phi tập trung tăng lên.
+> _Ví dụ:_ Sử dụng giao thức Ouroboros cho phép hệ thống của chúng tôi trở nên an toàn hơn khi sự phi tập trung tăng lên.
 
 #### Hãy cho chúng tôi biết số quỹ bạn cần
 
@@ -145,7 +144,7 @@ Những vấn đề phức tạp cần nguồn tài trợ đủ để được g
 
 Bạn cũng nên nhớ rằng ngân sách của bạn nên phù hợp với yêu cầu của dự án mà bạn thực hiện để đạt được mục tiêu. Nếu bạn muốn nhận nguồn tài trợ cho môt buổi họp mặt nhỏ thì khoảng vài trăm đô la là phù hợp. Nếu bạn đang quản lý sự phát triển của cơ sở hạ tầng thì bạn sẽ cần nhiều nguồn lực hơn nữa. Đảm bảo rằng tầm nhìn và số quỹ tài trợ thích hợp nên gắn liền với nhau.
 
-> *Ví dụ:* Tạo ra một podcast tập trung vào nhà phát triển phần mềm sẽ mất khoảng 5,000 đô cho 6 tháng đầu tiên.
+> _Ví dụ:_ Tạo ra một podcast tập trung vào nhà phát triển phần mềm sẽ mất khoảng 5,000 đô cho 6 tháng đầu tiên.
 
 #### Thực hiện
 
@@ -185,11 +184,11 @@ Việc bạn có thể chia sẻ thêm những thông tin cần thiết là rấ
 
 Để làm cho dự án của từng cá nhân trở nên mạnh mẽ nhất có thể, chúng tôi khuyến khích mọi người dùng nền tảng tiên tiến để thảo luận từng ý tưởng. Trên thực tế, chúng tôi đã tạo ra các hướng dẫn dành cho người đánh giá để giúp bạn định hướng cho bài đánh giá của mình. Để có được những cuộc hội thoại hiệu quả và nhiều thông tin, chúng tôi khuyến khích mọi người tập trung phản hồi trên những phương diện sau đây:
 
-*Khả năng đánh giá:* Những chi tiết nào còn thiếu trong dự án mà giúp cho người đánh giá đánh giá chính xác dự án?
+_Khả năng đánh giá:_ Những chi tiết nào còn thiếu trong dự án mà giúp cho người đánh giá đánh giá chính xác dự án?
 
-*Sự ảnh hưởng:* Làm cách nào mà dự án có thể giải quyết tốt hơn thách thức này? Làm cách nào mà chúng ta khuyến khích được mọi người xây dựng dApps trên Cardano trong vòng 6 tháng tới?
+_Sự ảnh hưởng:_ Làm cách nào mà dự án có thể giải quyết tốt hơn thách thức này? Làm cách nào mà chúng ta khuyến khích được mọi người xây dựng dApps trên Cardano trong vòng 6 tháng tới?
 
-*Tính khả thi:* Những cách nào để chỉnh sửa ngân sách, kế hoạch và phạm vi của dự án để làm cho nó dễ đạt được hơn.
+_Tính khả thi:_ Những cách nào để chỉnh sửa ngân sách, kế hoạch và phạm vi của dự án để làm cho nó dễ đạt được hơn.
 
 **Ví dụ**
 
@@ -215,19 +214,19 @@ Thử thách là một câu hỏi giúp cho cộng đồng tập trung vào sự
 
 Dưới đây là một vài ví dụ cho câu hỏi thách thức:
 
-*Quá cụ thể*
+_Quá cụ thể_
 
 > Làm cách nào mà những bể đào ở phía Nam Châu Âu có thể thu hút nhiều người đại diện hơn trong 2 tháng tới?
 
 Câu hỏi thử thách này chỉ giải quyết được những bể đào ở phía Nam Châu Âu. Cardano là một hệ sinh thái toàn cầu mà cho phép mọi người tham gia bằng rất nhiều cách khác nhau. Câu hỏi thử thách nên giúp đỡ tất cả mọi người.
 
-*Quá rộng*
+_Quá rộng_
 
 > Làm cách nào để Cardano trở nên có ích hơn?
 
 Đương nhiên, chúng ta mong muốn Cardano sẽ có ích hơn nhưng Thách thức này không cho người tham dự một thước đo để họ có thể kích thích sự sáng tạo của họ. Các ràng buộc là cần thiết để giúp cộng đồng giải quyết các nhu cầu trực tiếp của hệ sinh thái.
 
-*Vừa đủ*
+_Vừa đủ_
 
 > Làm thế nào chúng tôi có thể khuyến khích các doanh nhân phát triển doanh nghiệp trên Cardano trong sáu tháng tới?
 
