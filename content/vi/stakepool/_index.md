@@ -41,4 +41,4 @@ Cảm ơn bạn 😊.
 - Fixed Cost: <b>340 ADA</b>
 - Pledge: <b>2,500 ADA</b>
 
-[How to delegate and earn rewards?](https://docs.cardano.org/new-to-cardano/how-to-delegate)
+<a href="https://docs.cardano.org/new-to-cardano/how-to-delegate" target="_blank"> Ủy thác và hưởng tiền thưởng nhưng thế nào? </a>
