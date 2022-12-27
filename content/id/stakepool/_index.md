@@ -36,4 +36,4 @@ Mohon selalu dukungannya agar kami dapat terus memperluas jangkauan ke teman - t
 - Fixed Cost: <b>340 ADA</b>
 - Pledge: <b>2,500 ADA</b>
 
-[How to delegate and earn rewards?](https://docs.cardano.org/new-to-cardano/how-to-delegate)
+<a href="https://docs.cardano.org/new-to-cardano/how-to-delegate" target="_blank"> How to delegate and earn rewards? </a>
