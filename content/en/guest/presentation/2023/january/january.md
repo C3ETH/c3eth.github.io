@@ -17,4 +17,6 @@ The topic is about how Blisspot 3.0, a web3 enabled social commerce network, is 
 
 - **Website**: <https://blisspot.app/>
 
-- **Recording (if any)**: N/A
+- **Recording**:
+
+{{<  youtube vVVQFd__EEw >}}
