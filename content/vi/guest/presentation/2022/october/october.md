@@ -1,8 +1,8 @@
 ---
-title: '22/10/2022'
-description: 'Tổ chức phòng Breakout ngày 22/10/2022'
-lead: 'Hợp tác cộng đồng rộng rãi'
-draft: false
+title: 22/10/2022
+description: Tổ chức phòng Breakout ngày 22/10/2022
+lead: Hợp tác cộng đồng rộng rãi
+draft: 'false'
 images: []
 ---
 
@@ -23,7 +23,7 @@ images: []
 - **Mô tả** : Tất cả về dRep (điều kiện để trở thành dRep hợp lệ, tiền thưởng và ảnh hưởng của dRep khi bỏ phiếu..)
 
     - dRep là gì?
-    - In sao Quản trị Cardano cần có dRep
+    - Tại sao Quản trị Cardano cần có dRep?
     - dRep hoạt động như thế nào?
     - Vai trò, nhiệm vụ của mỗi dRep
     - Quyền lợi khi trở thành dRep
