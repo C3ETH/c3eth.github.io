@@ -1,8 +1,8 @@
 ---
-title: 06/11/2022
-description: Tổ chức phòng Breakout ngày 11/06/2022
-lead: Hợp tác cộng đồng rộng rãi
-draft: 'false'
+title: '06/11/2022'
+description: 'Tổ chức phòng Breakout ngày 11/06/2022'
+lead: 'Hợp tác cộng đồng rộng rãi'
+draft: false
 images: []
 ---
 
