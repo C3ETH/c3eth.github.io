@@ -32,4 +32,4 @@ Secara garis besar, ada 3 pihak utama yang terlibat di dalam Project Catalyst:
 
 - Proposer (pihak yang mengajukan proposal)
 - Voter (pihak yang melakukan voting terhadap proposal)
-- Community Advisors/CA (pihak yang melakukan penilaian terhadap proposal)
+- Proposal Assessors/PA (pihak yang melakukan penilaian terhadap proposal)
