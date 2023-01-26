@@ -12,7 +12,7 @@ images: []
 
 - **Danh mục:** Sản phẩm và Dịch vụ
 
-- **Description**: Using DeFi to attach financial utility to NFTs using the permissionless Tangent Protocol
+- **Mô tả** : Sử dụng DeFi để đính kèm tiện ích tài chính vào NFT bằng Giao thức Tangent không cần xác thực
 
 - **Ngôn ngữ** : Tiếng Anh
 
