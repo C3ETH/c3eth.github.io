@@ -1,10 +1,10 @@
 ---
-title: Câu hỏi thường gặp
-description: FAQs
-lead: Vui lòng lướt qua Câu hỏi thường gặp để tìm nhanh thông tin liên quan
-draft: 'false'
+title: "Câu hỏi thường gặp"
+description: "FAQs"
+lead: "Vui lòng lướt qua Câu hỏi thường gặp để tìm nhanh thông tin liên quan"
+draft: false
 images: []
-weoght: '90'
+weoght: 90
 ---
 
 ### :round_pushpin: Tôi có cần đăng ký để tổ chức phòng họp nhóm không?
