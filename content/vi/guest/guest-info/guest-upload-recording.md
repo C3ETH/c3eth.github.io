@@ -1,7 +1,7 @@
 ---
-title: Tải lên bản ghi hình
-description: Upload recording guidelines
-draft: 'false'
+title: "Tải lên bản ghi hình"
+description: "Upload recording guidelines"
+draft: false
 images: []
 ---
 
