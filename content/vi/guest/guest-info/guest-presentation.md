@@ -1,8 +1,8 @@
 ---
-title: Bài thuyết trình
-description: Preparing for your presentation
-lead: Chuẩn bị cho bài thuyết trình của bạn
-draft: 'false'
+title: "Bài thuyết trình"
+description: "Preparing for your presentation"
+lead: "Chuẩn bị cho bài thuyết trình của bạn"
+draft: false
 images: []
 ---
 
