@@ -1,9 +1,9 @@
 ---
-title: Giới thiệu
-description: Cardano Catalyst Community Eastern Town Hall (C3ETH) Breakout rooms hosting Guidelines
-lead: Cộng đồng Cardano Catalyst Tòa thị chính phía Đông (C3ETH) Nguyên tắc tổ chức nhóm phòng
-draft: 'false'
-weight: '100'
+title: "Giới thiệu"
+description: "Cardano Catalyst Community Eastern Town Hall (C3ETH) Breakout rooms hosting Guidelines"
+lead: "Cộng đồng Cardano Catalyst Tòa thị chính phía Đông (C3ETH) Nguyên tắc tổ chức nhóm phòng"
+draft: false
+weight: 100
 images: []
 ---
 
