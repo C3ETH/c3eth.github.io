@@ -1,5 +1,5 @@
 ---
-title : "October"
+title: "December"
 description: "Hosting a Breakout room for your own community"
 draft: false
 images: []
