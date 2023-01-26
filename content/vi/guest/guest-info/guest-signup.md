@@ -1,9 +1,9 @@
 ---
-title: Mẫu đăng ký
-description: Sign-up form
-draft: 'false'
+title: "Mẫu đăng ký"
+description: "Sign-up form"
+draft: false
 images: []
-weight: '100'
+weight: 100
 ---
 
 Đăng ký thông qua liên kết sau: <a href="https://forms.gle/2n9CJ76BREchQWT37" target="_blank">Đăng ký nhóm phòng</a>
