@@ -1,8 +1,8 @@
 ---
-title: 22/10/2022
-description: Tổ chức phòng Breakout ngày 22/10/2022
-lead: Hợp tác cộng đồng rộng rãi
-draft: 'false'
+title: '22/10/2022'
+description: 'Tổ chức phòng Breakout ngày 22/10/2022'
+lead: 'Hợp tác cộng đồng rộng rãi'
+draft: false
 images: []
 ---
 
