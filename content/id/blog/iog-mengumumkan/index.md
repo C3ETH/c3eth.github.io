@@ -1,6 +1,6 @@
 ---
 title: "
-IOG mengumumkan blockchain baru untuk melindungi data & kebebasan teknologi velopment Report mingguan (per 20 Jan 2023) "
+IOG mengumumkan blockchain baru untuk melindungi data & kebebasan teknologi"
 date: 2023-01-23T09:19:42+01:00
 lastmod: 2023-01-24T09:19:42+01:00
 draft: false
@@ -11,6 +11,7 @@ pinned: false
 homepage: false
 
 ---
+
 Dipublikasikan pada tanggal 23 Jan 2022
 
 Disadur & diterjemahkan oleh andre cahyadi ([@prosperaan](https://forum.cardano.org/u/prosperaan))
@@ -21,12 +22,11 @@ Referensi: [IOG announces new blockchain to protect data and safeguard technolog
 
 ### Pengantar
 
-*   Blockchain berbasis perlindungan data, **Midnight**, akan melindungi data komersial dan pribadi yang sensitif
+- Blockchain berbasis perlindungan data, **Midnight**, akan melindungi data komersial dan pribadi yang sensitif
 
-*   Platform berbasis industri pertama yang bertujuan untuk melindungi kebutuhan dasar pengguna untuk berbicara, berinteraksi, dan berbagi informasi dengan aman
+- Platform berbasis industri pertama yang bertujuan untuk melindungi kebutuhan dasar pengguna untuk berbicara, berinteraksi, dan berbagi informasi dengan aman
 
-*   Platform dirancang bagi para developer untuk membangun dan menerapkan dApps yang berbasis kerahasiaan dengan menggunakan berbagai bahasa pemrograman, dimulai dengan Typescript
-
+- Platform dirancang bagi para developer untuk membangun dan menerapkan dApps yang berbasis kerahasiaan dengan menggunakan berbagai bahasa pemrograman, dimulai dengan Typescript
 
 ### Pengumuman
 
@@ -56,4 +56,3 @@ Charles Hoskinson mengatakan, "Kami membutuhkan sistem yang memberi orang kebeba
 Sebagai bagian dari acara IO ScotFest, tim Midnight juga menyelenggarakan developer workshiop dimana peserta dapat mempelajari lebih lanjut tentang bahasa pemrograman baru ini, product roadmap, dan berbagai use case yang dimungkinkan dengan protokol ini.
 
 Untuk informasi lebih lanjut dan mendaftar agar menerima update rutin tentang Midnight, silahkan kunjungi: [https://midnight.iohk.io](https://midnight.iohk.io)
-
