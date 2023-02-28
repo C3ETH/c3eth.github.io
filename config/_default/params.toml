@@ -74,7 +74,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer= "2022 Catalyst Community All Rights Reserved"
 
 # Feed
-copyRight = "Copyright (c) 2022 Catalyst Community"
+copyRight = "Copyright (c) 2023 Catalyst Community"
 
 # Alert
 alert = false
