@@ -1,6 +1,6 @@
 ---
-title: "Apa itu Smart Kontrak?"
-description: "Apa itu Smart Kontrak?"
+title: "Apa itu Smart Contract?"
+description: "Apa itu Smart Contract?"
 lead: ''
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
@@ -21,5 +21,5 @@ Cardano memperkenalkan dukungan <em>Smart Contract</em> pada tahun 2021. Sebagai
 
 **topik-topik yang berkaitan**
 
-- [Penjelasan Marlware](https://docs.cardano.org/marlowe/learn-about-marlowe)
+- [Penjelasan Marlowe](https://docs.cardano.org/marlowe/learn-about-marlowe)
 - [Penjelasan Plutus](https://docs.cardano.org/plutus/learn-about-plutus)

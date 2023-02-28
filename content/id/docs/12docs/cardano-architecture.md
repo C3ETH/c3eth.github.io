@@ -38,11 +38,14 @@ Sistem blockchain terdiri dari satu set node yang didistribusikan di seluruh jar
 - Memproduksi blok (beberapa node)
 - Memberikan informasi tentang keadaan blockchain ke klien lokal lainnya
 
-Anda hanya dapat memercayai node yang dijalankan oleh Anda atau organisasi Anda. Inilah sebabnya mengapa [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) menjalankan sebuah node di latar belakang.
+Anda hanya dapat mempercayai node yang dijalankan oleh Anda atau organisasi Anda. Inilah sebabnya mengapa [Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) menjalankan sebuah node di latar belakang.
 
 #### Proses node
 
-Cardano-node adalah level teratas untuk node dan terdiri dari subsistem lain, yang paling signifikan adalah konsensus, [ledger](https://github.com/input-output-hk/cardano-ledger-specs#cardano-ledger) dan jaringan dengan konfigurasi tambahan, CLI, logging, dan pemantauan. Protokol IPC Node-to-Node
+Cardano-node adalah level teratas untuk node dan terdiri dari subsistem lain, yang paling signifikan adalah konsensus, [ledger](https://github.com/input-output-hk/cardano-ledger-specs#cardano-ledger) dan jaringan dengan konfigurasi tambahan, CLI, logging, dan pemantauan. 
+
+
+Protokol IPC Node-to-Node
 
 Tujuan dari protokol Inter-Process Communication (IPC) node-to-node adalah untuk memungkinkan pertukaran blok dan transaksi antar node sebagai bagian dari algoritma konsensus Ouroboros.
 
@@ -54,23 +57,23 @@ Protokol node-to-node adalah protokol komposit, terdiri dari tiga 'mini-protokol
 
 Mini-protokol ini dimultipleks pada satu koneksi Transmission Control Protocol (TCP) yang berjalan lama antar node. Mereka dapat dijalankan di kedua arah pada koneksi TCP yang sama untuk memungkinkan pengaturan peer-to-peer (P2P).
 
-Protokol keseluruhan - dan setiap protokol mini - dirancang untuk pengaturan tanpa kepercayaan di mana kedua belah pihak perlu menjaga dari serangan Denial-of-servis (DoS). Misalnya, setiap mini-protokol menggunakan aliran kontrol yang digerakkan oleh konsumen, jadi sebuah node hanya meminta lebih banyak pekerjaan saat sudah siap, daripada harus mengerjakannya.
+Protokol keseluruhan - dan setiap protokol mini - dirancang untuk pengaturan tanpa kepercayaan di mana kedua belah pihak perlu menjaga dari serangan Denial-of-Service (DoS). Misalnya, setiap mini-protokol menggunakan aliran kontrol yang digerakkan oleh konsumen, jadi sebuah node hanya meminta lebih banyak pekerjaan saat sudah siap, daripada harus mengerjakannya.
 
 Desain protokol bersifat modular dan dapat berevolusi: negosiasi versi digunakan untuk menyetujui kumpulan protokol mini yang akan digunakan, yang memungkinkan protokol mini tambahan atau yang diperbarui ditambahkan dari waktu ke waktu tanpa menyebabkan masalah kompatibilitas.
 
 #### IPC Node-ke-Klien
 
-Tujuan dari protokol IPC node-to-klien adalah untuk memungkinkan aplikasi lokal berinteraksi dengan blockchain melalui node. Ini termasuk aplikasi seperti dompet backend atau penjelajah blockchain. Protokol node-to-klien memungkinkan aplikasi ini untuk mengakses data rantai mentah dan untuk menanyakan status buku besar saat ini. Ini juga menyediakan kemampuan untuk mengirimkan transaksi baru ke sistem.
+Tujuan dari protokol IPC node-to-client adalah untuk memungkinkan aplikasi lokal berinteraksi dengan blockchain melalui node. Ini termasuk aplikasi seperti dompet backend atau penjelajah blockchain. Protokol node-to-client memungkinkan aplikasi ini untuk mengakses data rantai mentah dan untuk menanyakan status terkini dari buku besar. Ini juga menyediakan kemampuan untuk mengirimkan transaksi baru ke sistem.
 
-Protokol node-to-klien menggunakan desain yang sama dengan protokol node-to-node, tetapi dengan seperangkat mini-protokol yang berbeda, dan menggunakan pipa lokal daripada koneksi TCP. Dengan demikian, ini adalah antarmuka sempit tingkat rendah yang hanya mengekspos apa yang dapat disediakan oleh node secara asli. Misalnya, node menyediakan akses ke semua data rantai mentah tetapi tidak menyediakan cara untuk menanyakan data pada rantai. Tugas menyediakan layanan data dan API tingkat tinggi yang lebih nyaman didelegasikan ke klien khusus, seperti cardano-db-sync dan dompet backend.
+Protokol node-to-client menggunakan desain yang sama dengan protokol node-to-node, tetapi dengan seperangkat mini-protokol yang berbeda, dan menggunakan pipa lokal daripada koneksi TCP. Dengan demikian, ini adalah antarmuka sempit tingkat rendah yang hanya mengekspos apa yang dapat disediakan oleh node secara asli. Misalnya, node menyediakan akses ke semua data rantai mentah tetapi tidak menyediakan cara untuk menanyakan data pada rantai. Tugas menyediakan layanan data dan API tingkat tinggi yang lebih nyaman didelegasikan ke klien khusus, seperti cardano-db-sync dan dompet backend.
 
-Protokol node-to-klien terdiri dari tiga mini-protokol:
+Protokol node-to-client terdiri dari tiga mini-protokol:
 
 - **chain-sync** : Digunakan untuk mengikuti rantai dan mendapatkan blok
 - **local-tx-submission** : Digunakan untuk mengirimkan transaksi
 - **local-state-query** : Digunakan untuk menanyakan status buku besar
 
-Sinkronisasi rantai versi node-ke-klien menggunakan blok penuh, bukan hanya header blok. Inilah sebabnya mengapa tidak diperlukan protokol pengambilan blok terpisah. Protokol pengiriman-tx-lokal seperti protokol pengiriman-tx node-ke-simpul tetapi lebih sederhana, dan mengembalikan rincian kegagalan validasi transaksi. Protokol kueri status lokal menyediakan akses kueri ke status buku besar saat ini, yang berisi banyak data menarik yang tidak secara langsung tercermin pada rantai itu sendiri.
+Sinkronisasi rantai versi node-to-client menggunakan blok penuh, bukan hanya header blok. Inilah sebabnya mengapa tidak diperlukan protokol pengambilan blok terpisah. Protokol pengiriman-tx-lokal seperti protokol pengiriman-tx node-ke-simpul tetapi lebih sederhana, dan mengembalikan rincian kegagalan validasi transaksi. Protokol kueri status lokal menyediakan akses kueri ke status buku besar saat ini, yang berisi banyak data menarik yang tidak secara langsung tercermin pada rantai itu sendiri.
 
 [Baca lebih lanjut tentang desain protokol jaringan dan protokol komunikasi node Cardano.](https://docs.cardano.org/explore-cardano/cardano-network/networking-protocol)
 
@@ -102,7 +105,7 @@ Baca lebih lanjut tentang:
 
 ### Tentang era dan implementasi Cardano
 
-Cardano adalah buku besar terdistribusi generasi ketiga. Ini didasarkan pada Ouroboros, algoritma konsensus blockchain proof-of-stake (PoS) peer-review yang pertama kali muncul di konferensi penelitian teratas dalam kriptologi di seluruh dunia (Asosiasi Internasional untuk Penelitian Kriptologi 37th International Cryptology CXonference - Crypto 2017).
+Cardano adalah buku besar terdistribusi generasi ketiga. Ini didasarkan pada Ouroboros, algoritma konsensus blockchain proof-of-stake (PoS) peer-review yang pertama kali muncul di konferensi penelitian teratas dalam kriptologi di seluruh dunia (Asosiasi Internasional untuk Penelitian Kriptologi 37th International Cryptology Conference - Crypto 2017).
 
 Nama Cardano adalah nama umum yang diberikan untuk platform tersebut, yang telah melalui berbagai era dan implementasi. Konsep-konsep ini perlu penjelasan lebih lanjut.
 
@@ -110,7 +113,7 @@ Nama Cardano adalah nama umum yang diberikan untuk platform tersebut, yang telah
 
 Ada beberapa era dalam evolusi Cardano. Setiap era (Byron, Shelley, Goguen, Basho, dan Voltaire) mengacu pada aturan buku besar. Misalnya, jenis transaksi apa dan data apa yang disimpan dalam buku besar, atau keabsahan dan makna transaksi.
 
-Evolusi mainnet Cardano dimulai dengan aturan buku besar Byron (era Byron). Mainnet mengalami hard fork pada akhir Juli 2020 untuk beralih dari aturan Byron ke aturan buku besar Shelley. Oleh karena itu, garpu keras ini menandai awal dari era Shelley.
+Evolusi mainnet Cardano dimulai dengan aturan buku besar Byron (era Byron). Mainnet mengalami hard fork pada akhir Juli 2020 untuk beralih dari aturan Byron ke aturan buku besar Shelley. Oleh karena itu, hard fork ini menandai awal dari era Shelley.
 
 #### Implementasi
 
