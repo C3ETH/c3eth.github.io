@@ -24,11 +24,11 @@ Cardano Explorer menunjukkan detail epoch terbaru. Anda dapat mengklik epoch ter
 - jumlah transaksi yang diproses
 - total output dalam ADA
 
-{{&lt; figure src="https://docs.cardano.org/static/809bde99eaab735c8b87fa363d8636b6/23266/latest_epoch_summary.png" caption="Gambar 1. Ringkasan epoch terbaru" &gt;}}
+{{< figure src="https://docs.cardano.org/static/809bde99eaab735c8b87fa363d8636b6/23266/latest_epoch_summary.png" caption="Gambar 1. Ringkasan epoch terbaru" >}}
 
 Dengan memilih blok tertentu, Anda dapat menjelajahinya lebih detail untuk melihat ID, ukuran, epoch dan detail blok, jumlah transaksi yang disertakan, dan konfirmasi:
 
-{{&lt; gambar src="https://docs.cardano.org/static/74b26e442d30da2bedeac066bc5b31f4/98314/block_summary.png" caption="Gambar 2. Ringkasan blok" &gt;}}
+{{< figure src="https://docs.cardano.org/static/74b26e442d30da2bedeac066bc5b31f4/98314/block_summary.png" caption="Gambar 2. Ringkasan blok" >}}
 
 Anda juga dapat mencari epoch, transaksi, atau blok tertentu dengan menempelkan ID mereka di bagian pencarian.
 
