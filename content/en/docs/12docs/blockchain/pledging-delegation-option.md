@@ -80,6 +80,6 @@ Delegators earn rewards for participating in staking (either pledging or delegat
     **A**: You can check [pooltool.io](https://pooltool.io/) or run the following curl command:
 
 
-<code>
+```bash
 curl -X POST -H "Content-Type: application/json" -d '{"query": "query getStake_pool($id: StakePoolID!){ stakePools(limit: 1 where: { id: { _eq: $id } }){ id } }","variables":{"id":"$My_Pool_id_here"}}' https://explorer.cardano.org/graphql:
-</code>
+```
