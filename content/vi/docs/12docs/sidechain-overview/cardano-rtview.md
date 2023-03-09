@@ -10,7 +10,7 @@ RTView cho phép các nhà phát triển, người thử nghiệm và người d
 
 Nó là một công cụ đa nền tảng tương thích với Windows, Linux và macOS, đồng thời có giao diện người dùng dựa trên web để bạn có thể sử dụng bất kỳ trình duyệt nào mình muốn.
 
-The main benefit of RTView is simplicity. It is simple to use; technically there is no installation, you just unpack an archive and run an executable. It is also simple to configure through an interactive dialog and shows particular changes the user should make in the node configuration files. It is also simple to view with any browser.
+Lợi ích chính của RTView là sự đơn giản. Nó rất dễ sử dụng; về mặt kỹ thuật, không cần cài đặt, bạn chỉ cần giải nén tệp lưu trữ và chạy tệp thực thi. RTView cũng đơn giản để cấu hình thông qua một hộp thoại tương tác và hiển thị những thay đổi cụ thể mà người dùng nên thực hiện trong các tệp cấu hình nút. Nó cũng đơn giản để xem với bất kỳ trình duyệt nào.
 
 RTView thay thế tính năng chế độ LiveView trong [nút Cardano](https://docs.cardano.org/cardano-components/cardano-node) và giải quyết mọi giới hạn LiveView trước đó. Sau bản phát hành tiếp theo, LiveView sẽ bị xóa khỏi nút, điều này sẽ làm cho nút trở nên đơn giản và nhẹ hơn nhiều về mặt phụ thuộc.
 
