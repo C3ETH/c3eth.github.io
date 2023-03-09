@@ -22,8 +22,8 @@ Cũng dễ dàng tạo tập lệnh trong Rust hoặc WASM để chia sẻ với
 
 Nếu bạn đang tìm kiếm các ràng buộc kế thừa, bạn có thể tìm thấy chúng tại:
 
-- [Byron WASM bindings](https://github.com/input-output-hk/js-cardano-wasm/tree/master/cardano-wallet)
-- [Jormungandr WASM bindings](https://github.com/Emurgo/js-chain-libs)
+- [Các ràng buộc của Byron WASM](https://github.com/input-output-hk/js-cardano-wasm/tree/master/cardano-wallet)
+- [Các ràng buộc của Jormungandr WASM](https://github.com/Emurgo/js-chain-libs)
 
 **Thông số kỹ thuật nhị phân ban đầu**
 
