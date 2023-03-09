@@ -12,7 +12,7 @@ Các cá nhân có đề xuất cải tiến cho [Cardano](https://cardano.org/)
 
 Đối với những người không sử dụng GitHub: một trang web đồng hành được tạo tự động *đang được thực hiện* tại [cips.cardano.org](https://cips.cardano.org) .
 
-CIPs themselves go through semi-formal processing: CIP Editors (IOHK/CF/EM/Community) hold regular meetings to discuss and review proposals. The meeting notes are [public](https://github.com/cardano-foundation/CIPs/tree/master/BiweeklyMeetings), meetings biweekly. Authors are invited to participate and provide feedback while conversations often happen asynchronously in the Cardano forum [CIPs section](https://forum.cardano.org/c/english/cips/122) and/or in the Github pull requests themselves.
+Bản thân các CIP cũng trải qua quá trình xử lý bán chính thức: Các Biên tập viên CIP (IOHK/CF/EM/Cộng đồng) tổ chức các cuộc họp thường xuyên để thảo luận và xem xét các đề xuất. Các ghi chú cuộc họp được [công khai](https://github.com/cardano-foundation/CIPs/tree/master/BiweeklyMeetings) , các cuộc họp hai tuần một lần. Các tác giả được mời tham gia và cung cấp phản hồi trong khi các cuộc hội thoại thường diễn ra không đồng bộ trong [phần CIP](https://forum.cardano.org/c/english/cips/122) của diễn đàn Cardano và/hoặc trong chính các Pull Request của Github.
 
 Hãy nghĩ về kho lưu trữ CIP như một tập hợp các công cụ hữu ích - có thể có nhiều búa, tua vít... có thể một số hoạt động tốt với nhau, một số hoạt động *giống nhau* và một số không hoạt động cùng nhau: Bạn có thể chọn CIP nào của mình. thực hiện phù hợp với. Chúng tôi hy vọng cộng đồng sẽ hướng tới một số thứ hơn những thứ khác và đề xuất những thứ mới mà họ muốn chia sẻ, và một số cụm tự nhiên - các hành vi và phân cấp mới nổi!
 
@@ -20,6 +20,6 @@ Hãy nghĩ về kho lưu trữ CIP như một tập hợp các công cụ hữu 
 
 ### Tóm tắt
 
-The CIP process exist to enable, promote, and facilitate structured public discussions for **Process**, **Standard** or **Informational** Cardano proposals in a source-controlled, Foundation-managed, GitHub repository. By creating an open-source collection of CIPs with and for the community, we work to empower current and upcoming implementations, and the overall Cardano ecosystem.
+Quy trình CIP tồn tại để kích hoạt, thúc đẩy và tạo điều kiện thuận lợi cho các cuộc thảo luận công khai có cấu trúc cho các đề xuất Cardano **về Quy trình** , **Tiêu chuẩn** hoặc **Thông tin** với nguồn được kiểm soát trong kho lưu trữ GitHub , do Quỹ quản lý. Bằng cách tạo ra một bộ sưu tập CIP nguồn mở với và cho cộng đồng, chúng tôi làm việc để trao quyền cho các triển khai hiện tại và sắp tới cũng như hệ sinh thái Cardano tổng thể.
 
 Để biết thêm chi tiết, vui lòng tham khảo [CIP1](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0001/CIP-0001.md/)
