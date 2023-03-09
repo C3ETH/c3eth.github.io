@@ -1,5 +1,5 @@
 ---
-title: Essential Cardano
+title: Bản chất của Cardano
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -10,4 +10,4 @@ images: []
 
 Bạn có thể bắt đầu trải nghiệm EC của mình bằng cách tạo một tài khoản thông qua nút đăng ký ở trên cùng bên phải của trang, nút này sẽ cho phép bạn gửi nội dung tới trung tâm và nhận thông báo về những đóng góp của mình. Bạn có thể đóng góp bài viết, video và các tài nguyên khác cho toàn bộ cộng đồng Cardano để thu lợi từ đó.
 
-[Essential Cardano GitHub repository](https://github.com/input-output-hk/essential-cardano) is an open-source repository built for the community outlining all the organizations, partners, and groups that are part of the Cardano ecosystem. You can help us grow and expand this list by submitting a pull request (PR) with your contribution.
+[Kho lưu trữ Essential Cardano GitHub](https://github.com/input-output-hk/essential-cardano) là một kho lưu trữ nguồn mở được xây dựng cho cộng đồng phác thảo tất cả các tổ chức, đối tác và nhóm là một phần của hệ sinh thái Cardano. Bạn có thể giúp chúng tôi phát triển và mở rộng danh sách này bằng cách gửi Pull Request (PR) cùng với đóng góp của bạn.
