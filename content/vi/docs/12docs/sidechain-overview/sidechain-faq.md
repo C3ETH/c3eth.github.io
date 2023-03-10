@@ -14,9 +14,9 @@ Những câu hỏi này liên quan đến các thành phần mà IOG cung cấp 
 
 ### Bộ công cụ Sidechain có phải là một dự án mã nguồn mở không?
 
-Yes, it will be open-sourced under the Input Output Global GitHub repository.
+Có, nó sẽ có mã nguồn mở trong kho lưu trữ GitHub của IOG.
 
-### Will there be an alternative chain follower to DB Sync that consumes less resources?
+### Có công cụ theo dõi chuỗi thay thế cho DB Sync  nào tiêu thụ ít tài nguyên hơn không?
 
 Có, IOG đang hoạt động trong một công cụ ít tốn tài nguyên hơn. Có các công cụ lập chỉ mục chuỗi khác như Oura và Carp có thể phục vụ mục đích xây dựng chuỗi bên Cardano.
 
@@ -30,6 +30,6 @@ Chúng là hai giải pháp riêng biệt. Hydra là một giải pháp khả n�
 
 Sidechain EVM đưa việc thực thi máy ảo Ethereum (DApps dựa trên Solidity) vào Cardano thông qua một sidechain.
 
-### Can you execute a Solidity smart contract on the example EVM sidechain? If this is possible, how do you go between the Ethereum (account model) to the Cardano (EUTXO) accounting model?
+### Bạn có thể thực hiện hợp đồng thông minh Solidity trên sidechain EVM mẫu không? Nếu điều này là có thể, làm thế nào để chuyển đổi giữa Ethereum (mô hình tài khoản) sang mô hình kế toán Cardano (EUTXO)?
 
 Sidechain EVM sử dụng mô hình tài khoản để nó hoàn toàn tương thích với các ứng dụng dựa trên Ethereum. Nó không sử dụng EUTXO.
