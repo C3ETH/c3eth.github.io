@@ -1,5 +1,5 @@
 ---
-title: Transferring tokens
+title: Chuyển mã token
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -8,7 +8,7 @@ images: []
 
 Hướng dẫn này sẽ chỉ cho bạn cách chuyển `SC_Tokens` giữa chuỗi chính và chuỗi phụ.
 
-#### Prerequisites
+#### Điều kiện tiên quyết:
 
 1. Chúng tôi sẽ sử dụng **sidechain-cli** trong hướng dẫn này. Tải xuống tệp nhị phân và thêm nó vào đường dẫn trình bao của bạn: [https://github.com/input-output-hk/sidechains-tooling/releases](https://github.com/input-output-hk/sidechains-tooling/releases) .
 2. Tải xuống tệp nhị phân của công cụ chuyển đổi **bech32** và thêm vào đường dẫn trình bao của bạn: [https://github.com/input-output-hk/bech32](https://github.com/input-output-hk/bech32) .
@@ -150,9 +150,9 @@ Từ phần trả về, bạn cần lấy `proof/bytes` và xóa `0x` được t
 
 *Trong ví dụ trên `d8799fd8799...` là bằng chứng Merkle.*
 
-Wait until the epoch changes and the committee handover has happened.
+Đợi cho đến khi epoch thay đổi và việc bàn giao ủy ban diễn ra.
 
-*Note: A sidechain epoch is 1 hour; 30 minutes in the `regular` phase, 15 minutes in `closedTxBatch` phase, and 15 minutes in `handover` phase.*
+*Lưu ý: Sidechain epoch là 1 giờ: gồm 30 phút trong giai đoạn `regular` , 15 phút trong giai đoạn `closedTxBatch` và 15 phút trong giai đoạn `handover` .*
 
 Quá trình chuyển giao của ủy ban diễn ra tự động trên các mạng thử nghiệm bởi một dịch vụ (chuyển tiếp) cố gắng tìm chữ ký kỷ nguyên mỗi phút và thành công sau khi một kỷ nguyên mới bắt đầu và thu được chữ ký. Trên mạng chính, việc chuyển giao ủy ban sẽ được thực hiện bởi bất kỳ ai muốn, nơi sẽ có động cơ để làm như vậy. Một cách hay để xác minh điều này là đợi cho đến khi bạn quan sát giao dịch của mình trong danh sách chữ ký sẽ tải lên:
 
@@ -165,11 +165,11 @@ curl -L -X POST -H 'Content-type:application/json' -d '{
     }' https://faucet.sidechain.evmtestnet.iohkdev.io/ | jq
 ```
 
-Where `limit` = min(limit, number of epochs that are not yet relayed). The default value is `100`, but you can set it to any other number. Normally, when the handover happens at every epoch, it should only show 0 or 1 epochs (the last one). Once you identify that there are no roothashes pending in the list under the epoch that your lock was processed (`N` or `N+1`), you can claim your tokens. By now the epoch will be `N+1` or `N+2`, depending on the phase you performed the lock operation in.
+Trong đó `limit` = tối thiểu (giới hạn, số epoch chưa được chuyển tiếp). Giá trị mặc định là `100` nhưng bạn có thể đặt giá trị này thành bất kỳ số nào khác. Thông thường, khi quá trình chuyển giao xảy ra ở mỗi epoch, nó chỉ hiển thị 0 hoặc 1 epoch (epoch cuối cùng). Khi bạn xác định rằng không có roothash nào đang chờ xử lý trong danh sách trong epoch mà khóa của bạn đã được xử lý ( `N` hoặc `N+1` ), bạn có thể yêu cầu mã token của mình. Giờ đây, epoch sẽ là `N+1` hoặc `N+2` , tùy thuộc vào giai đoạn bạn thực hiện thao tác khóa.
 
 ### Bước 04 - Yêu cầu SC_Token
 
-- Claim the tokens by submitting a transaction on the main chain with the `merkleProof` you obtained using the **sidechain-cli**. You will need to sign the transaction with your main chain signing key (ex: `payment.skey`):
+- Yêu cầu mã token bằng cách gửi giao dịch trên chuỗi chính bằng `merkleProof` mà bạn thu được bằng cách sử dụng **sidechain-cli** . Bạn sẽ cần ký giao dịch bằng khóa ký chuỗi chính của mình (ví dụ: `payment.skey` ):
 
 ```bash
 ./sidechain-cli claim-sc-token \
