@@ -1,5 +1,5 @@
 ---
-title: SC_Token and Test ADA
+title: SC_Token và thử nghiệm ADA
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -8,9 +8,9 @@ images: []
 
 ## SC_Token là gì?
 
-`SC_Token`*(temporary name)* is the native token of the Cardano EVM sidechain Testnet. `SC_Token` can be moved between the main chain (Cardano) and the example EVM sidechain, and `SC_Token` is required to pay for gas. Test `SC_Token` carries no real-world value.
+`SC_Token` *(tên tạm thời)* là mã thông báo gốc của mạng thử nghiệm sidechain Cardano EVM. `SC_Token` có thể được di chuyển giữa chuỗi chính (Cardano) và chuỗi phụ EVM ví dụ và `SC_Token` được yêu cầu trả tiền gas. `SC_Token` thử nghiệm không mang giá trị trong thế giới thực.
 
-## What is gas?
+## Gas là gì?
 
 Gas đề cập đến chi phí tính toán cần thiết để thực hiện thành công một giao dịch trên mạng sidechain. Gas này được khấu trừ từ một phần nhỏ của `SC_Token` khi thực hiện giao dịch, triển khai hợp đồng thông minh hoặc ghi vào hợp đồng thông minh.
 
@@ -20,7 +20,7 @@ IO Global duy trì một vòi tại [https://faucet.sidechain.evmtestnet.iohkdev
 
 ## Thử nghiệm Ada là gì?
 
-Test Ada `(tAda)` is the native token of the dedicated Cardano testnet (separate from the preview and pre-production testing environments). `tAda` is required to pay for transaction fees conducted on the Cardano testnet. `tAD` a carries no real world value.
+Test Ada `(tAda)` là token gốc của mạng thử nghiệm Cardano chuyên dụng (tách biệt với môi trường thử nghiệm xem trước và tiền sản xuất). `tAda` được yêu cầu thanh toán phí giao dịch được thực hiện trên mạng thử nghiệm Cardano. `tADA`  không mang giá trị thế giới thực.
 
 ## Làm thế nào để có được tAda?
 
