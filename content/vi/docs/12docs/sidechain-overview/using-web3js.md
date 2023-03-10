@@ -1,5 +1,5 @@
 ---
-title: Using web3.js
+title: Sử dụng web3.js
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -8,22 +8,22 @@ images: []
 
 Phần này cho biết cách sử dụng giao diện Javascript web3 với ứng dụng khách sidechain Cardano EVM để phát triển ứng dụng trên mạng thử nghiệm. Bạn cũng có thể xem qua một chương trình ví dụ minh họa một số lệnh gọi API mẫu.
 
-The Ethereum web3.js interface provides many documented API calls. The interface gives you full access to a copy of the Cardano EVM sidechain testnet. You can create a website or client that uses a remote EVM sidechain node to interact with the decentralized blockchain ledger. The web3.js interface is also used to develop smart contracts in the Solidity language.
+Giao diện Ethereum web3.js cung cấp nhiều lệnh gọi API được ghi lại. Giao diện cung cấp cho bạn toàn quyền truy cập vào một bản sao của mạng thử nghiệm sidechain Cardano EVM. Bạn có thể tạo một trang web hoặc ứng dụng khách sử dụng nút sidechain EVM từ xa để tương tác với sổ cái chuỗi khối phi tập trung. Giao diện web3.js cũng được sử dụng để phát triển hợp đồng thông minh bằng ngôn ngữ Solidity.
 
-This example will set up a simple Javascript program to demonstrate the concept. See the end of this page for more information.
+Ví dụ này sẽ thiết lập một chương trình Javascript đơn giản để thể hiện khái niệm này. Xem phần cuối của trang này để biết thêm thông tin.
 
-## Running a sample application
+## Chạy một ứng dụng mẫu
 
-Follow these steps to create and run a web3.js application that checks the synchronization status and displays the contents of the latest block.
+Thực hiện theo các bước sau để tạo và chạy ứng dụng web3.js kiểm tra trạng thái đồng bộ hóa và hiển thị nội dung của khối mới nhất.
 
-### Set up the file structure
+### Thiết lập cấu trúc tập tin
 
-1. Make sure node.js and Yarn are installed. There are plenty of instructional posts on the internet.
+1. Đảm bảo rằng node.js và Yarn đã được cài đặt. Có rất nhiều bài viết hướng dẫn trên internet.
 2. Tạo một thư mục mới (tên của nó không quan trọng) và khởi tạo nó. Bạn có thể sử dụng NPM hoặc Sợi. Cả NPM và Yarn đều tạo tệp pack.json. Đồng thời, Yarn cũng tạo Yarn.lock và NPM tạo package-lock.json. Từ đây trở đi, phần trình diễn sẽ sử dụng Yarn.
 
 Trên một số hệ thống, bạn được nhắc thông tin nào sẽ được thêm vào pack.json. Thông tin này sẽ được cập nhật sau khi các thư viện web3 được cài đặt. Bạn cũng có thể giữ các giá trị mặc định.
 
-On Windows:
+Trên Windows:
 
 ```bash
    c:\>mkdir web3-example
@@ -32,7 +32,7 @@ On Windows:
    yarn init v1.22.10 # follow the prompts
 ```
 
-On Linux:
+Trên Linux:
 
 ```bash
 user@computername:~$ cd ~
@@ -42,7 +42,7 @@ user@computername:~/web3-example$ yarn init
 yarn init v1.22.10 # follow the prompts
 ```
 
-On macOS:
+Trên macOS:
 
 ```bash
    computerName:~user$ mkdir web3-example
@@ -51,19 +51,19 @@ On macOS:
     yarn init v1.22.10 # follow the prompts
 ```
 
-### Install the web3.js libraries
+### Cài đặt các thư viện web3.js
 
-The web3.js libraries are available as an NPM package, so you can use NPM or Yarn to install them in the directory you just created.
+Các thư viện web3.js có sẵn dưới dạng gói NPM, vì vậy bạn có thể sử dụng NPM hoặc Yarn để cài đặt chúng trong thư mục bạn vừa tạo.
 
-To install using Yarn:
+Để cài đặt bằng Yarn:
 
 ```bash
 yarn add web3
 ```
 
-### Check the contents of package.json
+### Kiểm tra nội dung của pack.json
 
-Compare your copy of package.json with this example. Make sure all the keys and values are there.
+So sánh bản sao pack.json của bạn với ví dụ này. Đảm bảo rằng tất cả các khóa và giá trị đều ở đó.
 
 ```json
   {
@@ -80,9 +80,9 @@ Compare your copy of package.json with this example. Make sure all the keys and 
     }
 ```
 
-### Write the Javascript
+### Viết Javascript
 
-On all systems, create a file called index.js in the same directory as package.json. Edit it so that it looks like this:
+Trên tất cả các hệ thống, hãy tạo một tệp có tên index.js trong cùng thư mục với package.json. Chỉnh sửa nó để nó trông như thế này:
 
 ```javascript
     1 const Web3 = require('web3')
@@ -97,19 +97,19 @@ On all systems, create a file called index.js in the same directory as package.j
     10
 ```
 
-`Index.js` is the Javascript program. Line 1 references the web3.js libraries. Line 2 establishes a connection between this program and the Cardano EVM sidechain node. The block beginning at line 4 retrieves the latest block that the client has downloaded so far.
+`Index.js` là chương trình Javascript. Dòng 1 tham khảo các thư viện web3.js. Dòng 2 thiết lập kết nối giữa chương trình này và nút sidechain Cardano EVM. Khối bắt đầu ở dòng 4 truy xuất khối mới nhất mà khách hàng đã tải xuống cho đến nay.
 
 ### Chạy thử chương trình
 
-Check that your connection to the EVM sidechain node on the EVM sidechain testnet is still active by accessing the URL in your browser.
+Kiểm tra xem kết nối của bạn với nút chuỗi bên EVM trên mạng thử nghiệm chuỗi bên EVM có còn hoạt động hay không bằng cách truy cập URL trong trình duyệt của bạn.
 
-Go to the directory you have created and run the sample program:
+Chuyển đến thư mục bạn đã tạo và chạy chương trình mẫu:
 
 ```bash
     npm start
 ```
 
-The result should be similar to this:
+Kết quả sẽ tương tự như thế này:
 
 ```bash
  C:\>
@@ -149,10 +149,10 @@ The result should be similar to this:
     C:\web3-example>
 ```
 
-The above results were obtained on Windows 10, 64-bit, version 21h2.
+Kết quả trên thu được trên Windows 10, 64-bit, phiên bản 21h2.
 
-### Observe the results
+### Quan sát kết quả
 
-The fields displayed are from the last block synchronized with the local node.
+Các trường được hiển thị là từ khối cuối cùng được đồng bộ hóa với nút cục bộ.
 
-**More information** For more information about the web3.js API, see this [Read The Docs page](https://web3js.readthedocs.io/en/v1.2.4/web3.html).
+**Thông tin khác** Để biết thêm thông tin về API web3.js, hãy xem [trang Đọc Tài liệu](https://web3js.readthedocs.io/en/v1.2.4/web3.html) này .
