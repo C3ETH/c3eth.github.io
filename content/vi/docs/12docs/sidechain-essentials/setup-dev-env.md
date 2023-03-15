@@ -12,13 +12,13 @@ Mạng thử nghiệm sidechain EVM tương thích với EVM với hầu hết c
 - [Hardhat](#hardhat)
 - [Truffle](#truffle)
 
-## Remix
+## <a>Remix</a>
 
 Hướng dẫn này sẽ chỉ cho bạn cách triển khai hợp đồng thông minh Solidity cho mạng thử nghiệm sidechain EVM bằng Remix. [Remix](https://remix.ethereum.org/) là một IDE trực tuyến để phát triển và triển khai các hợp đồng thông minh Solidity.
 
-### Prerequisites
+### Điều kiện tiên quyết:
 
-In this tutorial, you will use MetaMask as your wallet and Web3 provider. If you have not done so already, [create or import an account with MetaMask](../metamask) and fund your wallet with testnet tokens using the [faucet](https://faucet.sidechain.evmtestnet.iohkdev.io/).
+Trong hướng dẫn này, bạn sẽ sử dụng MetaMask làm ví và nhà cung cấp Web3 của mình. Nếu bạn chưa sở hữu ví Metamask, [hãy tạo hoặc nhập tài khoản bằng MetaMask](../metamask) và cấp tiền cho ví của bạn bằng mã thông báo testnet bằng cách sử dụng [vòi](https://faucet.sidechain.evmtestnet.iohkdev.io/) .
 
 #### Bước 1 - Định cấu hình Remix
 
@@ -26,7 +26,7 @@ In this tutorial, you will use MetaMask as your wallet and Web3 provider. If you
 
 ![remix-menu](https://user-images.githubusercontent.com/10556209/200480707-ec8b8e69-6cdc-498b-b315-c029fbc2a564.png)
 
-If the Solidity compiler and deploy plugins are not activated, you can search and activate them using the plugin manager [5] located in the bottom left of the screen.
+Nếu trình biên soạn Solidity và plugin triển khai chưa được kích hoạt, bạn có thể tìm kiếm và kích hoạt chúng bằng trình quản lý plugin [5] nằm ở phía dưới bên trái của màn hình.
 
 ![remix-plugin](https://user-images.githubusercontent.com/10556209/202550289-1cd1e25a-b1c9-4e66-9600-fad710126c8d.png)
 
@@ -85,14 +85,14 @@ Khi hợp đồng được biên dịch, bạn có thể xem ABI, Bytecode của
 - Mở MetaMask và xem giao dịch triển khai hợp đồng đã được ký thành công chưa.
 - Kiểm tra nhật ký Remix để biết chi tiết triển khai.
 
-## HardHat
+## <a>Hardhat</a>
 
 Hướng dẫn này sẽ chỉ cho bạn cách triển khai hợp đồng thông minh Solidity cho mạng thử nghiệm sidechain EVM bằng Hardhat. [Hardhat](https://hardhat.org/) là một môi trường phát triển phổ biến cho phần mềm Ethereum.
 
 - [Node.js](https://nodejs.org/en/) phiên bản 14 trở lên.
-- [HardHat](https://hardhat.org/)
+- [Hardhat](https://hardhat.org/)
 
-### Prerequisites
+### Điều kiện tiên quyết:
 
 Hardhat được sử dụng trong các dự án NPM cục bộ, vì vậy bạn sẽ cần NPM 7 trở lên.
 
@@ -237,11 +237,11 @@ Greeter deployed to: 0x95E1C8F6C00d8cB518faBA33c8Ae814fc12E3090
 
 🎉 Hoan hô! Bạn đã triển khai hợp đồng thông minh của mình cho mạng thử nghiệm sidechain EVM và có thể tìm kiếm triển khai của bạn trên trình khám phá testnet.
 
-## Truffle
+## <a>Truffle</a>
 
 Hướng dẫn này sẽ chỉ cho bạn cách triển khai hợp đồng thông minh Solidity cho mạng thử nghiệm sidechain EVM bằng Truffle. [Truffle](https://trufflesuite.com/truffle/) là một khung phát triển phổ biến cho các ứng dụng dựa trên EVM.
 
-### Prerequisites
+### Điều kiện tiên quyết:
 
 Cài đặt các phụ thuộc sau:
 
