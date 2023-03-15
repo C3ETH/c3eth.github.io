@@ -33,7 +33,7 @@ Nút sidechain sử dụng DB Sync để nhận thông tin liên quan đến chu
 
 Chuyển tiền trở lại từ sidechain sang chuỗi chính không sử dụng DB Sync mà sử dụng một cơ chế khác.
 
-## Configuring the sidechain node to use your DB Sync instance
+## Cấu hình nút sidechain sử dụng DB Sync
 
 Sau khi cài đặt và thiết lập một phiên bản DB Sync, bạn cần định cấu hình một nút sidechain để trỏ đến nó. Trong tệp cấu hình của nút, hãy đặt loại nguồn dữ liệu `db-sync` và định cấu hình chi tiết kết nối để phù hợp với thiết lập của bạn. Cấu hình đã hoàn thành sẽ trông giống như ví dụ bên dưới:
 
