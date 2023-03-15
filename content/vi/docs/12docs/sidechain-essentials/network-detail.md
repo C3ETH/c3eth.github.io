@@ -1,5 +1,5 @@
 ---
-title: Network details
+title: Mạng lưới chi tiết
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -9,9 +9,9 @@ images: []
 Môi trường testnet sidechain EVM Ví dụ bao gồm hai mạng:
 
 1. Mạng thử nghiệm sidechain EVM (sidechain, SC)
-2. A *dedicated* Cardano testnet (main chain, MN)
+2. Mạng thử nghiệm Cardano *chuyên biệt* (chuỗi chính, MN)
 
-## Networks
+## Các mạng lưới
 
 Tên | Dạng kết nối | ID chuỗi | Đoàn kết | Mã thông báo | Người mẫu
 --- | --- | --- | --- | --- | ---
