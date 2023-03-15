@@ -8,34 +8,34 @@ images: []
 
 Trình theo dõi chuỗi như DB Sync là một thành phần quan sát các giao dịch trên chuỗi chính như Cardano. Trình theo dõi chuỗi cung cấp thông tin cho một chuỗi phụ để phù hợp với chuỗi chính.
 
-[The DB Sync page](https://docs.cardano.org/cardano-components/cardano-db-sync/about-db-sync) gives detailed information about the functionality and how to set it up.
+[Trang DB Sync](https://docs.cardano.org/cardano-components/cardano-db-sync/about-db-sync) cung cấp thông tin chi tiết về chức năng và cách thiết lập nó.
 
-## Using the chain follower on a sidechain
+## Sử dụng trình theo dõi chuỗi trên một sidechain
 
-The sidechain node uses DB Sync for getting information regarding the main chain.
+Nút sidechain sử dụng DB Sync để nhận thông tin liên quan đến chuỗi chính.
 
-This is a non-exhaustive list of data retrieved from the main chain:
+Đây là danh sách dữ liệu không đầy đủ được lấy từ chuỗi chính:
 
 - Nonce cho một epoch nhất định
 - Phân phối cổ phần cho một epoch nhất định
-- The list of UTXO for a given address, after a given block
-- The latest block for a slot
-- The latest block for the chain
-- The block information for a given block number
-- The slot number corresponding to a UTXO
-- The cross-chain transactions for a given policy, asset name, and a range of blocks within a slot
-- The cross-chain transactions for a given policy, asset name, and a UTXO ID.
+- Danh sách UTXO cho một địa chỉ nhất định, sau một khối nhất định
+- Khối mới nhất cho một vị trí
+- Khối mới nhất cho chuỗi
+- Thông tin khối cho một số khối nhất định
+- Số vị trí tương ứng với UTXO
+- Các giao dịch chuỗi chéo cho một chính sách nhất định, tên tài sản và một loạt các khối trong một vị trí
+- Các giao dịch chuỗi chéo cho một chính sách nhất định, tên nội dung và ID UTXO.
 
-The sidechain client uses DB Sync to listen to the mainchain's activity, and perform various tasks:
+Ứng dụng sidechain sử dụng DB Sync để lắng nghe hoạt động của chuỗi chính và thực hiện các tác vụ khác nhau:
 
-- Update the sidechain pool committee: a specific transaction is done on the main chain, observed with DB Sync, and taken into account to determine the next slot's pool committee on the sidechain
-- Transfer funds from the main chain to the sidechain: when a token is burned on the main chain, the corresponding transaction is observed with DB Sync, and used to provide corresponding funds on the sidechain.
+- Cập nhật ủy ban nhóm chuỗi bên: một giao dịch cụ thể được thực hiện trên chuỗi chính, được quan sát bằng DB Sync và được tính đến để xác định ủy ban nhóm của vị trí tiếp theo trên chuỗi bên
+- Chuyển tiền từ chuỗi chính sang chuỗi bên: khi mã thông báo được đốt trên chuỗi chính, giao dịch tương ứng được quan sát bằng DB Sync và được sử dụng để cung cấp tiền tương ứng trên chuỗi bên.
 
-Transferring funds back from the sidechain to the main chain doesn't use DB Sync, but a different mechanism.
+Chuyển tiền trở lại từ sidechain sang chuỗi chính không sử dụng DB Sync mà sử dụng một cơ chế khác.
 
 ## Configuring the sidechain node to use your DB Sync instance
 
-After installing and setting up a DB Sync instance, you need to configure a sidechain node to point to it. In the node’s configuration file, set the data source type to `db-sync` and configure connection details to match your setup. The finished configuration should look similar to the example below:
+Sau khi cài đặt và thiết lập một phiên bản DB Sync, bạn cần định cấu hình một nút sidechain để trỏ đến nó. Trong tệp cấu hình của nút, hãy đặt loại nguồn dữ liệu `db-sync` và định cấu hình chi tiết kết nối để phù hợp với thiết lập của bạn. Cấu hình đã hoàn thành sẽ trông giống như ví dụ bên dưới:
 
 ```json
 {
