@@ -14,7 +14,7 @@ Bộ công cụ Sidechain là một tập hợp các thành phần và khuyến 
 
 Các tập lệnh Plutus được triển khai trên chuỗi chính Cardano xác định luồng của một sidechain cụ thể. Các tập lệnh này là phần khởi đầu của quá trình khởi tạo sidechain chứa tập lệnh Plutus để đăng ký ứng cử viên sản xuất khối, đúc các chính sách mã thông báo của sidechain và di chuyển các chức năng mã thông báo.
 
-## Chain follower
+## Trình theo chuỗi
 
 Người theo dõi chuỗi có khả năng quan sát trạng thái của các sự kiện chuỗi chính chi phối chuỗi bên và có thể truyền các sự kiện đó đến chuỗi bên. Phiên bản 1 của bộ công cụ hiện đang sử dụng phiên bản Cardano DB Sync để phù hợp với điều này.
 
