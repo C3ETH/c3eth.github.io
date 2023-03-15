@@ -18,7 +18,7 @@ Khi bạn sử dụng trình khám phá khối, nó sẽ liệt kê các trườ
 
 ## Điều khoản chung
 
-**Actor**
+**Đối tượng tương tác**
 
 Bất kỳ thực thể nào có thể thực hiện điều gì đó trên chuỗi khối. Các tác nhân có thể bao gồm người dùng, ví, địa chỉ và nút mạng.
 
@@ -26,13 +26,13 @@ Bất kỳ thực thể nào có thể thực hiện điều gì đó trên chu�
 
 Địa chỉ là một vị trí đến hoặc từ đó các giao dịch xảy ra trên chuỗi khối. Nó được liên kết với một khóa công khai.
 
-**Hash function**
+**Hàm băm**
 
 Hàm băm mật mã lấy một chuỗi có độ dài thay đổi và tạo ra một chuỗi có độ dài cố định được gọi là **giá trị băm** . Giá trị băm rất dễ tính toán, nhưng không khả thi để lấy đầu vào chỉ cho đầu ra và không khả thi để tính toán hai đầu vào sẽ tạo ra cùng một giá trị băm. Để biết định nghĩa chính tắc, hãy xem [ấn phẩm NIST này.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf)
 
 Bất kỳ thay đổi nào đối với đầu vào, dù nhỏ đến đâu, sẽ dẫn đến một đầu ra rất khác. Mỗi khối chứa hàm băm của khối trước đó để bất kỳ ai cũng có thể kiểm tra tính toàn vẹn của chuỗi.
 
-## Home page
+## Trang chủ
 
 **Average block time**
 
@@ -48,23 +48,23 @@ Bằng cách so sánh tổng số giao dịch với tổng số khối, bạn c�
 
 Nhiều hơn chiều cao khối hiện tại của chuỗi, là số khối mới nhất.
 
-**Wallet addresses**
+**Địa chỉ ví**
 
 Số lượng địa chỉ ví được sử dụng trong chuỗi khối cho đến nay.
 
 Địa chỉ ví là nguồn hoặc đích của chuyển khoản. Trong mô hình tài khoản Ethereum, ví có chính xác một địa chỉ.
 
-## Blocks
+## Các khối
 
-**Block height**
+**Độ dài của khối**
 
 Số của khối này. Nó ít hơn một khối so với số khối hợp lệ được thêm vào chuỗi khối cho đến thời điểm này. (Khối đầu tiên là khối 0). Các khối không hợp lệ hoặc bị bỏ qua không được tính.
 
-**Timestamp**
+**Mốc thời gian**
 
 Thời gian khối được thêm vào chuỗi.
 
-**Transactions**
+**Giao dịch**
 
 Số lượng giao dịch được bao gồm trong khối.
 
@@ -80,15 +80,15 @@ Số lượng giao dịch được bao gồm trong khối.
 
 Giá trị băm của khối này. Xem định nghĩa của 'hàm băm' ở trên.
 
-**Parent hash**
+**Hàm băm gốc**
 
 Giá trị băm của khối trước đó.
 
-**Gas used**
+**Phí sử dụng**
 
 Gas được trả cho những người xác thực để bù đắp cho họ những tài nguyên được sử dụng để xử lý giao dịch. Giá gas thay đổi theo cung và cầu.
 
-**Gas limit**
+**Giới hạn gas**
 
 Lượng gas tối đa mà tác nhân bắt đầu giao dịch sẵn sàng trả.
 
@@ -104,7 +104,7 @@ Trình khám phá khối sẽ hiển thị chuyển tiền dưới dạng giao d
 
 Định nghĩa chính thức là *'Một phần dữ liệu, được ký bởi một *tác nhân bên ngoài*. Nó đại diện cho một *thông điệp* hoặc một *đối tượng tự trị* mới. Các giao dịch được ghi vào từng khối của chuỗi khối.'* (Từ Sách vàng.)
 
-**Contract call**
+**Cuộc gọi hợp đồng**
 
 Một cuộc gọi hợp đồng là một trường hợp đặc biệt của một giao dịch; đích đến là một hợp đồng thông minh chứ không phải là người dùng cuối. Một hợp đồng thông minh đã được gửi đến mạng và được ghi lại trên chuỗi khối.
 
