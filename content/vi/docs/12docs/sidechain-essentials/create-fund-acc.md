@@ -18,7 +18,7 @@ Trong hướng dẫn này, bạn sẽ tìm hiểu cách yêu cầu mã thông b�
 
 ## Tạo khóa
 
-To generate keys for the Cardano testnet you need the cardano-cli binary. Open a shell and run the following commands:
+Để tạo khóa cho mạng thử nghiệm Cardano, bạn cần file thực thi cardano-cli. Mở Shell và chạy các lệnh sau:
 
 ```haskell
 # Set network name
