@@ -18,13 +18,13 @@ Dự án sidechain EVM ví dụ là một giao thức sidechain Cardano mã ngu�
 
 Sidechains mang lại lợi thế về khả năng tương tác, khả năng mở rộng và khả năng tương thích.
 
-### Interoperability
+### Khả năng tương tác
 
 Hình thức giao tiếp cơ bản nhất là trao đổi tài sản. Bởi vì tài sản vẫn giữ nguyên bản chất của chúng khi được chuyển sang sidechain, nên chúng có thể được chuyển trở lại một cách dễ dàng. Một cơ chế được gọi là chốt hai chiều đạt được giao tiếp này. Miễn là bản thân cả hai chuỗi đều được bảo mật, thì sự bảo mật này được áp dụng cho các giao dịch chuyển tiền hai chiều.
 
 Giao tiếp giữa chuỗi chính và chuỗi bên cho phép chúng giữ các phương thức đồng thuận và định dạng khối (có thể được sửa đổi) của riêng chúng và vẫn hoạt động cùng nhau, mở ra phạm vi ứng dụng rộng hơn nhiều.
 
-### Scalability
+### Khả năng mở rộng
 
 Giống như người quản lý dự án có bộ ba bất khả thi là tốt, nhanh hoặc rẻ (chọn bất kỳ hai), một chuỗi khối có ba mục tiêu cạnh tranh nhau để lựa chọn – phân cấp, bảo mật và khả năng mở rộng.
 
@@ -42,7 +42,7 @@ Thiết kế của sidechain EVM ví dụ dựa trên các nguyên tắc đượ
 
 Dưới đây là một số tính năng thiết kế của sidechain Cardano EVM có liên quan đến các nhà phát triển Solidity.
 
-### Two-way peg
+### Chốt hai chiều
 
 Chuỗi bên EVM cho phép chuyển tài sản qua lại giữa chuỗi khối Cardano và chuỗi bên. Việc chốt hai chiều đạt được điều này sẽ bảo toàn bản chất của nội dung trong cả hai chuỗi bất cứ khi nào nội dung di chuyển.
 
@@ -54,17 +54,17 @@ Mặc dù hợp đồng Solidity có thể được dành cho chuỗi khối Pro
 
 Thuộc tính tường lửa đảm bảo rằng một lỗi nghiêm trọng ở một trong các chuỗi, chẳng hạn như vi phạm các giả định bảo mật của nó, sẽ không làm cho các chuỗi khác dễ bị tổn thương. Tính năng này cung cấp thước đo trách nhiệm hữu hạn tương tự như trách nhiệm hữu hạn trong thế giới doanh nghiệp - khi một công ty trách nhiệm hữu hạn thất bại, các cổ đông của công ty chỉ chịu trách nhiệm về số tiền đầu tư của họ.
 
-### Merged-staking
+### Hợp nhất cổ phần
 
 Một cân nhắc quan trọng trong việc xây dựng sidechain là bảo vệ một sidechain mới chống lại cuộc tấn công.
 
 Ví dụ về cấu trúc EVM Sidechain có tính năng 'đặt cược hợp nhất', cho phép những người xác thực chuỗi chính đã báo hiệu nhận thức về chuỗi bên để tạo các khối chuỗi bên mà không cần chuyển bất kỳ cổ phần nào sang chuỗi bên. Do đó, bảo mật sidechain có thể được duy trì, với phần lớn cổ phần trung thực trong số các thực thể đã báo hiệu nhận thức về sidechain. Đặc biệt là trong giai đoạn khởi động, các trình xác thực chuỗi chính này được kỳ vọng sẽ là một tập hợp lớn các bên liên quan duy trì tài sản trong chuỗi bên.
 
-## More information
+## Thông tin chi tiết
 
 Để biết mô tả đầy đủ về nền tảng lý thuyết của thiết kế, hãy tham khảo [sách trắng gốc](https://eprint.iacr.org/2018/1239.pdf) .
 
-## Closing remarks
+## Lời kết
 
 Bộ công cụ sidechains là bản phân phối mới nhất trên lộ trình Cardano trong Basho, giai đoạn mở rộng quy mô, giới thiệu khả năng lập trình, khả năng tương tác và khả năng mở rộng cao hơn. Các nhà phát triển chuỗi khối sẽ có thể tạo các sidechain tùy chỉnh dễ dàng hơn. Cuối cùng, IOG hy vọng sẽ thấy một nhóm Cardano sidechains và chuỗi đối tác nổi lên.
 
