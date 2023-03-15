@@ -1,5 +1,5 @@
 ---
-title: Create and fund accounts
+title: Tạo và nạp tiền vào tài khoản
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -8,15 +8,15 @@ images: []
 
 #### Điều kiện tiên quyết:
 
-1. Ability to make an HTTP request.
+1. Khả năng thực hiện một yêu cầu HTTP.
 
-## How to fund your main chain account with test ada tokens
+## Cách cấp tiền cho tài khoản chuỗi chính của bạn bằng mã thông báo ada thử nghiệm
 
-In this tutorial, you will learn how to claim test ada tokens on the main chain testnet (to pay for main chain transaction fees).
+Trong hướng dẫn này, bạn sẽ tìm hiểu cách yêu cầu mã thông báo ada thử nghiệm trên mạng thử nghiệm chuỗi chính (để thanh toán phí giao dịch chuỗi chính).
 
-> Note: This is a dedicated Cardano testnet separate from the preview and pre-production testing environments.
+> Lưu ý: Đây là mạng thử nghiệm Cardano chuyên dụng tách biệt với môi trường thử nghiệm xem trước và tiền sản xuất.
 
-## Generating keys
+## Tạo khóa
 
 To generate keys for the Cardano testnet you need the cardano-cli binary. Open a shell and run the following commands:
 
@@ -36,14 +36,14 @@ cardano-cli address build \
  export MC_ADDR=$(cat payment.addr)
 ```
 
-These steps are based on this [keys and adresses creation tutorial](https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/3_keys_and_addresses.md).
+Các bước này dựa trên [hướng dẫn tạo khóa và địa chỉ](https://github.com/input-output-hk/cardano-node/blob/master/doc/stake-pool-operations/3_keys_and_addresses.md) này.
 
-Request test ada using the web-app: [https://faucet.cardano.evmtestnet.iohkdev.io/basic-faucet](https://faucet.cardano.evmtestnet.iohkdev.io/basic-faucet)
+Yêu cầu kiểm tra ada bằng ứng dụng web: [https://faucet.cardano.evmtestnet.iohkdev.io/basic-faucet](https://faucet.cardano.evmtestnet.iohkdev.io/basic-faucet)
 
-## How to fund your sidechain account with test SC_token
+## Cách cấp tiền cho tài khoản sidechain của bạn bằng SC_token thử nghiệm
 
-Create a sidechain account using a compatible Web3 wallet connected to the EVM sidechain test network (ex: MetaMask).
+Tạo tài khoản sidechain bằng ví Web3 tương thích được kết nối với mạng thử nghiệm sidechain EVM (ví dụ: MetaMask).
 
-- Working with MetaMask.
+- Làm việc với MetaMask.
 
-Request test SC_Token using the web-app: [https://faucet.sidechain.evmtestnet.iohkdev.io/](https://faucet.sidechain.evmtestnet.iohkdev.io/)
+Yêu cầu kiểm tra SC_Token bằng ứng dụng web: [https://faucet.sidechain.evmtestnet.iohkdev.io/](https://faucet.sidechain.evmtestnet.iohkdev.io/)
