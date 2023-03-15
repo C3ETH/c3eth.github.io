@@ -40,7 +40,7 @@ Tuy nhiên, hơn thế nữa, điều khiến Ouroboros khác biệt với các 
 
 ### Cách thức hoạt động của Ouroboros
 
-[The research paper](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/) on Ourorobos gives a comprehensive explanation of how it works. To summarize, Ouroboros divides the blockchain into slots and epochs. In Cardano, each slot lasts for 20 seconds, and each epoch represents approximately five days' worth of slots.
+[Bài báo nghiên cứu](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/) về Ourorobos đưa ra lời giải thích toàn diện về cách thức hoạt động của nó. Tóm lại, Ouroboros chia chuỗi khối thành các khung thời gian và kỷ nguyên. Trong Cardano, mỗi khung thời gian kéo dài trong 20 giây và mỗi kỷ nguyên đại diện cho các vị trí có giá trị khoảng năm ngày.
 
 Trọng tâm thiết kế của Ouroboros là nhận thức rằng các cuộc tấn công là không thể tránh khỏi. Do đó, giao thức được tích hợp khả năng chịu đựng để ngăn chặn kẻ tấn công truyền bá các phiên bản thay thế của chuỗi khối và giả định rằng kẻ thù có thể gửi tin nhắn tùy ý tới bất kỳ người tham gia nào vào bất kỳ lúc nào. Trên thực tế, giao thức được đảm bảo an toàn miễn là hơn 51% cổ phần được kiểm soát bởi những người tham gia trung thực (nghĩa là những người tuân theo giao thức).
 
