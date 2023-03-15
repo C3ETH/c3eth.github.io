@@ -34,7 +34,7 @@ Bất kỳ thay đổi nào đối với đầu vào, dù nhỏ đến đâu, s�
 
 ## Trang chủ
 
-**Average block time**
+**Thời gian tạo khối trung bình**
 
 Khoảng thời gian giữa việc thêm một khối vào chuỗi khối và thêm khối tiếp theo; thời gian cần thiết để thêm một khối vào chuỗi. Nó phụ thuộc vào thời gian rãnh của chuỗi.
 
@@ -76,7 +76,7 @@ Số lượng giao dịch được bao gồm trong khối.
 
 Độ dài của khối tính bằng byte.
 
-**Hash**
+**Hàm băm**
 
 Giá trị băm của khối này. Xem định nghĩa của 'hàm băm' ở trên.
 
