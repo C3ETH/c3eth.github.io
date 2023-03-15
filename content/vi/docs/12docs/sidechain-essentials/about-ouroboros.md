@@ -10,11 +10,11 @@ images: []
 
 Ouroboros, được đặt tên theo biểu tượng của sự vô tận, là xương sống của hệ sinh thái Cardano. Ouroboros BFT là phiên bản được triển khai trong sidechain EVM ví dụ của Cardano. Nó là một giao thức đơn giản, mang tính quyết định cho sự đồng thuận của sổ cái có thể chấp nhận các lỗi của Byzantine.
 
-### Background
+### Nguồn gốc
 
 Vậy lỗi Byzantine là gì? Để hiểu điều đó, chúng ta phải quay trở lại năm 1982, với bài báo [về vấn đề các vị tướng Byzantine](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) của Leslie Lamport, Robert Shostak và Marshall Pease. Hãy tưởng tượng một số tướng vây quanh một thành phố, không thể liên lạc với nhau ngoại trừ bằng tin nhắn. Các tướng phải đạt được sự đồng thuận về việc tấn công hay rút lui, ngay cả khi một hoặc nhiều tướng là kẻ phản bội. Câu chuyện này rất dễ nắm bắt và nó được sử dụng như một câu chuyện ngụ ngôn cho tình huống trong hệ thống sổ cái phân tán nơi các nút phải đạt được sự đồng thuận về nội dung của sổ cái ngay cả khi một hoặc nhiều nút tham gia ngoại tuyến, bị lỗi hoặc độc hại . Một nút như vậy có thể tạo ra **lỗi Byzantine** . Vấn đề dễ nắm bắt nhưng khó giải quyết. Đó là nơi Ouroboros xuất hiện.
 
-### Description
+### Mô tả
 
 Mô tả này dựa trên blog của Giáo sư Aggelos Kiayias và Kieran Costello.
 
@@ -32,7 +32,7 @@ Mạng sử dụng Ouroboros tiết kiệm năng lượng hơn nhiều lần so 
 
 Bây giờ, chúng ta hãy xem xét kỹ hơn cách thức hoạt động của giao thức Ouroboros.
 
-### Ouroboros Classic
+### <a>Ouroboros Classic</a>
 
 Bắt đầu với Ouroboros, lần triển khai đầu tiên của giao thức Ouroboros, được xuất bản vào năm 2017. Lần triển khai đầu tiên này (được gọi là Ouroboros Classic) đã đặt nền móng cho giao thức với tư cách là đối thủ tiết kiệm năng lượng của bằng chứng công việc. Nó đã giới thiệu khung toán học để phân tích bằng chứng cổ phần và một cơ chế khuyến khích mới để thưởng cho những người tham gia trong môi trường bằng chứng cổ phần.
 
