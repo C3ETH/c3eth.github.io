@@ -3,6 +3,8 @@ title : "Challenge and Proposal Guide"
 description: "What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting?"
 lead: "What does your user need to understand about Project Catalyst in order to submit a proposal, be a community advisor, or voting?"
 draft: false
+date: 2022-10-06T08:48:23+00:00
+lastmod: 2022-10-06T08:48:23+00:00
 images: []
 
 ---
