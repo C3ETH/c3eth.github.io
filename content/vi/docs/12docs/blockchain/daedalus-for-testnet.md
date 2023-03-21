@@ -8,7 +8,7 @@ images: []
 
 Tại đây, bạn có thể tải xuống bất kỳ phiên bản đặc biệt nào chỉ dành cho testnet của ví Daedalus. Xin lưu ý rằng ví này chỉ dành cho mục đích thử nghiệm. Nó có thể không có đầy đủ tính năng và có thể chứa lỗi.
 
-### Daedalus system requirements
+### Điều kiện để chạy hệ thống Daedalus
 
 **Các hệ điều hành**
 
