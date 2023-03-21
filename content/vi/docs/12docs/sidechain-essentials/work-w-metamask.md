@@ -1,8 +1,8 @@
 ---
-title: Làm việc với MetaMask
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Làm việc với MetaMask'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 

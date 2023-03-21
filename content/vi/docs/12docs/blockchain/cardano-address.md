@@ -1,10 +1,8 @@
 ---
-title: Địa chỉ Cardano
-description: Tài liệu Doks.
-lead: ''
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Địa chỉ Cardano'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 

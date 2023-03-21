@@ -1,8 +1,8 @@
 ---
-title: Câu hỏi thường gặp về Sidechains
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Câu hỏi thường gặp về Sidechains'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
