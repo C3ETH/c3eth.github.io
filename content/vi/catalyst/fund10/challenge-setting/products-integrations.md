@@ -1,5 +1,5 @@
 ---
-title: Products & Integrations
+title: Sản phẩm & Tích hợp Hệ Thống
 date: '2020-10-06 08:48:23 +0000'
 lastmod: '2020-10-06 08:48:23 +0000'
 draft: sai
@@ -14,35 +14,35 @@ images: []
 
 ## Câu hỏi hướng dẫn:
 
-What products and integrations can be developed or improved that will offer more use cases to the Cardano ecosystem that are high impact and drive more adoption?
+Những sản phẩm và tích hợp hệ thống nào có thể được phát triển hoặc cải tiến để cung cấp nhiều ứng dựng hơn cho hệ sinh thái Cardano, có tác động cao và thúc đẩy nhiều người áp dụng hơn?
 
 ## Tại sao nó lại quan trọng?
 
-Cardano needs innovations and solutions that help the ecosystem reach its potential and help improve the systems we use across the world
+Cardano cần những đổi mới và giải pháp giúp hệ sinh thái đạt được tiềm năng của nó và giúp cải thiện các hệ thống mà chúng sử dụng trên toàn thế giới
 
-## What is success for the following guiding topics?
+## Thành công cho thách thức này là gì?
 
-1. **Hardware** - Number of items sold, number of total users, number of interactions with hardware solution
-2. **Physical products** - Number of products tokenised as a native asset, Number of people using physical solution
+1. **Hardware** - Số lượng mặt hàng đã bán, tổng số người dùng, số lượng tương tác với giải pháp phần cứng
+2. **Sản phẩm vật lý** - Số lượng sản phẩm được mã hóa dưới dạng tài sản gốc, Số người sử dụng giải pháp vật lý
 3. **DeFi** - Tổng giá trị bị khóa, tổng số người dùng, số lượng người dùng hoạt động hàng ngày / hàng tuần / hàng tháng
 4. **Trò chơi** - Số lượng người chơi, thu nhập của người chơi được tạo (nếu chơi để kiếm tiền), phản hồi định tính về trải nghiệm trò chơi
 5. **Hệ thống quản trị quốc gia** - Lượng dân số tham gia, lượng chi phí tiết kiệm được do giải pháp mới, cải thiện khó khăn về an ninh so với cách tiếp cận trước đây
-6. **Climate change** - Total number of users, total CO2 sequestered, amount of awareness being produced, number of people changing a environmentally damaging habit
-7. **Transport and logistics** - Total number of packages tracked, Number of counterfeit items prevented
+6. **Biến đổi khí hậu** - Tổng số người sử dụng, tổng lượng CO2 cô lập, nhận thức của người dùng, số người thay đổi thói quen có hại cho môi trường
+7. **Vận chuyển và logistics** - Tổng số kiện hàng được theo dõi, Số lượng hàng giả bị ngăn chặn
 8. **Phương tiện truyền thông xã hội** - Tổng số người dùng, số lượng tương tác có ý nghĩa
 9. **Thị trường** - Tổng số người dùng, số lượng giao dịch được thực hiện
 10. **Bảo hiểm** - Tổng số người dùng, tổng giá trị được bảo hiểm
 
 ## Các chỉ số chính là gì?
 
-1. Increasing the number products available for the community to use that help to enrich the ecosystem with new use cases
-2. Increase the number of integrations that bring existing solutions together for a more seamless and connected experience between different products
+1. Tăng số lượng sản phẩm có sẵn cho cộng đồng sử dụng để giúp làm phong phú hệ sinh thái với người dùng mới
+2. Tăng số lượng tích hợp có mang các giải pháp sẵn có lại với nhau để có trải nghiệm liền mạch và kết nối tốt hơn giữa các sản phẩm khác nhau
 3. Nâng cao chất lượng của các sản phẩm và tích hợp hiện có thông qua các cải tiến và chức năng mới
 
 ## Đề xuất tiềm năng Hướng dẫn
 
 - Phần cứng - Ví, thiết bị IoT được kết nối với Cardano, ATM cục bộ để tương tác với blockchain, v.v.
-- Physical products - Tokenised housing as a native asset, Fractionalised physical asset ownership etc.
+- Sản phẩm vật lý - Nhà ở được mã hóa như một tài sản tự nhiên, Quyền sở hữu tài sản vật chất theo phân đoạn, v.v.
 - DeFi - Đồng tiền ổn định, DEX, vay &amp; cho vay, tài sản tổng hợp, v.v.
 - Trò chơi - Trò chơi thế giới mở, trò chơi bài, RPG, v.v.
 - Các hệ thống quản trị quốc gia - Các hệ thống quản trị mới cho các quốc gia, v.v.
