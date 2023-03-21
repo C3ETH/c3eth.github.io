@@ -10,7 +10,7 @@ images: []
 
 Môi trường Cardano là duy nhất trong cách nó xử lý phí, vì phí không chuyển trực tiếp đến nhà sản xuất khối. Thay vào đó, chúng được gộp lại và sau đó được phân phối cho tất cả các nhóm đã tạo khối trong một kỷ nguyên.
 
-There currently are no fees for the memory cost of tracking the accumulated chain state, in particular UTXO.
+Hiện tại không tốn phí cho chi phí bộ nhớ theo dõi trạng thái chuỗi tích lũy, đặc biệt là UTXO.
 
 ## Ngăn chặn các cuộc tấn công kinh tế
 
