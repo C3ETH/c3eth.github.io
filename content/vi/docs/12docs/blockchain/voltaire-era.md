@@ -13,14 +13,14 @@ images: []
 
 Nhóm IOG chuẩn bị cho Cardano bước vào kỷ nguyên Voltaire. Nếu chủ đề quản trị trên chuỗi khiến bạn quan tâm, thì chắc chắn bạn không nên bỏ qua CIP-1694. Đề xuất cải tiến Cardano (CIP) này xác định nền tảng cho việc ra quyết định phi tập trung. Đây sẽ là bước quan trọng đầu tiên hướng tới quản lý phi tập trung của dự án Cardano, dự án sẽ chuyển giao một lượng quyền lực đáng kể cho cộng đồng.
 
-## TLDR
+## Tóm tắt
 
 - Hiện tại, 7 khóa quản trị được phân chia giữa 3 thực thể.
 - Sẽ có một tài liệu gọi là Hiến pháp và một ủy ban để giám sát việc quản trị.
 - Sẽ có một vai trò mới là Đại diện ủy quyền (DRep), bất kỳ ai quan tâm đều có thể nhận được vai trò này. Người đặt cược có thể ủy thác số tiền đặt cược của họ cho DReps.
 - Trong mô hình quản trị mới, những thay đổi chính sẽ do ủy ban, DReps và SPO quyết định.
 
-## What does governance look like today?
+## Ngày nay quản trị trông như thế nào?
 
 Mọi hành động quản trị phải được bắt đầu thông qua một giao dịch quản trị đặc biệt. Giao dịch này phải được ủy quyền bởi ít nhất 5 trong số 7 khóa quản trị. 3 khóa quản trị do IOG nắm giữ, 2 khóa do Cardano Foundation nắm giữ và 2 khóa do Emurgo nắm giữ.
 
@@ -94,7 +94,7 @@ Việc bỏ phiếu sẽ được thực hiện thông qua các giao dịch tr�
 
 Có thể bỏ phiếu nhiều lần cho mỗi hành động quản trị. Các phiếu bầu được gửi chính xác sẽ ghi đè mọi phiếu bầu cũ hơn cho một hành động nhất định.
 
-## Conclusion
+## Kết luận
 
 Chúng tôi thực sự khuyên bạn nên tìm CIP-1694 trên GitHub để đọc bản gốc. Bạn có thể nhận xét về CIP và đề xuất các thay đổi.
 
