@@ -33,7 +33,7 @@ Ouroboros có nhiều phiên bản khác nhau:
 - [Ouroboros Crypsinous](https://iohk.io/en/research/library/papers/ouroboros-crypsinousprivacy-preserving-proof-of-stake/)
 - [Ouroboros Chronos](https://iohk.io/en/research/library/papers/ouroboros-chronospermissionless-clock-synchronization-via-proof-of-stake/)
 
-#### Ouroboros Classic
+#### <a>Ouroboros Classic</a>
 
 Lần triển khai đầu tiên của Ouroboros đã đạt được ba cột mốc quan trọng:
 
@@ -49,15 +49,15 @@ Ouroboros Byzantine Fault Tolerance (BFT) là triển khai thứ hai của giao 
 
 Ouroboros BFT cho phép giao tiếp đồng bộ giữa một mạng lưới các máy chủ được liên kết – chuỗi khối –, cung cấp sự đồng thuận sổ cái theo cách đơn giản và mang tính quyết định hơn.
 
-#### Ouroboros Praos
+#### <a>Ouroboros Praos</a>
 
 Ouroboros Praos đã giới thiệu các cải tiến đáng kể về bảo mật và khả năng mở rộng cho việc triển khai Ouroboros Classic. Praos xử lý các khối giao dịch bằng cách chia chuỗi thành các vị trí, được tổng hợp thành các kỷ nguyên. Nhưng không giống như Ouroboros Classic, Praos được phân tích trong cài đặt bán đồng bộ và an toàn trước những kẻ tấn công thích ứng, sử dụng lựa chọn người dẫn đầu riêng tư và chữ ký phát triển khóa, an toàn về phía trước để đảm bảo rằng một đối thủ mạnh không thể dự đoán người dẫn đầu vị trí tiếp theo và khởi chạy một tấn công tập trung (chẳng hạn như tấn công DDoS).
 
-#### Ouroboros Genesis
+#### <a>Ouroboros Genesis</a>
 
 Sau khi được triển khai, lần lặp thứ tư của Ouroboros -Genesis- sẽ cải thiện hơn nữa Ouroboros Praos bằng cách thêm quy tắc lựa chọn chuỗi mới cho phép các bên khởi động từ khối genesis mà không cần các điểm kiểm tra đáng tin cậy hoặc giả định về tính khả dụng trong quá khứ. Bài báo Genesis cũng cung cấp bằng chứng về Khả năng kết hợp phổ quát của giao thức, điều này chứng tỏ rằng giao thức có thể được kết hợp với các giao thức khác theo cấu hình tùy ý trong môi trường thế giới thực mà không làm mất đi các thuộc tính bảo mật của nó.
 
-#### Ouroboros Crypsinous
+#### <a>Ouroboros Crypsinous</a>
 
 [Ouroboros Crypsinous](https://iohk.io/en/research/library/papers/ouroboros-crypsinousprivacy-preserving-proof-of-stake/) trang bị cho Genesis các thuộc tính bảo vệ quyền riêng tư. Đây là giao thức chuỗi khối bằng chứng bảo toàn quyền riêng tư đầu tiên được phân tích chính thức, đạt được bảo mật chống lại các cuộc tấn công thích ứng trong khi vẫn duy trì đảm bảo quyền riêng tư mạnh mẽ bằng cách giới thiệu một kỹ thuật phát triển tiền xu mới dựa trên SNARK và mã hóa bảo mật chuyển tiếp khóa-riêng tư. Crypsinous hiện không được lên kế hoạch triển khai trên Cardano, nhưng nó có thể được sử dụng bởi các chuỗi khác để tăng cường cài đặt bảo vệ quyền riêng tư.
 
