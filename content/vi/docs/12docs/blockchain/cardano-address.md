@@ -38,7 +38,7 @@ Con trỏ có thể ngắn hơn đáng kể so với hàm băm được sử d�
 
 Có một sự tinh tế với các địa chỉ con trỏ. Có thể xảy ra trường hợp chứng chỉ đăng ký khóa cổ phần được tham chiếu bởi một địa chỉ con trỏ có thể bị mất do khôi phục. Để tránh mất tiền trong trường hợp này, hệ thống coi các địa chỉ con trỏ có con trỏ không hợp lệ là *hợp lệ* cho mục đích sử dụng tiền được lưu trữ trong đó làm đầu vào cho các giao dịch (nhưng bỏ qua chúng cho mục đích chứng minh việc tham gia cổ phần). Theo tùy chọn, ví có thể từ chối tạo giao dịch tới địa chỉ con trỏ trước khi chứng chỉ được tham chiếu trở thành bất biến, để ngăn tiền bị loại khỏi bằng chứng cổ phần, trong trường hợp hoàn vốn.
 
-### Enterprise addresses
+### Địa chỉ doanh nghiệp
 
 Địa chỉ doanh nghiệp không có quyền cổ phần, do đó, việc sử dụng các địa chỉ này có nghĩa là bạn đang từ chối tham gia vào giao thức bằng chứng cổ phần.
 
