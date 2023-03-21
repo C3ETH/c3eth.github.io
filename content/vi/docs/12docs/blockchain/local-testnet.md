@@ -1,5 +1,5 @@
 ---
-title: Creating a local testnet
+title: Tạo mạng thử nghiệm cục bộ
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -10,7 +10,7 @@ Mạng thử nghiệm cục bộ cho phép các nhà phát triển và dự án 
 
 Có một số giải pháp khả thi để tạo một mạng thử nghiệm cục bộ. Chúng bao gồm việc sử dụng Plutip (công cụ tạo mạng riêng) hoặc Nix (công cụ quản lý gói và cấu hình hệ thống).
 
-## Creating a local testnet using Plutip
+## Tạo mạng thử nghiệm cục bộ bằng Plutip
 
 [Plutip](https://github.com/mlabs-haskell/plutip) , một công cụ được phát triển trên chuỗi khối Cardano, tạo điều kiện thuận lợi cho việc tạo một mạng riêng để chạy các hợp đồng Plutus.
 
@@ -22,6 +22,6 @@ Plutip có thể được sử dụng theo hai cách khác nhau:
 
 *Các hướng dẫn được tham chiếu ở trên được tạo bởi nhóm MLabs.*
 
-## Creating a local testnet using Nix
+## Tạo mạng thửu nghiệm cục bộ bằng Nix
 
 Một tùy chọn khả thi khác là tạo một mạng thử nghiệm cục bộ bằng Nix. Để biết thêm thông tin, hãy tìm hiểu về [các nguyên tắc đóng gói](https://github.com/input-output-hk/cardano-world/blob/master/docs/explain/packaging-principles.md) và xem cách [tạo mạng thử nghiệm cục bộ bằng Nix](https://github.com/input-output-hk/cardano-world/blob/master/docs/explain/create-testnet.md) .
