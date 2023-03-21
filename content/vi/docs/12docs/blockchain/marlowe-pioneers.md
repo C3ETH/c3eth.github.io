@@ -14,7 +14,7 @@ Khi tham gia chương trình này, bạn sẽ trở thành thành viên của m�
 
 Chúng tôi đang hướng đến việc giữ cho khóa học này có tính tương tác, với các video, bài tập và phiên hỏi đáp hàng tuần, cùng với quyền truy cập độc quyền vào những người tạo khóa học và các chuyên gia chính trong lĩnh vực này. Bạn cũng sẽ có quyền truy cập vào kênh cộng đồng Marlowe chuyên dụng, được tạo riêng để giúp những người tiên phong kết nối với nhau.
 
-*We are no longer accepting registrations for the Marlowe Pioneer Program. We will be informing you about the next editions of the program in due course.*
+*Chúng tôi đã ngưng nhận đơn đăng ký Chương trình Tiên phong Marlowe. Chúng tôi sẽ thông báo cho bạn về các phiên bản tiếp theo của chương trình trong thời gian tới.*
 
 Để tìm hiểu thêm và theo dõi các thông báo về khóa học trong tương lai, hãy xem:
 
