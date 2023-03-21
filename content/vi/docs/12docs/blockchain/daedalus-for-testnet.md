@@ -1,8 +1,8 @@
 ---
-title: Ví Daedalus cho mạng thử nghiệm Cardano
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Ví Daedalus cho mạng thử nghiệm Cardano'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
@@ -15,9 +15,9 @@ Tại đây, bạn có thể tải xuống bất kỳ phiên bản đặc biệt
 - Windows 8.1, Windows 10 (Chỉ hỗ trợ Windows 64-bit)
 - macOS 10.13, macOS 10.14, macOS 10.15, macOS 11.1
 - Hệ điều hành Linux đã được thử nghiệm đối với:
-    - Ubuntu 18.04 LTS, Ubuntu 20.04 LTS
-    - Fedora 28
-    - Nhằm vào tất cả các bản phân phối Linux
+  - Ubuntu 18.04 LTS, Ubuntu 20.04 LTS
+  - Fedora 28
+  - Nhằm vào tất cả các bản phân phối Linux
 
 **Yêu cầu phần cứng được đề xuất**
 

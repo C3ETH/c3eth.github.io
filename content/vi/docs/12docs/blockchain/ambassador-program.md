@@ -1,9 +1,8 @@
 ---
-title: chương trình đại sứ
-lead: ''
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Chương trình đại sứ'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 

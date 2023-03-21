@@ -1,9 +1,8 @@
 ---
 title: 'CIP-1694: Cardano bước vào kỷ nguyên Voltaire'
-lead: ''
-date: '2022-12-22 08:48:23 +0000'
-lastmod: '2022-12-22 08:48:23 +0000'
-draft: 'false'
+date: 2022-12-22 08:48:23 +0000
+lastmod: 2022-12-22 08:48:23 +0000
+draft: false
 images: []
 ---
 

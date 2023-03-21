@@ -1,8 +1,8 @@
 ---
-title: Tùy chọn cam kết và ủy quyền
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Tùy chọn cam kết và ủy quyền'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 

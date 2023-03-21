@@ -1,8 +1,8 @@
 ---
-title: Giới thiệu về trình khám phá khối
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Giới thiệu về trình khám phá khối'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
@@ -102,7 +102,7 @@ Số xu được trao cho người xác thực của khối này. Các đồng x
 
 Trình khám phá khối sẽ hiển thị chuyển tiền dưới dạng giao dịch.
 
-Định nghĩa chính thức là *'Một phần dữ liệu, được ký bởi một *tác nhân bên ngoài*. Nó đại diện cho một *thông điệp* hoặc một *đối tượng tự trị* mới. Các giao dịch được ghi vào từng khối của chuỗi khối.'* (Từ Sách vàng.)
+Định nghĩa chính thức là *'Một phần dữ liệu, được ký bởi một tác nhân bên ngoài. Nó đại diện cho một thông điệp hoặc một đối tượng tự trị mới. Các giao dịch được ghi vào từng khối của chuỗi khối.'* (Từ Sách vàng.)
 
 **Cuộc gọi hợp đồng**
 

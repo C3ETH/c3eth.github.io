@@ -1,8 +1,8 @@
 ---
-title: Thư viện tuần tự hóa Cardano
-date: '2022-10-06 08:48:23 +0000'
-lastmod: '2022-10-06 08:48:23 +0000'
-draft: 'false'
+title: 'Thư viện tuần tự hóa Cardano'
+date: 2022-10-06 08:48:23 +0000
+lastmod: 2022-10-06 08:48:23 +0000
+draft: false
 images: []
 ---
 
