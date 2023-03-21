@@ -1,5 +1,5 @@
 ---
-title: Main chain Plutus scripts
+title: Tập lệnh Plutus chuỗi chính
 date: '2022-10-06 08:48:23 +0000'
 lastmod: '2022-10-06 08:48:23 +0000'
 draft: 'false'
@@ -8,13 +8,13 @@ images: []
 
 Chuỗi chính sử dụng các thành phần sau để xử lý các tương tác với chuỗi phụ (sidechain):
 
-- `SidechainTokenMintingPolicy`: a minting policy that validates the minting or burning of sidechain tokens (SC_Token) on the main chain.
-- `MPTRootTokenMintingPolicy`: a minting policy for storing cross-chain transaction bundles' MPT roots.
-- `CommitteeCandidateValidator`: a script address for committee candidates.
-- `MPTRootTokenValidator`: a script address for storing `MPTRootToken`s.
-- `CommitteeHashValidator`: a script address for the committee members' hash.
+- `SidechainTokenMintingPolicy` : chính sách đúc xác thực việc đúc hoặc đốt mã thông báo sidechain (SC_Token) trên chuỗi chính.
+- `MPTRootTokenMintingPolicy` : chính sách đúc tiền để lưu trữ các gốc MPT của gói giao dịch chuỗi chéo.
+- `CommitteeCandidateValidator` : một địa chỉ tập lệnh cho các ứng cử viên của ủy ban.
+- `MPTRootTokenValidator` : địa chỉ tập lệnh để lưu trữ `MPTRootToken` s.
+- `CommitteeHashValidator` : một địa chỉ tập lệnh cho hàm băm của các thành viên ủy ban.
 
-All of these policies and validators are parameterized by the sidechain parameters, which allows getting unique minting policy and validator script hashes.
+Tất cả các chính sách và trình xác thực này đều được tham số hóa bởi các tham số sidechain, cho phép nhận các hàm băm tập lệnh xác thực và chính sách khai thác duy nhất.
 
 ```haskell
 data SidechainParams = SidechainParams
@@ -31,16 +31,16 @@ data SidechainParams = SidechainParams
   }
 ```
 
-### 1. Initialize a contract
+### 1. Khởi tạo hợp đồng
 
-For initialization, use an NFT (consuming some arbitrary UTXO) to uniquely identify the current committee members by storing the hash of the concatenated public keys on the chain (see 6.1). This committee is used to verify signatures for sidechain to main-chain transfers (see 3.1).
+Để khởi tạo, hãy sử dụng NFT (sử dụng một số UTXO tùy ý) để xác định duy nhất các thành viên ủy ban hiện tại bằng cách lưu trữ hàm băm của các khóa công khai được nối trên chuỗi (xem 6.1). Ủy ban này được sử dụng để xác minh chữ ký cho việc chuyển chuỗi phụ sang chuỗi chính (xem 3.1).
 
-**Workflow:**
+**Quy trình làm việc:**
 
-1. Call the initialize sidechain endpoint to generate the `SidechainParams` for a new sidechain.
-2. Use the given sidechain parameters for the rest of the endpoints to work with *this* particular sidechain.
+1. Gọi điểm cuối sidechain khởi tạo để tạo `SidechainParams` cho một sidechain mới.
+2. Sử dụng các tham số sidechain đã cho để phần còn lại của các điểm cuối hoạt động với sidechain cụ thể *này* .
 
-**Endpoint parameters:**
+**Thông số điểm cuối:**
 
 ```haskell
 data InitSidechainParams = InitSidechainParams
@@ -58,17 +58,17 @@ data InitSidechainParams = InitSidechainParams
   }
 ```
 
-### 2. Transfer SC_Token tokens from the main chain to the sidechain
+### 2. Chuyển mã thông báo SC_Token từ chuỗi chính sang chuỗi phụ
 
-SC_Token tokens on the Cardano network represent locked native assets on the sidechain network. When some tokens are locked on a certain sidechain contract, you can mint the equivalent amount on Cardano. Conversely burning these tokens on the Cardano network (see 3) will release these tokens and send them to the owner.
+Mã thông báo SC_Token trên mạng Cardano đại diện cho tài sản gốc bị khóa trên mạng sidechain. Khi một số mã thông báo bị khóa trong một hợp đồng sidechain nhất định, bạn có thể đúc số tiền tương đương trên Cardano. Ngược lại, việc đốt các mã thông báo này trên mạng Cardano (xem 3) sẽ giải phóng các mã thông báo này và gửi chúng cho chủ sở hữu.
 
-**Workflow:**
+**Quy trình làm việc:**
 
-1. Call the burn endpoint of the contract with BurnParams.
-2. A transaction will be submitted to the main chain burning the specified amount of SC_Token tokens and the corresponding sidechain address in the redeemer.
-3. The Bridge component (observing the main chain where the given minting policy is handled) will verify the transaction and create an appropriate sidechain transaction.
+1. Gọi điểm cuối ghi của hợp đồng với BurnParams.
+2. Một giao dịch sẽ được gửi tới chuỗi chính ghi số lượng mã thông báo SC_Token được chỉ định và địa chỉ sidechain tương ứng trong trình đổi quà.
+3. Thành phần Bridge (quan sát chuỗi chính nơi xử lý chính sách khai thác đã cho) sẽ xác minh giao dịch và tạo giao dịch sidechain thích hợp.
 
-**Endpoint parameters:**
+**Thông số điểm cuối:**
 
 ```haskell
 data BurnParams = BurnParams
@@ -80,20 +80,20 @@ data BurnParams = BurnParams
 
 ![plutus-1](https://user-images.githubusercontent.com/10556209/203348515-29b5635d-33fc-4b72-9c0c-d9db0b7ae2b7.png)
 
-*Main chain to Sidechain transaction (burning SC_Token tokens)*
+*Chuỗi chính đến giao dịch Sidechain (đốt mã thông báo SC_Token)*
 
-### 3. Transfer SC_Token tokens from the sidechain to the main chain
+### 3. Chuyển mã thông báo SC_Token từ sidechain sang chuỗi chính
 
-**Workflow:**
+**Quy trình làm việc:**
 
-1. Sidechain collects unhandled transactions and bundles them at the end of each sidechain epoch.
-2. Sidechain block producers compute `txs = outgoing_txs.map(tx => blake2b(cbor(MerkleTreeEntry(tx)))` for each transaction (see `MerkleTreeEntry`), and create a Merkle-tree from these. The root of this tree is signed by at least `t` (multisig threshold) of the committee members with an appended signature scheme.
-3. Bridge broadcasts Merkle root to the chain.
-4. Transactions can be claimed individually (see 3.2).
+1. Sidechain thu thập các giao dịch chưa được xử lý và nhóm chúng vào cuối mỗi kỷ nguyên sidechain.
+2. Các nhà sản xuất khối Sidechain tính toán `txs = outgoing_txs.map(tx => blake2b(cbor(MerkleTreeEntry(tx)))` cho mỗi giao dịch (xem `MerkleTreeEntry` ) và tạo một cây Merkle từ những giao dịch này. Gốc của cây này được ký bởi ít nhất `t` (ngưỡng nhiều chữ ký) của các thành viên ủy ban với sơ đồ chữ ký được nối thêm.
+3. Cầu phát Merkle root tới chuỗi.
+4. Các giao dịch có thể được yêu cầu riêng lẻ (xem 3.2).
 
-#### 3.1. Merkle root insertion
+#### 3.1. Chèn gốc Merkle
 
-**Endpoint parameters for Merkle root insertion:**
+**Các tham số điểm cuối để chèn gốc Merkle:**
 
 ```haskell
 data SaveRootParams = SaveRootParams
@@ -107,7 +107,7 @@ data SaveRootParams = SaveRootParams
   }
 ```
 
-Merkle roots are stored on-chain, using `MPTRootToken`s, where the `tokenName` is the Merkle root. These tokens must be at the `MPTRootTokenValidator` script address.
+Merkle root được lưu trữ trên chuỗi, sử dụng `MPTRootToken` s, trong đó `tokenName` là Merkle root. Các mã thông báo này phải ở địa chỉ tập lệnh `MPTRootTokenValidator` .
 
 **Redeemer:**
 
@@ -122,23 +122,23 @@ data SignedMerkleRoot = SignedMerkleRoot
 
 ```
 
-A minting policy verifies that:
+Chính sách đúc tiền xác minh rằng:
 
-- the hash of committeePublicKeys matches the hash saved on-chain
-- all the provided signatures are valid
-- size(signatures) &gt; 2/3 * size(committeePubKeys)
-- a list of public keys does not contain duplicates
-- if `previousMerkleRoot` is specified, the UTXO with the given roothash is referenced in the transaction as a reference input
+- hàm băm của ủy banPublicKeys khớp với hàm băm được lưu trên chuỗi
+- tất cả các chữ ký được cung cấp là hợp lệ
+- kích thước (chữ ký) &gt; 2/3 * kích thước (committeePubKeys)
+- một danh sách các khóa công khai không chứa các bản sao
+- nếu `previousMerkleRoot` được chỉ định, UTXO với roothash đã cho được tham chiếu trong giao dịch dưới dạng đầu vào tham chiếu
 
-A validator script verifies the following:
+Tập lệnh trình xác thực xác minh những điều sau:
 
-- UTXOs containing an `MPTRootToken` cannot be unlocked from the script address
+- Không thể mở khóa UTXO chứa `MPTRootToken` từ địa chỉ tập lệnh
 
 ![plutus2](https://user-images.githubusercontent.com/10556209/203349388-b0f3de16-dcfb-4a2d-b63d-44a2c0daeb6b.png)
 
-*Merkle root token minting*
+*Đúc mã thông báo gốc Merkle*
 
-The Merkle tree has to be constructed in the exact same way as it is done by the following Merkle tree implementation. Entries in the tree should be calculated as follows:
+Cây Merkle phải được xây dựng theo cách chính xác như được thực hiện bằng cách triển khai cây Merkle sau đây. Các mục trong cây nên được tính toán như sau:
 
 ```haskell
 data MerkleTreeEntry = MerkleTreeEntry
@@ -153,7 +153,7 @@ data MerkleTreeEntry = MerkleTreeEntry
 entry = blake2b(cbor(MerkleTreeEntry))
 ```
 
-Signatures for Merkle tree should be constructed as follows:
+Chữ ký cho cây Merkle nên được xây dựng như sau:
 
 ```haskell
 data MerkleRootInsertionMessage = MerkleRootInsertionMessage
@@ -168,9 +168,9 @@ data MerkleRootInsertionMessage = MerkleRootInsertionMessage
 signature = ecdsa.sign(data: blake2b(cbor(MerkleRootInsertionMessage)), key: committeeMemberPrvKey)
 ```
 
-#### 3.2. Individual claiming
+#### 3.2. Yêu cầu cá nhân
 
-**Endpoint parameters for claiming:**
+**Thông số điểm cuối để xác nhận quyền sở hữu:**
 
 ```haskell
 data MintParams = MintParams
@@ -182,22 +182,22 @@ data MintParams = MintParams
   }
 ```
 
-A minting policy verifies the following:
+Chính sách đúc tiền xác minh những điều sau:
 
-- `MPTRootToken` with the name of the Merkle root of the transaction (calculated from from the proof) can be found in the `MPTRootTokenValidator` script address
-- recipient, amount, index and previousMerkleRoot combined with merkleProof match against merkleRootHash
-- `claimTransactionHash` of the transaction is NOT included in the distributed set[1](#fn-1)
-- a new entry with the `claimTransactionHash` of the transaction is created in the distributed set
-- the transaction is signed by the recipient
-- the amount matches the actual tx body contents
+- Có thể tìm thấy `MPTRootToken` với tên gốc Merkle của giao dịch (được tính toán từ bằng chứng) trong địa chỉ tập lệnh `MPTRootTokenValidator`
+- người nhận, số tiền, chỉ mục và MerkleRoot trước đó được kết hợp với merkleProof khớp với merkleRootHash
+- `claimTransactionHash` của giao dịch KHÔNG được bao gồm trong bộ phân tán [1](#fn-1)
+- một mục nhập mới với `claimTransactionHash` của giao dịch được tạo trong tập hợp phân tán
+- giao dịch được ký bởi người nhận
+- số tiền khớp với nội dung cơ thể tx thực tế
 
-where the `claimTransactionHash` is a `blake2(cbor(MerkleTreeEntry))`, uniquely identifying a cross-chain transaction by pointing to a Merkle tree and the index of the transaction in the tree.
+trong đó `claimTransactionHash` là `blake2(cbor(MerkleTreeEntry))` , xác định duy nhất một giao dịch chuỗi chéo bằng cách trỏ đến cây Merkle và chỉ mục của giao dịch trong cây.
 
 ![plutus3](https://user-images.githubusercontent.com/10556209/203349828-bf3db3aa-7032-4578-a7c2-fe06a882dc95.png)
 
-*Sidechain to main chain transaction (claiming tokens)*
+*Sidechain đến giao dịch chuỗi chính (yêu cầu mã thông báo)*
 
-**Minting policy redeemer:**
+**Người mua lại chính sách khai thác:**
 
 ```haskell
 data SidechainRedeemer
@@ -207,12 +207,12 @@ data SidechainRedeemer
 
 ```
 
-### 4. Register a committee candidate
+### 4. Đăng ký một ứng cử viên ủy ban
 
-**Workflow:**
+**Quy trình làm việc:**
 
-1. An SPO registering as a block producer (commitee member) for the sidechain sends BlockProducerRegistration and its signature (where the signed message contains the sidechain parameters, sidechain public key and the input UTXO in CBOR format)
-2. The Bridge monitoring the committee candidate script address is validating the SPO credentials, chainId, and the consumed inputUtxo
+1. Một SPO đăng ký với tư cách là nhà sản xuất khối (thành viên ủy ban) cho sidechain gửi BlockProducerRegistration và chữ ký của nó (trong đó thông báo đã ký chứa các tham số sidechain, khóa công khai sidechain và UTXO đầu vào ở định dạng CBOR)
+2. Cầu giám sát địa chỉ tập lệnh ứng cử viên của ủy ban đang xác thực thông tin đăng nhập SPO, chainId và inputUtxo đã sử dụng
 
 **Mốc thời gian:**
 
@@ -226,24 +226,24 @@ data BlockProducerRegistration = BlockProducerRegistration
   }
 ```
 
-### 5. Deregister a committee member/candidate
+### 5. Hủy đăng ký thành viên ủy ban/ứng cử viên
 
-**Workflow:**
+**Quy trình làm việc:**
 
-1. The UTXO with the registration information can be redeemed by the original sender (doesn't have to check the inputUtxo)
-2. The Bridge monitoring the committee candidate script address interprets this as a deregister action
+1. Người gửi ban đầu có thể đổi UTXO với thông tin đăng ký (không phải kiểm tra đầu vàoUtxo)
+2. Cầu theo dõi địa chỉ tập lệnh của ứng cử viên ủy ban diễn giải đây là hành động hủy đăng ký
 
-### 6. Committee handover
+### 6. Bàn giao Ủy ban
 
-In the current implementation of the sidechain, a Merkle root insertion (see 3.1) can only occur once per sidechain epoch at the time of the committee handover. The sidechain exposes an endpoint which can handle this action, however the underlying implementation is detached, so in theory, the Merkle root insertion and Committee Hash Update actions could be done independently.
+Trong quá trình triển khai sidechain hiện tại, việc chèn gốc Merkle (xem 3.1) chỉ có thể xảy ra một lần cho mỗi kỷ nguyên sidechain tại thời điểm bàn giao ủy ban. Sidechain hiển thị một điểm cuối có thể xử lý hành động này, tuy nhiên, việc triển khai cơ bản bị tách rời, vì vậy về lý thuyết, việc chèn gốc Merkle và các hành động Cập nhật hàm băm của Ủy ban có thể được thực hiện độc lập.
 
-The order of these actions is important. If the transaction inserting the Merkle root for sidechain epoch 1 gets submitted *after* the committee handover from `committee of epoch 1` to `committee of epoch 2` transaction, the signature would become invalid, since it is signed by the `committee of epoch 1`. To mitigate this issue, the `Merkle root chain` is introduced; for details see 6.2.
+Thứ tự của những hành động này là quan trọng. Nếu giao dịch chèn gốc Merkle cho sidechain epoch 1 được gửi *sau khi* ủy ban bàn giao từ `committee of epoch 1` sang `committee of epoch 2` , chữ ký sẽ trở nên không hợp lệ vì nó được ký bởi `committee of epoch 1` . Để giảm thiểu vấn đề này, `Merkle root chain` được giới thiệu; để biết chi tiết, xem 6.2.
 
-#### 6.1 Update a committee hash
+#### 6.1 Cập nhật hàm băm của ủy ban
 
-1. Bridge component triggers the Cardano transaction. This transaction does the following:
+1. Thành phần cầu kích hoạt giao dịch Cardano. Giao dịch này thực hiện như sau:
 
-**Endpoint params:**
+**Thông số điểm cuối:**
 
 ```haskell
 data UpdateCommitteeHashParams = UpdateCommitteeHashParams
@@ -260,16 +260,16 @@ data UpdateCommitteeHashParams = UpdateCommitteeHashParams
   }
 ```
 
-Validator script verifies the following:
+Tập lệnh trình xác thực xác minh những điều sau:
 
-- the hash of committeePublicKeys matches the hash saved on chain
-- all the provided signatures are valid
-- size(signatures) &gt; 2/3 * size(committeePubKeys)
-- the NFT of the UTXO holding the old verification key at the script address
-- consumes the above mentioned UTXO
-- sidechain epoch of the new committee hash &gt; sidechain epoch of the consumed committee hash utxo
-- outputs a new UTXO with the updated committee hash containing the NFT to the same script address
-- reference to the last Merkle root is referenced in the transaction
+- hàm băm của ủy banPublicKeys khớp với hàm băm được lưu trên chuỗi
+- tất cả các chữ ký được cung cấp là hợp lệ
+- kích thước (chữ ký) &gt; 2/3 * kích thước (committeePubKeys)
+- NFT của UTXO giữ khóa xác minh cũ tại địa chỉ tập lệnh
+- tiêu thụ UTXO đã đề cập ở trên
+- kỷ nguyên sidechain của hàm băm ủy ban mới &gt; kỷ nguyên sidechain của hàm băm ủy ban đã sử dụng utxo
+- xuất một UTXO mới với hàm băm của ủy ban được cập nhật có chứa NFT đến cùng một địa chỉ tập lệnh
+- tham chiếu đến gốc Merkle cuối cùng được tham chiếu trong giao dịch
 
 **Mốc thời gian:**
 
@@ -290,9 +290,9 @@ keyN - 33 bytes compressed ecdsa public key of a committee member
 
 ![plutus4](https://user-images.githubusercontent.com/10556209/203350359-da10a8f5-be3c-4d55-b235-10b3919e58a0.png)
 
-*Committee handover (updating committee hash)*
+*Bàn giao ủy ban (cập nhật hàm băm của ủy ban)*
 
-**Redeemer:**
+**Đấng cứu chuộc:**
 
 ```haskell
 data UpdateCommitteeRedeemer = UpdateCommitteeRedeemer
@@ -304,7 +304,7 @@ data UpdateCommitteeRedeemer = UpdateCommitteeRedeemer
   }
 ```
 
-Signatures are constructed as follow:
+Chữ ký được xây dựng như sau:
 
 ```bash
 SidechainPubKey - 33 bytes compressed ecdsa public key
@@ -325,24 +325,24 @@ data UpdateCommitteeMessage = UpdateCommitteeMessage
 signature = ecdsa.sign(data: blake2b(cbor(UpdateCommitteeMessage)), key: committeeMemberPrvKey)
 ```
 
-#### 6.2. Merkle root chaining
+#### 6.2. Chuỗi gốc Merkle
 
-As described in section 6 'Committee handover', the correct order of Merkle root insertions and committee hash updates mut be maintained. A new Merkle root chain does this. Each Merkle root has a reference to its predecessor (if one exists), furthermore all committee hash updates reference the last Merkle root inserted (if one exists).
+Như được mô tả trong phần 6 'Chuyển giao ủy ban', thứ tự chính xác của việc chèn gốc Merkle và cập nhật hàm băm của ủy ban sẽ không được duy trì. Chuỗi gốc Merkle mới thực hiện điều này. Mỗi gốc Merkle có một tham chiếu đến gốc Merkle trước đó (nếu có), hơn nữa, tất cả các cập nhật hàm băm của ủy ban đều tham chiếu đến gốc Merkle cuối cùng được chèn (nếu có).
 
 ![01](https://user-images.githubusercontent.com/10556209/203350794-9c75b2cd-f471-4f51-9e54-0d2d90ac8f07.png)
 
-*Merkle root chaining (SC ep = sidechain epoch)*
+*Chuỗi gốc Merkle (SC ep = sidechain epoch)*
 
-As seen in the graph above, the first Merkle root has no reference, which is completely valid. The existence of the last Merkle root is not enforced.
+Như đã thấy trong biểu đồ trên, gốc Merkle đầu tiên không có tham chiếu, điều này hoàn toàn hợp lệ. Sự tồn tại của gốc Merkle cuối cùng không được thực thi.
 
-In case a sidechain epoch passed without any cross-chain transactions, no Merkle root is inserted, resulting in two committee hash updates referencing the same Merkle root.
+Trong trường hợp một kỷ nguyên sidechain được thông qua mà không có bất kỳ giao dịch chuỗi chéo nào, thì không có gốc Merkle nào được chèn vào, dẫn đến hai bản cập nhật hàm băm của ủy ban tham chiếu cùng một gốc Merkle.
 
 ![02](https://user-images.githubusercontent.com/10556209/203350803-2baca0c8-9b85-458b-a36a-9621d30e5392.png)
 
-*Merkle root chaining - epoch without Merkle root (SC ep = sidechain epoch)*
+*Chuỗi gốc Merkle - kỷ nguyên không có gốc Merkle (SC ep = kỷ nguyên sidechain)*
 
-In the future, there may be multiple Merkle roots per sidechain epoch, so the result could look like the following:
+Trong tương lai, có thể có nhiều gốc Merkle trên mỗi kỷ nguyên sidechain, vì vậy kết quả có thể giống như sau:
 
 ![03](https://user-images.githubusercontent.com/10556209/203350806-72c261f7-f0af-41a0-90dd-883c160e96c3.png)
 
-*Merkle root chaining - multiple Merkle roots per epoch (SC ep = sidechain epoch)*
+*Chuỗi gốc Merkle - nhiều gốc Merkle trên mỗi kỷ nguyên (SC ep = kỷ nguyên sidechain)*
