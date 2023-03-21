@@ -20,7 +20,7 @@ Các nhóm cổ phần phải duy trì **tính sẵn sàng cao** , có nghĩa l�
 
 > Lưu ý: Bạn **nên** kiểm tra tất cả chức năng nhóm cổ phần trên [mạng thử nghiệm](https://testnets.cardano.org/en/testnets/cardano/overview/) *trước* khi triển khai bất kỳ mạng chính nào.
 
-### Pledging
+### Cam kết
 
 Cam kết là số lượng ada mà nhà điều hành nhóm cổ phần 'ủy nhiệm' cho nhóm của chính họ khi nó được tạo. Cam kết này thể hiện cam kết của nhà điều hành trong việc duy trì nhóm của họ và hỗ trợ hoạt động của mạng. Không bắt buộc phải cam kết, tuy nhiên, bạn nên cam kết *một số* ada cho nhóm cổ phần trước khi chạy nó. Càng nhiều ada được cam kết, phần thưởng nhóm càng cao, phần thưởng này phụ thuộc vào mức độ thời gian hoạt động của nhóm và hiệu suất của nó.
 
@@ -28,7 +28,7 @@ Cam kết là số lượng ada mà nhà điều hành nhóm cổ phần 'ủy n
 >
 > - [Cam kết và phần thưởng](/core-concepts/pledging-rewards)
 
-### Delegation
+### Sự uỷ quyền
 
 Những người nắm giữ Ada không có chuyên môn kỹ thuật trong việc duy trì nhóm cổ phần có thể kiếm được phần thưởng bằng cách ủy quyền cho bất kỳ nhóm cổ phần nào có sẵn trên mạng. [Ví Daedalus](https://docs.cardano.org/cardano-components/daedalus-wallet) cung cấp giao diện thân thiện với người dùng, cho phép người dùng bắt đầu ủy quyền cho bất kỳ nhóm cổ phần đã đăng ký nào.
 
