@@ -3,5 +3,6 @@ title : "Contribution"
 description: "How to contribute to this website"
 draft: false
 images: []
-weight: 100
 ---
+
+This is a home page
