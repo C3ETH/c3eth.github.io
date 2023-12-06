@@ -1,11 +1,8 @@
 ---
-title : "Tài liệu Cardano"
-description: "Docs Doks."
-lead: ""
+title : "Bỏ phiếu"
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
 images: []
-weight: 40
-
+weight: 30
 ---
