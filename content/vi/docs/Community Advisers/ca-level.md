@@ -43,12 +43,14 @@ Người điều hành cộng đồng sẽ không thay đổi đánh giá hoặc
 
 ### Phần thưởng LV0
 
-Người đánh giá LV0 sẽ nhận được tối đa **17 ada cho mỗi lần đánh giá** . Số tiền này có thể ít hơn nếu có thêm nhiều đánh giá được hoàn thành bởi người đánh giá LV0 khi lượng đánh giá LV1 bổ sung vượt quá mức phân bổ tự động của người đánh giá LV1 được thêm vào nhóm đánh giá LV0.
+Người đánh giá LV0 sẽ nhận được *tối đa 25 ada cho mỗi lần đánh giá* . Số tiền này có thể ít hơn nếu người đánh giá LV0 hoàn thành nhiều đánh giá hơn. LV0 chỉ được thưởng khi đánh giá được phân bổ. Để nhận được phần thưởng, LV0 phải có ít nhất 10 đánh giá hợp lệ. Phần thưởng LV0 được trao bao gồm vô số đánh giá LV1 bổ sung vượt quá mức tự động phân bổ của người đánh giá LV1, được thêm vào nhóm đánh giá đã xuất bản LV0.
 
 ### Phần thưởng LV1
 
-LV1 có thể mong đợi số tiền cố định là **33 ada cho mỗi lần đánh giá được phân bổ** . Nếu người đánh giá LV1 muốn thực hiện nhiều đánh giá hơn ngoài mức phân bổ được chỉ định thì mỗi đánh giá bổ sung sẽ được trả thưởng như một phần của phần thưởng LV0.
+LV1 có thể mong đợi *số tiền cố định là 50 ada cho mỗi lần đánh giá được phân bổ* . Nếu người đánh giá LV1 muốn thực hiện nhiều đánh giá hơn mức phân bổ được chỉ định thì mỗi đánh giá được xuất bản bổ sung sẽ được thưởng bằng phần thưởng LV0. Để nhận được phần thưởng, LV1 phải có ít nhất 10 đánh giá hợp lệ, bao gồm đánh giá được chỉ định và đánh giá bổ sung. Bất kỳ số lượng đánh giá nào dưới số tiền này sẽ không được khen thưởng.
+
+> Người đánh giá LV0/LV1 sẽ bị loại (và sẽ không nhận được phần thưởng) nếu nhận xét của họ không đáp ứng tỷ lệ phê duyệt 35% (với mẫu tối thiểu là 5 bài đánh giá được kiểm duyệt) sau giai đoạn kiểm duyệt.
 
 ### Phần thưởng LV2
 
-LV2 có thể mong đợi nhận được tối đa **5 ada cho mỗi lần kiểm tra cờ** . Nỗ lực ở đây dự kiến ​​sẽ đơn giản và nhanh chóng được thực hiện cho mỗi đánh giá bị gắn cờ.
+LV2 có thể mong đợi nhận được *tối đa 5 ada cho mỗi lần kiểm tra cờ* . Mục đích ở đây dự kiến ​​sẽ đơn giản và nhanh chóng đối với mỗi bài đánh giá được gắn cờ.
