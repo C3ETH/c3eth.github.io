@@ -1,5 +1,5 @@
 ---
-title : "Proposer Guidance"
+title : "Community Reviewers"
 description: "Catalyst Docs"
 draft: false
 images: []
