@@ -2,6 +2,7 @@
 title: "LV0 and LV1 - Scoring Rubric & Guiding Questions"
 draft: false
 images: []
+weight: 30
 ---
 
 For each of the three criteria, Community Reviewers are required to give their opinion and rationale in English to explain the score and demonstrate the assessor’s critical thinking. A proposal may receive a low score for various reasons, including if the funding application form is not complete, the applicant cannot be clearly identified, or if the project does not comply with Fund 10 Rules. If a rationale does not correspond with the score given, the review will likely be filtered out in the Moderation Stage.

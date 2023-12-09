@@ -3,6 +3,7 @@ title: "Levels and Rewards"
 description: "In Fund10, there are three levels of Community Reviewers: LV0, LV1, and LV2."
 draft: false
 images: []
+weight: 20
 ---
 
 ## How do I progress through the Community Reviewer levels?
@@ -45,12 +46,14 @@ Community Moderators will not alter the review or the scores provided by the Com
 
 ### LV0 Rewards
 
-LV0 reviewers will receive a maximum of **17 ada per review**. This amount could be less if many more reviews are completed by LV0 reviewers when the overflow of additional LV1 reviews that exceed the LV1 reviewer’s auto-allocation is added to the LV0 pool of reviews.
+LV0 reviewers will receive a *maximum of 25 ada per review*. This amount could be less if LV0 reviewers completed many more reviews. LV0 gets rewarded only for allocated reviews. To receive rewards, LV0 must have at least 10 valid reviews. The pot of given LV0 rewards includes the overflow of additional LV1 reviews that exceed the LV1 reviewer’s auto-allocation, added to the LV0 pool of published reviews.
 
 ### LV1 Rewards
 
-LV1s can expect a fixed amount of **33 ada per allocated review**. If the LV1 reviewer wants to perform more reviews beyond the assigned allocation, then every additional review will be compensated as part of the LV0 pot of rewards.
+LV1s can expect a *fixed amount of 50 ada per allocated review*. If the LV1 reviewer wants to perform more reviews beyond the assigned allocation, then every additional published review will be compensated for the LV0 pot of rewards. To receive rewards, LV1 must have at least 10 valid reviews, including assigned and additional reviews. Any number of reviews under this amount will not be rewarded.
+
+>An LV0/LV1 reviewer is excluded (and will not receive rewards) if their work doesn't meet a 35% approval rate (with a minimum sample of 5 moderated reviews) after the moderation stage.
 
 ### LV2 Rewards
 
-LV2s can expect to receive a maximum of **5 ada per flag check**.  The effort here is anticipated to be straightforward and quick to accomplish for each flagged review.
+LV2s can expect to receive a *maximum of 5 ada per flag check*. The effort here is anticipated to be straightforward and quick for each flagged review.
