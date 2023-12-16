@@ -55,9 +55,14 @@ name = "C3ETH Pool"
 url = "/stakepool/"
 weight = 70
 
+# [[main]]
+# name = "NFT"
+# url = "http://nft.easterntownhall.com:8088/"
+# weight = 70
+
 [[main]]
-name = "NFT"
-url = "http://nft.easterntownhall.com:8088/"
+name = "Summit"
+url = "/summit/"
 weight = 70
 
 [[catalyst]]
