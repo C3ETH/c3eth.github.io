@@ -18,7 +18,7 @@ url = "/docs/12docs/"
 
 [[main]]
 name = "Docs"
-url = "/docs/catalyst-guide/guides"
+url = "/docs/fund11-info/fund11-timeline"
 weight = 10
 
 
