@@ -13,6 +13,10 @@ images: []
 
 Link: [https://linktr.ee/EasternTownHall](https://linktr.ee/EasternTownHall)
 
+#### Khoa CNTT- Trường Đại học Giao thông Vận Tải
+
+Link: [http://fit.utc.edu.vn/](http://fit.utc.edu.vn/)
+
 #### Blocktree.asia
 
 Link: [Blocktree.asia](Blocktree.asia)<br/>

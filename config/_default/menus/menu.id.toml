@@ -56,7 +56,7 @@ url = "/stakepool/"
 weight = 70
 
 [[main]]
-name = "Summit"
+name = "Summits"
 url = "/summit/"
 weight = 70
 
