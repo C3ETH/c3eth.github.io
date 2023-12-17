@@ -6,6 +6,7 @@ images: []
 <image src="./photo.png">
 
 ## Platinum
+
 <hr/>
 
 #### Eastern Townhall
@@ -20,6 +21,7 @@ Chữa lành Đất Mẹ<br/>
 Nền tảng công nghệ kết nối người Trồng Rừng và Nhà Tài Trợ tại Châu Á.
 
 ## Gold
+
 <hr/>
 
 #### Proskills39
@@ -36,6 +38,7 @@ Whiteboard Cardano - Cardano media channel<br/>
 Đến bà ngoại bạn cũng sẽ dễ dàng thành chuyên gia Cardano chỉ với 5 phút
 
 ## Silver
+
 <hr/>
 
 #### ADABet
