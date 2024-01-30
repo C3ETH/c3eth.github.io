@@ -32,13 +32,17 @@ Snapshot tools are from the [here](https://github.com/input-output-hk/catalyst-c
 ##### snapshot_tool:
 
 ```
+
  cargo build -r -p voting_tools_rs
+
 ```
 
 ##### catalyst-toolbox:
 
 ```
+
 cargo build -r -p catalyst-toolbox
+
 ```
 
 ## Reproducing the Snapshot
@@ -52,15 +56,19 @@ Getting the `slot_no` aligned with the registration deadline.
 Query the dbSync database with:
 
 ```
+
 select slot_no, time from block
     where slot_no is not null and time <= '2024-01-15 21:45:00'
     order by slot_no desc limit 1 ;
+
 ```
 
 The result will be:
 
 ```
+
 113788796,2024-01-15 21:44:30.000000
+
 ```
 
 Therefore the `slot#` that the snapshot needs to target is: 113788796
@@ -74,10 +82,12 @@ Note: *Multiple delegations, as specified by CIP-36, are not supported.  These w
 Run (replace your credentials as appropriate):
 
 ```
+
 export USERNAME=<Your dbSync postgresql Username>
 export PASSWORD=<Your dbSync postgresql Password>
 export DBSYNC_POSTGRES="localhost:5432"
 ./target/release/snapshot_tool --db cexplorer --db-user $USERNAME --db-pass $password --db-host $DBSYNC_POSTGRES --out-file ./cexplorer-113788796.json --min-slot 0 --max-slot 113788796 --network-id mainnet
+
 ```
 
 This will produce three files:
@@ -93,7 +103,9 @@ This filters registrations for minimum allowed voting power:
 Run:
 
 ```
+
 ./target/release/catalyst-toolbox snapshot --snapshot cexplorer-113788796.json --min-stake-threshold 450000000 --slot-no 113788796 cexplorer-113788796.final.json
+
 ```
 
 This produces the final snapshot: `cexplorer-113788796.summary.json`
