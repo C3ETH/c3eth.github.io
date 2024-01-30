@@ -3,6 +3,7 @@ title : "Categories"
 description: "Catalyst Docs"
 draft: false
 images: []
+weight: 30
 ---
 
 New to Fund11, proposal submissions have been
