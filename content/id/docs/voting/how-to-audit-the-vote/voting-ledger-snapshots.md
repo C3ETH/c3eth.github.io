@@ -1,17 +1,17 @@
 ---
-title : "Voting Ledger Snapshots"
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+title: 'Cuplikan Buku Besar Pemungutan Suara'
+date: 06-10-2020 08:48:23 +0000
+lastmod: 06-10-2020 08:48:23 +0000
 draft: false
 images: []
 weight: 10
 ---
 
-With snapshots of the voting ledger published hourly, anyone can verify that recorded votes remain unchanged across the voting lifecycle.
+Dengan cuplikan buku besar pemungutan suara yang diterbitkan setiap jam, siapa pun dapat memverifikasi bahwa suara yang tercatat tetap tidak berubah sepanjang siklus pemungutan suara.
 
-The Catalyst team provides access to routine snapshots of the blockchain state. These snapshots are automatically taken at 1-hour intervals and uploaded to a persistent storage system in the form of an archive. Currently, these archives can be found by [querying the Archive API](https://archiver.projectcatalyst.io/api/v1/archives/) . You can learn more about the available endpoints by inspecting the [Swagger documentation](https://archiver.projectcatalyst.io/swagger/index.html)
+Tim Catalyst menyediakan akses ke snapshot rutin dari status blockchain. Snapshot ini secara otomatis diambil dengan interval 1 jam dan diunggah ke sistem penyimpanan persisten dalam bentuk arsip. Saat ini, arsip-arsip ini dapat ditemukan dengan [menanyakan API Arsip](https://archiver.projectcatalyst.io/api/v1/archives/) . Anda dapat mempelajari lebih lanjut tentang titik akhir yang tersedia dengan memeriksa [dokumentasi Swagger](https://archiver.projectcatalyst.io/swagger/index.html)
 
-To show an example of how to interact with the API and download an archive, we will use the curl and jq CLI tools. First, we must list the available archives:
+Untuk menunjukkan contoh cara berinteraksi dengan API dan mengunduh arsip, kita akan menggunakan alat curl dan jq CLI. Pertama, kita harus membuat daftar arsip yang tersedia:
 
 ```json
 
@@ -60,9 +60,9 @@ To show an example of how to interact with the API and download an archive, we w
 
 ```
 
-In the above response, there are only three archives available. Should the number of results exceed 50, they will automatically be paginated. This is made evident by the next field being set. To fetch subsequent archives, you would call the same endpoint and append ?next={VALUE} where VALUE is the value of the next field. To iterate over all available archives, you can repeat this process until the next field is empty.
+Pada respon di atas, hanya ada tiga arsip yang tersedia. Jika jumlah hasil melebihi 50, maka secara otomatis akan diberi nomor halaman. Hal ini dibuktikan dengan ditetapkannya bidang berikutnya. Untuk mengambil arsip selanjutnya, Anda akan memanggil titik akhir yang sama dan menambahkan ?next={VALUE} dengan VALUE adalah nilai bidang berikutnya. Untuk mengulangi semua arsip yang tersedia, Anda dapat mengulangi proses ini hingga kolom berikutnya kosong.
 
-For this example, we'll choose to fetch the first archive in the list. To get a link for downloading the archive, we can run:
+Untuk contoh ini, kita akan memilih untuk mengambil arsip pertama dalam daftar. Untuk mendapatkan link download arsipnya, kita bisa menjalankan:
 
 ```json
 
@@ -73,7 +73,7 @@ For this example, we'll choose to fetch the first archive in the list. To get a 
 
 ```
 
-This endpoint returns a time-sensitive URL to download the archive. Note that this URL is only valid for 15 minutes. To download the archive:
+Titik akhir ini mengembalikan URL yang sensitif terhadap waktu untuk mengunduh arsip. Perhatikan bahwa URL ini hanya valid selama 15 menit. Untuk mengunduh arsip:
 
 ```linux
 
@@ -82,7 +82,7 @@ This endpoint returns a time-sensitive URL to download the archive. Note that th
 
 ```
 
-We save the file as a `.tar` `.zstd` archive because this is how the contents were archived. If you look back at the API response, you'll see the compression and packaging fields were set to `zstd` and tar respectively. We can use these fields to determine the process for extracting the archive. To extract the contents, we'll need to use the `.tar` and `.zstd` CLIs:
+Kami menyimpan file sebagai arsip `.tar` `.zstd` karena dengan cara inilah isinya diarsipkan. Jika Anda melihat kembali respons API, Anda akan melihat bidang kompresi dan pengemasan masing-masing disetel ke `zstd` dan tar. Kita dapat menggunakan kolom ini untuk menentukan proses mengekstraksi arsip. Untuk mengekstrak konten, kita perlu menggunakan CLI `.tar` dan `.zstd` :
 
 ```linux
 
@@ -105,4 +105,4 @@ volatile/snap.00000003A7319A1C
 
 ```
 
-We now have a complete snapshot of the blockchain state on our local filesystem.
+Kami sekarang memiliki gambaran lengkap tentang status blockchain di sistem file lokal kami.
