@@ -45,10 +45,10 @@ weight = 60
 identifier = "guest"
 url = "/guest/guest-info/guest-guidelines/"
 
-# [[main]]
-#   name = "Blog"
-#   url = "/blog/"
-#   weight = 70
+[[main]]
+name = "Blog"
+url = "/blog/"
+weight = 70
 
 [[main]]
 name = "C3ETH Pool"
