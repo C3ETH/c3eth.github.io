@@ -3072,17 +3072,17 @@
   // show start date of next recycling week and days remaining, always on
   // nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
 
-  const isMeeting = ["2024-01-13"]
+  const isMeeting = ["2024-03-05"]
   let todayString = today.toISOString()
-
+  console.log(todayString)
   const d1 = todayString.substr(0, 10) //remove the time after converting a date to ISO String
-  // console.log(date)
+  console.log(typeof d1)
 
   //display daily message for meeting
   const date = isMeeting.find(b1 => b1 === d1)
-  console.log(date)
 
-  if (diffDays == 14) { // if use selected time in isMeeting, change "diffDays == 14" to "date"
+
+  if (date) { // if use selected time in isMeeting, change "diffDays == 14" to "date"
     showTodaysDate.innerHTML = `<h4>We have meeting today.</span><span> Join us 😊<h4>`;
 
     // showTodaysDate.innerHTML = `Today is ${currentDate.toString()}, we have meeting today. Join us`;
