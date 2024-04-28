@@ -1,7 +1,7 @@
 ---
 title : "How-to guides"
 description: "How to use this website"
-draft: false
+draft: true
 images: []
 weight: 100
 ---
