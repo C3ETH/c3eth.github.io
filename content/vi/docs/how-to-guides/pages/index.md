@@ -4,7 +4,7 @@ description: "Add a default page, documentation page, blog post or contributor p
 lead: "Thêm trang mặc định, trang tài liệu, bài đăng trên blog hoặc trang cộng tác viên"
 date: 2020-11-23T11:55:16+01:00
 lastmod: 2020-11-23T11:55:16+01:00
-draft: false
+draft: true
 images: []
 weight: 211
 toc: true
