@@ -3045,7 +3045,9 @@
   let nextWeekBegins = document.getElementById('followingWeek');
   let monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   let dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+  // let today = new Date("June 01, 2024 10:00:00");
   let today = new Date();
+  console.log(today)
   let days = daysBetween(demarcationdate, today);
   let daystill = 14 - days % 14;
   let rec = days % 14 == 0;
@@ -3072,7 +3074,7 @@
   // show start date of next recycling week and days remaining, always on
   // nextWeekBegins.innerHTML= `The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now).`
 
-  const isMeeting = ["2024-03-05"]
+  const isMeeting = ["2024-06-01", "2024-07-06"]
   let todayString = today.toISOString()
   console.log(todayString)
   const d1 = todayString.substr(0, 10) //remove the time after converting a date to ISO String
@@ -3089,8 +3091,8 @@
   } else {
     showTodaysDate.innerHTML = `There is <strong>no meeting</strong> scheduled today.`;
     // show start date of next recycling week and days remaining, always on
-    // nextWeekBegins.innerHTML = `<p>The next meeting begins at 9:00 AM UTC on <b>13 Jan 2024</b> </p>`
-    nextWeekBegins.innerHTML = `<p>The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now)</p>`
+    nextWeekBegins.innerHTML = `<p>The next meeting begins at 9:00 AM UTC on <b>01 June 2024</b> </p>`
+    // nextWeekBegins.innerHTML = `<p>The next meeting begins at 9:00 AM UTC on <b>${nextDate}</b> (${daystill} day${((daystill != 1) ? "s" : "")} from now)</p>`
 
 
   }
