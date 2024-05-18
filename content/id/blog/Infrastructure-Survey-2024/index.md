@@ -56,3 +56,5 @@ Survei ini mencakup dua pertanyaan terkait sumber daya dan tiga pertanyaan menca
 Temuan survei ini memberikan wawasan berharga bagi masyarakat luas, terutama mengingat besarnya sampel yang besar. Dengan menyajikan hasil-hasil ini, Yayasan berharap dapat lebih mendorong transparansi dan kolaborasi dengan para pemangku kepentingan, mengoptimalkan pertukaran pengetahuan, dan menciptakan peluang untuk dialog yang kuat. Dengan berakhirnya Survei Infrastruktur 2024 yang pertama, Foundation mengundang seluruh peserta dan anggota masyarakat untuk mengevaluasi secara menyeluruh wawasan yang dikumpulkan dan merefleksikan hal-hal penting yang dapat diambil.
 
 Menyadari pentingnya terus melacak tren dan perspektif, Cardano Foundation bertujuan untuk melakukan survei ini setiap tahun. Masukan dan masukan dari masyarakat memainkan peran penting dalam menentukan arah upaya kami di masa depan, dan kami berterima kasih kepada para peserta atas keterlibatan mereka yang berkelanjutan.
+
+Source: [Cardano Foundation](https://cardanofoundation.org/blog/infrastructure-survey-2024)
