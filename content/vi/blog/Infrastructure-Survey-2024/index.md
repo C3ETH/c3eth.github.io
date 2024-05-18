@@ -56,3 +56,5 @@ Cuộc khảo sát bao gồm hai câu hỏi liên quan đến tài nguyên và b
 Các phát hiện của cuộc khảo sát cung cấp những hiểu biết có giá trị cho cộng đồng rộng lớn hơn, đặc biệt là khi xem xét quy mô mẫu lớn. Bằng cách trình bày những kết quả này, Quỹ hy vọng sẽ thúc đẩy hơn nữa tính minh bạch và hợp tác với các bên liên quan, tối ưu hóa việc chia sẻ kiến ​​thức và tạo cơ hội đối thoại mạnh mẽ. Khi Cuộc khảo sát cơ sở hạ tầng đầu tiên năm 2024 hiện đã kết thúc, Tổ chức mời tất cả những người tham gia và thành viên cộng đồng đánh giá kỹ lưỡng những hiểu biết sâu sắc đã thu thập được và suy ngẫm về những bài học quan trọng.
 
 Nhận thức được tầm quan trọng của việc liên tục theo dõi các xu hướng và quan điểm, Quỹ Cardano đặt mục tiêu thực hiện cuộc khảo sát này hàng năm. Ý kiến ​​đóng góp và phản hồi của cộng đồng đóng vai trò then chốt trong việc định hình quỹ đạo tương lai cho những nỗ lực của chúng tôi và chúng tôi cảm ơn những người tham gia vì sự tham gia liên tục của họ.
+
+Source: [Cardano Foundation](https://cardanofoundation.org/blog/infrastructure-survey-2024)
