@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andre Cahyadi on</title><link>/id/contributors/andre-cahyadi/</link><description>Recent content in Andre Cahyadi on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:50:45 +0000</lastBuildDate><atom:link href="/id/contributors/andre-cahyadi/index.xml" rel="self" type="application/rss+xml"/><item><title>
+Catalyst mingguan (per 25 Feb 2023)</title><link>/id/blog/catalyst-mingguan-per-25-feb-2023/</link><pubDate>Sat, 25 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/catalyst-mingguan-per-25-feb-2023/</guid><description>Dipublikasikan pada tanggal 25 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia
+Referensi: Project Catalyst - Weekly Town Hall YouTube &amp;amp; Mailing List
+Prinsip Project Catalyst Things may: - break - lack documentation - differ greatly between iterations - disorient, overload, &amp;amp; inspire Our goal: provide a safe and lively environment for you to explore the highest potential of human collaboration💪🙏🤝❤️
+Kurang lebih ada sekitar 425+ project yang didanai oleh Project Catalyst sudah selesai dan telah mengirimkan close-out report dalam bentuk laporan dan video.</description></item><item><title>Development Report mingguan (24 Feb 2023)</title><link>/id/blog/development-report-mingguan-24-feb-2023/</link><pubDate>Sat, 25 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/development-report-mingguan-24-feb-2023/</guid><description>Dipublikasikan pada tanggal 24 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia
+Referensi: Weekly development report as of 2023-02-24 | Essential Cardano
+CORE TECHNOLOGY # Minggu ini, tim Networking memperbaiki beberapa issue dalam codingan peer-to-peer (P2P). Mereka juga menyelesaikan desain Eclipse evasion (Ouroboros-Network · GitHub) yang penting untuk fungsionalitas protokol Ouroboros Genesis, serta mulai mengerjakan implementasinya. Terakhir, tim merilis network package terbaru (Network Team Update | Cardano Development Updates) untuk diintegrasikan dengan master branch cardano-node.</description></item><item><title>
+Catalyst mingguan (per 18 Feb 2023)</title><link>/id/blog/catalyst-mingguan-per-18-feb-2023/</link><pubDate>Sat, 18 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/catalyst-mingguan-per-18-feb-2023/</guid><description>Dipublikasikan pada tanggal 18 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia
+Referensi: Project Catalyst - Weekly Town Hall YouTube &amp;amp; Mailing List
+Prinsip Project Catalyst Things may: - break - lack documentation - differ greatly between iterations - disorient, overload, &amp;amp; inspire Our goal: provide a safe and lively environment for you to explore the highest potential of human collaboration💪🙏🤝❤️
+Kurang lebih ada sekitar 425+ project yang didanai oleh Project Catalyst sudah selesai dan telah mengirimkan close-out report dalam bentuk laporan dan video.</description></item><item><title> Development Report Mingguan (17 Feb 2023)</title><link>/id/blog/development-report-mingguan-17-feb-2023/</link><pubDate>Sat, 18 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/development-report-mingguan-17-feb-2023/</guid><description>Dipublikasikan pada tanggal 18 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia Referensi: Weekly development report as of 2023-02-17 | Essential Cardano
+CORE TECHNOLOGY # Minggu ini, Valentine (SECP) upgrade sudah live di mainnet (https://twitter.com/InputOutputHK/status/1625615743470411784). Dukungan native untuk SECP ini dapat mendorong interoperabilitas antar Cardano dengan chain lainnya (New Cardano cryptographic primitives will bring greater interoperability and secure, cross-chain DApp development | Essential Cardano) dan menjamin tingkat keamanan yang tinggi bagi pengembangan dApps.</description></item><item><title> Development Report mingguan (10 Feb 2023)</title><link>/id/blog/development-report-mingguan-10-feb-2023/</link><pubDate>Mon, 13 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/development-report-mingguan-10-feb-2023/</guid><description>Dipublikasikan pada tanggal 12 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia Referensi: Weekly development report as of 2023-02-10 | Essential Cardano
+CORE TECHNOLOGY # Minggu ini, tim IOG bersama dengan CF (Cardano Foundation) dan Emurgo melanjutkan persiapan untuk Valentine Upgrade (SECP) mendatang. Proposal implementasi SECP untuk upgrade environment pre-production dan mainnet telah disubmit (https://twitter.com/InputOutputHK/status/1623361548621082624). Upgrade ke environment pre-production mulai berlaku di tgl 11 Februari 2023 jam 00:00:00 UTC dan ke mainnet di tgl 14 Februari 2023 jam 21:44:51 UTC.</description></item><item><title> Tracercoin oleh Cogito Protocol</title><link>/id/blog/tracercoin-oleh-cogito-protocol/</link><pubDate>Sun, 12 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/tracercoin-oleh-cogito-protocol/</guid><description>Dipublikasikan pada tanggal 12 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Referensi: Internal
+Sabtu, 11 Februari 2023
+Kegiatan Eastern Town Hall kali ini dilakukan bersama Cogito Protocol (https://www.cogitoprotocol.com/), yakni sebuah protocol yang membangun Tracercoins sebagai jembatan antara stablecoin dan highly volatile cryptocurrencies. Pembicaranya adalah Cloris Chen selaku CEO perusahaan, dan Cogito juga bekerja sama dengan SingularityNet (https://singularitynet.io/).
+Crypto’s missing asset class # Saat ini, kebanyakan orang merasa frustrasi dengan kenyataan bahwa satu-satunya pilihan mereka dalam kripto adalah token yang harganya sangat volatile atau stablecoin yang punya resiko de-peg nilai tukarnya.</description></item><item><title>
+Catalyst mingguan (per 11 Feb 2023)</title><link>/id/blog/catalyst-mingguan-per-11-feb-2023/</link><pubDate>Sat, 11 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/catalyst-mingguan-per-11-feb-2023/</guid><description>Dipublikasikan pada tanggal 11 Feb 2023
+Disadur &amp;amp; diterjemahkan oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia Referensi: Project Catalyst - Weekly Town Hall YouTube &amp;amp; Mailing List
+Prinsip Project Catalyst Things may: - break - lack documentation - differ greatly between iterations - disorient, overload, &amp;amp; inspire Our goal: provide a safe and lively environment for you to explore the highest potential of human collaboration 💪🙏🤝❤️
+Kurang lebih ada sekitar 400+ project yang didanai oleh Project Catalyst sudah selesai dan telah mengirimkan close-out report dalam bentuk laporan dan video.</description></item><item><title> [Eastern Town Hall] AMA - Menggunakan DeFi untuk memberikan NFT utilitas finansial</title><link>/id/blog/eastern-town-hall-ama-menggunakan-defi-untuk-memberikan-nft-utilitas-finansial/</link><pubDate>Sat, 11 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/eastern-town-hall-ama-menggunakan-defi-untuk-memberikan-nft-utilitas-finansial/</guid><description>Dipublikasikan pada tanggal 11 Feb 2023
+Ditulis &amp;amp; disadur oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia
+Referensi: Internal
+Sabtu, 17 Desember 2022
+Kegiatan Eastern Town Hall kali ini dilakukan bersama tangent.art (https://tangent.art/) dimana pembicaranya adalah CEO dan Co-Founder Tangent langsung yaitu Clint Alexander.
+Topik yang dibawakan adalah konsep NFT baru yang bernama Redeemable NFT.
+Redeemable NFT ini dapat “diikat” langsung dengan benda fisik, asset, atau produk dengan perbandingan 1 : 1.</description></item><item><title> [Eastern Town Hall] Deep Funding oleh SingularityNet</title><link>/id/blog/eastern-town-hall-deep-funding-oleh-singularitynet/</link><pubDate>Sat, 11 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/eastern-town-hall-deep-funding-oleh-singularitynet/</guid><description>Dipublikasikan pada tanggal 11 Feb 2023
+Ditulis &amp;amp; disadur oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia
+Referensi: Internal
+Sabtu, 14 Januari 2023
+Kegiatan Eastern Town Hall kali ini dilakukan bersama Deep Funding (https://deepfunding.ai/), yakni program funding dari SingularityNet (https://singularitynet.io/).
+Deep Funding adalah sebuah kolaborasi antara pelaku Project Catalyst di Cardano dengan SingularityNet.
+Seperti Project Catalyst, dengan terlibat dalam tata kelola Deep Funding kita dapat menerima AGIX dengan dana yang disediakan berjumlah hingga 100.</description></item><item><title> [Eastern Town Hall] Memperkenalkan Platform Media untuk Komunitas oleh Emurgo</title><link>/id/blog/eastern-town-hall-memperkenalkan-platform-media-untuk-komunitas-oleh-emurgo/</link><pubDate>Sat, 11 Feb 2023 09:19:42 +0100</pubDate><guid>/id/blog/eastern-town-hall-memperkenalkan-platform-media-untuk-komunitas-oleh-emurgo/</guid><description>Dipublikasikan pada tanggal 11 Feb 2023
+Ditulis &amp;amp; disadur oleh andre cahyadi (@prosperaan)
+Untuk komunitas Cardano Indonesia
+Sabtu, 28 Januari 2023
+Kegiatan Eastern Town Hall kali ini dilakukan bersama Cardano Spot (Landing | Cardano Spot), yakni sebuah platorm jejaring sosial dan informasi yang dikembangkan oleh Emurgo bagi para enthusiast dan komunitas Cardano.
+Cardano Spot menyediakan platform interaktif yang dirancang khusus untuk berinvestasi, pendistribusian, penggunaan, dan monetisasi konten - konten Cardano.</description></item></channel></rss>

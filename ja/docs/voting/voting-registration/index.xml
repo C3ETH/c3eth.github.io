@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Voting registration on</title><link>/ja/docs/voting/voting-registration/</link><description>Recent content in Voting registration on</description><generator>Hugo -- gohugo.io</generator><atom:link href="/ja/docs/voting/voting-registration/index.xml" rel="self" type="application/rss+xml"/><item><title>ウォレット登録ガイド</title><link>/ja/docs/voting/voting-registration/wallet-registration-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/docs/voting/voting-registration/wallet-registration-guide/</guid><description>サポートされているウォレット # ウォレットとウォレットのバージョンが多数あるため、Project Catalyst があらゆる状況でこのデータを検証することは不可能であり、Project Catalyst によって承認されているわけでもありません。登録が成功したかどうかはここで確認できます
+ほとんどの場合、登録は 2 時間後に検出されますが、最大 24 時間かかる場合があります。 24 時間経っても新しい登録が表示されない場合は、ウォレットのプロバイダーに確認してください。
+Daedalus ウォレットの中に # ステップ1 # Daedalus の最新バージョンでは、左側のメニューから投票登録ページに移動します。
+Catalyst Voting アプリがインストールされていることを確認します。 スナップショットの時点で少なくとも 500 ADA を保持していることを確認します。 「投票に登録」をクリックします ステップ2 # 投票に使用するウォレットを選択し、「続行」をクリックします (ウォレットに投票に必要な最低金額が含まれていることを確認してください:報酬を除く500 ADA)
+注: この金額は、投票権が収集されるスナップショットまでこのウォレットに保持されている必要があります。各ファンドのスナップショットの日時は、当社の公式ソーシャル チャネルおよびコミュニケーション チャネルを通じて発表されます。
+ステップ3 # ウォレットの支出パスワードを入力するか、ハードウェア ウォレットに接続して、[登録トランザクションを送信] をクリックします。
+ステップ3-a ステップ3-b ステップ4 # トランザクションがブロックチェーンによって確認されるまで約 5 分間待ち、「続行」をクリックします。この間は Daedalus を閉じないでください。閉じないと、登録がキャンセルされ、最初からやり直す必要があります。
+ステップ5 # 任意の4桁のPINコードを設定し、確認して「続行」をクリックします。
+後で投票する際に必要になりますので、忘れずにメモしておいてください。 PIN を紛失した場合は投票できなくなり、登録プロセスを繰り返して新しい PIN を選択する必要があることに注意してください。
+ステップ6 # Daedalus は、登録を完了して投票するために Catalyst アプリで使用する QR コードを生成します。
+「PDFとして保存」をクリックします ダイアログで「保存」をクリックします QRコードを保存しないと登録や投票が完了できませんのでご注意ください。 ステップ7 # 「PDF が正常にダウンロードされました」という確認メッセージが表示されるまで待ち、「閉じる」をクリックします。</description></item><item><title>投票登録の最小要件</title><link>/ja/docs/voting/voting-registration/requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/docs/voting/voting-registration/requirements/</guid><description>参加するために必要な前提条件は次のとおりです
+報酬を除く最低要件 500 ADA 登録する前に、Catalyst Voting アプリケーションの最新バージョンをモバイル デバイスにインストールする必要があります。 投票アプリをダウンロード
+Android ユーザー:Google Play ストア iOSユーザー： App Store 登録はスナップショットの日付より前に完了する必要があります。 注: 0.17 ～ 0.18 ADA の登録料がかかります Fund10 より前に登録した場合、特典を受け取るには再登録が必要です
+事前登録は投票する資格がありますが、報酬を獲得することはできません。
+重要な情報 # Fund4、Fund5、Fund6、Fund7、Fund8、および/または Fund9 に登録して投票できた場合、その登録は Fund10 に対して自動的に有効になり、投票はできますが、報酬を受け取ることはできません (QR コードと PIN コードを持っている場合に限ります)再登録する必要はありません）。これは、Fund2 または Fund3 の登録には適用されません。 投票力は新しいスナップショット中に更新されます。 iPhone6以前は非対応となりますのでご注意ください。 ウォレットに関係なく、登録ごとに固有の QR コードと PIN コードが提供されます。これらは絶対に保存しなければなりません。 QR コードが保存されていない場合、投票はできません。 PIN コードが保存されていないので、投票はできません。</description></item></channel></rss>

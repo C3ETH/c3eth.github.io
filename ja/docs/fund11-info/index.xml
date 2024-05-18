@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fund 11 Info on</title><link>/ja/docs/fund11-info/</link><description>Recent content in Fund 11 Info on</description><generator>Hugo -- gohugo.io</generator><atom:link href="/ja/docs/fund11-info/index.xml" rel="self" type="application/rss+xml"/><item><title>タイムライン</title><link>/ja/docs/fund11-info/fund11-timeline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/docs/fund11-info/fund11-timeline/</guid><description>Fund11 へようこそ。 Project Catalyst および Fund カテゴリの詳細については、立ち上げガイドをご覧ください。
+Project Catalyst の動的な性質を考慮して、ファンドの進行に応じて以下の日付が変更される可能性があります。この場合、Discord と Telegram のアナウンス チャンネルを通じてコミュニティに通知します。
+Fund 11 のタイムライン # 2023 年 11 月 15 日 · 17:00 UTC # Fund11 が市庁舎 #146 で発足
+2023 年 11 月 16 日 · 11:00 UTC # 提案の提出は 2 週間受け付けられており、提案者はその間にアイデアの草案を提出できます。
+2023 年 11 月 23 日 · 11:00 UTC # コミュニティレビューアーの登録の開始は、EOD UTC 前の 12 月 10 日に終了します。
+2023 年 11 月 30 日 · 11:00 UTC # 提案提出の締め切りと、提案者がコミュニティからの構造化されたフィードバックに基づいて提案を最終決定できる期間の開始。</description></item><item><title>ルール</title><link>/ja/docs/fund11-info/fund11-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/docs/fund11-info/fund11-rules/</guid><description>Fund11 は 11 月 15 日に始まり、投票は 1 月 25 日に始まります。ぜひご参加ください。以下は、提案者が利用できる資金額と課題のリストです。
+提案の提出は 11 月 16 日に開始されます。提案の提出締め切りは 11 月 30 日の 11:00 UTC です。基金には総額 50,000,000 ₳が含まれます。
+導入 # Project Catalyst は、カルダノ エコシステムの成長エンジンおよび助成金プログラムであり、数か月ごとに資金調達ラウンドがあり、アイデアに割り当てられる一定量の ADA が用意されています。各ファンドの開始時に、コミュニティのメンバーは、Project Catalyst プラットフォームで公開されているカテゴリに応じて提案を提出します。コミュニティの投票と資金は、プロジェクトを実現するための受賞プロジェクトに割り当てられます。 Fund 11 では、次のカテゴリが提案の提出に利用できます。
+Cardano の使用例: コンセプト、ソリューション、製品 Cardano Open: 開発者 (技術的) およびエコシステム (非技術的) Catalystシステムの改善: 発見と開発 資格基準 - 誰が資金を申請できますか? # Cardano エコシステムにプラスの影響を与えるアイデアを持つ人は誰でも、これらの基金ルールに定められた条件に従って、Project Catalyst プラットフォームに提案を提出することができます。
+(i) 申請者は、すべてのカテゴリにわたって最大 5 つの Catalyst プロポーザルにのみ参加できます。申請者が 5 つを超える提案提出に含まれている場合、最初の 5 つの公開されたエントリのみが資金提供の対象となります。この制限は、同じチーム/個人で構成されている企業、および/または関連ベンチャーの「ファミリー」で運営されている経営に同じ主要な利害関係者が関与している企業にも適用されます。応募者に関する正確な情報を開示しない提案は失格となる場合があります。
+(ii) 申請者は、Fund7 以前に資金提供されたアクティブなプロジェクトの当事者または直接関与してはなりません。このような未処理のプロジェクトは、Fund11 のコミュニティ レビュー ステージが開始される前に、[こちら] の手順に従って正常に完了または終了する必要があります。</description></item><item><title>カテゴリー</title><link>/ja/docs/fund11-info/fund11-categories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/docs/fund11-info/fund11-categories/</guid><description>Fund11 では、提案の提出が新しい合理化されたカテゴリとトラックベースのアプローチに整理されました。提案カテゴリは、Cardano ユースケース、Cardano Open、Catalyst Systems Improvements の 3 つのカテゴリのいずれかに分類されます。
+Cardano use cases # カテゴリの合計予算は ₳2,2500,000 で、3 つの資金トラックに均等に分割されます。提案の提出では、次のいずれかに回答する必要があります。
+Concept # 予算: ₳7,500,000
+目的を実証し、Cardano ブロックチェーンの新しいアプリケーションやユースケースを実現するために、設計とプロトタイピングが必要な DApp のアイデアや製品コンセプトは何ですか?提出物は新製品のアイデアでなければなりません。
+Solution # 予算: ₳7,500,000
+Cardano テストネットまたは MVP の準備を整えるために、初期のブロックチェーン スタートアップ プロジェクトをどのようにサポートできるでしょうか?提出物には、提案書で実証できる機能するプロトタイプが含まれている必要があります。提出物は、査読者と投票者が利用できる概念実証を提供する必要があります。
+Product # 予算: ₳7,500,000
+Cardano エコシステムでの採用を促進するために、より影響力の高いユースケースを大規模に提供するには、どのような製品や統合を加速できるでしょうか?申請には、高い成長の可能性を備えた市場で実用的な製品が必要です。研究開発への申請には、提案された製品が既に市場に流通しており、審査員や有権者が今日から使用できるものでなければなりません。
+Cardano Open # カテゴリの合計予算は ₳21,000,000 で、2 つの資金トラックに均等に分割されます。技術提案は、Cardano open: 開発者トラックに提出する必要があります。非技術的な提案は、Cardano オープン: エコシステム トラックに提出する必要があります。
+Developers-technical # 予算: ₳10,500,000
+Cardano 開発者エコシステムの繁栄を可能にするためには、どのようなオープンソース ツールが必要ですか?オープンソース開発の取り組みをサポートすることに重点を置く必要があります。
+Ecosystem-non-technical # 予算: ₳10,500,000
+どのような創造的なアイデアや活動が、Project Catalyst の世界的な展開を拡大し、より多くの Cardano および Cardano DApps ユーザーを教育し、受け入れてくれるでしょうか?</description></item></channel></rss>
